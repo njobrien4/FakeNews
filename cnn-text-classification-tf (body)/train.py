@@ -8,28 +8,28 @@ import datetime
 import data_helpers
 from text_cnn import TextCNN
 from tensorflow.contrib import learn
-import yaml
+#import yaml
 import math
 
 # Parameters
 # ==================================================
 
 # Data loading params
-tf.flags.DEFINE_float("dev_sample_percentage", .1, "Percentage of the training data to use for validation")
-tf.flags.DEFINE_string("positive_data_file", "./data/news-data/real_bodies.txt", "Data source for the real data.")
-tf.flags.DEFINE_string("negative_data_file", "./data/news-data/fake_bodies.txt", "Data source for the fake data.")
+tf.flags.DEFINE_float("dev_sample_percentage", .05, "Percentage of the training data to use for validation")
+tf.flags.DEFINE_string("positive_data_file", "/om/user/njobrien/FakeNews/cnn-text-classification-tf (body)/data/news-data/non_trump_real_bodies.txt", "Data source for the real data.")
+tf.flags.DEFINE_string("negative_data_file", "/om/user/njobrien/FakeNews/cnn-text-classification-tf (body)/data/news-data/non_trump_fake_bodies.txt", "Data source for the fake data.")
 
 # Model Hyperparameters
 tf.flags.DEFINE_boolean("enable_word_embeddings", True, "Enable/disable the word embedding (default: True)")
-tf.flags.DEFINE_integer("embedding_dim", 128, "Dimensionality of character embedding (default: 128)")
+tf.flags.DEFINE_integer("embedding_dim", 300, "Dimensionality of character embedding (default: 128)")
 tf.flags.DEFINE_string("filter_sizes", "3,4,5", "Comma-separated filter sizes (default: '3,4,5')")
-tf.flags.DEFINE_integer("num_filters", 128, "Number of filters per filter size (default: 128)")
+tf.flags.DEFINE_integer("num_filters", 300, "Number of filters per filter size (default: 128)")
 tf.flags.DEFINE_float("dropout_keep_prob", 0.5, "Dropout keep probability (default: 0.5)")
 tf.flags.DEFINE_float("l2_reg_lambda", 0.0, "L2 regularization lambda (default: 0.0)")
 
 # Training parameters
 tf.flags.DEFINE_integer("batch_size", 64, "Batch Size (default: 64)")
-tf.flags.DEFINE_integer("num_epochs", 20, "Number of training epochs (default: 200)")
+tf.flags.DEFINE_integer("num_epochs", 10, "Number of training epochs (default: 200)")
 tf.flags.DEFINE_integer("evaluate_every", 100, "Evaluate model on dev set after this many steps (default: 100)")
 tf.flags.DEFINE_integer("checkpoint_every", 100, "Save model after this many steps (default: 100)")
 tf.flags.DEFINE_integer("num_checkpoints", 5, "Number of checkpoints to store (default: 5)")
@@ -45,8 +45,7 @@ for attr, value in sorted(FLAGS.__flags.items()):
     print("{}={}".format(attr.upper(), value))
 print("")
 
-with open("config.yml", 'r') as ymlfile:
-    cfg = yaml.load(ymlfile)
+cfg = {'word_embeddings': {'default': 'word2vec', 'word2vec': {'path': '/om/user/njobrien/FakeNews/cnn-text-classification-tf (body)/data/word_embeddings/GoogleNews-vectors-negative300.bin', 'dimension': 300, 'binary': True}, 'glove': {'path': '../../data/glove.6B.100d.txt', 'dimension': 100, 'length': 400000}}, 'datasets': {'default': '20newsgroup', 'mrpolarity': {'positive_data_file': {'path': 'data/rt-polaritydata/rt-polarity.pos', 'info': 'Data source for the positive data'}, 'negative_data_file': {'path': 'data/rt-polaritydata/rt-polarity.neg', 'info': 'Data source for the negative data'}}, '20newsgroup': {'categories': ['alt.atheism', 'comp.graphics', 'sci.med', 'soc.religion.christian'], 'shuffle': True, 'random_state': 42}, 'localdata': {'container_path': '../../data/input/SentenceCorpus', 'categories': None, 'shuffle': True, 'random_state': 42}}}
 
 dataset_name = cfg["datasets"]["default"]
 if FLAGS.enable_word_embeddings and cfg['word_embeddings']['default'] is not None:
@@ -61,6 +60,7 @@ else:
 # Load data
 print("Loading data...")
 x_text, y = data_helpers.load_data_and_labels(FLAGS.positive_data_file, FLAGS.negative_data_file)# Build vocabulary
+x_text=[" ".join(x.split(" ")[:1000]) for x in x_text]
 
 max_document_length = max([len(x.split(" ")) for x in x_text])
 print(max_document_length, "is mdl")
