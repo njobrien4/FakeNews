@@ -8,6 +8,7 @@ import data_helpers
 from tensorflow.contrib import learn
 import csv
 from sklearn import metrics
+import interpret
 #import yaml
 
 
@@ -119,49 +120,57 @@ with graph.as_default():
         # Collect the predictions here
         all_predictions = []
         all_probabilities = None
-
+        
+        best_trigrams ={}
         for x_test_batch in batches:
             batch_predictions_scores = sess.run([predictions, scores,conv_mp3,before_predictions,b,pool_mp3,h_drop,conv_lensequence,relu_mp3], {input_x: x_test_batch, dropout_keep_prob: 1.0})
             all_vars=tf.trainable_variables()
-            print(all_vars, "is all vars")
-            print(b, "is b")
-            #conv_mp3 = graph.get_operation_by_name("conv-maxpool-3/conv")
-            #a=tf.Print(conv_mp3.outputs[0],[conv_mp3.outputs[0]],message="this is conv outputs")
-            #b   = tf.add(a, a)
-            #b.eval()           
-#for var in all_vars:
-                #W=sess.run(var)
-                #print(W, "is",var
+#             print(all_vars, "is all vars")
+#             print(b, "is b")
+
+
+
+#             #conv_mp3 = graph.get_operation_by_name("conv-maxpool-3/conv")
+#             #a=tf.Print(conv_mp3.outputs[0],[conv_mp3.outputs[0]],message="this is conv outputs")
+#             #b   = tf.add(a, a)
+#             #b.eval()           
+# #for var in all_vars:
+#                 #W=sess.run(var)
+#                 #print(W, "is",var
             
-            #print(batch_predictions_scores[3][:300],batch_predictions_scores[3].shape, "is W")
-            #print(np.sum(batch_predictions_scores[3],axis=0))
-            print(batch_predictions_scores[4], "is b")
-            #print(batch_predictions_scores[6],batch_predictions_scores[6].shape, "is output w")
-            #print(batch_predictions_scores[5].squeeze(), batch_predictions_scores[5].shape, "is pool")
-            print("pool is x * output w + b")
+#             #print(batch_predictions_scores[3][:300],batch_predictions_scores[3].shape, "is W")
+#             #print(np.sum(batch_predictions_scores[3],axis=0))
+
+
+#             print(batch_predictions_scores[4], "is b")
+#             #print(batch_predictions_scores[6],batch_predictions_scores[6].shape, "is output w")
+#             #print(batch_predictions_scores[5].squeeze(), batch_predictions_scores[5].shape, "is pool")
+            # print("pool is x * output w + b")
             conv=batch_predictions_scores[7]
-            print(conv[0][:13],conv.shape, "is conv[0]")
-            print(batch_predictions_scores[6], "is h_drop")
+            # print(conv[0][:13],conv.shape, "is conv[0]")
+            # print(batch_predictions_scores[6], "is h_drop")
             all_predictions = np.concatenate([all_predictions, batch_predictions_scores[0]])
             probabilities = softmax(batch_predictions_scores[1])
             xW=np.matmul(batch_predictions_scores[6],batch_predictions_scores[3])
-            relu_result = batch_predictions_scores[8][0]
-            print(relu_result[:13],batch_predictions_scores[8].shape, "is relu[:13]")
+            relu_result = batch_predictions_scores[8]
+            # print(relu_result[:13],batch_predictions_scores[8].shape, "is relu[:13]")
             pool_post_relu = batch_predictions_scores[5]
-            print(pool_post_relu, "is pool after relu")
-            print(xW,"is xW")
-            b=batch_predictions_scores[4]
-            print(xW+b, "is xw + b")
-            print(batch_predictions_scores[1], "is plain scores")
-            print(softmax(batch_predictions_scores[1]), "is softmax scores")
-            print(all_predictions, "is all_predictions")
-            print(probabilities, " is scores")
-            conv_mp3 = batch_predictions_scores[2]
-            print(conv_mp3.shape, "is shape")
+            # print(pool_post_relu, "is pool after relu")
+            # print(xW,"is xW")
+            b_result=batch_predictions_scores[4]
+            # print(xW+b_result, "is xw + b")
+            # print(batch_predictions_scores[1], "is plain scores")
+            # print(softmax(batch_predictions_scores[1]), "is softmax scores")
+            # print(all_predictions, "is all_predictions")
+            # print(probabilities, " is scores")
+            # #conv_mp3 = batch_predictions_scores[2]
+            # print(conv_mp3.shape, "is shape")
             sums=np.sum(conv_mp3,axis=-1)
            # print(sums[0][:20],sums[1][:20])
            # print(conv_mp3, "is convmp3")
-           
+            
+            best_trigrams = interpret.interpret_many(x_raw,relu_result, pool_post_relu, best_trigrams)
+            print (len(best_trigrams[1]), "is len best_trigrams[1]")
             if all_probabilities is not None:
                 all_probabilities = np.concatenate([all_probabilities, probabilities])
             else:
@@ -195,4 +204,30 @@ out_path = os.path.join(FLAGS.checkpoint_dir, "..", "prediction.csv")
 print("Saving evaluation to {0}".format(out_path))
 with open(out_path, 'w') as f:
     csv.writer(f).writerows(predictions_human_readable)
-interpret(x_raw[0].split(),relu_result.squeeze()[0],pool_post_relu[0][0][0])
+#print(best_trigrams)
+with open('best_trigrams.txt', 'w') as f: 
+    for k in best_trigrams.keys():
+        list_o_lists=best_trigrams[k]
+        best_trigrams_for_k=[]
+        for li in list_o_lists:
+            if len(li)>0:
+                try:
+                    trigram = ' '.join(li)
+                    print("it worked")
+                    print("trigram: ", trigram)
+                except: 
+                    trigram = ' '.join(li[0])
+                    print("it didnt,",trigram)
+                best_trigrams_for_k.append(trigram)
+        #print(np.array(list_o_lists[3]).squeeze(), "is list")
+        #list_o_strings = [' '.join(list(np.array(lil_list).squeeze())) for lil_list in list_o_lists]
+        f.write("i: "+str(k)+'\n')
+        f.write("trigrams: ")
+        for trigram in best_trigrams_for_k:
+            f.write(trigram+",")
+        f.write('\n')
+
+
+
+
+
