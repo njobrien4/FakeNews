@@ -2,12 +2,13 @@
 
 import tensorflow as tf
 import numpy as np
+np.set_printoptions(threshold=np.nan)
 import os
 import data_helpers
 from tensorflow.contrib import learn
 import csv
 from sklearn import metrics
-import yaml
+#import yaml
 
 
 def softmax(x):
@@ -18,8 +19,7 @@ def softmax(x):
     exp_x = np.exp(x - max_x)
     return exp_x / np.sum(exp_x, axis=1).reshape((-1, 1))
 
-with open("config.yml", 'r') as ymlfile:
-    cfg = yaml.load(ymlfile)
+cfg = {'word_embeddings': {'default': 'word2vec', 'word2vec': {'path': '/om/user/njobrien/FakeNews/cnn-text-classification-tf (body)/data/word_embeddings/GoogleNews-vectors-negative300.bin', 'dimension': 300, 'binary': True}, 'glove': {'path': '../../data/glove.6B.100d.txt', 'dimension': 100, 'length': 400000}}, 'datasets': {'default': '20newsgroup', 'mrpolarity': {'positive_data_file': {'path': 'data/rt-polaritydata/rt-polarity.pos', 'info': 'Data source for the positive data'}, 'negative_data_file': {'path': 'data/rt-polaritydata/rt-polarity.neg', 'info': 'Data source for the negative data'}}, '20newsgroup': {'categories': ['alt.atheism', 'comp.graphics', 'sci.med', 'soc.religion.christian'], 'shuffle': True, 'random_state': 42}, 'localdata': {'container_path': '../../data/input/SentenceCorpus', 'categories': None, 'shuffle': True, 'random_state': 42}}}
 
 # Parameters
 # ==================================================
@@ -32,8 +32,8 @@ tf.flags.DEFINE_string("checkpoint_dir", "", "Checkpoint directory from training
 tf.flags.DEFINE_boolean("eval_train", False, "Evaluate on all training data")
 
 
-tf.flags.DEFINE_string("positive_data_file", "./data/news-data/real_bodies.txt", "Data source for the real data.")
-tf.flags.DEFINE_string("negative_data_file", "./data/news-data/fake_bodies.txt", "Data source for the fake data.")
+tf.flags.DEFINE_string("positive_data_file", "/om/user/njobrien/FakeNews/cnn-text-classification-tf (body)/data/news-data/real_bodies.txt", "Data source for the real data.")
+tf.flags.DEFINE_string("negative_data_file", "/om/user/njobrien/FakeNews/cnn-text-classification-tf (body)/data/news-data/fake_bodies.txt", "Data source for the fake data.")
 
 # Misc Parameters
 tf.flags.DEFINE_boolean("allow_soft_placement", True, "Allow device soft device placement")
@@ -106,18 +106,62 @@ with graph.as_default():
 
         # Tensors we want to evaluate
         predictions = graph.get_operation_by_name("output/predictions").outputs[0]
-
+        conv_mp3 = graph.get_operation_by_name("conv-maxpool-3/conv").outputs[0]
+        relu_mp3 = graph.get_operation_by_name("conv-maxpool-3/relu").outputs[0]
+        before_predictions=graph.get_operation_by_name("W").outputs[0]
         # Generate batches for one epoch
         batches = data_helpers.batch_iter(list(x_test), FLAGS.batch_size, 1, shuffle=False)
-
+        #output_w = graph.get_operation_by_name("output/W").outputs[0]
+        b = graph.get_operation_by_name("output/b").outputs[0]
+        pool_mp3 = graph.get_operation_by_name("conv-maxpool-3/pool").outputs[0]
+        conv_lensequence = graph.get_operation_by_name("conv-maxpool-3/conv").outputs[0]
+        h_drop = graph.get_operation_by_name("dropout/dropout/mul").outputs[0]
         # Collect the predictions here
         all_predictions = []
         all_probabilities = None
 
         for x_test_batch in batches:
-            batch_predictions_scores = sess.run([predictions, scores], {input_x: x_test_batch, dropout_keep_prob: 1.0})
+            batch_predictions_scores = sess.run([predictions, scores,conv_mp3,before_predictions,b,pool_mp3,h_drop,conv_lensequence,relu_mp3], {input_x: x_test_batch, dropout_keep_prob: 1.0})
+            all_vars=tf.trainable_variables()
+            print(all_vars, "is all vars")
+            print(b, "is b")
+            #conv_mp3 = graph.get_operation_by_name("conv-maxpool-3/conv")
+            #a=tf.Print(conv_mp3.outputs[0],[conv_mp3.outputs[0]],message="this is conv outputs")
+            #b   = tf.add(a, a)
+            #b.eval()           
+#for var in all_vars:
+                #W=sess.run(var)
+                #print(W, "is",var
+            
+            #print(batch_predictions_scores[3][:300],batch_predictions_scores[3].shape, "is W")
+            #print(np.sum(batch_predictions_scores[3],axis=0))
+            print(batch_predictions_scores[4], "is b")
+            #print(batch_predictions_scores[6],batch_predictions_scores[6].shape, "is output w")
+            #print(batch_predictions_scores[5].squeeze(), batch_predictions_scores[5].shape, "is pool")
+            print("pool is x * output w + b")
+            conv=batch_predictions_scores[7]
+            print(conv[0][:13],conv.shape, "is conv[0]")
+            print(batch_predictions_scores[6], "is h_drop")
             all_predictions = np.concatenate([all_predictions, batch_predictions_scores[0]])
             probabilities = softmax(batch_predictions_scores[1])
+            xW=np.matmul(batch_predictions_scores[6],batch_predictions_scores[3])
+            relu_result = batch_predictions_scores[8][0]
+            print(relu_result[:13],batch_predictions_scores[8].shape, "is relu[:13]")
+            pool_post_relu = batch_predictions_scores[5]
+            print(pool_post_relu, "is pool after relu")
+            print(xW,"is xW")
+            b=batch_predictions_scores[4]
+            print(xW+b, "is xw + b")
+            print(batch_predictions_scores[1], "is plain scores")
+            print(softmax(batch_predictions_scores[1]), "is softmax scores")
+            print(all_predictions, "is all_predictions")
+            print(probabilities, " is scores")
+            conv_mp3 = batch_predictions_scores[2]
+            print(conv_mp3.shape, "is shape")
+            sums=np.sum(conv_mp3,axis=-1)
+           # print(sums[0][:20],sums[1][:20])
+           # print(conv_mp3, "is convmp3")
+           
             if all_probabilities is not None:
                 all_probabilities = np.concatenate([all_probabilities, probabilities])
             else:
@@ -151,3 +195,4 @@ out_path = os.path.join(FLAGS.checkpoint_dir, "..", "prediction.csv")
 print("Saving evaluation to {0}".format(out_path))
 with open(out_path, 'w') as f:
     csv.writer(f).writerows(predictions_human_readable)
+interpret(x_raw[0].split(),relu_result.squeeze()[0],pool_post_relu[0][0][0])
