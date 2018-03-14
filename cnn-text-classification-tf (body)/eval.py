@@ -138,7 +138,7 @@ with graph.as_default():
 #                 #W=sess.run(var)
 #                 #print(W, "is",var
             
-#             #print(batch_predictions_scores[3][:300],batch_predictions_scores[3].shape, "is W")
+        
 #             #print(np.sum(batch_predictions_scores[3],axis=0))
 
 
@@ -146,6 +146,7 @@ with graph.as_default():
 #             #print(batch_predictions_scores[6],batch_predictions_scores[6].shape, "is output w")
 #             #print(batch_predictions_scores[5].squeeze(), batch_predictions_scores[5].shape, "is pool")
             # print("pool is x * output w + b")
+            print(batch_predictions_scores[3].shape, "is W")
             conv=batch_predictions_scores[7]
             # print(conv[0][:13],conv.shape, "is conv[0]")
             # print(batch_predictions_scores[6], "is h_drop")
