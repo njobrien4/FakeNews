@@ -217,11 +217,11 @@ with open('best_trigrams.txt', 'w') as f:
             if len(li)>0:
                 try:
                     trigram = ' '.join(li)
-                    #print("it worked")
-                    #print("trigram: ", trigram)
+                    print("it worked")
+                    print("trigram: ", trigram)
                 except: 
                     trigram = ' '.join(li[0])
-                    #print("it didnt,",trigram)
+                    print("it didnt,",trigram)
                 best_trigrams_for_k.append(trigram)
         #print(np.array(list_o_lists[3]).squeeze(), "is list")
         #list_o_strings = [' '.join(list(np.array(lil_list).squeeze())) for lil_list in list_o_lists]
