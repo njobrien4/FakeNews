@@ -117,13 +117,14 @@ with graph.as_default():
         pool_mp3 = graph.get_operation_by_name("conv-maxpool-3/pool").outputs[0]
         conv_lensequence = graph.get_operation_by_name("conv-maxpool-3/conv").outputs[0]
         h_drop = graph.get_operation_by_name("dropout/dropout/mul").outputs[0]
+        embedding_W = graph.get_operation_by_name("embedding/W").outputs[0]
         # Collect the predictions here
         all_predictions = []
         all_probabilities = None
         
         best_trigrams ={}
         for x_test_batch in batches:
-            batch_predictions_scores = sess.run([predictions, scores,conv_mp3,before_predictions,b,pool_mp3,h_drop,conv_lensequence,relu_mp3], {input_x: x_test_batch, dropout_keep_prob: 1.0})
+            batch_predictions_scores = sess.run([predictions, scores,conv_mp3,before_predictions,b,pool_mp3,h_drop,conv_lensequence,relu_mp3, embedding_W], {input_x: x_test_batch, dropout_keep_prob: 1.0})
             all_vars=tf.trainable_variables()
 #             print(all_vars, "is all vars")
 #             print(b, "is b")
@@ -159,6 +160,8 @@ with graph.as_default():
             # print(pool_post_relu, "is pool after relu")
             # print(xW,"is xW")
             b_result=batch_predictions_scores[4]
+            embedding_W_result = batch_predictions_scores[9]
+            print(embedding_W_result, embedding_W_result.shape, "is embedding W")
             # print(xW+b_result, "is xw + b")
             # print(batch_predictions_scores[1], "is plain scores")
             # print(softmax(batch_predictions_scores[1]), "is softmax scores")
@@ -214,11 +217,11 @@ with open('best_trigrams.txt', 'w') as f:
             if len(li)>0:
                 try:
                     trigram = ' '.join(li)
-                    print("it worked")
-                    print("trigram: ", trigram)
+                    #print("it worked")
+                    #print("trigram: ", trigram)
                 except: 
                     trigram = ' '.join(li[0])
-                    print("it didnt,",trigram)
+                    #print("it didnt,",trigram)
                 best_trigrams_for_k.append(trigram)
         #print(np.array(list_o_lists[3]).squeeze(), "is list")
         #list_o_strings = [' '.join(list(np.array(lil_list).squeeze())) for lil_list in list_o_lists]
