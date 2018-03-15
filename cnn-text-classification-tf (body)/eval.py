@@ -87,16 +87,18 @@ print("\nEvaluating...\n")
 # ==================================================
 checkpoint_file = tf.train.latest_checkpoint(FLAGS.checkpoint_dir)
 graph = tf.Graph()
+print("0")
 with graph.as_default():
+    print("1")
     session_conf = tf.ConfigProto(
       allow_soft_placement=FLAGS.allow_soft_placement,
       log_device_placement=FLAGS.log_device_placement)
+    print("2")
     sess = tf.Session(config=session_conf)
     with sess.as_default():
         # Load the saved meta graph and restore variables
         saver = tf.train.import_meta_graph("{}.meta".format(checkpoint_file))
         saver.restore(sess, checkpoint_file)
-
         # Get the placeholders from the graph by name
         input_x = graph.get_operation_by_name("input_x").outputs[0]
         # input_y = graph.get_operation_by_name("input_y").outputs[0]
@@ -123,6 +125,7 @@ with graph.as_default():
         all_probabilities = None
         
         best_trigrams ={}
+        ind=0
         for x_test_batch in batches:
             batch_predictions_scores = sess.run([predictions, scores,conv_mp3,before_predictions,b,pool_mp3,h_drop,conv_lensequence,relu_mp3, embedding_W], {input_x: x_test_batch, dropout_keep_prob: 1.0})
             all_vars=tf.trainable_variables()
@@ -147,21 +150,30 @@ with graph.as_default():
 #             #print(batch_predictions_scores[6],batch_predictions_scores[6].shape, "is output w")
 #             #print(batch_predictions_scores[5].squeeze(), batch_predictions_scores[5].shape, "is pool")
             # print("pool is x * output w + b")
+                       
             print(batch_predictions_scores[3].shape, "is W")
+            if ind<2:
+                print(batch_predictions_scores[3])
+            ind+=1
             conv=batch_predictions_scores[7]
             # print(conv[0][:13],conv.shape, "is conv[0]")
             # print(batch_predictions_scores[6], "is h_drop")
             all_predictions = np.concatenate([all_predictions, batch_predictions_scores[0]])
+            
             probabilities = softmax(batch_predictions_scores[1])
             xW=np.matmul(batch_predictions_scores[6],batch_predictions_scores[3])
+            
             relu_result = batch_predictions_scores[8]
+            
             # print(relu_result[:13],batch_predictions_scores[8].shape, "is relu[:13]")
             pool_post_relu = batch_predictions_scores[5]
-            # print(pool_post_relu, "is pool after relu")
-            # print(xW,"is xW")
+            
             b_result=batch_predictions_scores[4]
+            
             embedding_W_result = batch_predictions_scores[9]
-            print(embedding_W_result, embedding_W_result.shape, "is embedding W")
+            
+            print(embedding_W_result.shape, "is embedding W")
+            
             # print(xW+b_result, "is xw + b")
             # print(batch_predictions_scores[1], "is plain scores")
             # print(softmax(batch_predictions_scores[1]), "is softmax scores")
@@ -169,18 +181,18 @@ with graph.as_default():
             # print(probabilities, " is scores")
             # #conv_mp3 = batch_predictions_scores[2]
             # print(conv_mp3.shape, "is shape")
-            sums=np.sum(conv_mp3,axis=-1)
            # print(sums[0][:20],sums[1][:20])
            # print(conv_mp3, "is convmp3")
             
             best_trigrams = interpret.interpret_many(x_raw,relu_result, pool_post_relu, best_trigrams)
-            print (len(best_trigrams[1]), "is len best_trigrams[1]")
+           # print (len(best_trigrams[1]), "is len best_trigrams[1]")
             if all_probabilities is not None:
                 all_probabilities = np.concatenate([all_probabilities, probabilities])
             else:
                 all_probabilities = probabilities
+            
+# Print accuracy if y_test is definedi
 
-# Print accuracy if y_test is defined
 if y_test is not None:
     correct_predictions = float(sum(all_predictions == y_test))
     #for each thing in all predictions, if its equal to y test you wanna print x_raw
@@ -217,11 +229,11 @@ with open('best_trigrams.txt', 'w') as f:
             if len(li)>0:
                 try:
                     trigram = ' '.join(li)
-                    print("it worked")
-                    print("trigram: ", trigram)
+                   # print("it worked")
+                   # print("trigram: ", trigram)
                 except: 
                     trigram = ' '.join(li[0])
-                    print("it didnt,",trigram)
+                   # print("it didnt,",trigram)
                 best_trigrams_for_k.append(trigram)
         #print(np.array(list_o_lists[3]).squeeze(), "is list")
         #list_o_strings = [' '.join(list(np.array(lil_list).squeeze())) for lil_list in list_o_lists]
