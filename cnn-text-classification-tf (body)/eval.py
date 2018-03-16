@@ -53,15 +53,6 @@ datasets = None
 # CHANGE THIS: Load data. Load your own data here
 dataset_name = cfg["datasets"]["default"]
 if FLAGS.eval_train:
-##    if dataset_name == "mrpolarity":
-##        datasets = data_helpers.get_datasets_mrpolarity(cfg["datasets"][dataset_name]["positive_data_file"]["path"],
-##                                             cfg["datasets"][dataset_name]["negative_data_file"]["path"])
-##    elif dataset_name == "20newsgroup":
-##        datasets = data_helpers.get_datasets_20newsgroup(subset="test",
-##                                              categories=cfg["datasets"][dataset_name]["categories"],
-##                                              shuffle=cfg["datasets"][dataset_name]["shuffle"],
-##                                              random_state=cfg["datasets"][dataset_name]["random_state"])
-    
     x_raw, y_test = data_helpers.load_data_and_labels(FLAGS.positive_data_file, FLAGS.negative_data_file)
     y_test = np.argmax(y_test, axis=1)
     print("Total number of test examples: {}".format(len(y_test)))
@@ -127,30 +118,10 @@ with graph.as_default():
         ind=0
         for x_test_batch in batches:
             batch_predictions_scores = sess.run([predictions, scores,conv_mp3,before_predictions,b,pool_mp3,h_drop,conv_lensequence,relu_mp3, embedding_W], {input_x: x_test_batch, dropout_keep_prob: 1.0})
-            all_vars=tf.trainable_variables()
-#             print(all_vars, "is all vars")
-#             print(b, "is b")
+            all_vars=tf.trainable_variables()0]],message="this is conv outputs")
 
-
-
-#             #conv_mp3 = graph.get_operation_by_name("conv-maxpool-3/conv")
-#             #a=tf.Print(conv_mp3.outputs[0],[conv_mp3.outputs[0]],message="this is conv outputs")
-#             #b   = tf.add(a, a)
-#             #b.eval()           
-# #for var in all_vars:
-#                 #W=sess.run(var)
-#                 #print(W, "is",var
-            
-        
-#             #print(np.sum(batch_predictions_scores[3],axis=0))
-
-
-#             print(batch_predictions_scores[4], "is b")
-         
             weights = batch_predictions_scores[3]
             conv=batch_predictions_scores[7]
-            # print(conv[0][:13],conv.shape, "is conv[0]")
-            # print(batch_predictions_scores[6], "is h_drop")
             all_predictions = np.concatenate([all_predictions, batch_predictions_scores[0]])
             
             probabilities = softmax(batch_predictions_scores[1])
@@ -158,7 +129,6 @@ with graph.as_default():
             
             relu_result = batch_predictions_scores[8]
             
-            # print(relu_result[:13],batch_predictions_scores[8].shape, "is relu[:13]")
             pool_post_relu = batch_predictions_scores[5]
             
             b_result=batch_predictions_scores[4]
@@ -242,7 +212,8 @@ best_n_trigrams = interpret.get_best_n_for_each_neuron(best_trigrams,15)
 write_trigram_dict('best_trigrams.txt',best_trigrams)
 write_trigram_dict('best_n_trigrams.txt',best_n_trigrams)
 
-best_neurons = interpret.get_best_neurons(weights)
+best_neuron_class_1, best_neuron_class_2 = interpret.get_best_neurons(weights)
+make_weight_histogram(weights)
 
 
 
