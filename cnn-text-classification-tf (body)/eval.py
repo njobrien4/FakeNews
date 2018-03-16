@@ -236,7 +236,7 @@ def write_trigram_dict(filename, dictionary):
                 else: 
                     trigram = ' '.join(li[1])
                        # print("it didnt,",trigram)
-                    best_trigrams_for_k.append(trigram)
+                best_trigrams_for_k.append(trigram)
             #print(np.array(list_o_lists[3]).squeeze(), "is list")
             #list_o_strings = [' '.join(list(np.array(lil_list).squeeze())) for lil_list in list_o_lists]
             f.write("i: "+str(k)+'\n')
