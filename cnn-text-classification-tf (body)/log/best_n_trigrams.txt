@@ -1,0 +1,256 @@
+i: 0
+trigrams: 
+i: 1
+trigrams: 
+i: 2
+trigrams: 
+i: 3
+trigrams: 
+i: 4
+trigrams: 
+i: 5
+trigrams: 
+i: 6
+trigrams: 
+i: 7
+trigrams: 
+i: 8
+trigrams: 
+i: 9
+trigrams: 
+i: 10
+trigrams: 
+i: 11
+trigrams: 
+i: 12
+trigrams: 
+i: 13
+trigrams: 
+i: 14
+trigrams: 
+i: 15
+trigrams: 
+i: 16
+trigrams: 
+i: 17
+trigrams: 
+i: 18
+trigrams: 
+i: 19
+trigrams: 
+i: 20
+trigrams: 
+i: 21
+trigrams: 
+i: 22
+trigrams: 
+i: 23
+trigrams: 
+i: 24
+trigrams: 
+i: 25
+trigrams: 
+i: 26
+trigrams: 
+i: 27
+trigrams: 
+i: 28
+trigrams: 
+i: 29
+trigrams: 
+i: 30
+trigrams: 
+i: 31
+trigrams: 
+i: 32
+trigrams: 
+i: 33
+trigrams: 
+i: 34
+trigrams: 
+i: 35
+trigrams: 
+i: 36
+trigrams: 
+i: 37
+trigrams: 
+i: 38
+trigrams: 
+i: 39
+trigrams: 
+i: 40
+trigrams: 
+i: 41
+trigrams: 
+i: 42
+trigrams: 
+i: 43
+trigrams: 
+i: 44
+trigrams: 
+i: 45
+trigrams: 
+i: 46
+trigrams: 
+i: 47
+trigrams: 
+i: 48
+trigrams: 
+i: 49
+trigrams: 
+i: 50
+trigrams: 
+i: 51
+trigrams: 
+i: 52
+trigrams: 
+i: 53
+trigrams: 
+i: 54
+trigrams: 
+i: 55
+trigrams: 
+i: 56
+trigrams: 
+i: 57
+trigrams: 
+i: 58
+trigrams: 
+i: 59
+trigrams: 
+i: 60
+trigrams: 
+i: 61
+trigrams: 
+i: 62
+trigrams: 
+i: 63
+trigrams: 
+i: 64
+trigrams: 
+i: 65
+trigrams: 
+i: 66
+trigrams: 
+i: 67
+trigrams: 
+i: 68
+trigrams: 
+i: 69
+trigrams: 
+i: 70
+trigrams: 
+i: 71
+trigrams: 
+i: 72
+trigrams: 
+i: 73
+trigrams: 
+i: 74
+trigrams: 
+i: 75
+trigrams: 
+i: 76
+trigrams: 
+i: 77
+trigrams: 
+i: 78
+trigrams: 
+i: 79
+trigrams: 
+i: 80
+trigrams: 
+i: 81
+trigrams: 
+i: 82
+trigrams: 
+i: 83
+trigrams: 
+i: 84
+trigrams: 
+i: 85
+trigrams: 
+i: 86
+trigrams: 
+i: 87
+trigrams: 
+i: 88
+trigrams: 
+i: 89
+trigrams: 
+i: 90
+trigrams: 
+i: 91
+trigrams: 
+i: 92
+trigrams: 
+i: 93
+trigrams: 
+i: 94
+trigrams: 
+i: 95
+trigrams: 
+i: 96
+trigrams: 
+i: 97
+trigrams: 
+i: 98
+trigrams: 
+i: 99
+trigrams: 
+i: 100
+trigrams: 
+i: 101
+trigrams: 
+i: 102
+trigrams: 
+i: 103
+trigrams: 
+i: 104
+trigrams: 
+i: 105
+trigrams: 
+i: 106
+trigrams: 
+i: 107
+trigrams: 
+i: 108
+trigrams: 
+i: 109
+trigrams: 
+i: 110
+trigrams: 
+i: 111
+trigrams: 
+i: 112
+trigrams: 
+i: 113
+trigrams: 
+i: 114
+trigrams: 
+i: 115
+trigrams: 
+i: 116
+trigrams: 
+i: 117
+trigrams: 
+i: 118
+trigrams: 
+i: 119
+trigrams: 
+i: 120
+trigrams: 
+i: 121
+trigrams: 
+i: 122
+trigrams: 
+i: 123
+trigrams: 
+i: 124
+trigrams: 
+i: 125
+trigrams: 
+i: 126
+trigrams: 
+i: 127
+trigrams: 

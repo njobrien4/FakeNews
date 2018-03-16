@@ -229,7 +229,7 @@ def write_trigram_dict(filename, dictionary):
             best_trigrams_for_k=[]
             for li in list_o_lists:
                 if len(li[1])>0:
-                    print(li, "is li")
+                   # print(li, "is li")
                     trigram = ' '.join(li[1][0])
                        # print("it worked")
                        # print("trigram: ", trigram)
@@ -244,6 +244,8 @@ def write_trigram_dict(filename, dictionary):
             for trigram in best_trigrams_for_k:
                 f.write(trigram+",")
             f.write('\n')
+
+best_n_trigrams = interpret.get_best_n_for_each_neuron(best_trigrams,15)
 
 write_trigram_dict('best_trigrams.txt',best_trigrams)
 write_trigram_dict('best_n_trigrams.txt',best_n_trigrams)

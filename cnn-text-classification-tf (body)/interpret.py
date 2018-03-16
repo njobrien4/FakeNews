@@ -37,7 +37,7 @@ def interpret(word_list, relu, pool, best_trigrams={}):
 		#print("trigram: ",trigram)
 		#print("i: ", i)
 		if i in best_trigrams:
-			best_trigrams[i]+=(pooled_val,[trigram])
+			best_trigrams[i]+=[(pooled_val,[trigram])]
 		else:
 			best_trigrams[i]=[(pooled_val,[trigram])]
 	return best_trigrams
@@ -46,3 +46,4 @@ def get_best_n_for_each_neuron(best_trigrams,n):
 	best_n_trigrams=best_trigrams.copy()
 	for neuron in best_trigrams.keys():
 		best_n_trigrams[neuron]=sorted(best_trigrams[neuron])[:10]
+	return best_n_trigrams
