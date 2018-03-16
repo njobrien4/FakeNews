@@ -242,6 +242,27 @@ with open('best_trigrams.txt', 'w') as f:
         for trigram in best_trigrams_for_k:
             f.write(trigram+",")
         f.write('\n')
+with open('best_n_trigrams.txt','w') as f:
+    for k in best_n_trigrams.keys():
+        list_o_lists=best_n_trigrams[k]
+        best_trigrams_for_k=[]
+        for li in list_o_lists:
+            if len(li)>0:
+                try:
+                    trigram = ' '.join(li)
+                   # print("it worked")
+                   # print("trigram: ", trigram)
+                except: 
+                    trigram = ' '.join(li[0])
+                   # print("it didnt,",trigram)
+                best_trigrams_for_k.append(trigram)
+        #print(np.array(list_o_lists[3]).squeeze(), "is list")
+        #list_o_strings = [' '.join(list(np.array(lil_list).squeeze())) for lil_list in list_o_lists]
+        f.write("i: "+str(k)+'\n')
+        f.write("trigrams: ")
+        for trigram in best_trigrams_for_k:
+            f.write(trigram+",")
+        f.write('\n')
 
 
 
