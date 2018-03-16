@@ -229,7 +229,7 @@ def write_trigram_dict(filename, dictionary):
             best_trigrams_for_k=[]
             for li in list_o_lists:
                 if len(li[1])>0:
-                    #print(li, "is li")
+                    print(li, "is li")
                     trigram = ' '.join(li[1][0])
                        # print("it worked")
                        # print("trigram: ", trigram)
