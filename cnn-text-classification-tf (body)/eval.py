@@ -228,20 +228,13 @@ def write_trigram_dict(filename, dictionary):
             list_o_lists=dictionary[k]
             best_trigrams_for_k=[]
             for li in list_o_lists:
-                if len(li)>0:
-                    print(li, "is li")
-                    try:
-                        try:
-                            trigram = ' '.join(li[1])
-                        except:
-                            trigram = ' '.join(li)
+                if len(li[1])>0:
+                    #print(li, "is li")
+                    trigram = ' '.join(li[1][0])
                        # print("it worked")
                        # print("trigram: ", trigram)
-                    except: 
-                        try:
-                            trigram = ' '.join(li[0])
-                        except:
-                            trigram = ' '.join(li[0][1])
+                else: 
+                    trigram = ' '.join(li[1])
                        # print("it didnt,",trigram)
                     best_trigrams_for_k.append(trigram)
             #print(np.array(list_o_lists[3]).squeeze(), "is list")
