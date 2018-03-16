@@ -212,10 +212,10 @@ best_n_trigrams = interpret.get_best_n_for_each_neuron(best_trigrams,15)
 write_trigram_dict('best_trigrams.txt',best_trigrams)
 write_trigram_dict('best_n_trigrams.txt',best_n_trigrams)
 
-best_neuron_class_1, best_neuron_class_2 = interpret.get_best_neurons(weights)
-make_weight_histogram(weights)
+best_neuron_fake, best_neuron_real = interpret.get_n_best_neurons(weights,10)
+#make_weight_histogram(weights)
 
-
+np.save("weights",weights)
 
 
 

@@ -1,5 +1,4 @@
 import numpy as np
-
 def interpret_many(x_raw, relu, pool, best_trigrams = {}):
 	#print(pool.shape, "is pool shape ")
 	pool = pool.squeeze() #should be len(x_raw) x num_filters (128)
@@ -65,10 +64,11 @@ def make_weight_histogram(weights):
     # negative_labels = [[1, 0] for _ in negative_examples]
 
 def get_n_best_neurons(weights, n,abs_value = False):
-	arr_0 = weights[:][0].transpose()
+	print(weights, weights.shape)
+	arr_0 = weights[:,0]
 	list_0=arr_0.argsort()[-n:][::-1]
-	arr_1 = weights[:][1].transpose()
-	list_1=arr_1.argsort()[-n][::-1]
+	arr_1 = weights[:,1]
+	list_1=arr_1.argsort()[-n:][::-1]
 	#return weights for fake news, weights for real news
 	return list_0, list_1
 
