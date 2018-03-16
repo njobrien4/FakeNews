@@ -118,7 +118,7 @@ with graph.as_default():
         ind=0
         for x_test_batch in batches:
             batch_predictions_scores = sess.run([predictions, scores,conv_mp3,before_predictions,b,pool_mp3,h_drop,conv_lensequence,relu_mp3, embedding_W], {input_x: x_test_batch, dropout_keep_prob: 1.0})
-            all_vars=tf.trainable_variables()0]],message="this is conv outputs")
+           # all_vars=tf.trainable_variables()0]],message="this is conv outputs")
 
             weights = batch_predictions_scores[3]
             conv=batch_predictions_scores[7]
