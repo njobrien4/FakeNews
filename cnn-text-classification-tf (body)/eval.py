@@ -82,7 +82,6 @@ vocab_processor = learn.preprocessing.VocabularyProcessor.restore(vocab_path)
 x_test = np.array(list(vocab_processor.transform(x_raw)))
 
 print("\nEvaluating...\n")
-
 # Evaluation
 # ==================================================
 checkpoint_file = tf.train.latest_checkpoint(FLAGS.checkpoint_dir)
@@ -147,11 +146,6 @@ with graph.as_default():
 
 
 #             print(batch_predictions_scores[4], "is b")
-#             #print(batch_predictions_scores[6],batch_predictions_scores[6].shape, "is output w")
-#             #print(batch_predictions_scores[5].squeeze(), batch_predictions_scores[5].shape, "is pool")
-            # print("pool is x * output w + b")
-            if batch_predictions_scores!=weights:     
-                print(batch_predictions_scores[3]==weights)
          
             weights = batch_predictions_scores[3]
             conv=batch_predictions_scores[7]
