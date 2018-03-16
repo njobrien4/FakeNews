@@ -150,11 +150,10 @@ with graph.as_default():
 #             #print(batch_predictions_scores[6],batch_predictions_scores[6].shape, "is output w")
 #             #print(batch_predictions_scores[5].squeeze(), batch_predictions_scores[5].shape, "is pool")
             # print("pool is x * output w + b")
-                       
-            print(batch_predictions_scores[3].shape, "is W")
-            if ind<2:
-                print(batch_predictions_scores[3])
-            ind+=1
+            if batch_predictions_scores!=weights:     
+                print(batch_predictions_scores[3]==weights)
+         
+            weights = batch_predictions_scores[3]
             conv=batch_predictions_scores[7]
             # print(conv[0][:13],conv.shape, "is conv[0]")
             # print(batch_predictions_scores[6], "is h_drop")
@@ -172,7 +171,6 @@ with graph.as_default():
             
             embedding_W_result = batch_predictions_scores[9]
             
-            print(embedding_W_result.shape, "is embedding W")
             
             # print(xW+b_result, "is xw + b")
             # print(batch_predictions_scores[1], "is plain scores")
@@ -250,6 +248,7 @@ best_n_trigrams = interpret.get_best_n_for_each_neuron(best_trigrams,15)
 write_trigram_dict('best_trigrams.txt',best_trigrams)
 write_trigram_dict('best_n_trigrams.txt',best_n_trigrams)
 
+best_neurons = interpret.get_best_neurons(weights)
 
 
 

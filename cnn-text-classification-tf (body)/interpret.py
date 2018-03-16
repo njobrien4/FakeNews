@@ -47,3 +47,17 @@ def get_best_n_for_each_neuron(best_trigrams,n):
 	for neuron in best_trigrams.keys():
 		best_n_trigrams[neuron]=sorted(best_trigrams[neuron])[:10]
 	return best_n_trigrams
+
+def make_weight_histogram(weights):
+	t1 = np.arange(0.0, 5.0, 0.1)
+	t2 = np.arange(0.0, 5.0, 0.02)
+
+	plt.figure(1)
+	plt.subplot(211)
+	plt.hist(weights[0])
+
+	plt.subplot(212)
+	plt.plot(weights[0])
+	plt.show()
+
+def get_best_neurons(weights):
