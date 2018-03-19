@@ -1,5 +1,5 @@
 import numpy as np
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 def interpret_many(x_raw, relu, pool, best_trigrams = {}):
 	#print(pool.shape, "is pool shape ")
 	pool = pool.squeeze() #should be len(x_raw) x num_filters (128)
