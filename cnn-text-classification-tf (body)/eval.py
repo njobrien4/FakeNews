@@ -14,7 +14,7 @@ import interpret
 def matrix_multipy(a, b):
     a=np.array(a)
     b=np.array(b)
-    new_array = np.zeros(a.shape[0], b.shape[1])
+    new_array = np.zeros((a.shape[0], b.shape[1]))
     for row in range(a.shape[0]):
         for col in range(b.shape[1]):
             weights_x_activation = numpy.multiply(a[row],b[:,col])
