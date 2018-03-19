@@ -114,29 +114,36 @@ with graph.as_default():
         all_predictions = []
         all_probabilities = None
         
+        all_x = []
+        all_w = []
+
         best_trigrams ={}
         ind=0
         for x_test_batch in batches:
             batch_predictions_scores = sess.run([predictions, scores,conv_mp3,before_predictions,b,pool_mp3,h_drop,conv_lensequence,relu_mp3, embedding_W], {input_x: x_test_batch, dropout_keep_prob: 1.0})
            # all_vars=tf.trainable_variables()0]],message="this is conv outputs")
-
-            weights = batch_predictions_scores[3]
-            conv=batch_predictions_scores[7]
-            all_predictions = np.concatenate([all_predictions, batch_predictions_scores[0]])
-            
+            predictions_result = batch_predictions_scores[0]
             probabilities = softmax(batch_predictions_scores[1])
-            xW=np.matmul(batch_predictions_scores[6],batch_predictions_scores[3])
-            
-            relu_result = batch_predictions_scores[8]
-            
-            pool_post_relu = batch_predictions_scores[5]
-            
+            weights = batch_predictions_scores[3]
             b_result=batch_predictions_scores[4]
+            pool_post_relu = batch_predictions_scores[5]
+            x_result = batch_predictions_scores[6]
+            conv=batch_predictions_scores[7]
+            relu_result = batch_predictions_scores[8]
+
+            all_predictions = np.concatenate([all_predictions, batch_predictions_scores[0]])
+            all_x = np.concatenate([all_x, x_result])
+            all_w = np.concatenate([all_w, weights])
+
+            xW=np.matmul(x_result,weights)
             
             embedding_W_result = batch_predictions_scores[9]
             
-            
-            # print(xW+b_result, "is xw + b")
+            print(x_result.shape, "is x shape")
+            print(weights.shape, "is weights shape")
+            print(xW, "is xW")
+            print(b_result, "is b result")
+            print(xW+b_result, "is xw + b")
             # print(batch_predictions_scores[1], "is plain scores")
             # print(softmax(batch_predictions_scores[1]), "is softmax scores")
             # print(all_predictions, "is all_predictions")
@@ -183,6 +190,10 @@ print("Saving evaluation to {0}".format(out_path))
 with open(out_path, 'w') as f:
     csv.writer(f).writerows(predictions_human_readable)
 #print(best_trigrams)
+
+
+print(all_x.shape, "is x shape")
+print(all_w.shape, "is weights shape")
 
 def write_trigram_dict(filename, dictionary):
     with open(filename, 'w') as f: 
