@@ -11,6 +11,16 @@ from sklearn import metrics
 import interpret
 #import yaml
 
+def matrix_multipy(a, b):
+    a=np.array(a)
+    b=np.array(b)
+    new_array = np.zeros(a.shape[0], b.shape[1])
+    for row in range(a.shape[0]):
+        for col in range(b.shape[1]):
+            weights_x_activation = numpy.multiply(a[row],b[:,col])
+            element = sum(weights_x_activation)
+            new_array[row][col]=element
+    return new_array
 
 def softmax(x):
     """Compute softmax values for each sets of scores in x."""
@@ -123,7 +133,7 @@ with graph.as_default():
             batch_predictions_scores = sess.run([predictions, scores,conv_mp3,before_predictions,b,pool_mp3,h_drop,conv_lensequence,relu_mp3, embedding_W], {input_x: x_test_batch, dropout_keep_prob: 1.0})
            # all_vars=tf.trainable_variables()0]],message="this is conv outputs")
             predictions_result = batch_predictions_scores[0]
-            print(predictions_result , "is p")
+            #print(predictions_result , "is p") list of batch_size predictions
             probabilities = softmax(batch_predictions_scores[1])
             weights = batch_predictions_scores[3]
             b_result=batch_predictions_scores[4]
@@ -137,6 +147,8 @@ with graph.as_default():
             #all_w = np.concatenate([all_w, weights])
 
             xW=np.matmul(x_result,weights)
+            print(matrix_multipy(x_result, weights)==xW)
+
             
             embedding_W_result = batch_predictions_scores[9]
             
@@ -147,7 +159,7 @@ with graph.as_default():
             #print(xW+b_result, "is xw + b")
             # print(batch_predictions_scores[1], "is plain scores")
             # print(softmax(batch_predictions_scores[1]), "is softmax scores")
-            print(all_predictions, "is all_predictions")
+            #print(all_predictions, "is all_predictions")
             # print(probabilities, " is scores")
             # #conv_mp3 = batch_predictions_scores[2]
             # print(conv_mp3.shape, "is shape")
