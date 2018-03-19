@@ -1,20 +1,60 @@
-i: 35
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
 i: 2
 trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 83
+i: 68
+trigrams: following is a,good morning heres,in the summer,throughout this bitter,half slave and,good morning heres,americas first illegal,more briefings and,a london based,election has resurrected,
+i: 70
 trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 36
+i: 74
+trigrams: has been badly,is that shed,to a long,ivanka trump the,,resolved a frenzy,calif as americans,said i just,reporting that have,mr ryan if,
+i: 14
+trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
+i: 79
+trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
+i: 17
+trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
+i: 18
+trigrams: has already said,brexit plus plus,that he was,,that covers gun,decisions that president,the alt right,brutal reputation in,western michigan ,,,
+i: 83
 trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
 i: 22
 trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 70
+i: 26
+trigrams: voters turned their,,,out in chevy,7 30 p,that the meeting,it may have,luring investment to,nation it hasnt,raised for his,
+i: 93
+trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
+i: 101
+trigrams: telling mr trump,, broccoli casseroles,,health club memberships,tremendous respect its,would say the,, brooklyn the,americas great failure,,,
+i: 32
+trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
+i: 35
+trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
+i: 36
+trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
+i: 6
+trigrams: they drank at,and i hope,her husband ,,,,, from hail,,theory , information,,, show in,
+i: 102
 trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
 i: 103
 trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 26
-trigrams: voters turned their,,,out in chevy,7 30 p,that the meeting,it may have,luring investment to,nation it hasnt,raised for his,
-i: 102
+i: 39
 trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 79
+i: 108
+trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
+i: 50
+trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,after the stunning,after the stunning,
+i: 110
+trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
+i: 114
+trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
+i: 19
+trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,after the stunning,after the stunning,after the stunning,after the stunning,
+i: 54
+trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
+i: 121
+trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
+i: 58
+trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
+i: 123
+trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
+i: 63
 trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
