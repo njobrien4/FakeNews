@@ -55,11 +55,11 @@ def make_weight_histogram(weights):
 	plt.figure(1)
 	plt.subplot(211)
 	plt.title("Weights for Fake News Indicator")
-	plt.hist(weights[:,0], range = [-0.3,0.3])
+	plt.hist(weights[:,0], bins = 20, range = [-0.3,0.3])
 
 	plt.subplot(212)
 	plt.title("Weights for Real News Indicator")
-	plt.hist(weights[:,1], range = [-0.3,0.3])
+	plt.hist(weights[:,1], bins=20, range = [-0.3,0.3])
 	plt.show()
 
 	# from data helpers: 
@@ -73,7 +73,7 @@ def get_n_best_neurons(weights, n,abs_value = False):
 	list_0_neg = arr_0.argsort()[:n]
 	arr_1 = weights[:,1]
 	list_1=arr_1.argsort()[-n:][::-1]
-	list_0_neg = arr_0.argsort()[:n]
+	list_1_neg = arr_0.argsort()[:n]
 	#return weights for fake news, weights for real news
 	return list_0, list_1, list_0_neg, list_1_neg
 
