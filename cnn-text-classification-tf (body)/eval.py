@@ -123,6 +123,7 @@ with graph.as_default():
             batch_predictions_scores = sess.run([predictions, scores,conv_mp3,before_predictions,b,pool_mp3,h_drop,conv_lensequence,relu_mp3, embedding_W], {input_x: x_test_batch, dropout_keep_prob: 1.0})
            # all_vars=tf.trainable_variables()0]],message="this is conv outputs")
             predictions_result = batch_predictions_scores[0]
+            print(predictions_result , "is p")
             probabilities = softmax(batch_predictions_scores[1])
             weights = batch_predictions_scores[3]
             b_result=batch_predictions_scores[4]
@@ -132,21 +133,21 @@ with graph.as_default():
             relu_result = batch_predictions_scores[8]
 
             all_predictions = np.concatenate([all_predictions, batch_predictions_scores[0]])
-            all_x = np.concatenate([all_x, x_result])
-            all_w = np.concatenate([all_w, weights])
+            #all_x = np.concatenate([all_x, x_result])
+            #all_w = np.concatenate([all_w, weights])
 
             xW=np.matmul(x_result,weights)
             
             embedding_W_result = batch_predictions_scores[9]
             
-            print(x_result.shape, "is x shape")
-            print(weights.shape, "is weights shape")
-            print(xW, "is xW")
-            print(b_result, "is b result")
-            print(xW+b_result, "is xw + b")
+            #print(np.array(x_result).shape, "is x shape")
+            #print(np.array(weights).shape, "is weights shape")
+            #print(xW, "is xW")
+            #print(b_result, "is b result")
+            #print(xW+b_result, "is xw + b")
             # print(batch_predictions_scores[1], "is plain scores")
             # print(softmax(batch_predictions_scores[1]), "is softmax scores")
-            # print(all_predictions, "is all_predictions")
+            print(all_predictions, "is all_predictions")
             # print(probabilities, " is scores")
             # #conv_mp3 = batch_predictions_scores[2]
             # print(conv_mp3.shape, "is shape")
@@ -192,8 +193,8 @@ with open(out_path, 'w') as f:
 #print(best_trigrams)
 
 
-print(all_x.shape, "is x shape")
-print(all_w.shape, "is weights shape")
+#print(all_x.shape, "is x shape")
+#print(all_w.shape, "is weights shape")
 
 def write_trigram_dict(filename, dictionary):
     with open(filename, 'w') as f: 
