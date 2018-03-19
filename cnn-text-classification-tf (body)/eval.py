@@ -26,7 +26,7 @@ def get_wi_ai(a,b):
     a=np.array(a)
     b=np.array(b)
     new_array = np.zeros((a.shape[0], b.shape[1]))
-    batch_relevant
+    batch_relevant=[]
     for row in range(a.shape[0]):
         relevant = np.zeros((2, 128))
         for col in range(b.shape[1]):
