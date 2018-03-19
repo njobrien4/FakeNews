@@ -11,16 +11,29 @@ from sklearn import metrics
 import interpret
 #import yaml
 
-def matrix_multipy(a, b):
+def matrix_multiply(a, b):
     a=np.array(a)
     b=np.array(b)
     new_array = np.zeros((a.shape[0], b.shape[1]))
     for row in range(a.shape[0]):
         for col in range(b.shape[1]):
-            weights_x_activation = numpy.multiply(a[row],b[:,col])
+            weights_x_activation = np.multiply(a[row],b[:,col])
             element = sum(weights_x_activation)
             new_array[row][col]=element
     return new_array
+
+def get_wi_ai(a,b):
+    a=np.array(a)
+    b=np.array(b)
+    new_array = np.zeros((a.shape[0], b.shape[1]))
+    batch_relevant
+    for row in range(a.shape[0]):
+        relevant = np.zeros((2, 128))
+        for col in range(b.shape[1]):
+            weights_x_activation = np.multiply(a[row],b[:,col])
+            relevant[col]=weights_x_activation
+        batch_relevant.append(relevant)
+    return batch_relevant
 
 def softmax(x):
     """Compute softmax values for each sets of scores in x."""
@@ -127,6 +140,8 @@ with graph.as_default():
         all_x = []
         all_w = []
 
+        all_wi_ai=[]
+
         best_trigrams ={}
         ind=0
         for x_test_batch in batches:
@@ -147,8 +162,7 @@ with graph.as_default():
             #all_w = np.concatenate([all_w, weights])
 
             xW=np.matmul(x_result,weights)
-            print(matrix_multipy(x_result, weights)==xW)
-
+            all_wi_ai=np.concatenate([all_wi_ai, get_wi_ai(x_result, weights)])
             
             embedding_W_result = batch_predictions_scores[9]
             
@@ -204,8 +218,8 @@ with open(out_path, 'w') as f:
     csv.writer(f).writerows(predictions_human_readable)
 #print(best_trigrams)
 
-
-#print(all_x.shape, "is x shape")
+print(len(all_wi_ai))
+print(np.array(all_wi_ai).shape, "is all wi ai shape")
 #print(all_w.shape, "is weights shape")
 
 def write_trigram_dict(filename, dictionary):
