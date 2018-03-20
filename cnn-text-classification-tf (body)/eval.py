@@ -163,7 +163,7 @@ with graph.as_default():
 
             xW=np.matmul(x_result,weights)
             print( get_wi_ai(x_result, weights).shape, "Is single wiai shape")
-            all_wi_ai=np.concatenate([all_wi_ai, get_wi_ai(x_result, weights)])
+            all_wi_ai.append(get_wi_ai(x_result, weights))
             
             embedding_W_result = batch_predictions_scores[9]
             
