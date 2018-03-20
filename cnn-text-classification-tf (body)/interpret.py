@@ -67,7 +67,7 @@ def make_weight_histogram(weights):
     # negative_labels = [[1, 0] for _ in negative_examples]
 
 def get_n_best_neurons(weights, n,abs_value = False):
-	print(weights, weights.shape)
+	#print(weights, weights.shape)
 	arr_0 = weights[:,0]
 	list_0=arr_0.argsort()[-n:][::-1]
 	list_0_neg = arr_0.argsort()[:n]

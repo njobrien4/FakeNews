@@ -219,8 +219,8 @@ with open(out_path, 'w') as f:
     csv.writer(f).writerows(predictions_human_readable)
 #print(best_trigrams)
 
-print(len(all_wi_ai))
-print(np.array(all_wi_ai).shape, "is all wi ai shape")
+#print(len(all_wi_ai))
+#print(np.array(all_wi_ai).shape, "is all wi ai shape")
 #print(all_w.shape, "is weights shape")
 
 def write_trigram_dict(filename, dictionary):
@@ -264,5 +264,7 @@ write_trigram_dict('worst_n_real_neurons.txt',worst_real_neurons)
 
 np.save("weights",weights)
 
+np.save("all_wi_ai", all_wi_ai)
 
+print(x_raw[:2], "is x_raw[:2]")
 
