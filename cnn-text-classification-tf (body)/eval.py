@@ -33,7 +33,7 @@ def get_wi_ai(a,b):
             weights_x_activation = np.multiply(a[row],b[:,col])
             relevant[col]=weights_x_activation
         batch_relevant.append(relevant)
-    return batch_relevant
+    return np.array(batch_relevant)
 
 def softmax(x):
     """Compute softmax values for each sets of scores in x."""
