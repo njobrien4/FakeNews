@@ -143,6 +143,8 @@ with graph.as_default():
         all_wi_ai=np.zeros((0,2,128))
 
         best_trigrams ={}
+        n=5
+        all_top_n_neurons=np.zeros((0))
         ind=0
         for x_test_batch in batches:
             batch_predictions_scores = sess.run([predictions, scores,conv_mp3,before_predictions,b,pool_mp3,h_drop,conv_lensequence,relu_mp3, embedding_W], {input_x: x_test_batch, dropout_keep_prob: 1.0})
@@ -163,7 +165,8 @@ with graph.as_default():
 
             xW=np.matmul(x_result,weights)
             #print( get_wi_ai(x_result, weights).shape, "Is single wiai shape")
-            all_wi_ai = np.concatenate([all_wi_ai, get_wi_ai(x_result, weights)])
+            batch_wi_ai = get_wi_ai(x_result, weights)
+            all_wi_ai = np.concatenate([all_wi_ai, batch_wi_ai])
             
             embedding_W_result = batch_predictions_scores[9]
             
@@ -181,8 +184,9 @@ with graph.as_default():
            # print(sums[0][:20],sums[1][:20])
            # print(conv_mp3, "is convmp3")
             
-            best_trigrams = interpret.interpret_many(x_raw,relu_result, pool_post_relu, best_trigrams)
+            best_trigrams, top_n_neurons = interpret.interpret_many(x_raw,relu_result, pool_post_relu, batch_wi_ai, best_trigrams, n=n)
            # print (len(best_trigrams[1]), "is len best_trigrams[1]")
+            all_top_n_neurons.append(top_n_neurons)
             if all_probabilities is not None:
                 all_probabilities = np.concatenate([all_probabilities, probabilities])
             else:
@@ -246,6 +250,8 @@ def write_trigram_dict(filename, dictionary):
                 f.write(trigram+",")
             f.write('\n')
 
+
+
 best_n_trigrams = interpret.get_best_n_for_each_neuron(best_trigrams,15)
 
 write_trigram_dict('best_trigrams.txt',best_trigrams)
@@ -262,9 +268,14 @@ write_trigram_dict('worst_n_fake_neurons.txt', worst_fake_neurons)
 write_trigram_dict('best_n_real_neurons.txt', best_real_neurons)
 write_trigram_dict('worst_n_real_neurons.txt',worst_real_neurons)
 
+import pickle
+with open("all_top_n_neurons.txt", 'wb') as f:
+    pickle.dump(all_top_n_neurons, f)
+np.save("all_top_n_neurons", all_top_n_neurons)
+
 np.save("weights",weights)
 
 np.save("all_wi_ai", all_wi_ai)
 
-print(x_raw[:2], "is x_raw[:2]")
+#print(x_raw[:2], "is x_raw[:2]") #each x_raw is a string
 
