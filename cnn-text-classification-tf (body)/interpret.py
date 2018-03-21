@@ -15,7 +15,7 @@ def interpret_many(x_raw, relu, pool, all_wi_ai, best_trigrams = {}, n=5):
 	for i in range(pool.shape[0]):
 		best_trigrams = interpret(text_lists[i],relu[i], pool[i], best_trigrams)
 		weights = all_wi_ai[i].T #2 x 128 --> 128 x 2
-		top_n_neurons.append([get_n_best_neurons(weights)])
+		top_n_neurons.append([get_n_best_neurons(weights,5)])
 	#print(best_trigrams)
 	return best_trigrams, top_n_neurons
 
