@@ -144,7 +144,7 @@ with graph.as_default():
 
         best_trigrams ={}
         n=5
-        all_top_n_neurons=np.zeros((0))
+        all_top_n_neurons=[]
         ind=0
         for x_test_batch in batches:
             batch_predictions_scores = sess.run([predictions, scores,conv_mp3,before_predictions,b,pool_mp3,h_drop,conv_lensequence,relu_mp3, embedding_W], {input_x: x_test_batch, dropout_keep_prob: 1.0})
