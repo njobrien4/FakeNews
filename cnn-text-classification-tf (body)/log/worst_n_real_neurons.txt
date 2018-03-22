@@ -1,60 +1,60 @@
-i: 1
-trigrams: 52 in october,to putting them,500 , 000,piece of verse,under the headline,her to his,mr trump believes,, wisconsin and,compete directly with,has succeeded in,about what hes,devised software to,traveling on air,russian networks and,, which was,
-i: 66
-trigrams: hard line conservative,to get into,, for the,union said it,,, said valente,a figure to,in the pacific,was already the,,, frank forbes,4 magnitude quake,,like cancer research,federal judge who,
-i: 4
-trigrams: ,mr trumps charity,about the role,are foreign born,egypt , iran,hillary clinton but,, something he,according to multiple,butter , melted,toward the center,mean for american,, the nevada,, that students,in her hometown,trump for anyone,
-i: 69
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 8
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 76
-trigrams: gates and with,by the presidential,the meeting be,but privately run,\) a stronger,and treating him,who has multiple,,like stephen a,,,in which hughes,meal for its,, 10 p,south korea have,
-i: 10
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
+i: 0
+trigrams: throughout this bitter,morning heres what,alien amnesty wasnt,newsletter you can,new york city,half free the,following is a,, to 21,rooted in fact,, with a,of a team,the fight for,narrow confirmation of,donald j trump,they fretted about,
+i: 5
+trigrams: throughout this bitter,morning heres what,is a transcript,president obama gave,half free the,the summer of,alien amnesty wasnt,and the regular,city was hardly,south carolina is,reporters and photographers,7 49 a,and while these,civilian honor ,,and twitter posts,
+i: 73
+trigrams: throughout this bitter,of reporters and,skilled workers young,rocketed over the,good morning heres,\) , you,has resurrected the,declared that campaigning,illegal alien amnesty,dominated by bros,, id urge,by all accounts,following is a,, this serio,a result of,
 i: 75
 trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 12
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 14
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 15
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 16
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 18
-trigrams: has already said,brexit plus plus,that he was,,that covers gun,decisions that president,the alt right,brutal reputation in,western michigan ,,,and china ,,the schools community,to invest in,cooked well past,majorities in the,
-i: 20
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 21
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 24
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 25
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 30
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 95
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 123
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 41
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 106
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 46
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 110
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
+i: 13
+trigrams: throughout this bitter,half slave and,donald j trump,good morning heres,of a team,illegal alien amnesty,a public rebuttal,times and some,, the retired,go up then,skilled workers young,press freedoms overseas,election , new,atlanta gov nikki,officers and the,
+i: 78
+trigrams: throughout this bitter,j trump moved,dampened a bit,alien amnesty wasnt,reporters and photographers,they live across,morning heres what,flag in the,interpretation \( sorry,half free the,trump has broadened,city was hardly,of a team,president elect donald,and respect ,,
+i: 80
+trigrams: dampened a bit,new york based,alien amnesty wasnt,throughout this bitter,7 49 a,series of events,you need to,last week from,morning heres what,audition for some,j trump moved,from the networks,dissembles more frequently,\? get to,of back and,
+i: 23
+trigrams: of bomb sniffing,reporters and photographers,illegal alien amnesty,american jewel ,,the retired neurosurgeon,is a transcript,favors free markets,our publisher at,the risk of,everything seems intentional,throughout this bitter,donald j trump,step \? get,honor , to,m good morning,
+i: 88
+trigrams: if that sounds,and marathon womanizer,morning heres what,reporters and photographers,throughout this bitter,to be his,were ready to,bryant q what,, said al,they come under,many hands will,lilly , a,j trump moved,but since i,she instead reported,
+i: 90
+trigrams: highly constrained in,and our publisher,over the last,the mosul offensive,relationship between the,congregate for the,reporters and photographers,was an early,, germany and,herbert yardley ,,resurrected the fiasco,last week from,a coast guard,know after a,a room with,
+i: 91
+trigrams: throughout this bitter,with trump since,two bailed out,of a team,and half free,is a transcript,reporters and photographers,campaign , liberal,times insider delivers,and reporters at,what you need,morning heres what,with a colorful,i dont want,daily in your,
+i: 29
+trigrams: throughout this bitter,reporters and photographers,join them in,of a team,series of events,good morning heres,since i had,housing and urban,in manhattan our,donald j trump,alien amnesty wasnt,will be subject,corporations and individuals,how to fix,wasnt the biggest,
+i: 96
+trigrams: americas first illegal,following is a,the election has,throughout this bitter,, 7 49,half slave and,good morning heres,chocolate bricks stamped,with times journalists,, that was,new york based,this weekend outside,times insider delivers,the run up,of trump tower,
+i: 33
+trigrams: throughout this bitter,rocketed over the,good morning heres,a budget of,include whether operations,of reporters and,, this serio,of a team,, the first,by the thefts,security checks in,alien amnesty wasnt,, a new,trump will allow,publisher of the,
+i: 98
+trigrams: americas first illegal,atlanta gov nikki,donald trump schlepped,donald trump schlepped,following is a,good morning heres,good morning heres,half slave and,in the run,in the summer,jon batiste christmas,london once again,mr ponomarev ,,mr ponomarev ,,palm beach ,,
+i: 27
+trigrams: resurrected the fiasco,highly constrained in,atlanta gov nikki,a team set,good morning on,greens union in,they live across,will ask ,,palm beach ,,,morning heres what,interpretation \( sorry,a room with,j trump moved,a long strip,
+i: 100
+trigrams: of housing and,throughout this bitter,resurrected the fiasco,clout and plotting,be highly constrained,new york based,freedom than any,alien amnesty wasnt,is a transcript,although they decided,morning heres what,a team set,of reporters and,donald j trump,publisher at our,
+i: 104
+trigrams: ways these successes,all sorts of,a result of,fact not open,floor of trump,an email keeping,transition has been,on a shelf,after the stunning,bowls of roasted,although they decided,, the book,to indicate that,viewpoint embraced by,were still talking,
+i: 42
+trigrams: resurrected the fiasco,highly constrained in,throughout this bitter,fact not open,interpretation \( sorry,amendment of the,the presidential medal,this article is,the choice of,to an enormous,with trump since,mr trump gave,i think ,,at the big,third of all,
+i: 43
+trigrams: after the stunning,americas first illegal,donald j trump,following is a,good morning heres,good morning heres,good morning heres,half slave and,houston before the,in the run,in the run,in the summer,in the summer,it is the,it is the,
+i: 44
+trigrams: throughout this bitter,elect donald j,fact not open,j trump moved,york city ,,who were ready,everything seems intentional,alien amnesty wasnt,an outsiders campaign,they live across,a team set,dodd frank established,headquarters , as,publisher at our,for his second,
+i: 109
+trigrams: \( want to,\( want to,americas first illegal,americas first illegal,at thanksgiving ,,at thanksgiving ,,donald j trump,following is a,following is a,for his second,good morning heres,good morning heres,good morning heres,half slave and,half slave and,
 i: 47
 trigrams: j trump moved,morning heres what,housing and urban,with trump since,a bit by,following is a,, to 21,elect to visit,half free the,york city was,fact not open,throughout this bitter,a public rebuttal,provided a vast,wealthy republican philanthropist,
+i: 48
+trigrams: throughout this bitter,and half free,of reporters and,, new york,time michael ricatto,to fix fannie,free the last,favors free markets,to audition for,tuesday morning ,,in the summer,7 99 theres,, im thankful,whether his choices,subjecting our hosts,
 i: 116
 trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 52
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 31
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 125
-trigrams: the end of,,, i would,, ordered the,,crowd of onlookers,,turkeys unless he,to reconsider mr,her workers typically,east and southwest,queens 65 knicks,i left saying,2018 , said,,
-i: 126
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
+i: 53
+trigrams: throughout this bitter,good morning heres,president elect donald,encounter with trump,chosen as secretary,and twitter posts,based advocacy group,following is a,of a team,illegal alien amnesty,trump dissembles more,ambitious regulations but,honor , to,m good morning,, with a,
+i: 55
+trigrams: has resurrected the,fact not open,a room with,j trump moved,mr trump will,a bit by,this thanksgiving \?,era , will,by the thefts,is a transcript,prompted a public,president obama gave,12 education betsy,abandon americas commitment,transition has been,
+i: 56
+trigrams: housing and urban,planned to adhere,alien amnesty wasnt,a team set,j trump moved,vast majority of,, these young,, and was,7 49 a,his similarities to,corporate gifts and,extensive experience in,been going out,varying ideological hues,is a transcript,
+i: 57
+trigrams: that emphasizes his,housing and urban,at which the,hurt the clintons,, is the,into the promotion,taking the risk,amiable he blasted,jewel , mr,to the present,new york times,good morning heres,palm beach ,,publisher at our,is a transcript,
+i: 61
+trigrams: throughout this bitter,, and earned,but some aspects,wouldnt seek to,a room with,talked like people,in line at,in fact not,administration officials suggest,no skinny dipping,the paper as,this article is,will ask ,,is a transcript,said at the,
