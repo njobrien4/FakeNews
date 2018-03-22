@@ -90,7 +90,7 @@ def make_wi_ai_histogram(all_wi_ai, ind = None):
 	plt.hist(real_news)
 	plt.show()
 
-def make_top_neuron_histogram(all_top_n_neurons):
+def make_top_neuron_histogram(all_top_neurons):
 	fake_news_pos = [top_n[0] for top_n in all_top_neurons]
 	real_news_pos = [top_n[1] for top_n in all_top_neurons]
 	fake_news_pos = [top_n[2] for top_n in all_top_neurons]
