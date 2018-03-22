@@ -186,7 +186,7 @@ with graph.as_default():
             
             best_trigrams, top_n_neurons = interpret.interpret_many(x_raw,relu_result, pool_post_relu, batch_wi_ai, best_trigrams, n=n)
            # print (len(best_trigrams[1]), "is len best_trigrams[1]")
-            all_top_n_neurons.append(top_n_neurons)
+            all_top_n_neurons+=top_n_neurons
             if all_probabilities is not None:
                 all_probabilities = np.concatenate([all_probabilities, probabilities])
             else:
@@ -271,7 +271,6 @@ write_trigram_dict('worst_n_real_neurons.txt',worst_real_neurons)
 import pickle
 with open("all_top_n_neurons.txt", 'wb') as f:
     pickle.dump(all_top_n_neurons, f)
-np.save("all_top_n_neurons", all_top_n_neurons)
 
 np.save("weights",weights)
 
