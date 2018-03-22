@@ -90,9 +90,30 @@ def make_wi_ai_histogram(all_wi_ai, ind = None):
 	plt.hist(real_news)
 	plt.show()
 
+def make_top_neuron_histogram(all_top_n_neurons):
+	fake_news_pos = [top_n[0] for top_n in all_top_neurons]
+	real_news_pos = [top_n[1] for top_n in all_top_neurons]
+	fake_news_pos = [top_n[2] for top_n in all_top_neurons]
+	fake_news_neg = [top_n[3] for top_n in all_top_neurons]
 
 
-	# from data helpers: 
+	# from data helpers: plt.figure(1)
+	plt.subplot(211)
+	plt.title("Most positive for Fake News Indicator")
+	plt.hist(fake_news_pos)
+
+	plt.subplot(212)
+	plt.title("Most positive for Real News Indicator")
+	plt.hist(real_news_pos)
+	plt.show()
+
+	plt.subplot(221)
+	plt.title("Most negative for Fake News Indicator")
+	plt.hist(fake_news_neg)
+
+	plt.subplot(222)
+	plt.title("Most negative for Real News Indicator")
+	plt.hist(real_news_neg)
     # positive_labels = [[0, 1] for _ in positive_examples]
     # negative_labels = [[1, 0] for _ in negative_examples]
 
@@ -117,5 +138,6 @@ def get_info(ind, all_wi_ai, all_top_neurons):
 	print(all_top_neurons[ind], "is all top neurons[ind]")
 	all_wi_ai=np.load(cur_dir+all_wi_ai)
 	make_wi_ai_histogram(all_wi_ai, ind)
+	make_top_neuron_histogram(all_top_neurons)
 
 
