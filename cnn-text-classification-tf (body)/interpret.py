@@ -1,5 +1,5 @@
 import numpy as np
-#import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 def interpret_many(x_raw, relu, pool, all_wi_ai, best_trigrams = {}, n=5):
 	#print(pool.shape, "is pool shape ")
 	pool = pool.squeeze() #should be len(x_raw) x num_filters (128)
@@ -81,7 +81,7 @@ def make_wi_ai_histogram(all_wi_ai, ind = None):
 		#plot x_raw[ind] weights*activation for real news indicator
 		real_news=wi_ai[1]
 	plt.figure(1)
-	pt.subplot(211)
+	plt.subplot(211)
 	plt.title("W_i * a_i for Fake News Indicator")
 	plt.hist(fake_news)
 
@@ -103,7 +103,7 @@ def get_n_best_neurons(weights, n,abs_value = False):
 	list_0_neg = arr_0.argsort()[:n]
 	arr_1 = weights[:,1]
 	list_1=arr_1.argsort()[-n:][::-1]
-	list_1_neg = arr_0.argsort()[:n]
+	list_1_neg = arr_1.argsort()[:n]
 	#return weights for fake news, weights for real news
 	return list_0, list_1, list_0_neg, list_1_neg
 
@@ -115,6 +115,7 @@ def get_info(ind, all_wi_ai, all_top_neurons):
 	print(all_top_neurons[0], "is all top neurons[0]")
 	print(len(all_top_neurons), "is len all top neuruons")
 	print(all_top_neurons[ind], "is all top neurons[ind]")
-	make_wi_ai_histogram(cur_dir+all_wi_ai, ind)
+	all_wi_ai=np.load(cur_dir+all_wi_ai)
+	make_wi_ai_histogram(all_wi_ai, ind)
 
 
