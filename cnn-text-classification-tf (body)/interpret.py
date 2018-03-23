@@ -90,30 +90,71 @@ def make_wi_ai_histogram(all_wi_ai, ind = None):
 	plt.hist(real_news)
 	plt.show()
 
+def make_list_of_arrays_into_list(l):
+	total_arr = []
+	for array in l:
+		for num in array:
+			total_arr.append(num)
+	return total_arr
+
+def label_peaks(ax, li):
+	for i in range(129):
+		count = li.count(i)
+		if count>5:
+			ax.annotate(i, xy=(i,count))
+
+
 def make_top_neuron_histogram(all_top_neurons):
-	fake_news_pos = [top_n[0] for top_n in all_top_neurons]
-	real_news_pos = [top_n[1] for top_n in all_top_neurons]
-	fake_news_pos = [top_n[2] for top_n in all_top_neurons]
-	fake_news_neg = [top_n[3] for top_n in all_top_neurons]
+	fake_news_pos = make_list_of_arrays_into_list([top_n[0][0] for top_n in all_top_neurons])
+	real_news_pos = make_list_of_arrays_into_list([top_n[0][1] for top_n in all_top_neurons])
+	fake_news_neg = make_list_of_arrays_into_list([top_n[0][2] for top_n in all_top_neurons])
+	real_news_neg = make_list_of_arrays_into_list([top_n[0][3] for top_n in all_top_neurons])
 
 
 	# from data helpers: plt.figure(1)
-	plt.subplot(211)
+	ax = plt.subplot(221)
 	plt.title("Most positive for Fake News Indicator")
-	plt.hist(fake_news_pos)
+	plt.xticks(np.arange(0,129,1))
+	plt.ylabel('count')
+	plt.xlabel('neuron number')
+	plt.hist(fake_news_pos, bins=128)
+	labels = [str(i) if i%10==0 else '' for i in range(129)]
+	ax.set_xticklabels(labels)
+	label_peaks(ax,fake_news_pos)
 
-	plt.subplot(212)
+	ax2 = plt.subplot(222)
 	plt.title("Most positive for Real News Indicator")
-	plt.hist(real_news_pos)
-	plt.show()
+	plt.ylabel('count')
+	plt.xlabel('neuron number')
+	plt.xticks(np.arange(0,129,1))
+	plt.hist(real_news_pos, bins = 128)
+	labels = [str(i) if i%10==0 else '' for i in range(129)]
+	ax2.set_xticklabels(labels)
+	label_peaks(ax2,real_news_pos)
+	
 
-	plt.subplot(221)
+	ax3 = plt.subplot(223)
 	plt.title("Most negative for Fake News Indicator")
-	plt.hist(fake_news_neg)
+	plt.ylabel('count')
+	plt.xlabel('neuron number')
+	plt.xticks(np.arange(0,129,1))
+	plt.hist(fake_news_neg, bins = 128)
+	labels = [str(i) if i%10==0 else '' for i in range(129)]
+	ax3.set_xticklabels(labels)
+	label_peaks(ax3,fake_news_neg)
 
-	plt.subplot(222)
+	ax4 = plt.subplot(224)
 	plt.title("Most negative for Real News Indicator")
-	plt.hist(real_news_neg)
+	#plt.hist(real_news_neg, bins = 128)
+	plt.ylabel('count')
+	plt.xlabel('neuron number')
+	plt.xticks(np.arange(0,129,1))
+	plt.hist(real_news_neg, bins = 128)
+	labels = [str(i) if i%10==0 else '' for i in range(129)]
+	ax4.set_xticklabels(labels)
+	label_peaks(ax4,real_news_pos)
+	plt.savefig('Most_relevant_neurons.png')
+	plt.show()
     # positive_labels = [[0, 1] for _ in positive_examples]
     # negative_labels = [[1, 0] for _ in negative_examples]
 
@@ -121,10 +162,14 @@ def get_n_best_neurons(weights, n,abs_value = False):
 	#print(weights, weights.shape) #128 x 2
 	arr_0 = weights[:,0]
 	list_0=arr_0.argsort()[-n:][::-1]
+	list_0 = [(element, arr_0[element]) for element in list_0]
 	list_0_neg = arr_0.argsort()[:n]
+	list_0_neg = [(element, arr_0[element]) for element in list_0_neg]
 	arr_1 = weights[:,1]
 	list_1=arr_1.argsort()[-n:][::-1]
+	list_1 = [(element, arr_1[element]) for element in list_1]
 	list_1_neg = arr_1.argsort()[:n]
+	list_1_neg = [(element, arr_1[element]) for element in list_1_neg]
 	#return weights for fake news, weights for real news
 	return list_0, list_1, list_0_neg, list_1_neg
 
@@ -138,6 +183,16 @@ def get_info(ind, all_wi_ai, all_top_neurons):
 	print(all_top_neurons[ind], "is all top neurons[ind]")
 	all_wi_ai=np.load(cur_dir+all_wi_ai)
 	make_wi_ai_histogram(all_wi_ai, ind)
+	
+
+def make_top_5_histogram():
+	import pickle
+	cur_dir = "log/"
+	all_top_neurons="all_top_n_neurons.txt"
+	with open(cur_dir+all_top_neurons, 'rb') as f:
+		all_top_neurons = pickle.load(f)
 	make_top_neuron_histogram(all_top_neurons)
+
+
 
 
