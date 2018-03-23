@@ -179,10 +179,6 @@ def get_info(ind, all_wi_ai, all_top_neurons):
 	import pickle
 	with open(cur_dir+all_top_neurons, 'rb') as f:
 		all_top_neurons = pickle.load(f) #all top neurons has most relevant neurons for each x_raw
-	ind_top_neurons = all_top_neurons[ind][0]
-	print(ind_top_neurons[0][0])
-	for i in range()
-	ind_top_neurons=[(element[0],round(element[1],2)) for element in ind_top_neurons]
 	print(all_top_neurons[ind], "is all top neurons[ind]")
 	all_wi_ai=np.load(cur_dir+all_wi_ai)
 	make_wi_ai_histogram(all_wi_ai, ind)
