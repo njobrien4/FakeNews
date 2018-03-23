@@ -250,7 +250,8 @@ def write_trigram_dict(filename, dictionary):
                 f.write(trigram+",")
             f.write('\n')
 
-
+def first_element_from_tuples(tuple_list):
+    return [element[0] for element in tuple_list]
 
 best_n_trigrams = interpret.get_best_n_for_each_neuron(best_trigrams,15)
 
@@ -259,10 +260,10 @@ write_trigram_dict('best_n_trigrams.txt',best_n_trigrams)
 
 best_neurons_fake, best_neurons_real, worst_neurons_fake, worst_neurons_real = interpret.get_n_best_neurons(weights,30)
 #make_weight_histogram(weights)
-best_fake_neurons = {key : best_n_trigrams[key] for key in best_neurons_fake}
-best_real_neurons = {key: best_n_trigrams[key] for key in best_neurons_real}
-worst_fake_neurons = {key: best_n_trigrams[key] for key in worst_neurons_fake}
-worst_real_neurons = {key: best_n_trigrams[key] for key in worst_neurons_real}
+best_fake_neurons = {key : best_n_trigrams[key] for key in first_element_from_tuples(best_neurons_fake)}
+best_real_neurons = {key: best_n_trigrams[key] for key in first_element_from_tuples(best_neurons_real)}
+worst_fake_neurons = {key: best_n_trigrams[key] for key in first_element_from_tuples(worst_neurons_fake)}
+worst_real_neurons = {key: best_n_trigrams[key] for key in first_element_from_tuples(worst_neurons_real)}
 write_trigram_dict('best_n_fake_neurons.txt',best_fake_neurons)
 write_trigram_dict('worst_n_fake_neurons.txt', worst_fake_neurons)
 write_trigram_dict('best_n_real_neurons.txt', best_real_neurons)
