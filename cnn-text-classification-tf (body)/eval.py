@@ -255,6 +255,9 @@ def first_element_from_tuples(tuple_list):
 
 best_n_trigrams = interpret.get_best_n_for_each_neuron(best_trigrams,15)
 
+with open("best_trigrams_pickle.txt", 'wb') as f2:
+    pickle.dump(best_trigrams, f2)
+
 write_trigram_dict('best_trigrams.txt',best_trigrams)
 write_trigram_dict('best_n_trigrams.txt',best_n_trigrams)
 
