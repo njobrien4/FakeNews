@@ -162,24 +162,27 @@ def get_n_best_neurons(weights, n,abs_value = False):
 	#print(weights, weights.shape) #128 x 2
 	arr_0 = weights[:,0]
 	list_0=arr_0.argsort()[-n:][::-1]
-	list_0 = [(element, arr_0[element]) for element in list_0]
+	list_0 = [(element, round(arr_0[element],2)) for element in list_0]
 	list_0_neg = arr_0.argsort()[:n]
-	list_0_neg = [(element, arr_0[element]) for element in list_0_neg]
+	list_0_neg = [(element, round(arr_0[element],2)) for element in list_0_neg]
 	arr_1 = weights[:,1]
 	list_1=arr_1.argsort()[-n:][::-1]
-	list_1 = [(element, arr_1[element]) for element in list_1]
+	list_1 = [(element, round(arr_1[element],2)) for element in list_1]
 	list_1_neg = arr_1.argsort()[:n]
-	list_1_neg = [(element, arr_1[element]) for element in list_1_neg]
+	list_1_neg = [(element, round(arr_1[element],2)) for element in list_1_neg]
 	#return weights for fake news, weights for real news
 	return list_0, list_1, list_0_neg, list_1_neg
+
 
 def get_info(ind, all_wi_ai, all_top_neurons):
 	cur_dir = "log/"
 	import pickle
 	with open(cur_dir+all_top_neurons, 'rb') as f:
 		all_top_neurons = pickle.load(f) #all top neurons has most relevant neurons for each x_raw
-	print(all_top_neurons[0], "is all top neurons[0]")
-	print(len(all_top_neurons), "is len all top neuruons")
+	ind_top_neurons = all_top_neurons[ind][0]
+	print(ind_top_neurons[0][0])
+	for i in range()
+	ind_top_neurons=[(element[0],round(element[1],2)) for element in ind_top_neurons]
 	print(all_top_neurons[ind], "is all top neurons[ind]")
 	all_wi_ai=np.load(cur_dir+all_wi_ai)
 	make_wi_ai_histogram(all_wi_ai, ind)
