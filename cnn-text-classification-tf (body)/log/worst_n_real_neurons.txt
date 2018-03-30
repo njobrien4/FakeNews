@@ -1,60 +1,60 @@
-i: 0
-trigrams: throughout this bitter,morning heres what,alien amnesty wasnt,newsletter you can,new york city,half free the,following is a,, to 21,rooted in fact,, with a,of a team,the fight for,narrow confirmation of,donald j trump,they fretted about,
-i: 5
-trigrams: throughout this bitter,morning heres what,is a transcript,president obama gave,half free the,the summer of,alien amnesty wasnt,and the regular,city was hardly,south carolina is,reporters and photographers,7 49 a,and while these,civilian honor ,,and twitter posts,
+i: 64
+trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
+i: 69
+trigrams: early by the,foreign correspondent for,reporters and photographers,the salinas valley,long historical arc,last week from,his positions he,r haley of,reinvented himself as,an engineer i,oceanfront home here,housing and urban,was the fact,journalists felt surreal,is an unorthodox,
+i: 70
+trigrams: in the run,throughout this bitter,morning heres what,what you need,reporters and photographers,as americans gather,following is a,who i am,honor , to,feels like from,out at all,turnout is simple,half free the,infuriated by the,appearance the parade,
+i: 72
+trigrams: is a transcript,throughout this bitter,washington president obama,half free the,new york city,a new york,morning heres what,were ready to,, complicating his,illegal alien amnesty,housing and urban,donald j trump,free markets and,in the summer,christmas with jon,
 i: 73
-trigrams: throughout this bitter,of reporters and,skilled workers young,rocketed over the,good morning heres,\) , you,has resurrected the,declared that campaigning,illegal alien amnesty,dominated by bros,, id urge,by all accounts,following is a,, this serio,a result of,
-i: 75
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 13
-trigrams: throughout this bitter,half slave and,donald j trump,good morning heres,of a team,illegal alien amnesty,a public rebuttal,times and some,, the retired,go up then,skilled workers young,press freedoms overseas,election , new,atlanta gov nikki,officers and the,
-i: 78
-trigrams: throughout this bitter,j trump moved,dampened a bit,alien amnesty wasnt,reporters and photographers,they live across,morning heres what,flag in the,interpretation \( sorry,half free the,trump has broadened,city was hardly,of a team,president elect donald,and respect ,,
+trigrams: throughout this bitter,central people the,based foreign correspondent,let me say,, new york,tend to the,is a transcript,relationship between the,timess baghdad bureau,for the times,over the last,join them in,surrounds both sides,housing and urban,relatives every election,
 i: 80
-trigrams: dampened a bit,new york based,alien amnesty wasnt,throughout this bitter,7 49 a,series of events,you need to,last week from,morning heres what,audition for some,j trump moved,from the networks,dissembles more frequently,\? get to,of back and,
-i: 23
-trigrams: of bomb sniffing,reporters and photographers,illegal alien amnesty,american jewel ,,the retired neurosurgeon,is a transcript,favors free markets,our publisher at,the risk of,everything seems intentional,throughout this bitter,donald j trump,step \? get,honor , to,m good morning,
+trigrams: throughout this bitter,good morning heres,and half free,of a team,, new york,illegal alien amnesty,honor , to,of housing and,of back and,based advocacy group,reporters and photographers,to classify it,government oversight big,personal way ,,this article is,
+i: 122
+trigrams: throughout this bitter,of housing and,in the summer,rocketed over the,to classify it,illegal alien amnesty,york city was,insider shares historical,know after a,was a very,tax filing on,of presumption they,of a team,honor , to,of reporters and,
+i: 46
+trigrams: a long strip,,mr obamas liberal,the mountains that,senator jeff sessions,criticism the times,to soften some,expensive presidential campaign,of unreality in,foreign correspondent for,and repurposing their,trump , who,to escape by,long prized its,once declared that,
 i: 88
-trigrams: if that sounds,and marathon womanizer,morning heres what,reporters and photographers,throughout this bitter,to be his,were ready to,bryant q what,, said al,they come under,many hands will,lilly , a,j trump moved,but since i,she instead reported,
-i: 90
-trigrams: highly constrained in,and our publisher,over the last,the mosul offensive,relationship between the,congregate for the,reporters and photographers,was an early,, germany and,herbert yardley ,,resurrected the fiasco,last week from,a coast guard,know after a,a room with,
-i: 91
-trigrams: throughout this bitter,with trump since,two bailed out,of a team,and half free,is a transcript,reporters and photographers,campaign , liberal,times insider delivers,and reporters at,what you need,morning heres what,with a colorful,i dont want,daily in your,
-i: 29
-trigrams: throughout this bitter,reporters and photographers,join them in,of a team,series of events,good morning heres,since i had,housing and urban,in manhattan our,donald j trump,alien amnesty wasnt,will be subject,corporations and individuals,how to fix,wasnt the biggest,
-i: 96
-trigrams: americas first illegal,following is a,the election has,throughout this bitter,, 7 49,half slave and,good morning heres,chocolate bricks stamped,with times journalists,, that was,new york based,this weekend outside,times insider delivers,the run up,of trump tower,
-i: 33
-trigrams: throughout this bitter,rocketed over the,good morning heres,a budget of,include whether operations,of reporters and,, this serio,of a team,, the first,by the thefts,security checks in,alien amnesty wasnt,, a new,trump will allow,publisher of the,
-i: 98
-trigrams: americas first illegal,atlanta gov nikki,donald trump schlepped,donald trump schlepped,following is a,good morning heres,good morning heres,half slave and,in the run,in the summer,jon batiste christmas,london once again,mr ponomarev ,,mr ponomarev ,,palm beach ,,
-i: 27
-trigrams: resurrected the fiasco,highly constrained in,atlanta gov nikki,a team set,good morning on,greens union in,they live across,will ask ,,palm beach ,,,morning heres what,interpretation \( sorry,a room with,j trump moved,a long strip,
+trigrams: good morning heres,throughout this bitter,nations highest civilian,washington bureau were,based foreign correspondent,in the summer,americas first illegal,and half free,calif as americans,is a transcript,less poisoned ,,, has taken,the wrong attitude,r haley of,, with a,
+i: 49
+trigrams: after the stunning,city was hardly,said shanon loggins,president , max,, in south,attention for speaking,of reporters and,book , john,alien amnesty wasnt,opinion today newsletter,are gov nikki,a public rebuttal,campaign , and,, during which,confederate battle flag,
+i: 28
+trigrams: in the summer,in a room,morning heres what,throughout this bitter,housing and urban,floor of trump,in south brooklyn,city , is,of a team,to donald trumps,of reporters and,street from mar,animals from the,corporations and individuals,city was hardly,
+i: 26
+trigrams: throughout this bitter,little longer they,an outsiders campaign,daily in your,over lunch at,journalist with extensive,j trump moved,a team set,us will be,favors free markets,pumpkin pie and,outsiders campaign for,was hardly trump,to a wild,it or not,
+i: 95
+trigrams: in the summer,of it are,london once again,j trump moved,, since were,, there may,the white house,whooping with appreciation,this album ,,, mr trumps,of live animals,and many of,\? get to,, to the,pale blue eyes,
+i: 34
+trigrams: ,,,,,,,,,,,,,,,
+i: 35
+trigrams: throughout this bitter,good morning heres,, usually focuses,the summer of,illegal alien amnesty,following is a,updated , a,us from the,an outsiders campaign,capital firm ,,slave and half,washington president obama,based advocacy group,minister on tuesday,this article is,
 i: 100
-trigrams: of housing and,throughout this bitter,resurrected the fiasco,clout and plotting,be highly constrained,new york based,freedom than any,alien amnesty wasnt,is a transcript,although they decided,morning heres what,a team set,of reporters and,donald j trump,publisher at our,
-i: 104
-trigrams: ways these successes,all sorts of,a result of,fact not open,floor of trump,an email keeping,transition has been,on a shelf,after the stunning,bowls of roasted,although they decided,, the book,to indicate that,viewpoint embraced by,were still talking,
+trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
+i: 39
+trigrams: throughout this bitter,based foreign correspondent,and half free,donald j trump,in november ,,new york based,rebuttal last week,behind the scenes,for speaking out,amnesty wasnt the,the nations highest,ambitious regulations but,york times and,has said climate,throughout this bitter,
+i: 92
+trigrams: both nations ,,an unorthodox grouping,the committee to,approved a similar,has touched me,need to break,alien amnesty wasnt,vast majority of,is a transcript,characters that mr,deserve , which,to half an,was most striking,throughout this bitter,at the new,
 i: 42
-trigrams: resurrected the fiasco,highly constrained in,throughout this bitter,fact not open,interpretation \( sorry,amendment of the,the presidential medal,this article is,the choice of,to an enormous,with trump since,mr trump gave,i think ,,at the big,third of all,
-i: 43
-trigrams: after the stunning,americas first illegal,donald j trump,following is a,good morning heres,good morning heres,good morning heres,half slave and,houston before the,in the run,in the run,in the summer,in the summer,it is the,it is the,
-i: 44
-trigrams: throughout this bitter,elect donald j,fact not open,j trump moved,york city ,,who were ready,everything seems intentional,alien amnesty wasnt,an outsiders campaign,they live across,a team set,dodd frank established,headquarters , as,publisher at our,for his second,
-i: 109
-trigrams: \( want to,\( want to,americas first illegal,americas first illegal,at thanksgiving ,,at thanksgiving ,,donald j trump,following is a,following is a,for his second,good morning heres,good morning heres,good morning heres,half slave and,half slave and,
-i: 47
-trigrams: j trump moved,morning heres what,housing and urban,with trump since,a bit by,following is a,, to 21,elect to visit,half free the,york city was,fact not open,throughout this bitter,a public rebuttal,provided a vast,wealthy republican philanthropist,
-i: 48
-trigrams: throughout this bitter,and half free,of reporters and,, new york,time michael ricatto,to fix fannie,free the last,favors free markets,to audition for,tuesday morning ,,in the summer,7 99 theres,, im thankful,whether his choices,subjecting our hosts,
-i: 116
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 53
-trigrams: throughout this bitter,good morning heres,president elect donald,encounter with trump,chosen as secretary,and twitter posts,based advocacy group,following is a,of a team,illegal alien amnesty,trump dissembles more,ambitious regulations but,honor , to,m good morning,, with a,
+trigrams: throughout this bitter,is a transcript,based foreign correspondent,in the summer,, new york,election has resurrected,has resurrected the,good morning heres,make large donations,of reporters and,washington ben carson,! eight hours,know president elect,and marathon womanizer,elect mini ,,
+i: 108
+trigrams: housing and urban,favors free markets,of bomb sniffing,not open to,chosen as secretary,, in south,years like \?,times insider delivers,it her husband,this article is,morning heres what,wright , director,tycoon , to,half free the,colorful and eclectic,
+i: 110
+trigrams: throughout this bitter,central people the,encounter with trump,is a transcript,donald j trump,daily in your,good morning heres,of a team,policies , historically,our publisher at,a public rebuttal,foreign correspondent for,housing and urban,elect donald j,of reporters and,
+i: 111
+trigrams: throughout this bitter,and half free,a more extreme,city was hardly,of reporters and,illegal alien amnesty,good morning heres,based foreign correspondent,in a room,step \? get,michael ricatto put,washington ben carson,floor of trump,article is part,more briefings and,
+i: 113
+trigrams: step \? get,of a team,what you need,alien amnesty wasnt,t sampson school,housing and urban,the emergence of,mr arango ,,honor , to,throughout this bitter,or ideological pattern,rooted in fact,brings western michigan,barred from working,for chairman of,
+i: 51
+trigrams: throughout this bitter,of reporters and,relationship between the,good morning heres,city was hardly,following is a,, with a,the scenes insights,chosen as secretary,york times you,, a new,wright , director,of felix the,and then told,dampened a bit,
+i: 59
+trigrams: over the last,of reporters and,throughout this bitter,the blockages ,,is a transcript,back to the,\? get to,housing and urban,, in los,illegal alien amnesty,of a team,race appeared to,clout and plotting,commission approved a,believe in you,
 i: 55
-trigrams: has resurrected the,fact not open,a room with,j trump moved,mr trump will,a bit by,this thanksgiving \?,era , will,by the thefts,is a transcript,prompted a public,president obama gave,12 education betsy,abandon americas commitment,transition has been,
+trigrams: following is a,half slave and,in the run,jon batiste christmas,the committee to,throughout this bitter,trump administration might,the summer of,first illegal alien,, as a,between workers and,elect donald j,up then ms,a m good,and freddie mac,
 i: 56
-trigrams: housing and urban,planned to adhere,alien amnesty wasnt,a team set,j trump moved,vast majority of,, these young,, and was,7 49 a,his similarities to,corporate gifts and,extensive experience in,been going out,varying ideological hues,is a transcript,
-i: 57
-trigrams: that emphasizes his,housing and urban,at which the,hurt the clintons,, is the,into the promotion,taking the risk,amiable he blasted,jewel , mr,to the present,new york times,good morning heres,palm beach ,,publisher at our,is a transcript,
-i: 61
-trigrams: throughout this bitter,, and earned,but some aspects,wouldnt seek to,a room with,talked like people,in line at,in fact not,administration officials suggest,no skinny dipping,the paper as,this article is,will ask ,,is a transcript,said at the,
+trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,
+i: 58
+trigrams: throughout this bitter,ms russo will,baghdad bureau chief,in fact not,r haley of,to wait a,they deserve ,,reserve officials convened,article is part,moving outside their,with trump since,all the highlights,christmas with jon,expensive presidential campaign,morning on this,
+i: 31
+trigrams: what you need,throughout this bitter,article is part,, issued on,of a team,menus the tossed,illegal alien amnesty,influential , since,elect donald j,michael ricatto put,baghdad bureau chief,to classify it,president obama gave,, new york,in the summer,
+i: 127
+trigrams: , when the,, new york,to fix fannie,, saying she,is a transcript,special interests i,sons , said,donald j trump,free markets and,down all the,years , said,the nations chief,with jon batiste,anyones recollection i,both nations ,,

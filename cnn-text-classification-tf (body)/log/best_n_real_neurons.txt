@@ -1,60 +1,60 @@
-i: 2
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
+i: 66
+trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
+i: 3
+trigrams: ,,,,,,,,,,,,,,,
 i: 68
-trigrams: following is a,good morning heres,in the summer,throughout this bitter,half slave and,good morning heres,americas first illegal,more briefings and,a london based,election has resurrected,, but it,to raise interest,large donations to,the 2016 election,four of us,
-i: 70
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
+trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
+i: 9
+trigrams: \ good evening,\ good evening,\ good evening,\ good morning,\ good morning,\ good morning,\ good morning,after the stunning,after the stunning,after the stunning,after the stunning,after the stunning,americas first illegal,americas first illegal,americas first illegal,
 i: 74
-trigrams: has been badly,is that shed,to a long,ivanka trump the,,resolved a frenzy,calif as americans,said i just,reporting that have,mr ryan if,assessment , which,they will move,better as the,feels even more,credit offered in,
+trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
+i: 11
+trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
+i: 12
+trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
+i: 45
+trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,
 i: 14
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 79
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 17
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 18
-trigrams: has already said,brexit plus plus,that he was,,that covers gun,decisions that president,the alt right,brutal reputation in,western michigan ,,,and china ,,the schools community,to invest in,cooked well past,majorities in the,
-i: 83
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 22
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 26
-trigrams: voters turned their,,,out in chevy,7 30 p,that the meeting,it may have,luring investment to,nation it hasnt,raised for his,one my daughter,let it be,reform but campaign,,most republicans and,
-i: 93
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 101
-trigrams: telling mr trump,, broccoli casseroles,,health club memberships,tremendous respect its,would say the,, brooklyn the,americas great failure,,,morning please note,and julie worked,the enormous reach,to nytnews nytimes,more to stay,
-i: 32
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,after the stunning,after the stunning,after the stunning,after the stunning,
-i: 35
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
+trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,
+i: 15
+trigrams: throughout this bitter,new york city,has resurrected the,freedoms overseas in,two bailed out,is a transcript,morning heres what,half free the,alien amnesty wasnt,mae and freddie,the summer of,across the street,in the summer,insights from the,jon batiste christmas,
+i: 67
+trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
+i: 86
+trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
+i: 87
+trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,
+i: 90
+trigrams: ,,,,,,,,,,,,,,,
+i: 30
+trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
+i: 96
+trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
+i: 97
+trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
 i: 36
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 6
-trigrams: they drank at,and i hope,her husband ,,,,, from hail,,theory , information,,, show in,governor , henry,gathering quite honestly,assembled journalists ,,about the role,states that banned,
-i: 102
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
+trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good morning,\ good morning,\ good morning,
+i: 101
+trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,
 i: 103
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 39
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 108
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 50
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,after the stunning,after the stunning,after the stunning,after the stunning,after the stunning,after the stunning,after the stunning,
-i: 110
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 114
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 19
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,after the stunning,after the stunning,after the stunning,after the stunning,after the stunning,americas first illegal,americas first illegal,americas first illegal,americas first illegal,
-i: 54
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 121
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 58
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
-i: 123
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
+trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
+i: 106
+trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
+i: 109
+trigrams: ,,,,,,,,,,,,,,,
+i: 47
+trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
+i: 112
+trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,
+i: 52
+trigrams: illegal alien amnesty,rates , although,throughout this bitter,and reporters at,room with him,half free the,seemed , had,\? get to,manhattan our first,good morning heres,election campaign ,,attitude were supposed,to know after,narrow confirmation of,vast majority of,
+i: 117
+trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
+i: 62
+trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good morning,\ good morning,
+i: 116
+trigrams: ,,,,,,,,,,,,,,,
+i: 126
+trigrams: ,,,,,,,,,,,,,,,
 i: 63
-trigrams: \( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,\( want to,
+trigrams: throughout this bitter,encounter with trump,step \? get,more presidential medals,, with a,americans are anticipating,restrictions , which,rocketed over the,washington ben carson,, a new,of it are,in both nations,of reporters and,valley a long,grouping of farmers,
