@@ -174,21 +174,23 @@ def get_n_best_neurons(weights, n,abs_value = False):
 	return list_0, list_1, list_0_neg, list_1_neg
 
 
-def get_info(ind, all_wi_ai, all_top_neurons):
+def get_info(ind, all_wi_ai, all_top_neurons, best_trigrams):
 	cur_dir = "log/"
 	import pickle
 	with open(cur_dir+all_top_neurons, 'rb') as f:
 		all_top_neurons = pickle.load(f) #all top neurons has most relevant neurons for each x_raw
 	print(all_top_neurons[ind], "is all top neurons[ind]")
+	with open(cur_dir+best_trigrams, 'rb') as f2:
+		best_trigrams =pickle.load(f2)
 	all_triples = []
-	for li in all_top_neurons[ind]:
+	for li in all_top_neurons[ind][0]:
 		triple_li = []
 		for tup in li:
 			neuron = tup[0]
-			trigram = best_trigrams[neuron][ind]
+			trigram = ' '.join(best_trigrams[neuron][ind][1][0])
 			triple_li.append((neuron, trigram, tup[1]))
 		all_triples.append(triple_li)
-	print(all_triples)
+	print(all_triples, "is all top neurons[ind]")
 	all_wi_ai=np.load(cur_dir+all_wi_ai)
 	make_wi_ai_histogram(all_wi_ai, ind)
 	
