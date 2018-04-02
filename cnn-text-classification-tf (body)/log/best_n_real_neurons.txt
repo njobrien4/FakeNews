@@ -1,60 +1,60 @@
-i: 0
-trigrams: ,they spent ,,has caused algae,guitar in the,is scheduled to,states to win,as the unfriendliest,flashback to a,opportunity for united,others , like,1 5 percentage,,of getting back,a push to,,
+i: 19
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 65
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
-i: 11
-trigrams: the greatest nation,of buildings ,,will spend the,tranquil , cozy,from the new,have cost mrs,negotiations on bringing,station a few,presidential election ,,his vast business,he branded the,next year she,state estimated that,the nearest brick,is also expecting,
-i: 22
-trigrams: hes the classic,the minutes said,judge curiel ,,give people something,the qualitative work,,another before the,president , shellshocked,has led to,that included some,, and sales,week that it,would be unlikely,minister to the,too rough on,
-i: 9
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
-i: 10
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: we have seen,updated a m,be too rough,atlanta gov nikki,track not long,be his education,my exuberance i,ben carson the,devos a wealthy,been even messier,had reached out,to respond to,the next few,atlanta gov nikki,washington president elect,
+i: 66
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 75
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
-i: 12
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
-i: 77
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
-i: 15
-trigrams: \? a my,obamas support among,a rally in,officer peters ,,manhattan , which,on thanksgiving ,,to be finished,he said of,in fewer hours,private arbitrations instead,of steep tariffs,have not heard,awhile look ,,, mrs clinton,states and china,
-i: 17
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
-i: 20
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
-i: 21
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,a federal judge,a federal judge,
-i: 86
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
-i: 56
-trigrams: updated , 8,washington president elect,atlanta gov nikki,as we have,washington ben carson,but with election,jared rutledge called,beach , fla,washington struggling to,37 a m,ross , a,devos to be,on a campaign,week after putting,early years like,
-i: 89
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
-i: 29
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
-i: 30
-trigrams: the daughter of,the apprentice in,washington the day,cheyenne westphal ,,in an interview,who were upset,, and the,be mindful of,into the nature,the company does,his administrations accomplishments,,happen if both,,run a federal,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 69
-trigrams: an ally theres,chance of losing,today the social,to get a,estimate how much,beijing , but,held at bay,tbsp apple cider,donald j trump,, died on,as a backdrop,said nothing to,in specific geographic,,,
-i: 32
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
-i: 98
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,a federal judge,a federal judge,a federal judge,
-i: 107
-trigrams: signs up on,,the dissatisfaction of,treated very rough,masterfully rendered by,ordered with 16,we did six,years , blacks,dozens of politicians,can take five,, and the,reset his mercurial,marginalize people hes,never run a,department arrived at,
-i: 45
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
-i: 111
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
-i: 112
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,a federal judge,
-i: 50
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
-i: 118
-trigrams: front page an,washington president elect,citys trem neighborhood,the crowd with,, the limit,current landscape ,,to turn up,from 3 5,potential employers ,,alternative , according,after a recording,made it to,part , exempts,evidence of continued,water supply to,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+i: 6
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+i: 10
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+i: 62
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+i: 60
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+i: 15
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+i: 83
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+i: 121
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+i: 88
+trigrams: ,street is also,through the gauntlet,harvard he observes,of them told,in the presidential,added urgency to,are such alien,on this ambitious,,,seems as if,be a major,,gained no support,
+i: 89
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+i: 29
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+i: 95
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+i: 33
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+i: 41
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+i: 42
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+i: 43
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+i: 49
+trigrams: to the carrier,communities to assess,updated a m,nikki haley of,select as commerce,states and china,cry wolf in,have seen the,president obamas civil,j trump is,nations highest civilian,profit companies while,to replace many,magnificent seven and,told him he,
+i: 51
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+i: 53
+trigrams: also expecting that,on wednesday the,to be disappointed,the grunge extension,fed to push,intentions in the,night on byutv,people wrote to,in her vocals,,,of a good,,co died in,could make her,
 i: 55
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,a federal judge,a federal judge,
-i: 120
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
-i: 122
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+i: 56
+trigrams: from the amendment,than factory jobs,,in jackson heights,district in milwaukee,housing and urban,free mediation services,for his first,drug crimes typically,newsroom and editorial,announcement of ben,the attention mr,market most consumers,say that the,the p m,
+i: 57
+trigrams: how long has,china where it,,whether he is,,middle class sutherland,but the story,,medal around the,he had turned,,but never ever,district of texas,invest in two,their companies how,
+i: 58
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+i: 124
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+i: 106
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+i: 126
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a morning,after a morning,

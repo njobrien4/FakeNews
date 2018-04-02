@@ -1,256 +1,256 @@
 i: 0
-trigrams: ,they spent ,,has caused algae,guitar in the,is scheduled to,states to win,as the unfriendliest,flashback to a,opportunity for united,others , like,1 5 percentage,,of getting back,a push to,,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 1
-trigrams: wanted to talk,in an email,states to win,leaving him insolvent,by week ,,senator marco rubio,the election im,picture caption on,an additional 15,,,of staff ,,bring you tidings,which quickly became,000 \) anne,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a morning,after a morning,after a morning,after a morning,
 i: 2
-trigrams: dont be too,, the retired,updated , 8,we have seen,while charters enjoy,style runs from,000 factory jobs,washington president elect,aqr capital management,r lepage backed,respond to donald,selling off steel,his education secretary,from most republicans,indian american jeweler,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 3
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: which moments in,front of a,companies while charters,washington president obama,leaves open the,in kew gardens,and swing but,a jury but,see if hes,will oppose any,at percent on,had signed arbitration,he would name,spectrum to see,than the central,
 i: 4
-trigrams: or subjecting our,that may be,great respect for,, some political,because i was,class thought and,that home sooner,and on wednesday,training promised to,6 million with,pains to emphasize,preferred mrs clinton,that he feels,such as new,at a heady,
+trigrams: voters business day,is impossible to,interest rates,vaughan glen campbell,enforcement officers from,rev dr martin,a forebear of,because warmer air,,wednesday as the,the message some,though companies building,the transition team,sure covering donny,were to leave,
 i: 5
-trigrams: leave the state,, the retired,nations highest civilian,on yourself you,off steel makers,have seen ,,are , in,civilian honor ,,state will soon,haley of south,rings worth 3,elect donald j,to the carrier,thanksgiving this year,for leftovers ,,
+trigrams: male i do,way he did,,others like the,behalf of the,as for how,changing the way,donald j trumps,felt wronged by,its assorted versions,she had been,cookies for santa,housing market most,from the connecticut,american ally following,
 i: 6
-trigrams: , the nations,, i exaggerated,president elect donald,to the carrier,updated , 8,and worked with,, 8 37,boy \) to,, the retired,, over a,have seen ,,for substantial changes,, scientists and,media cmag on,elect donald j,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 7
-trigrams: updated , 8,, the retired,rule requiring local,off steel makers,to the carrier,,rubio of florida,washington president elect,brings western michigan,to respond to,jones wrote online,friends would just,,than the usual,we have seen,
+trigrams: as we have,the carrier air,on yourself you,washington president elect,brings western michigan,updated a m,respond to donald,not moving to,the retired neurosurgeon,an outsiders campaign,to assess their,a powerful personal,poignant responses here,like were you,season often right,
 i: 8
-trigrams: like \? were,display of trump,to mexico in,nations highest civilian,privatized vision of,a better reason,took office when,nikki haley of,indicated that he,, the retired,week the rise,to a group,have seen ,,third was the,, the nations,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 9
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: updated a m,to respond to,steel makers and,display of trump,to public authorities,j trump is,the retired neurosurgeon,but to many,to the carrier,against mr trump,panels that kept,most dramatic and,novel strategy maybe,wants it or,about the most,
 i: 10
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 11
-trigrams: the greatest nation,of buildings ,,will spend the,tranquil , cozy,from the new,have cost mrs,negotiations on bringing,station a few,presidential election ,,his vast business,he branded the,next year she,state estimated that,the nearest brick,is also expecting,
+trigrams: atlanta gov nikki,dont be too,if the supposed,president elect donald,president obamas civil,updated a m,washington ben carson,washington president elect,washington president obama,when jared rutledge,received hundreds of,donald j trump,harassment have spiked,requiring local communities,new role she,
 i: 12
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 13
-trigrams: and wikileaks ,,possible , said,manually review paper,survives him ,,just a foot,spiritual encouragement new,amplified the tension,new york times,be finished authorized,evidence of continued,trumps tweet ,,arrest after a,strict sentences imposed,community college ,,believe that their,
+trigrams: have seen the,ben carson the,washington president elect,updated a m,not long ago,struggling to respond,mortgage broker one,cry wolf in,gov nikki haley,republican philanthropist whom,heights queens days,like were you,westerns the magnificent,tuesday in a,first amendment of,
 i: 14
-trigrams: a tax increase,insurance policy would,, yet one,star \( founded,this reckoning needs,spoke , for,president bashar al,cases was nearing,to pursue charges,, 10 30,the party needed,mr trump during,raised remains unclear,to determine it,federal officials ,,
+trigrams: updated a m,favor free markets,washington president elect,massacre hit home,steel makers and,nikki haley of,to respond to,we have seen,for the job,to the carrier,by his daughter,possible new members,are you thankful,to turn up,message to constituents,
 i: 15
-trigrams: \? a my,obamas support among,a rally in,officer peters ,,manhattan , which,on thanksgiving ,,to be finished,he said of,in fewer hours,private arbitrations instead,of steep tariffs,have not heard,awhile look ,,, mrs clinton,states and china,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 16
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a morning,after a morning,
+trigrams: greater issues those,kind of feel,,was asked about,a pretty good,and over if,,swearing in ceremony,,,shout heil victory,jet fueled minnesota,,they saw in,,
 i: 17
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: we have seen,to buy some,jackson heights queens,said thursday that,offer on a,cry wolf in,everywhere this season,updated a m,soon see results,obamas civil rights,state of the,nikki haley of,united states and,let them speak,criminal assault reports,
 i: 18
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 19
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 20
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: good for this,emily dickinson how,to find a,profit companies while,to replace many,group of shellshocked,the billionaire investor,by clare foy,the obama administration,they talked like,she survives him,,children embedded in,coughing wheezing children,from president richard,
 i: 21
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,a federal judge,a federal judge,
+trigrams: as we have,updated a m,washington struggling to,hardly the only,carson the retired,over potential economic,show host having,the nations highest,and once tried,when jared rutledge,on yourself you,to be the,to the carrier,observers are wondering,washington president elect,
 i: 22
-trigrams: hes the classic,the minutes said,judge curiel ,,give people something,the qualitative work,,another before the,president , shellshocked,has led to,that included some,, and sales,week that it,would be unlikely,minister to the,too rough on,
+trigrams: neurosurgery at johns,bypass the and,,a fixture of,contradictory but so,students in low,our drills when,spiked since donald,are beginning to,of the ames,hurrying to learn,,replace many government,ran against mr,proportional ms yates,
 i: 23
-trigrams: fairy tales in,party , reaching,speech , mr,few people left,president elect to,mounted probably not,june 20 ,,companies how do,the evidence we,campaign donor at,and leave some,,is adopted by,new orleans funeral,obvious joy in,
+trigrams: ,administration at this,a resident of,foundation to combat,no skinny dipping,,a human beings,will ultimately be,,the average rate,overcast september morning,is weighing heavily,research and special,a heathkit and,and stephen daldry,
 i: 24
-trigrams: advisers and her,some increase in,lawyers and nationally,we must do,no one in,,federal funding ,,such pay increases,5 million cases,agreements one of,since last december,capacity , said,news feeds in,and kind of,or death \),
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 25
-trigrams: on a blustery,the modern era,had been raised,,the justice department,to choose todd,that i would,can sort of,,in simon schamas,the settlement that,certain funds held,,another for overnight,matters , message,
+trigrams: as we have,atlanta gov nikki,dont be too,front page an,mr trumps choice,updated a m,washington president elect,washington struggling to,when jared rutledge,civil rights legacy,donald j trump,reports of bias,caiola a versatile,j trump met,caiola a versatile,
 i: 26
-trigrams: , scientists and,updated , 8,president elect donald,, the retired,following up on,of freedom ,,exuberance , i,were your early,elect donald j,respond to donald,j trump met,chilton at a,over lunch at,rule requiring local,bannons appointment as,
+trigrams: updated a m,to cry wolf,steel makers and,nikki haley of,tuesday about investors,lepage backed donald,like were you,j trumps winter,carson the retired,nomination and later,become the head,rings worth the,was in bad,mr trumps choice,economy was ready,
 i: 27
-trigrams: role , she,, the retired,that is smaller,of financial markets,to his level,his permission for,about 148 ,,before f b,,that the evening,states won narrowly,ms yellen told,in their names,,a republican ,,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 28
-trigrams: president elect donald,, the retired,were your early,, the nations,updated , 8,to his rust,have seen ,,the same time,off steel makers,respond to donald,that is smaller,rule requiring local,morning of back,exuberance , i,not pay he,
+trigrams: updated a m,washington president elect,the carrier air,respond to donald,daughter of immigrants,carson the retired,we have seen,flavors vouchers and,completion of the,to cry wolf,legacy looked on,be his education,mr trump some,president obamas civil,of cable outlets,
 i: 29
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 30
-trigrams: the daughter of,the apprentice in,washington the day,cheyenne westphal ,,in an interview,who were upset,, and the,be mindful of,into the nature,the company does,his administrations accomplishments,,happen if both,,run a federal,
+trigrams: front page an,hillary clintons lead,jon batiste christmas,on a blustery,president elect donald,president elect donald,the interview with,vandalism offensive jokes,commutations are the,moving to canada,appetite for a,last december the,concept created by,trump i am,a staunch libertarian,
 i: 31
-trigrams: best thing we,, the retired,,first christmas album,at least ,,to move to,role , she,of buying property,rock n roll,million to republican,my presents up,to investigate hillary,a prominent spot,had come to,in the south,
+trigrams: to have hastened,for it mr,presidential commutations mr,san antonio before,and they might,job interviews their,in the united,good wordplay saying,spokesman for eric,restaurant into a,door downstairs instead,combined gap that,,argument hillary clinton,born on sept,
 i: 32
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 33
-trigrams: ,,,, because its,,and churches another,or to cut,he is also,district attorneys andrew,2015 massacre at,, for education,to become ambassador,but every once,,business leaders and,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 34
-trigrams: like \? were,, the retired,boy \) to,have seen ,,updated , 8,one elects the,of the ticket,as we enter,, i exaggerated,mr sanderss presidential,with artists ranging,her new role,respond to donald,male mr carson,bringing turkey into,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 35
-trigrams: , the retired,leave the state,of medicare could,however , about,belt base ,,a similar level,from the federal,overlook a small,the 45th president,that kept the,of what i,have many incredible,befriended ms haley,before f b,,
+trigrams: we have seen,buy some of,haley of south,to assess their,in the presidential,on a platform,for health care,respond to donald,highest civilian honor,cry wolf in,could be deported,first president elect,following up on,makers and other,better reason to,
 i: 36
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a morning,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 37
-trigrams: have seen ,,, the retired,when jared rutledge,off steel makers,president elect donald,updated , 8,economic growth under,a gathering place,morning last week,washington president obama,morning last week,at the new,for substantial changes,to leave the,carolina as his,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 38
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: this week by,,expected to donate,e o s,,whitening packages and,island of sardinia,,adopted by people,must free itself,palm beach mr,recollection i have,are when people,he liked to,no matter what,
 i: 39
-trigrams: that kept the,following up on,for health care,from the federal,, the retired,nations highest civilian,account opening agreements,respond to donald,seem nave and,before f b,, scientists and,family plan in,the president has,to the carrier,leave the state,
+trigrams: updated a m,have seen the,become the head,president elect donald,the retired neurosurgeon,base president elect,legacy looked on,makers and other,daughter of immigrants,libertarian who is,an offer on,the usual number,the first amendment,track not long,it or not,
 i: 40
-trigrams: updated , 8,as we have,struggling to respond,carson , the,president elect donald,no skinny dipping,medal of freedom,that campaigning for,medal of freedom,think the times,observers are wondering,washington president elect,rutledge called his,devos to be,that he had,
+trigrams: as we have,updated a m,carson the retired,investor cliff asness,years like were,j trump met,track not long,jared rutledge called,washington president elect,today asked our,mens gold rings,hoax created by,my exuberance i,parents names are,trump said thursday,
 i: 41
-trigrams: president elect donald,updated , 8,ben carson ,,as we have,to respond to,donald j trump,where gov paul,president elect donald,mortgage broker one,my exuberance ,,economic growth under,for instance ,,the presidential medal,than when he,devos to be,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 42
-trigrams: 47 percent between,on the left,including locks ,,,,,,,, 000 inmates,, 000 times,, 8 37,, along with,, and guidelines,, but it,, but more,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 43
-trigrams: , the retired,the nations highest,yourself you are,updated , 8,president elect donald,like \? were,to persuade the,for substantial changes,intervention except ,,washington president elect,have seen ,,river and surveyed,a narrower political,roosevelt \) ,,nikki haley of,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 44
-trigrams: updated , 8,carson , the,or boy \),and direction of,secretary brings western,the nations highest,we have seen,stood on a,washington president elect,see where president,selling off steel,police department veteran,out to the,monarchy is that,sharply streets ,,
+trigrams: ,home here they,decisions whether it,pentatonix the wildly,flooding or the,and my christmas,include every christmas,we look forward,relationships and treat,and left a,,trumps shoulders on,,and serves burmese,tuesday evening when,
 i: 45
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: a twist on,sign he said,get it the,group went down,,along with his,borrow money or,was born with,and move on,garnish with melted,get to a,wing resistance is,,in the title,on byutv its,
 i: 46
-trigrams: ,a woman who,see when you,more transgressive and,,news feeds in,then printed fliers,has pointed to,,,,is in the,who include senators,routine a challenge,lawsuit , and,
+trigrams: the states governor,replace many government,trip is the,,the president was,service medicare program,restrictions,washington donald j,have seen the,less unabated leaving,was no nonsense,but so were,the bridge was,leaves open the,tunnels elevating roads,
 i: 47
-trigrams: ben carson ,,updated , 8,we have seen,devos to be,respond to donald,gov nikki r,billionaire investor who,we pay for,in my exuberance,donald j trumps,appealed directly to,administration while protesters,possible new members,yourself you are,be a political,
+trigrams: as we have,atlanta gov nikki,updated a m,struggling to respond,ben carson the,is the daughter,exuberance over potential,luther helland stood,rights legacy looked,washington president elect,the relationship between,of everyday financial,are hardly the,based school reforms,big star complete,
 i: 48
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: updated a m,have spiked since,on a campaign,for potential blowups,the carrier air,a team set,there were murders,that kept the,where gov paul,washington president elect,we have seen,magnificent seven and,my exuberance i,school public or,cry wolf in,
 i: 49
-trigrams: updated , 8,were your early,washington president elect,we have seen,, the retired,helland stood on,washington donald j,betsy devos to,oceanfront home here,atlanta gov nikki,j trump said,of the panels,, where gov,after putting in,are you thankful,
+trigrams: to the carrier,communities to assess,updated a m,nikki haley of,select as commerce,states and china,cry wolf in,have seen the,president obamas civil,j trump is,nations highest civilian,profit companies while,to replace many,magnificent seven and,told him he,
 i: 50
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: his education secretary,president elect donald,for health care,that kept the,respond to donald,from to the,not long ago,titles of specials,gave the presidential,that theres no,to cry wolf,his cabinet with,let them speak,use of presidential,outside the borislow,
 i: 51
-trigrams: palm beach ,,, the nations,yourself you are,wells fargo has,week but fran,, according to,the middle of,, the retired,, open to,salon he says,quite honestly im,city has lately,united states china,pull out of,the present with,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 52
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: a telephone interview,budgets and job,start is the,the senate ms,of the citys,by president obama,ups was that,replaced by the,reformers originally promised,mr ames a,mr carson was,wake of the,bridge itself was,home here they,mr trump has,
 i: 53
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: also expecting that,on wednesday the,to be disappointed,the grunge extension,fed to push,intentions in the,night on byutv,people wrote to,in her vocals,,,of a good,,co died in,could make her,
 i: 54
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 55
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,a federal judge,a federal judge,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 56
-trigrams: updated , 8,washington president elect,atlanta gov nikki,as we have,washington ben carson,but with election,jared rutledge called,beach , fla,washington struggling to,37 a m,ross , a,devos to be,on a campaign,week after putting,early years like,
+trigrams: from the amendment,than factory jobs,,in jackson heights,district in milwaukee,housing and urban,free mediation services,for his first,drug crimes typically,newsroom and editorial,announcement of ben,the attention mr,market most consumers,say that the,the p m,
 i: 57
-trigrams: have not yet,, former and,the removal of,,their paychecks mr,,permissive times ,,mortified and saying,potatoes , pumpkin,,for the british,,not cooperate with,which is why,ramzan a kadyrov,
+trigrams: how long has,china where it,,whether he is,,middle class sutherland,but the story,,medal around the,he had turned,,but never ever,district of texas,invest in two,their companies how,
 i: 58
-trigrams: updated , 8,selling off steel,years like \?,yourself you are,to the carrier,we have seen,, the retired,washington donald j,freedom , the,president elect donald,washington , d,gov paul r,his mortgage broker,2015 , his,tuesday about investors,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 59
-trigrams: particularly at phillips,like iphones ,,financial lives absent,surprised by the,campaigner for voting,,,,,percentage point to,,claims facing his,i had a,, and 35,no skinny dipping,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a morning,after a morning,
 i: 60
-trigrams: washington ben carson,washington president elect,respond to donald,medal of freedom,updated , 8,putting in an,yourself you are,exuberance , i,ross , a,wednesday as the,jared rutledge called,medal of freedom,trump said thursday,time , the,much more might,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 61
-trigrams: we have seen,, the retired,updated , 8,in our heads,, i exaggerated,libertarian who is,on friday ,,nations highest civilian,offer on a,before f b,president elect donald,karac , 26,funding the inauguration,health care under,, the nations,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 62
-trigrams: updated , 8,, the retired,nations highest civilian,on a campaign,health care under,, scientists and,is that theres,the billionaire investor,theodore roosevelt \),have seen ,,magnificent seven and,, brian in,rule requiring local,that kept the,president elect donald,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 63
-trigrams: , the retired,, i exaggerated,updated , 8,president elect donald,, the nations,off steel makers,we have seen,, the nations,to the carrier,take your medicine,3 , 000,from being in,chilton at a,an offer on,still being waged,
+trigrams: the carrier air,class action lawsuit,rutledge called his,president elect donald,secretary of state,donald j trump,let them speak,persuaded by his,hard line racist,first president elect,and shop she,that they will,carolina as the,and a familiar,the retired neurosurgeon,
 i: 64
-trigrams: become mr trumps,rifts in the,,, was supposed,dealer based in,participated in a,,look at his,standardized rules for,in the 1950s,but the feds,an aioli finally,tortilla chip to,a cargo of,lieutenant governor ,,
+trigrams: bought a heathkit,the collection of,have seen the,who with his,preview of whats,makers and other,as the president,students in low,to replace many,carolina as the,includes loans and,whom also won,trying to persuade,surveillance van on,exaggerated i am,
 i: 65
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: we have seen,updated a m,be too rough,atlanta gov nikki,track not long,be his education,my exuberance i,ben carson the,devos a wealthy,been even messier,had reached out,to respond to,the next few,atlanta gov nikki,washington president elect,
 i: 66
-trigrams: updated , 8,, the retired,selling off steel,panels that kept,libertarian who is,who is very,singer of contemporary,christmas with jon,,nikki haley of,love to you,in afghanistan as,rubio of florida,based harassment have,his earliest appointments,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 67
-trigrams: had lured students,dismissed the crowd,just the new,the head of,ideal for those,known as the,of them told,a good sense,to secure major,,well worth defining,carried an incorrect,president elects circle,and many of,new question we,
+trigrams: trump won so,lets figure some,because she felt,cry wolf in,for him a,a holiday album,not long ago,put another display,j trump once,jeweler was left,makers and other,all that stuff,at percent on,the arrangements by,to the incendiary,
 i: 68
-trigrams: , the labor,, american home,condemned mr trump,discussions but mr,case was being,came up during,,s which made,public housing clusters,of questions ,,rule others said,,, who at,new york times,up to the,
+trigrams: favor free markets,middle of the,updated a m,nikki haley of,legacy looked on,been put under,to respond to,it there were,,but to many,as a write,person than that,put all that,s israel relationship,the expense of,
 i: 69
-trigrams: an ally theres,chance of losing,today the social,to get a,estimate how much,beijing , but,held at bay,tbsp apple cider,donald j trump,, died on,as a backdrop,said nothing to,in specific geographic,,,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 70
-trigrams: carson , the,have seen ,,the autographed presidential,to the carrier,yourself you are,gov nikki r,devos , a,off steel makers,brings western michigan,, i exaggerated,usually run by,a federal judge,to respond to,of freedom ,,washington donald j,
+trigrams: people in prison,believe in long,annual flood insurance,where voters have,barely manages to,,and trade around,,dollars of extra,,raise rates at,and liberals in,of revenge last,a casino a,waterline how many,
 i: 71
-trigrams: that he is,president xi jinpings,lately been dominated,this stage has,the blame i,hammer everybody for,, the retired,a former medicare,leave the state,low wage workers,president elect donald,through it and,,to mexico in,, i exaggerated,
+trigrams: updated a m,daughter of immigrants,to replace many,is on then,to cry wolf,donald j trump,track not long,he chose gov,work at a,along with his,may even find,obama has already,liberal criminal justice,steel makers and,step away from,
 i: 72
-trigrams: as we have,atlanta gov nikki,updated , 8,washington ben carson,washington president elect,washington struggling to,betsy devos to,observers are wondering,q what were,secretary wilbur ross,broker one morning,offensive jokes ,,with all the,and later beloved,trump named gov,
+trigrams: updated a m,brings western michigan,to assess their,an offer on,respond to donald,am not moving,the carrier air,students to attend,erstwhile reality show,president international a,we have seen,lot to talk,victory in the,steel makers and,washington president elect,
 i: 73
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 74
-trigrams: or boy \),off steel makers,updated , 8,carson , the,out to the,police department veteran,to respond to,panels that kept,,a fixture of,we have seen,a fixed government,than the usual,americas deeply entrenched,mr trumps choice,
+trigrams: ,its hong kong,east few of,and a have,because of stylistic,in breaking the,varied arrangements from,,where voters have,a lear like,young republican named,shaare zedek charles,coast guard established,mr helland is,wednesday they also,
 i: 75
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 76
-trigrams: washington ben carson,respond to donald,as we have,mortgage broker one,later beloved \(,m what are,fla there will,donald j trump,updated , 8,washington president elect,on yourself you,all the autographed,when jared rutledge,as the 45th,could have been,
+trigrams: advance sexual and,others like the,alarm in a,cliff asness is,,markets to replace,department officials as,with and who,lot from being,to the result,resettled in her,economists warn in,respond to donald,off but not,schools are public,
 i: 77
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 78
-trigrams: as we have,atlanta gov nikki,betsy devos ,,betsy devos ,,following up on,president obamas civil,updated , 8,washington ben carson,washington president elect,washington struggling to,when jared rutledge,trying to persuade,would be a,8 37 a,, some political,
+trigrams: updated a m,to replace many,twitter that ms,charter schools are,are you thankful,preview of whats,to respond to,were hurrying to,to the carrier,taking a quick,at the announcement,hbo its once,we and our,an honest impression,rough on yourself,
 i: 79
-trigrams: led most state,,rights lawyer ron,and was an,she was still,mexico , tried,so weve got,cut back on,mortified and saying,percent i was,waterline how many,members of the,and includes loans,,and 29 ,,
+trigrams: as we have,the retired neurosurgeon,respond to donald,dont be too,not long ago,washington president elect,mortgage broker one,updated a m,of immigrants favors,following up on,in maine where,in the presidential,gov nikki r,obamas civil rights,first amendment of,
 i: 80
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: updated a m,have seen the,criminal assault reports,belt base president,on yourself you,forth statements and,carson the retired,as commerce secretary,am not moving,representative keith ellison,at the same,secretary brings western,a rule requiring,not long ago,an indian american,
 i: 81
-trigrams: j trumps victory,, the retired,, aqr capital,boy \) to,000 inmates ,,nations highest civilian,updated , 8,, 000 a,, i exaggerated,in traditional fee,on a platform,from the federal,of months ago,to the carrier,the same way,
+trigrams: itself very expensive,next secretary of,,the traverse city,free markets to,damaged as it,go buy a,budget of about,neurosurgeon who ran,his daughter sandra,outcome would change,dooky chase orchestra,the financier george,president elect donald,mr kuby said,
 i: 82
-trigrams: as we have,atlanta gov nikki,dont be too,dont be too,mr trumps choice,palm beach ,,updated , 8,washington ben carson,washington president elect,washington struggling to,being a constitutional,where gov paul,much more might,potential economic growth,luther helland stood,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 83
-trigrams: updated , 8,stood on a,carson , the,enormous subject the,out to the,, not long,the nations highest,a wealthy republican,his sizable white,order of two,in bad shape,we have seen,rough on yourself,on a campaign,jared rutledge called,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 84
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: to baby its,knows that thanksgiving,only give her,,the influence of,strategic thinker said,the total vote,right has emerged,xi jinpings worldview,in congress including,happens and at,at the times,secret service although,ventures could easily,stapling method was,
 i: 85
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: on track not,the retired neurosurgeon,belt base president,daughter of immigrants,to cry wolf,of freedom the,donald j trump,atlanta gov nikki,ago to include,every time michael,jeweler was left,washington president elect,trump met with,respond to donald,will soon see,
 i: 86
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: what you have,,,roughly two weeks,gleason arthur godfrey,,and were misled,to count blessings,income housing primarily,on his luck,eastern united states,to raise rates,minimum said allan,with so much,hungary said in,
 i: 87
-trigrams: , the retired,based harassment have,that kept the,off steel makers,of the worlds,brings western michigan,respond to donald,to mexico in,a rule requiring,nicholas avenue in,washington president elect,r lepage backed,ospina , a,another display of,to correct them,
+trigrams: a racist symbol,gov nikki r,no way he,included electrical vaults,to respond to,to replace many,but the traverse,updated a m,display of trump,washington president elect,,mr trump is,daughter of immigrants,lepage strongly opposed,reports of household,
 i: 88
-trigrams: as we have,washington ben carson,washington president elect,on yourself you,updated , 8,respond to donald,possible new members,third it could,statements and twitter,putting in an,as we enter,being waged ,,historically low crime,following up on,you are hardly,
+trigrams: ,street is also,through the gauntlet,harvard he observes,of them told,in the presidential,added urgency to,are such alien,on this ambitious,,,seems as if,be a major,,gained no support,
 i: 89
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 90
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,a federal judge,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 91
-trigrams: , the retired,yale i had,trade or the,elect trump at,million to republican,weighted the appeals,mr trumps march,or death \),glendale , ariz,the grateful dead,and ominous box,many , many,mr trump was,segregation and make,its assorted versions,
+trigrams: jewish community and,hosts to a,traced may be,freedman executive director,said he will,weighing heavily on,,went to michigan,china general chamber,pardoned two turkeys,percent on what,of regulation conclude,and white sat,versions have no,michelle rhee a,
 i: 92
-trigrams: updated , 8,washington president obama,carson , the,donald j trump,we have seen,washington president elect,based harassment have,tuesday about investors,legacy looked on,his education secretary,of presidential commutations,long ago ,,with all the,, the nations,he had been,
+trigrams: the bridge was,advance sexual and,a spokesman for,the questions qualitative,officials planning the,,first president in,percent mention his,and what was,now a consultant,worlds most expensive,,very much in,of backing down,how ms haley,
 i: 93
-trigrams: called dooky ,,star , by,by judge curiel,her handling of,rethinking their investments,would change even,college i learned,does spending money,the countrys leaders,auction calculations the,former chancellor for,,charge one another,,or knocked down,
+trigrams: president elect donald,updated a m,cry wolf in,against americas deeply,j trump is,the retired neurosurgeon,we have seen,terminal for the,in the middle,makers and other,over potential economic,highest civilian honor,rutledge called his,states and china,and one of,
 i: 94
-trigrams: , the retired,off steel makers,except , perhaps,nations highest civilian,updated , 8,narrower political base,leave the state,part , they,that stretches between,, were more,boy \) to,price of georgia,country before he,is that theres,president elect donald,
+trigrams: or less than,estate tycoon and,next secretary of,,a move that,which hasnt been,updated a m,display of trump,to settle their,to much of,the a f,and the million,reluctant to order,of big changes,in late century,
 i: 95
-trigrams: updated , 8,we have seen,stood on a,respond to donald,to be his,washington president elect,economic growth under,sworn in ,,\) to cry,appealed directly to,ben carson ,,critics have complained,of the river,magnificent seven and,appointment as chief,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 96
-trigrams: , the retired,gave the presidential,updated , 8,very much against,country before he,boy \) to,monarchy is that,a narrower political,for health care,to the carrier,some of the,betsy devos ,,mr trumps secretary,police department veteran,, is the,
+trigrams: simple dinner roast,management was now,a teenager at,on oct about,climate accord and,,states including a,now and still,based in new,and humors a,to much of,not support mr,in the streets,about how poor,episodes of season,
 i: 97
-trigrams: , the retired,libertarian who is,of the worlds,states the devos,the ticket ,,updated , 8,sense i wouldnt,of contemporary christian,, scientists and,trump over lunch,2016 , not,all of whom,known throughout the,kadyrov described his,women in mr,
+trigrams: after a morning,as we have,betsy devos a,big star complete,dont be too,if the supposed,in the run,president obamas civil,updated a m,washington ben carson,washington president elect,washington president elect,washington president obama,washington struggling to,when jared rutledge,
 i: 98
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,a federal judge,a federal judge,a federal judge,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 99
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,a federal judge,
+trigrams: as we have,atlanta gov nikki,updated a m,washington ben carson,washington president elect,haley of south,struggling to respond,civil rights legacy,be too rough,trumps victory a,vandalism offensive jokes,every time michael,medal of freedom,named gov nikki,what were your,
 i: 100
-trigrams: after a morning,as we enter,atlanta gov nikki,dont be too,dont be too,following up on,front page an,front page an,in maine ,,mr trumps choice,on a blustery,president obamas civil,q what were,the interview with,updated , 8,
+trigrams: updated a m,markets to replace,home personally she,track not long,housing job he,another display of,but the traverse,taking a quick,donald j trumps,fumed and said,gang the sesame,he sets about,its assorted versions,leah kamata and,names without their,
 i: 101
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: ,college flying a,at donald j,it was difficult,,midtown headquarters yesterday,respond to donald,appreciate it too,gov nikki r,on the bridge,in the fight,low level according,,with fines totaling,killing civilians in,
 i: 102
-trigrams: donald j trump,donald j trump,following up on,on a blustery,q what were,washington struggling to,would also fundamentally,6 million with,trump he went,votes behind donald,,revealed about the,surprising reversal and,with his band,1939 as a,
+trigrams: nikki r haley,like were you,reached out to,exuberance over potential,new york times,trump fold but,makers and other,the retired neurosurgeon,hands down winner,all have more,lunch of salmon,the only girl,cry wolf in,for the nations,at the new,
 i: 103
-trigrams: updated , 8,nations highest civilian,, the retired,be a political,washington president elect,, i exaggerated,off steel makers,if you think,truly an opportunity,middle of the,mrs devos sharply,brings western michigan,one of the,and the violinist,wealthy republican philanthropist,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 104
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: as we have,atlanta gov nikki,atlanta gov nikki,president obamas civil,q what were,updated a m,washington ben carson,washington president elect,washington struggling to,when jared rutledge,houses were trying,wealthy republican philanthropist,pay he had,exuberance over potential,potential economic growth,
 i: 105
-trigrams: president elect donald,to the carrier,, the retired,selling off steel,we have seen,panels that kept,out and waiting,vouchers , and,was confirmed by,agenda in her,impressionist and modern,boy \) to,nikki haley of,updated , 8,a staunch libertarian,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 106
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 107
-trigrams: signs up on,,the dissatisfaction of,treated very rough,masterfully rendered by,ordered with 16,we did six,years , blacks,dozens of politicians,can take five,, and the,reset his mercurial,marginalize people hes,never run a,department arrived at,
+trigrams: not long ago,have seen the,following up on,neurosurgeon who ran,president elect donald,with all the,replace many government,updated a m,the retired neurosurgeon,is am i,states and china,cry wolf in,could be deported,you are hardly,the publicist for,
 i: 108
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: much as pounds,lured students into,was sunday said,fail and contemplate,there are a,most ethnically diverse,overhaul referring to,weeks of work,,to suppress posts,,survives him as,benefits workers could,imposed at the,dolly parton at,
 i: 109
-trigrams: the side during,ms haley with,first , i,turns out mr,leave the state,other options in,,j trump ,,by indie rockers,of tennis ,,room , when,in egypt ,,requests for comment,dismissed the claim,at the new,
+trigrams: on wednesday as,brought exciting changes,updated a m,to respond to,taking a quick,panels that kept,,dooky chase orchestra,at the announcement,to the carrier,another display of,included electrical vaults,trump named gov,president obamas civil,carson the retired,
 i: 110
-trigrams: said , but,,,and other presidential,,restaurants , cleaning,3 cups 720,and lack so,taxpayer identification number,vs left wing,methods for estimating,10 , 000,suffered deep losses,managers , kept,a cap of,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 111
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: updated a m,were your early,legacy looked on,struggling to respond,ben carson the,what are you,luther helland stood,base president elect,is the daughter,named gov nikki,washington president elect,secretary wilbur ross,freedom the nations,wealthy republican philanthropist,last week after,
 i: 112
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,a federal judge,
+trigrams: updated a m,the retired neurosurgeon,cry wolf in,president elect donald,we have seen,makers and other,flavors vouchers and,respond to donald,versatile guitarist who,retired neurosurgeon who,will soon see,group of ultrawealthy,haley of south,any school public,to assess their,
 i: 113
-trigrams: vandalism , offensive,washington ben carson,at the new,that kept the,updated , 8,time crime in,right , brian,libertarian who is,government intervention involves,president elect donald,our midtown headquarters,best the occasion,friends would just,theodore roosevelt \),it was difficult,
+trigrams: when we had,along the way,the latest meetings,,,with borrowed from,,hardly trump territory,departments consent more,win although the,whose eyesight has,you commit a,,restrictions on lobbyists,the new special,
 i: 114
-trigrams: leave the state,motivation people believe,the lincoln administration,it is not,sprinkle , really,the former vermont,,nations highest civilian,quoted mrs santa,along with dozens,,mr trumps early,, the retired,including those run,trump arrived at,
+trigrams: as we have,atlanta gov nikki,dont be too,q what were,updated a m,washington president elect,washington struggling to,washington ben carson,this thanksgiving new,wilbur ross a,a campaign promise,devos a wealthy,j trump once,week after putting,rights legacy looked,
 i: 115
-trigrams: selling off steel,washington president elect,on yourself you,for health care,indian american jeweler,carson , the,updated , 8,we have seen,a rule requiring,to become the,libertarian who is,asked our readers,be a political,a wealthy republican,freedom , the,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a morning,after a morning,after a morning,after a morning,after a morning,after a morning,
 i: 116
-trigrams: updated , 8,selling off steel,carson , the,washington president elect,out to the,we have seen,on yourself you,here is our,gave the presidential,legacy looked on,his education secretary,monarchy is that,gore in 2000,nikki haley of,to leave the,
+trigrams: the operation it,said he had,dade county according,wait a little,richly amorphous and,can be traced,the deadline is,issue a ruling,and more criticized,south carolina and,said of gov,see them as,consensus on a,said it was,wonder what to,
 i: 117
-trigrams: carson , the,off steel makers,to leave the,have seen ,,on yourself you,and the violinist,rutledge called his,a big thing,a tortilla chip,a rule requiring,education secretary brings,a tax increase,, drunken ,,comes from the,right , brian,
+trigrams: updated a m,haley had a,to replace many,,but the traverse,to the carrier,president obamas civil,trump who proposed,are you thankful,to respond to,accord and to,two episodes of,taking a quick,candidates exceeded mr,mr trump has,
 i: 118
-trigrams: front page an,washington president elect,citys trem neighborhood,the crowd with,, the limit,current landscape ,,to turn up,from 3 5,potential employers ,,alternative , according,after a recording,made it to,part , exempts,evidence of continued,water supply to,
+trigrams: washington ben carson,updated a m,as we have,to respond to,over potential economic,is the daughter,years like were,in an offer,nations highest civilian,cry wolf in,president obamas civil,helland stood on,our hopped up,select as commerce,washington president elect,
 i: 119
-trigrams: updated , 8,, the retired,were your early,wilbur ross ,,we have seen,washington president elect,entrenched housing segregation,to respond to,than the usual,atlanta gov nikki,head of state,medal of freedom,right , brian,a wealthy republican,in a boardroom,
+trigrams: panels that kept,the president international,new role she,friend to think,looming over the,has lately been,of immigrants favors,year as bandleader,was percent higher,which all registered,as the states,have seen the,cry wolf in,makers and other,escape a sense,
 i: 120
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a morning,after a morning,after a morning,
 i: 121
-trigrams: , the retired,panels that kept,respond to donald,updated , 8,business leaving after,to become the,of the worlds,education departments trump,is a staunch,mr trumps secretary,christmas with jon,rule requiring local,president elect donald,hunting trip to,shellshocked democrats moved,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 122
-trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+trigrams: as we have,dont be too,updated a m,washington ben carson,washington president elect,washington struggling to,looked on track,elect donald j,presidential medal of,q what were,atlanta gov nikki,week after putting,president obama gave,ran an outsiders,even criminal assault,
 i: 123
-trigrams: , who waived,rain \( sprinkle,,describes in his,from administrators making,was very well,,is black friday,are giving up,post the signs,would want to,or , at,on the g,trade , and,european union after,
+trigrams: updated a m,to the carrier,would suggest that,to replace many,nikki haley of,daughter of immigrants,we have seen,administration misidentified whom,to respond to,early fabric sculptures,he is laxmichand,is something that,stood at percent,york times facebook,are you thankful,
 i: 124
-trigrams: updated , 8,, the retired,the nations highest,selling off steel,panels that kept,we have seen,out to the,with growing stress,rudolph w giuliani,,trumps victory in,respond to donald,justice policies ,,state will soon,john pomfret ,,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 125
-trigrams: updated , 8,confound the president,carson , the,what he branded,or boy \),for an exclusive,washington president elect,dont think anything,tuesday about investors,last mr obama,the year he,of this album,legacy looked on,the military prison,class mr sessions,
+trigrams: ,of the presidential,from concerns that,suggested that the,said mr drapeau,used a stapler,,verse written in,together the parts,him he could,,,his own children,,finding father christmas,
 i: 126
-trigrams: federal payment would,in their own,like \? were,role in the,, over a,of verse written,,with appreciation everyone,respond to donald,when mr jordan,the pleas for,\( like the,an early and,the festivities that,states china relationship,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a morning,after a morning,
 i: 127
-trigrams: lines are expected,,swindled millions from,wednesday mr trump,months , and,bennett , the,, tete de,88 the death,two weeks later,were planning to,leave office with,,,crackdown on the,sound as if,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a morning,
