@@ -1,60 +1,60 @@
-i: 66
-trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
-i: 3
-trigrams: ,,,,,,,,,,,,,,,
-i: 68
-trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
-i: 9
-trigrams: \ good evening,\ good evening,\ good evening,\ good morning,\ good morning,\ good morning,\ good morning,after the stunning,after the stunning,after the stunning,after the stunning,after the stunning,americas first illegal,americas first illegal,americas first illegal,
-i: 74
-trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
+i: 0
+trigrams: ,they spent ,,has caused algae,guitar in the,is scheduled to,states to win,as the unfriendliest,flashback to a,opportunity for united,others , like,1 5 percentage,,of getting back,a push to,,
+i: 65
+trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
 i: 11
-trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
+trigrams: the greatest nation,of buildings ,,will spend the,tranquil , cozy,from the new,have cost mrs,negotiations on bringing,station a few,presidential election ,,his vast business,he branded the,next year she,state estimated that,the nearest brick,is also expecting,
+i: 22
+trigrams: hes the classic,the minutes said,judge curiel ,,give people something,the qualitative work,,another before the,president , shellshocked,has led to,that included some,, and sales,week that it,would be unlikely,minister to the,too rough on,
+i: 9
+trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+i: 10
+trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+i: 75
+trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
 i: 12
-trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
-i: 45
-trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,
-i: 14
-trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,
+trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+i: 77
+trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
 i: 15
-trigrams: throughout this bitter,new york city,has resurrected the,freedoms overseas in,two bailed out,is a transcript,morning heres what,half free the,alien amnesty wasnt,mae and freddie,the summer of,across the street,in the summer,insights from the,jon batiste christmas,
-i: 67
-trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
+trigrams: \? a my,obamas support among,a rally in,officer peters ,,manhattan , which,on thanksgiving ,,to be finished,he said of,in fewer hours,private arbitrations instead,of steep tariffs,have not heard,awhile look ,,, mrs clinton,states and china,
+i: 17
+trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+i: 20
+trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+i: 21
+trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,a federal judge,a federal judge,
 i: 86
-trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
-i: 87
-trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,
-i: 90
-trigrams: ,,,,,,,,,,,,,,,
+trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+i: 56
+trigrams: updated , 8,washington president elect,atlanta gov nikki,as we have,washington ben carson,but with election,jared rutledge called,beach , fla,washington struggling to,37 a m,ross , a,devos to be,on a campaign,week after putting,early years like,
+i: 89
+trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+i: 29
+trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 30
-trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
-i: 96
-trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
-i: 97
-trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
-i: 36
-trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good morning,\ good morning,\ good morning,
-i: 101
-trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,
-i: 103
-trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
-i: 106
-trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
-i: 109
-trigrams: ,,,,,,,,,,,,,,,
-i: 47
-trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
+trigrams: the daughter of,the apprentice in,washington the day,cheyenne westphal ,,in an interview,who were upset,, and the,be mindful of,into the nature,the company does,his administrations accomplishments,,happen if both,,run a federal,
+i: 69
+trigrams: an ally theres,chance of losing,today the social,to get a,estimate how much,beijing , but,held at bay,tbsp apple cider,donald j trump,, died on,as a backdrop,said nothing to,in specific geographic,,,
+i: 32
+trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+i: 98
+trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,a federal judge,a federal judge,a federal judge,
+i: 107
+trigrams: signs up on,,the dissatisfaction of,treated very rough,masterfully rendered by,ordered with 16,we did six,years , blacks,dozens of politicians,can take five,, and the,reset his mercurial,marginalize people hes,never run a,department arrived at,
+i: 45
+trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+i: 111
+trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
 i: 112
-trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,
-i: 52
-trigrams: illegal alien amnesty,rates , although,throughout this bitter,and reporters at,room with him,half free the,seemed , had,\? get to,manhattan our first,good morning heres,election campaign ,,attitude were supposed,to know after,narrow confirmation of,vast majority of,
-i: 117
-trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
-i: 62
-trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good morning,\ good morning,
-i: 116
-trigrams: ,,,,,,,,,,,,,,,
-i: 126
-trigrams: ,,,,,,,,,,,,,,,
-i: 63
-trigrams: throughout this bitter,encounter with trump,step \? get,more presidential medals,, with a,americans are anticipating,restrictions , which,rocketed over the,washington ben carson,, a new,of it are,in both nations,of reporters and,valley a long,grouping of farmers,
+trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,a federal judge,
+i: 50
+trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+i: 118
+trigrams: front page an,washington president elect,citys trem neighborhood,the crowd with,, the limit,current landscape ,,to turn up,from 3 5,potential employers ,,alternative , according,after a recording,made it to,part , exempts,evidence of continued,water supply to,
+i: 55
+trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,a federal judge,a federal judge,
+i: 120
+trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+i: 122
+trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,

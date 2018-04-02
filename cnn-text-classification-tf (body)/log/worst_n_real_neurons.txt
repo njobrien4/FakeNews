@@ -1,60 +1,60 @@
-i: 64
-trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
-i: 69
-trigrams: early by the,foreign correspondent for,reporters and photographers,the salinas valley,long historical arc,last week from,his positions he,r haley of,reinvented himself as,an engineer i,oceanfront home here,housing and urban,was the fact,journalists felt surreal,is an unorthodox,
-i: 70
-trigrams: in the run,throughout this bitter,morning heres what,what you need,reporters and photographers,as americans gather,following is a,who i am,honor , to,feels like from,out at all,turnout is simple,half free the,infuriated by the,appearance the parade,
+i: 66
+trigrams: updated , 8,, the retired,selling off steel,panels that kept,libertarian who is,who is very,singer of contemporary,christmas with jon,,nikki haley of,love to you,in afghanistan as,rubio of florida,based harassment have,his earliest appointments,
+i: 43
+trigrams: , the retired,the nations highest,yourself you are,updated , 8,president elect donald,like \? were,to persuade the,for substantial changes,intervention except ,,washington president elect,have seen ,,river and surveyed,a narrower political,roosevelt \) ,,nikki haley of,
+i: 71
+trigrams: that he is,president xi jinpings,lately been dominated,this stage has,the blame i,hammer everybody for,, the retired,a former medicare,leave the state,low wage workers,president elect donald,through it and,,to mexico in,, i exaggerated,
 i: 72
-trigrams: is a transcript,throughout this bitter,washington president obama,half free the,new york city,a new york,morning heres what,were ready to,, complicating his,illegal alien amnesty,housing and urban,donald j trump,free markets and,in the summer,christmas with jon,
-i: 73
-trigrams: throughout this bitter,central people the,based foreign correspondent,let me say,, new york,tend to the,is a transcript,relationship between the,timess baghdad bureau,for the times,over the last,join them in,surrounds both sides,housing and urban,relatives every election,
-i: 80
-trigrams: throughout this bitter,good morning heres,and half free,of a team,, new york,illegal alien amnesty,honor , to,of housing and,of back and,based advocacy group,reporters and photographers,to classify it,government oversight big,personal way ,,this article is,
-i: 122
-trigrams: throughout this bitter,of housing and,in the summer,rocketed over the,to classify it,illegal alien amnesty,york city was,insider shares historical,know after a,was a very,tax filing on,of presumption they,of a team,honor , to,of reporters and,
-i: 46
-trigrams: a long strip,,mr obamas liberal,the mountains that,senator jeff sessions,criticism the times,to soften some,expensive presidential campaign,of unreality in,foreign correspondent for,and repurposing their,trump , who,to escape by,long prized its,once declared that,
-i: 88
-trigrams: good morning heres,throughout this bitter,nations highest civilian,washington bureau were,based foreign correspondent,in the summer,americas first illegal,and half free,calif as americans,is a transcript,less poisoned ,,, has taken,the wrong attitude,r haley of,, with a,
-i: 49
-trigrams: after the stunning,city was hardly,said shanon loggins,president , max,, in south,attention for speaking,of reporters and,book , john,alien amnesty wasnt,opinion today newsletter,are gov nikki,a public rebuttal,campaign , and,, during which,confederate battle flag,
-i: 28
-trigrams: in the summer,in a room,morning heres what,throughout this bitter,housing and urban,floor of trump,in south brooklyn,city , is,of a team,to donald trumps,of reporters and,street from mar,animals from the,corporations and individuals,city was hardly,
-i: 26
-trigrams: throughout this bitter,little longer they,an outsiders campaign,daily in your,over lunch at,journalist with extensive,j trump moved,a team set,us will be,favors free markets,pumpkin pie and,outsiders campaign for,was hardly trump,to a wild,it or not,
-i: 95
-trigrams: in the summer,of it are,london once again,j trump moved,, since were,, there may,the white house,whooping with appreciation,this album ,,, mr trumps,of live animals,and many of,\? get to,, to the,pale blue eyes,
-i: 34
-trigrams: ,,,,,,,,,,,,,,,
-i: 35
-trigrams: throughout this bitter,good morning heres,, usually focuses,the summer of,illegal alien amnesty,following is a,updated , a,us from the,an outsiders campaign,capital firm ,,slave and half,washington president obama,based advocacy group,minister on tuesday,this article is,
-i: 100
-trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,
-i: 39
-trigrams: throughout this bitter,based foreign correspondent,and half free,donald j trump,in november ,,new york based,rebuttal last week,behind the scenes,for speaking out,amnesty wasnt the,the nations highest,ambitious regulations but,york times and,has said climate,throughout this bitter,
+trigrams: as we have,atlanta gov nikki,updated , 8,washington ben carson,washington president elect,washington struggling to,betsy devos to,observers are wondering,q what were,secretary wilbur ross,broker one morning,offensive jokes ,,with all the,and later beloved,trump named gov,
+i: 74
+trigrams: or boy \),off steel makers,updated , 8,carson , the,out to the,police department veteran,to respond to,panels that kept,,a fixture of,we have seen,a fixed government,than the usual,americas deeply entrenched,mr trumps choice,
+i: 23
+trigrams: fairy tales in,party , reaching,speech , mr,few people left,president elect to,mounted probably not,june 20 ,,companies how do,the evidence we,campaign donor at,and leave some,,is adopted by,new orleans funeral,obvious joy in,
+i: 2
+trigrams: dont be too,, the retired,updated , 8,we have seen,while charters enjoy,style runs from,000 factory jobs,washington president elect,aqr capital management,r lepage backed,respond to donald,selling off steel,his education secretary,from most republicans,indian american jeweler,
+i: 78
+trigrams: as we have,atlanta gov nikki,betsy devos ,,betsy devos ,,following up on,president obamas civil,updated , 8,washington ben carson,washington president elect,washington struggling to,when jared rutledge,trying to persuade,would be a,8 37 a,, some political,
+i: 79
+trigrams: led most state,,rights lawyer ron,and was an,she was still,mexico , tried,so weve got,cut back on,mortified and saying,percent i was,waterline how many,members of the,and includes loans,,and 29 ,,
+i: 81
+trigrams: j trumps victory,, the retired,, aqr capital,boy \) to,000 inmates ,,nations highest civilian,updated , 8,, 000 a,, i exaggerated,in traditional fee,on a platform,from the federal,of months ago,to the carrier,the same way,
+i: 18
+trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+i: 87
+trigrams: , the retired,based harassment have,that kept the,off steel makers,of the worlds,brings western michigan,respond to donald,to mexico in,a rule requiring,nicholas avenue in,washington president elect,r lepage backed,ospina , a,another display of,to correct them,
+i: 91
+trigrams: , the retired,yale i had,trade or the,elect trump at,million to republican,weighted the appeals,mr trumps march,or death \),glendale , ariz,the grateful dead,and ominous box,many , many,mr trump was,segregation and make,its assorted versions,
 i: 92
-trigrams: both nations ,,an unorthodox grouping,the committee to,approved a similar,has touched me,need to break,alien amnesty wasnt,vast majority of,is a transcript,characters that mr,deserve , which,to half an,was most striking,throughout this bitter,at the new,
-i: 42
-trigrams: throughout this bitter,is a transcript,based foreign correspondent,in the summer,, new york,election has resurrected,has resurrected the,good morning heres,make large donations,of reporters and,washington ben carson,! eight hours,know president elect,and marathon womanizer,elect mini ,,
-i: 108
-trigrams: housing and urban,favors free markets,of bomb sniffing,not open to,chosen as secretary,, in south,years like \?,times insider delivers,it her husband,this article is,morning heres what,wright , director,tycoon , to,half free the,colorful and eclectic,
-i: 110
-trigrams: throughout this bitter,central people the,encounter with trump,is a transcript,donald j trump,daily in your,good morning heres,of a team,policies , historically,our publisher at,a public rebuttal,foreign correspondent for,housing and urban,elect donald j,of reporters and,
-i: 111
-trigrams: throughout this bitter,and half free,a more extreme,city was hardly,of reporters and,illegal alien amnesty,good morning heres,based foreign correspondent,in a room,step \? get,michael ricatto put,washington ben carson,floor of trump,article is part,more briefings and,
+trigrams: updated , 8,washington president obama,carson , the,donald j trump,we have seen,washington president elect,based harassment have,tuesday about investors,legacy looked on,his education secretary,of presidential commutations,long ago ,,with all the,, the nations,he had been,
+i: 93
+trigrams: called dooky ,,star , by,by judge curiel,her handling of,rethinking their investments,would change even,college i learned,does spending money,the countrys leaders,auction calculations the,former chancellor for,,charge one another,,or knocked down,
+i: 95
+trigrams: updated , 8,we have seen,stood on a,respond to donald,to be his,washington president elect,economic growth under,sworn in ,,\) to cry,appealed directly to,ben carson ,,critics have complained,of the river,magnificent seven and,appointment as chief,
+i: 96
+trigrams: , the retired,gave the presidential,updated , 8,very much against,country before he,boy \) to,monarchy is that,a narrower political,for health care,to the carrier,some of the,betsy devos ,,mr trumps secretary,police department veteran,, is the,
+i: 97
+trigrams: , the retired,libertarian who is,of the worlds,states the devos,the ticket ,,updated , 8,sense i wouldnt,of contemporary christian,, scientists and,trump over lunch,2016 , not,all of whom,known throughout the,kadyrov described his,women in mr,
+i: 35
+trigrams: , the retired,leave the state,of medicare could,however , about,belt base ,,a similar level,from the federal,overlook a small,the 45th president,that kept the,of what i,have many incredible,befriended ms haley,before f b,,
+i: 100
+trigrams: after a morning,as we enter,atlanta gov nikki,dont be too,dont be too,following up on,front page an,front page an,in maine ,,mr trumps choice,on a blustery,president obamas civil,q what were,the interview with,updated , 8,
+i: 37
+trigrams: have seen ,,, the retired,when jared rutledge,off steel makers,president elect donald,updated , 8,economic growth under,a gathering place,morning last week,washington president obama,morning last week,at the new,for substantial changes,to leave the,carolina as his,
+i: 103
+trigrams: updated , 8,nations highest civilian,, the retired,be a political,washington president elect,, i exaggerated,off steel makers,if you think,truly an opportunity,middle of the,mrs devos sharply,brings western michigan,one of the,and the violinist,wealthy republican philanthropist,
+i: 28
+trigrams: president elect donald,, the retired,were your early,, the nations,updated , 8,to his rust,have seen ,,the same time,off steel makers,respond to donald,that is smaller,rule requiring local,morning of back,exuberance , i,not pay he,
+i: 7
+trigrams: updated , 8,, the retired,rule requiring local,off steel makers,to the carrier,,rubio of florida,washington president elect,brings western michigan,to respond to,jones wrote online,friends would just,,than the usual,we have seen,
 i: 113
-trigrams: step \? get,of a team,what you need,alien amnesty wasnt,t sampson school,housing and urban,the emergence of,mr arango ,,honor , to,throughout this bitter,or ideological pattern,rooted in fact,brings western michigan,barred from working,for chairman of,
+trigrams: vandalism , offensive,washington ben carson,at the new,that kept the,updated , 8,time crime in,right , brian,libertarian who is,government intervention involves,president elect donald,our midtown headquarters,best the occasion,friends would just,theodore roosevelt \),it was difficult,
+i: 114
+trigrams: leave the state,motivation people believe,the lincoln administration,it is not,sprinkle , really,the former vermont,,nations highest civilian,quoted mrs santa,along with dozens,,mr trumps early,, the retired,including those run,trump arrived at,
 i: 51
-trigrams: throughout this bitter,of reporters and,relationship between the,good morning heres,city was hardly,following is a,, with a,the scenes insights,chosen as secretary,york times you,, a new,wright , director,of felix the,and then told,dampened a bit,
-i: 59
-trigrams: over the last,of reporters and,throughout this bitter,the blockages ,,is a transcript,back to the,\? get to,housing and urban,, in los,illegal alien amnesty,of a team,race appeared to,clout and plotting,commission approved a,believe in you,
-i: 55
-trigrams: following is a,half slave and,in the run,jon batiste christmas,the committee to,throughout this bitter,trump administration might,the summer of,first illegal alien,, as a,between workers and,elect donald j,up then ms,a m good,and freddie mac,
-i: 56
-trigrams: \ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good evening,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,\ good morning,
+trigrams: palm beach ,,, the nations,yourself you are,wells fargo has,week but fran,, according to,the middle of,, the retired,, open to,salon he says,quite honestly im,city has lately,united states china,pull out of,the present with,
+i: 52
+trigrams: 1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,1 president elect,
+i: 121
+trigrams: , the retired,panels that kept,respond to donald,updated , 8,business leaving after,to become the,of the worlds,education departments trump,is a staunch,mr trumps secretary,christmas with jon,rule requiring local,president elect donald,hunting trip to,shellshocked democrats moved,
 i: 58
-trigrams: throughout this bitter,ms russo will,baghdad bureau chief,in fact not,r haley of,to wait a,they deserve ,,reserve officials convened,article is part,moving outside their,with trump since,all the highlights,christmas with jon,expensive presidential campaign,morning on this,
-i: 31
-trigrams: what you need,throughout this bitter,article is part,, issued on,of a team,menus the tossed,illegal alien amnesty,influential , since,elect donald j,michael ricatto put,baghdad bureau chief,to classify it,president obama gave,, new york,in the summer,
-i: 127
-trigrams: , when the,, new york,to fix fannie,, saying she,is a transcript,special interests i,sons , said,donald j trump,free markets and,down all the,years , said,the nations chief,with jon batiste,anyones recollection i,both nations ,,
+trigrams: updated , 8,selling off steel,years like \?,yourself you are,to the carrier,we have seen,, the retired,washington donald j,freedom , the,president elect donald,washington , d,gov paul r,his mortgage broker,2015 , his,tuesday about investors,
