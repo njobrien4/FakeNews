@@ -1,0 +1,34 @@
+2018-04-02 18:36:00.576812: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2018-04-02 18:36:00.577883: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2018-04-02 18:36:00.577920: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2018-04-02 18:36:02.768343: I tensorflow/core/common_runtime/gpu/gpu_device.cc:955] Found device 0 with properties: 
+name: Tesla K20Xm
+major: 3 minor: 5 memoryClockRate (GHz) 0.732
+pciBusID 0000:03:00.0
+Total memory: 5.94GiB
+Free memory: 5.87GiB
+2018-04-02 18:36:02.768472: I tensorflow/core/common_runtime/gpu/gpu_device.cc:976] DMA: 0 
+2018-04-02 18:36:02.768505: I tensorflow/core/common_runtime/gpu/gpu_device.cc:986] 0:   Y 
+2018-04-02 18:36:02.768540: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1045] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K20Xm, pci bus id: 0000:03:00.0)
+
+Parameters:
+ALLOW_SOFT_PLACEMENT=True
+BATCH_SIZE=64
+CHECKPOINT_DIR=/om/user/njobrien/FakeNews/cnn-text-classification-tf (body)/log/runs/1522681744/checkpoints/
+EVAL_TRAIN=True
+LOG_DEVICE_PLACEMENT=False
+NEGATIVE_DATA_FILE=/om/user/njobrien/FakeNews/cnn-text-classification-tf (body)/data/news-data/trump_fake_bodies.txt
+POSITIVE_DATA_FILE=/om/user/njobrien/FakeNews/cnn-text-classification-tf (body)/data/news-data/all_real_bodies_noem_trump.txt
+
+Total number of test examples: 5120
+
+Evaluating...
+
+0
+1
+2
+Total number of test examples: 5120
+Accuracy: 0.949219
+[[2945    4]
+ [ 256 1915]]
+Saving evaluation to /om/user/njobrien/FakeNews/cnn-text-classification-tf (body)/log/runs/1522681744/checkpoints/../prediction.csv

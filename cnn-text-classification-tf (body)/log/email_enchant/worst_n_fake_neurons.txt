@@ -1,0 +1,60 @@
+i: 3
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,
+i: 4
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,
+i: 6
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,
+i: 27
+trigrams: ,make clear where,was miffed that,man in the,a she would,for the he,the life she,a close relationship,after a maddening,says the firm,,some students considered,huge the annual,for her crippled,in rank some,
+i: 77
+trigrams: tone for a,islands of digital,,,to make partner,having it stolen,as an he,could help broker,a major push,,from my partner,in and the,law the power,parents were immigrants,your phone is,
+i: 15
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,a man was,a man was,a man was,a man was,
+i: 43
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,a man was,a man was,a man was,a man was,a man who,a man who,a man who,
+i: 86
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 24
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 25
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,
+i: 111
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,
+i: 33
+trigrams: to address the,a work within,with some of,see a huge,comic of the,final results have,to take on,agenda through congress,the as urging,his public service,the skirmishing between,but the way,mutually beneficial arrangement,situation where you,close relationship with,
+i: 99
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,
+i: 102
+trigrams: ,not pursue a,,bar for winning,existence of most,,to start whenever,a long rap,and many users,,carry out chemical,for members to,,a way that,,
+i: 104
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 106
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,
+i: 107
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 46
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,a man was,
+i: 47
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,
+i: 48
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,a man was,a man was,a man was,
+i: 59
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,a man was,
+i: 51
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 118
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,
+i: 55
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,
+i: 56
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,a man was,a man was,a man was,a man was,a man was,a man was,
+i: 88
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,
+i: 58
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,
+i: 123
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,
+i: 61
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,a man was,a man was,
+i: 62
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,

@@ -1,0 +1,60 @@
+i: 0
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,
+i: 107
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 13
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,
+i: 79
+trigrams: lives of others,,was available for,the number of,e a senior,in ruled that,were just beginning,wildly proliferating the,,communities who intentionally,is wrecking crops,,cascading consequences losing,will pay a,class he grew,
+i: 80
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,a man was,a man was,
+i: 17
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,
+i: 18
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,
+i: 19
+trigrams: for thanksgiving this,was included in,several requests to,to the top,,be sure to,the firm has,trump believes will,a and as,of hate crimes,the field some,and upbringing but,turn its attention,left by a,,
+i: 20
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,
+i: 85
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,
+i: 87
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,
+i: 88
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,
+i: 26
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,
+i: 30
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,
+i: 32
+trigrams: from one of,and journalists in,that leave from,the that were,88 years her,of a industries,,while has some,airtight container in,reporting that have,,a decade but,trump has little,looked on not,,
+i: 98
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,
+i: 101
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,
+i: 49
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,
+i: 40
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,
+i: 106
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,
+i: 103
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,a man was,a man was,a man was,
+i: 50
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,a man was,a man was,a man was,a man was,
+i: 104
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 114
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,
+i: 51
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 120
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 121
+trigrams: ,some level of,say the driver,amount to handing,sees an that,,helped break a,more challenges are,i like fulfilling,between flesh and,with some of,transformation no one,,,,
+i: 123
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,
+i: 61
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,a man was,a man was,
+i: 62
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,

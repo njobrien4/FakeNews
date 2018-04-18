@@ -1,0 +1,60 @@
+i: 64
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 2
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 67
+trigrams: ,,,,,,,,,,,,,,1 \) if,
+i: 68
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 6
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 71
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 75
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 14
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 81
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 18
+trigrams: ,,,,,,,,,,,,,,1 \) if,
+i: 20
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 88
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 89
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 92
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 29
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 32
+trigrams: ,,,,,,,,,,,,,,1 \) if,
+i: 33
+trigrams: on mls a,feel valued the,thursday that the,,than previously and,women in the,,unrelated individuals in,womens rights justin,,including pro remain,,the inquiry ,,,government said its,
+i: 98
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 100
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 70
+trigrams: he had the,to investigate reports,novel , danny,or violence on,000 listeners per,,that the government,,,,russian blitz will,, sky sports,,numbingly useless but,,
+i: 38
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 40
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 41
+trigrams: ,,,,,,,,,,,,,,1 \) if,
+i: 106
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 7
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 112
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 52
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 117
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 124
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 125
+trigrams: ,,,,,,,,,,,,,,1 \) if,

@@ -1,0 +1,60 @@
+i: 2
+trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,after months of,after months of,after months of,after months of,after months of,after months of,after months of,
+i: 69
+trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+i: 8
+trigrams: al caiola ,,beijing dozens of,dear watchers ,,dog day after,elton john will,hillary clintons lead,lupita nyongo calls,manila thomas dooley,new delhi in,old age a,old age a,once again ,,the hands down,vandalism , offensive,vandalism , offensive,
+i: 73
+trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+i: 10
+trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+i: 75
+trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+i: 12
+trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,after months of,after months of,after months of,after months of,after months of,
+i: 77
+trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+i: 19
+trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+i: 84
+trigrams: a few years,a few years,a few years,a few years,a few years,a few years,after months of,after months of,after months of,after months of,after months of,after months of,after months of,al caiola ,,al caiola ,,
+i: 22
+trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+i: 24
+trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+i: 25
+trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+i: 26
+trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,after months of,after months of,after months of,after months of,after months of,
+i: 91
+trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+i: 92
+trigrams: all that man,beijing dozens of,dear watchers ,,dog day after,donald j trump,donald j trump,hey no recipes,is childhood the,like it or,once again ,,rita ackermann paints,washington the day,washington the day,when isaac avila,william n copley,
+i: 29
+trigrams: a few years,a few years,a few years,after months of,after months of,after months of,after months of,al caiola ,,al caiola ,,all that man,all that man,all that man,alligator \( previews,alligator \( previews,an email i,
+i: 32
+trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+i: 112
+trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,after months of,after months of,
+i: 100
+trigrams: a few years,a few years,after months of,al caiola ,,al caiola ,,as we enter,beijing dozens of,dear watchers ,,donald j trump,donald j trump,edgar chase jr,for the past,hey no recipes,hey no recipes,if you think,
+i: 107
+trigrams: as we enter,beijing dozens of,dear watchers ,,donald j trump,for thanksgiving this,for thanksgiving this,for the past,hey no recipes,if the supposed,in 1970 ,,in 2012 ,,in his early,jerusalem parts of,jerusalem parts of,london a man,
+i: 109
+trigrams: by the tourists,were adapted for,,keys to mr,was part of,be a moment,jokes , even,money than i,an unhappy marriage,the islands disenfranchised,keep my thinking,the drummer murph,murder and attempted,is especially important,called a conflict,
+i: 46
+trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+i: 47
+trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+i: 48
+trigrams: campaign slogans outside,that transforms it,in strasbourg on,gables \( 2016,,,by the senate,were unearthed from,, the hero,solidity , spare,from birmingham ,,has been replaced,apartments \( roughly,, up all,, hennepin county,
+i: 51
+trigrams: one album ,,,the united states,,has a happy,week , and,harnoncourt devotees ,,of bouncing from,the united nations,, happy thanksgiving,years in the,as they have,he was a,was wrong his,a weather system,
+i: 56
+trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+i: 58
+trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+i: 60
+trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+i: 83
+trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,

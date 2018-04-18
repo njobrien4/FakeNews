@@ -1,0 +1,60 @@
+i: 51
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 67
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 8
+trigrams: least experienced ambassador,plays a character,that includes sunset,,the settlement was,,killed five students,esquire network also,most highly valued,and other measures,2 and running,team to rate,a great eating,discuss the disappearance,to vote today,
+i: 11
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,a federal judge,a federal judge,
+i: 77
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 79
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,
+i: 81
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,
+i: 82
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 83
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 84
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 90
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 29
+trigrams: 1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,a federal judge,a federal judge,after a series,after a series,after a series,and held the,and held the,at many of,at many of,
+i: 96
+trigrams: ,franchise is taking,a phrase i,paved the way,,that he asked,former chief white,g with a,that position raises,to ask him,which should not,deliberating his cabinet,in its turn,gain a better,president broad authority,
+i: 97
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,
+i: 34
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 99
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,
+i: 105
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 43
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 108
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 45
+trigrams: items nearing their,,big the final,plant there and,we always but,that ms was,,since march 2003,,his lunch at,under the swaggering,she answered that,her classes show,,leaders are pressuring,
+i: 46
+trigrams: and subsisting on,in the planning,million viewers this,of the union,great art this,president of the,the recording academy,happily in front,their charges speak,early collaborations with,in hate crimes,some parts of,the 3 percent,the government intervention,he said lane,
+i: 72
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 50
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,
+i: 115
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,
+i: 117
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 118
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,
+i: 56
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 58
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 60
+trigrams: after a series,there was no,its main competitors,the a group,hosts workshops for,this said director,furor throughout the,,level or a,search of self,success and felt,before anyone blames,watched night holy,,the scientific consensus,
+i: 61
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,

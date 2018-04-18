@@ -1,0 +1,60 @@
+i: 65
+trigrams: ,,,,,,,,,,,,,,,
+i: 5
+trigrams: ,,,,,,,,,,,,,,,
+i: 1
+trigrams: ,beeping sound they,,nocturnal animals \(,wish to apologise,,,no civilians who,he says the,its participants an,, as public,we box clever,to one of,,is what we,
+i: 8
+trigrams: ,,,,,,,,,,,,,,,
+i: 9
+trigrams: ,,,,,,,,,,,,,,,
+i: 79
+trigrams: ,,,,,,,,,,,,,,,
+i: 12
+trigrams: have been subject,long time ago,,at cida ,,share on whatsappshare,to sweep the,,been mooted as,deployed in the,via emailshare on,,danny brownas befits,down but i,,,
+i: 78
+trigrams: ,,,,,,,,,,,,,,,
+i: 15
+trigrams: ,,,,,,,,,,,,,,,
+i: 16
+trigrams: ,,,,,,,,,,,,,,,
+i: 84
+trigrams: ,,,,,,,,,,,,,,,
+i: 72
+trigrams: ,,,,,,,,,,,,,,,
+i: 27
+trigrams: ,,,,,,,,,,,,,,,
+i: 28
+trigrams: ,,,,,,,,,,,,,,,
+i: 80
+trigrams: ,,,,,,,,,,,,,,,
+i: 91
+trigrams: ,,,,,,,,,,,,,,,
+i: 113
+trigrams: ,,,,,,,,,,,,,,,
+i: 101
+trigrams: ,,,,,,,,,,,,,,,
+i: 103
+trigrams: ,,,,,,,,,,,,,,,
+i: 105
+trigrams: ,,,,,,,,,,,,,,,
+i: 42
+trigrams: ,,,,,,,,,,,,,,,
+i: 39
+trigrams: ,,,,,,,,,,,,,,,
+i: 45
+trigrams: ,,,,,,,,,,,,,,,
+i: 111
+trigrams: end result is,,as golden as,do business with,notoriety in the,risk of becoming,and emergency warning,on canadas record,later , when,the critical bandwagon,economic growth nevertheless,thursday that the,is someone is,,manchester city for,
+i: 49
+trigrams: it it means,including the 1,way of answering,everyone \? miller,as far as,after the british,novel , danny,police commissioner ,,spokesman for the,referendum but says,,aid organisations ,,agree a deal,who each week,was born he,
+i: 73
+trigrams: new staff and,of a permanent,suggesting may should,time coming up,are trading with,, year after,,public service ethos,likely , in,been proactive in,,tenants on 'pay,persecution by the,,,
+i: 120
+trigrams: ,,,,,,,,,,,,,,,
+i: 121
+trigrams: ,,,,,,,,,,,,,,,
+i: 61
+trigrams: is expected to,least failure to,west coast folksters,test by which,,qc \( jamesturner37,councils needed to,given way to,renaissance the 25,forces following government,, you say,with initially unseen,cases cited ,,if new pay,,
+i: 62
+trigrams: ,,,,,,,,,,,,,,,

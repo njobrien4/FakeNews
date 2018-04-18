@@ -1,0 +1,256 @@
+i: 0
+trigrams: the went a,her son returned,reached out to,at least 1,,members of his,gov r of,said martin could,officer an police,with a struggling,for businesses and,when prime minister,the fiercely protested,injunction would appear,of the coveted,
+i: 1
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,a federal judge,a federal judge,
+i: 2
+trigrams: for thanksgiving this,and the recording,started sending her,using layers of,earplugs should be,been scheduled to,yourself you are,trump is a,it to state,were in for,and prose bookstore,working for his,he said lane,always a fan,of the parliament,
+i: 3
+trigrams: time this roundabout,,sublime new which,,,,,together time means,nearing trial on,shared by millions,on 9 at,the which has,,the kind of,a lead and,
+i: 4
+trigrams: since the basketball,combat with relatives,parliament since announced,under terry it,born in another,minister on a,has been without,river basin hooks,we and we,unearthly about the,to last the,in public has,sending her classmate,back against happening,inauguration in contrary,
+i: 5
+trigrams: plant to leaving,,conclude until after,cut short a,her own before,many other sporting,any sale to,to fueling speculation,the post met,hearing variations on,only modest disruptions,that he would,me before he,similarly daunting streak,,
+i: 6
+trigrams: be too rough,for thanksgiving this,in the summer,j trump will,stars would make,stock continues to,the cool girl,holiday means a,he said lane,this as the,on twitter j,discussed the party,of a live,government came a,a top priority,
+i: 7
+trigrams: 1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,1 trump moved,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,and held the,and held the,and held the,at many of,
+i: 8
+trigrams: least experienced ambassador,plays a character,that includes sunset,,the settlement was,,killed five students,esquire network also,most highly valued,and other measures,2 and running,team to rate,a great eating,discuss the disappearance,to vote today,
+i: 9
+trigrams: to be wildly,earthquake off the,a million expansion,by the picture,commentary of the,data is usually,female prey for,further cuts what,group said it,he planning a,is accusing the,it believes trade,ms and who,on said the,on that would,
+i: 10
+trigrams: 1 after a,1 after a,1 trump moved,a federal judge,after a series,after a series,after a series,at many of,at many of,at the end,at the end,be too rough,be too rough,be too rough,before the gun,
+i: 11
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,a federal judge,a federal judge,
+i: 12
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,a federal judge,a federal judge,
+i: 13
+trigrams: had become a,this a suffocating,it diminishes all,broad deregulation of,gossip columnist smith,magnitude of set,said that official,most populous state,,,1 victory at,who could support,come home to,worries about hurting,long evening of,
+i: 14
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 15
+trigrams: martin the president,inauguration in 2009,stock continues to,a similarly daunting,,for the next,cellular signal as,of power the,swastikas on cars,her early collaborations,groups like the,leaders of a,on office confirmed,relaxed his own,charismatic teacher at,
+i: 16
+trigrams: some level of,been quoted a,causes in modern,endures further cuts,moving the tumultuous,eliminate special interests,suggesting in public,expensive art by,for higher and,the most beautiful,for big shrimp,fighters would cost,star moss paved,a warming planet,about 1 ,,
+i: 17
+trigrams: has hope and,not requested any,people working with,received an accounting,,fitness for office,so parents can,,,the next pick,state of the,from after two,,body that represents,issued a nationwide,
+i: 18
+trigrams: make large donations,campaign trail for,has been without,ring of lazy,out of his,but austere by,have wherever we,and spent much,first time in,layers of voices,cubs were celebrating,were affected by,a white house,w who staunchly,,
+i: 19
+trigrams: at many of,before the gun,gov r of,if you are,if you are,in an office,in his early,in the to,in the to,in the to,on a blustery,on twitter j,paints with attitude,publisher of the,the cool girl,
+i: 20
+trigrams: transfer of power,at home and,modest disruptions to,biggest hedge for,the union and,about 57 2,coax onto the,was the i,hearing variations on,suitcase and subsisting,appear healthy at,former national security,and its black,beat host to,said but with,
+i: 21
+trigrams: of his way,,much more than,a focal point,sensationalist goal will,,,i know better,all for said,clashed with trump,had hoped to,flow into the,i got wrong,this greatest cultural,regarding the nuclear,
+i: 22
+trigrams: 1 after a,j through decades,j trump will,publisher of the,the billionaire investor,when called his,of the national,drummer have remained,the golden and,finance shot up,of the oval,attorney by indicting,fearful memories of,early collaborations with,,
+i: 23
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,1 trump moved,a federal judge,a federal judge,after a series,after a series,after a series,after a series,
+i: 24
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,1 trump moved,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a series,after a series,
+i: 25
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 26
+trigrams: to be disappointed,through from the,election of 1876,, 083 18,,of deeply shocked,,preparing the first,of other whether,which has resurfaced,firing before warmly,,,yearly payments annual,company in picks,
+i: 27
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 trump moved,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a series,after a series,
+i: 28
+trigrams: 1 after a,after a series,at many of,at the end,be too rough,before the gun,choice of to,choice of to,ever since the,ever since the,for thanksgiving this,if you are,in an office,in his early,in the to,
+i: 29
+trigrams: 1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,a federal judge,a federal judge,after a series,after a series,after a series,and held the,and held the,at many of,at many of,
+i: 30
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 31
+trigrams: a federal judge,choice of to,dear happy thanksgiving,following up on,for thanksgiving this,for thanksgiving this,if you are,if you are,in an office,in his early,in where gov,it was difficult,j through decades,j trump moved,j trump moved,
+i: 32
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,
+i: 33
+trigrams: regulate a salary,about the 2016,at the end,beyond the booing,changed year in,by which could,demeanor and warned,hands will go,,,,,,,a long history,
+i: 34
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 35
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 36
+trigrams: choice of to,for thanksgiving this,lawmakers in chose,stars would make,start on opens,the cool girl,this as the,this as the,this election has,said on that,months since the,foreign correspondent for,rust belt worker,endures further cuts,large this pattern,
+i: 37
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,
+i: 38
+trigrams: be too rough,ever since the,for the loved,this as the,the network and,at public school,as the pop,pie and combat,peace between and,cubs were celebrating,to push past,to a home,the tune of,home in just,were added in,
+i: 39
+trigrams: other especially those,for this holiday,aim at on,comparable to most,staples can damage,that mixed family,lobbyists had anticipated,the second amendment,than 700 reports,overnight guests,people moving to,,make their way,fierce endorsers of,,
+i: 40
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,a federal judge,after a series,after a series,after a series,after a series,at many of,at many of,at many of,
+i: 41
+trigrams: stock continues to,thank you very,announced on his,gov r backed,nuclear disaster of,the forces that,the electric power,awkward ms tried,but juicy fried,his mortgage broker,other festivities surrounding,have seemed so,in this moment,while these divisions,a couple of,
+i: 42
+trigrams: been tapped to,world you can,an independent group,on the campaign,his capital management,some level of,was not always,out of a,powerful earthquake off,a trusted security,about his book,causes in modern,encountered including some,inauguration on said,meeting in the,
+i: 43
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 44
+trigrams: pence i there,including in the,new show directed,more than 1,forthright video ms,invitation to play,perform at j,she and her,her has served,of the playoff,have been forced,in a statement,does in this,policy would cover,quotes 2 trump,
+i: 45
+trigrams: items nearing their,,big the final,plant there and,we always but,that ms was,,since march 2003,,his lunch at,under the swaggering,she answered that,her classes show,,leaders are pressuring,
+i: 46
+trigrams: and subsisting on,in the planning,million viewers this,of the union,great art this,president of the,the recording academy,happily in front,their charges speak,early collaborations with,in hate crimes,some parts of,the 3 percent,the government intervention,he said lane,
+i: 47
+trigrams: after a series,choice of to,ever since the,for the loved,incalculable hours vanish,j through decades,j trump moved,on twitter j,sometimes during assemblies,stars would make,stock continues to,the cool girl,this as the,denied being responsible,way through is,
+i: 48
+trigrams: ever since the,once j trump,when called his,this the candidates,was seated next,her stem cells,a warming planet,record j of,private email server,veterans was draped,world but an,and especially true,to eliminate special,are on view,and put a,
+i: 49
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,
+i: 50
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,
+i: 51
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 52
+trigrams: j call for,tom who died,stock continues to,as a institution,a cellular signal,for a then,public school in,this as the,reaffirm this is,directly accused some,one who never,on first impression,parliament since announced,be like to,restrictions will be,
+i: 53
+trigrams: he termed the,this as the,the awards in,of a foreign,a brief assignment,her early collaborations,the year raising,assemblies at public,limit below which,the cool girl,some level of,lifting the ban,not actual cowboys,moved to diversify,his trump leanings,
+i: 54
+trigrams: 1 after a,publisher of the,for their current,month has but,that it would,but northwestern has,of the great,twitter in which,review after an,he took office,drummer have remained,of the short,quite thin at,pleasure of firing,art will come,
+i: 55
+trigrams: workers and while,this is chilly,to fueling speculation,and subsisting on,worth the but,heard thinking of,upset financial markets,diverse quarter of,states and from,to wait a,was a daughter,earplugs should be,agreements that bind,be a member,club and planned,
+i: 56
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 57
+trigrams: the recording academy,cellular signal as,rocketed over the,parliament since announced,level of stress,who never seems,reasons for their,who ran against,want to reaffirm,awful during the,choice of to,school in south,rhythms of a,never did declare,collaborations with but,
+i: 58
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 59
+trigrams: economist at pantheon,from if at,,scheme to lawyers,injunction would appear,a time of,for a losing,desirable place for,health might simply,adaptation by the,to wait a,made a free,,offered an apology,vote means it,
+i: 60
+trigrams: after a series,there was no,its main competitors,the a group,hosts workshops for,this said director,furor throughout the,,level or a,search of self,success and felt,before anyone blames,watched night holy,,the scientific consensus,
+i: 61
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 62
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 63
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,
+i: 64
+trigrams: the black lives,babies who have,rise in popularity,and subsisting on,ways that would,the most to,of the election,states by taking,vacation to someplace,is up 16,the leaders of,1 , 400,bill the majority,rape and and,this is especially,
+i: 65
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,
+i: 66
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 67
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 68
+trigrams: ,83 percent of,causes in modern,climate is accusing,conservatives for delaying,development of the,encountered including some,historical commentary of,casino in an,the white house,against happening blaming,in front of,,he has purged,influence of money,
+i: 69
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,a federal judge,a federal judge,a federal judge,
+i: 70
+trigrams: ,it takes terror,not reached their,astonishing show about,company in picks,to diversify his,,board along the,ambassador to the,union and an,martin king as,and fund kept,he said began,of harassment have,and contemporary works,
+i: 71
+trigrams: ,,the lingering questions,some democrats want,for a party,nonwhite voters some,relatively so long,the 23 referendum,step down as,,,,as a socially,forecast that rates,made an aggressive,
+i: 72
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 73
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 74
+trigrams: franchise is taking,criticism was thought,opportunity then we,sea levels are,subjecting our hosts,modest disruptions to,some in circle,have wondered whether,daily spiritual encouragement,was probably not,united as well,whose brains were,relationship with the,since launched have,suitcase and subsisting,
+i: 75
+trigrams: 1 trump moved,1 trump moved,after a series,after a series,before the gun,choice of to,for his second,for his second,for the loved,if you are,if you think,in an office,in his early,in the summer,in the summer,
+i: 76
+trigrams: pie and combat,what it would,cubs were celebrating,singer day has,means a lot,twitter j trump,of a foreign,world you can,only girl to,first female governor,on the committee,athlete with an,lazy stereotypes the,performance piece which,met with times,
+i: 77
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 78
+trigrams: 17 at 15th,a trusted security,about at auction,and of it,calls for an,changed climate the,climate is accusing,encountered including some,endures further cuts,loudest voice in,some are giving,start around 45,strongly differ and,the rough equivalent,times tremendous respect,
+i: 79
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,
+i: 80
+trigrams: 1 after a,1 trump moved,1 trump moved,1 trump moved,1 trump moved,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a series,after a series,and held the,at many of,
+i: 81
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,
+i: 82
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 83
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 84
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 85
+trigrams: 1 after a,1 after a,a federal judge,after a series,at the end,choice of to,day the soul,ever since the,for the loved,gov r of,if you think,in an office,in his early,in his early,in the to,
+i: 86
+trigrams: and gold logo,they are by,,but useful and,have been anxiously,is 23 years,king the highest,loudest voice in,moving the tumultuous,times tremendous respect,inviting her to,the phone range,president xi and,that simple promise,shake it was,
+i: 87
+trigrams: at envisioned what,as the cubs,but they can,she was a,the network and,a cellular signal,their he never,back to this,officials convened just,page from the,to cover j,announced on his,the transfer of,the tune of,arrives during a,
+i: 88
+trigrams: 1 after a,1 after a,1 trump moved,a federal judge,after a series,at many of,at the end,at the end,be too rough,choice of to,choice of to,dear happy thanksgiving,ever since the,following up on,for thanksgiving this,
+i: 89
+trigrams: real estate agents,its major trading,a brief assignment,golden and its,locked it he,i believe and,to the biggest,making the covers,she was starting,a collaboration with,to fueling speculation,his personal foundation,during the and,themselves present and,it is one,
+i: 90
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 91
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 92
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,a federal judge,a federal judge,a federal judge,a federal judge,
+i: 93
+trigrams: 1 after a,at the end,before the gun,ever since the,ever since the,gov r of,in an office,in his early,in what may,incalculable hours vanish,j trump on,j trump will,john will not,martin the president,on a blustery,
+i: 94
+trigrams: 1 after a,a federal judge,after a series,after a series,at many of,at the end,choice of to,for thanksgiving this,for the loved,gov r of,if you are,if you are,if you think,in an office,in his early,
+i: 95
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,a federal judge,a federal judge,after a series,after a series,after a series,
+i: 96
+trigrams: ,franchise is taking,a phrase i,paved the way,,that he asked,former chief white,g with a,that position raises,to ask him,which should not,deliberating his cabinet,in its turn,gain a better,president broad authority,
+i: 97
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,
+i: 98
+trigrams: 1 after a,after a series,be too rough,before the gun,ever since the,for his second,if you think,in an office,it was difficult,j trump moved,j trump moved,j trump will,last overcome by,last overcome by,last overcome by,
+i: 99
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,
+i: 100
+trigrams: 1 after a,and held the,at many of,if you think,in his early,in his early,in the summer,in the to,martin the president,martin the president,on a blustery,on twitter j,publisher of the,real estate agents,the cool girl,
+i: 101
+trigrams: 1 after a,1 after a,a federal judge,after a series,and held the,at many of,be too rough,before the gun,before the gun,day the soul,day the soul,ever since the,following up on,following up on,for his second,
+i: 102
+trigrams: 1 after a,1 after a,1 trump moved,a federal judge,a federal judge,after a series,after a series,and held the,at many of,at many of,at many of,be too rough,be too rough,be too rough,before the gun,
+i: 103
+trigrams: 1 after a,1 trump moved,at the end,j through decades,last overcome by,martin the president,once j trump,publisher of the,real estate agents,struggling to respond,the cool girl,this as the,what are you,oval office i,include and the,
+i: 104
+trigrams: 1 after a,1 after a,after a series,at many of,at the end,at the end,before the gun,dear happy thanksgiving,for thanksgiving this,for thanksgiving this,for the loved,if you think,in an office,in his early,in his early,
+i: 105
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 106
+trigrams: a federal judge,a federal judge,a federal judge,after a series,after a series,and held the,at many of,at the end,at the end,at the end,at the end,at the end,be too rough,before the gun,before the gun,
+i: 107
+trigrams: 1 after a,and held the,at many of,at the end,before the gun,before the gun,dear happy thanksgiving,for thanksgiving this,gov r of,gov r of,if you are,if you think,in an office,in his early,in his early,
+i: 108
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 109
+trigrams: and subsisting on,changed climate the,climate is accusing,endures further cuts,who like campaigned,5 with wins,than billion to,employ in and,united all so,a move that,by introduced their,last year to,post later said,it can to,been expected speculation,
+i: 110
+trigrams: 1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,1 trump moved,a federal judge,a federal judge,a federal judge,after a series,after a series,after a series,after a series,after a series,
+i: 111
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 112
+trigrams: to fueling speculation,city like he,further cuts what,majority owner what,useful and conversation,your twitter and,bidding could lead,had a high,little evokes both,perfect some election,or executive whose,but juicy fried,flee stories of,choice for ambassador,allow corporations and,
+i: 113
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 114
+trigrams: 1 after a,1 after a,1 after a,1 trump moved,1 trump moved,a federal judge,after a series,after a series,and held the,and held the,and held the,and held the,at many of,at the end,at the end,
+i: 115
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,
+i: 116
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,
+i: 117
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 118
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,
+i: 119
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+i: 120
+trigrams: 1 after a,at the end,choice of to,ever since the,ever since the,following up on,for thanksgiving this,in an office,it was difficult,j trump will,j trump will,john will not,last overcome by,last overcome by,martin the president,
+i: 121
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 122
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 123
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,1 trump moved,
+i: 124
+trigrams: 1 after a,after a series,at many of,before the gun,choice of to,day the soul,for his second,for thanksgiving this,if you are,in an office,in the to,lawmakers in chose,martin the president,on a blustery,on twitter j,
+i: 125
+trigrams: nuclear plant to,between workers and,for members to,like to end,her early collaborations,the president of,in the words,the agreements that,whomever he said,on corporations and,notice of class,reaffirm this is,brief assignment six,win the presidency,inaccurately with a,
+i: 126
+trigrams: 1 after a,in an office,in what may,last overcome by,on a blustery,publisher of the,start on opens,start on opens,the billionaire investor,our team is,and assessments of,do although they,all forms were,of the nuclear,core policy that,
+i: 127
+trigrams: to raise interest,,five years ago,a new assemblyman,,football game to,fit under the,2007 the national,northwestern basketball before,the full transcript,feed overnight guests,email address where,in heavily democratic,the and did,and vegetables and,
