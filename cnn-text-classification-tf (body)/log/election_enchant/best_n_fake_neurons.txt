@@ -1,60 +1,60 @@
 i: 64
-trigrams: the black lives,babies who have,rise in popularity,and subsisting on,ways that would,the most to,of the election,states by taking,vacation to someplace,is up 16,the leaders of,1 , 400,bill the majority,rape and and,this is especially,
+trigrams: for his second,if you think,in the to,j trump will,on a blustery,stars would make,when federal reserve,life with the,to be wildly,black lives matter,its aging fighter,realizing that if,develop symptoms later,rise in popularity,why are we,
 i: 2
-trigrams: for thanksgiving this,and the recording,started sending her,using layers of,earplugs should be,been scheduled to,yourself you are,trump is a,it to state,were in for,and prose bookstore,working for his,he said lane,always a fan,of the parliament,
+trigrams: for thanksgiving this,and the recording,actions had been,using layers of,required with easy,administrative had been,yourself you are,telling a newspaper,more months before,start it to,for a long,book on at,from working for,he said lane,not always a,
 i: 4
-trigrams: since the basketball,combat with relatives,parliament since announced,under terry it,born in another,minister on a,has been without,river basin hooks,we and we,unearthly about the,to last the,in public has,sending her classmate,back against happening,inauguration in contrary,
+trigrams: since the basketball,combat with relatives,parliament since announced,in play levels,was born in,prime minister on,has been without,river basin hooks,sometimes we and,unearthly about the,this as the,in public has,had been misconstrued,buildings must do,inauguration in contrary,
 i: 9
-trigrams: to be wildly,earthquake off the,a million expansion,by the picture,commentary of the,data is usually,female prey for,further cuts what,group said it,he planning a,is accusing the,it believes trade,ms and who,on said the,on that would,
+trigrams: to be wildly,were commentators with,ms will has,off the coast,place was packed,review nuts and,position than it,,,,,a longtime executive,a news barring,a twist after,about his book,
 i: 74
-trigrams: franchise is taking,criticism was thought,opportunity then we,sea levels are,subjecting our hosts,modest disruptions to,some in circle,have wondered whether,daily spiritual encouragement,was probably not,united as well,whose brains were,relationship with the,since launched have,suitcase and subsisting,
+trigrams: ever since the,a journalist with,convened just before,to push back,cooling system in,franchise is taking,in which people,worried now since,the publisher i,plus plus referring,one of his,the election outcome,school in south,can wait until,blame news organizations,
 i: 80
-trigrams: 1 after a,1 trump moved,1 trump moved,1 trump moved,1 trump moved,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a series,after a series,and held the,at many of,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a morning,after a morning,after a morning,after a morning,after a morning,after a morning,
 i: 19
-trigrams: at many of,before the gun,gov r of,if you are,if you are,in an office,in his early,in the to,in the to,in the to,on a blustery,on twitter j,paints with attitude,publisher of the,the cool girl,
+trigrams: a federal judge,a federal judge,a federal judge,after a morning,after a series,and held the,at many of,at many of,at many of,at the end,at the end,at the end,be too rough,be too rough,be too rough,
 i: 85
-trigrams: 1 after a,1 after a,a federal judge,after a series,at the end,choice of to,day the soul,ever since the,for the loved,gov r of,if you think,in an office,in his early,in his early,in the to,
+trigrams: a federal judge,a federal judge,a federal judge,after a morning,after a morning,after a morning,after a morning,after a morning,after a series,after a series,after a series,after a series,after a series,after a series,after a series,
 i: 89
-trigrams: real estate agents,its major trading,a brief assignment,golden and its,locked it he,i believe and,to the biggest,making the covers,she was starting,a collaboration with,to fueling speculation,his personal foundation,during the and,themselves present and,it is one,
+trigrams: after a morning,at the end,before the gun,for his second,if you think,stars would make,when federal reserve,i exaggerated i,real estate agents,at this host,its major trading,terry e pushed,parliament resorting to,a brief assignment,black and gold,
 i: 93
-trigrams: 1 after a,at the end,before the gun,ever since the,ever since the,gov r of,in an office,in his early,in what may,incalculable hours vanish,j trump on,j trump will,john will not,martin the president,on a blustery,
+trigrams: a federal judge,a federal judge,a federal judge,after a morning,after a morning,after a morning,after a series,after a series,after a series,after a series,after a series,after a series,and held the,and held the,and held the,
 i: 95
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,a federal judge,a federal judge,after a series,after a series,after a series,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 33
-trigrams: regulate a salary,about the 2016,at the end,beyond the booing,changed year in,by which could,demeanor and warned,hands will go,,,,,,,a long history,
+trigrams: on the public,regulate a salary,,wildly proliferating the,level but it,opinions about the,almost unendurable beyond,have changed year,by which could,demeanor and warned,outdoor recreation is,i am not,hands will go,,,
 i: 98
-trigrams: 1 after a,after a series,be too rough,before the gun,ever since the,for his second,if you think,in an office,it was difficult,j trump moved,j trump moved,j trump will,last overcome by,last overcome by,last overcome by,
+trigrams: after a morning,after a series,be too rough,before the gun,ever since the,for his second,if you think,in an office,in where gov,it was difficult,j trump moved,j trump moved,j trump will,last overcome by,last overcome by,
 i: 100
-trigrams: 1 after a,and held the,at many of,if you think,in his early,in his early,in the summer,in the to,martin the president,martin the president,on a blustery,on twitter j,publisher of the,real estate agents,the cool girl,
+trigrams: a federal judge,a federal judge,after a morning,after a morning,after a morning,after a series,and held the,and held the,at many of,at many of,at the end,at the end,be too rough,be too rough,before the gun,
 i: 101
-trigrams: 1 after a,1 after a,a federal judge,after a series,and held the,at many of,be too rough,before the gun,before the gun,day the soul,day the soul,ever since the,following up on,following up on,for his second,
+trigrams: a federal judge,after a morning,after a morning,after a series,and held the,at many of,at the end,be too rough,be too rough,before the gun,before the gun,day the soul,day the soul,dear happy thanksgiving,ever since the,
 i: 102
-trigrams: 1 after a,1 after a,1 trump moved,a federal judge,a federal judge,after a series,after a series,and held the,at many of,at many of,at many of,be too rough,be too rough,be too rough,before the gun,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,after a morning,after a morning,after a morning,after a morning,after a series,after a series,after a series,after a series,after a series,after a series,after a series,
 i: 104
-trigrams: 1 after a,1 after a,after a series,at many of,at the end,at the end,before the gun,dear happy thanksgiving,for thanksgiving this,for thanksgiving this,for the loved,if you think,in an office,in his early,in his early,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a morning,after a morning,after a morning,after a morning,after a morning,after a morning,after a morning,after a series,after a series,
 i: 41
-trigrams: stock continues to,thank you very,announced on his,gov r backed,nuclear disaster of,the forces that,the electric power,awkward ms tried,but juicy fried,his mortgage broker,other festivities surrounding,have seemed so,in this moment,while these divisions,a couple of,
+trigrams: stock continues to,thank you very,announced on his,his supporters denouncing,gov r backed,nuclear disaster of,the forces that,class divisions between,the electric power,shake it was,an object of,the but juicy,his mortgage broker,fund the balls,not have seemed,
 i: 106
-trigrams: a federal judge,a federal judge,a federal judge,after a series,after a series,and held the,at many of,at the end,at the end,at the end,at the end,at the end,be too rough,before the gun,before the gun,
+trigrams: a federal judge,a federal judge,a federal judge,after a series,after a series,and held the,at many of,at the end,at the end,at the end,at the end,be too rough,before the gun,before the gun,before the gun,
 i: 110
-trigrams: 1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,1 trump moved,a federal judge,a federal judge,a federal judge,after a series,after a series,after a series,after a series,after a series,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 45
-trigrams: items nearing their,,big the final,plant there and,we always but,that ms was,,since march 2003,,his lunch at,under the swaggering,she answered that,her classes show,,leaders are pressuring,
+trigrams: ,,,been used to,two or three,with a history,,it pretty big,states national the,to move was,make workers more,some of one,be official as,,investigation on the,
 i: 46
-trigrams: and subsisting on,in the planning,million viewers this,of the union,great art this,president of the,the recording academy,happily in front,their charges speak,early collaborations with,in hate crimes,some parts of,the 3 percent,the government intervention,he said lane,
+trigrams: his political ally,subsisting on packets,to several people,million viewers this,turnout rate goes,for eight said,of the union,for great art,president of the,the recording academy,of the two,have to rely,with but as,company announced a,in hate crimes,
 i: 48
-trigrams: ever since the,once j trump,when called his,this the candidates,was seated next,her stem cells,a warming planet,record j of,private email server,veterans was draped,world but an,and especially true,to eliminate special,are on view,and put a,
+trigrams: after a series,be too rough,before the gun,day the soul,ever since the,following up on,in the to,in what may,in what may,in what may,in where gov,j trump moved,j trump moved,j trump moved,j trump on,
 i: 52
-trigrams: j call for,tom who died,stock continues to,as a institution,a cellular signal,for a then,public school in,this as the,reaffirm this is,directly accused some,one who never,on first impression,parliament since announced,be like to,restrictions will be,
+trigrams: rough on yourself,tom who died,stock continues to,inaccurately with a,a cellular signal,end a similarly,their new prime,until late has,public school in,reaffirm this is,directly accused some,one who never,not wildly enthusiastic,parliament since announced,be like to,
 i: 54
-trigrams: 1 after a,publisher of the,for their current,month has but,that it would,but northwestern has,of the great,twitter in which,review after an,he took office,drummer have remained,of the short,quite thin at,pleasure of firing,art will come,
+trigrams: after a morning,at the end,day the soul,if you are,if you think,in what may,j trump will,last overcome by,publisher of the,from to but,politics and has,the defense said,,the in a,wife felt they,
 i: 119
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a morning,after a morning,after a morning,
 i: 120
-trigrams: 1 after a,at the end,choice of to,ever since the,ever since the,following up on,for thanksgiving this,in an office,it was difficult,j trump will,j trump will,john will not,last overcome by,last overcome by,martin the president,
+trigrams: a federal judge,after a morning,after a morning,after a morning,after a morning,after a series,after a series,and held the,at many of,at the end,choice of to,day the soul,ever since the,ever since the,ever since the,
 i: 31
-trigrams: a federal judge,choice of to,dear happy thanksgiving,following up on,for thanksgiving this,for thanksgiving this,if you are,if you are,in an office,in his early,in where gov,it was difficult,j through decades,j trump moved,j trump moved,
+trigrams: a federal judge,choice of to,choice of to,dear happy thanksgiving,following up on,for thanksgiving this,for thanksgiving this,if you are,if you are,in an office,in an office,in his early,in where gov,it was difficult,j through decades,
 i: 126
-trigrams: 1 after a,in an office,in what may,last overcome by,on a blustery,publisher of the,start on opens,start on opens,the billionaire investor,our team is,and assessments of,do although they,all forms were,of the nuclear,core policy that,
+trigrams: a federal judge,after a morning,and held the,be too rough,before the gun,day the soul,following up on,following up on,gov r of,in an office,in an office,in what may,in what may,in what may,in where gov,
 i: 36
-trigrams: choice of to,for thanksgiving this,lawmakers in chose,stars would make,start on opens,the cool girl,this as the,this as the,this election has,said on that,months since the,foreign correspondent for,rust belt worker,endures further cuts,large this pattern,
+trigrams: choice of to,for thanksgiving this,in an office,lawmakers in chose,stars would make,start on opens,the cool girl,this as the,this as the,this election has,minister said on,five months since,of a foreign,foreign correspondent for,regulation had already,

@@ -1,60 +1,60 @@
 i: 0
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,
 i: 107
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,
 i: 13
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,
 i: 79
-trigrams: lives of others,,was available for,the number of,e a senior,in ruled that,were just beginning,wildly proliferating the,,communities who intentionally,is wrecking crops,,cascading consequences losing,will pay a,class he grew,
+trigrams: called the company,,by renouncing his,,hard to attract,,born in into,a factor of,that have been,to the board,even when the,of partners who,and and i,could help broker,been talking a,
 i: 80
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,a man was,a man was,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,a man who,a sculptor best,a sculptor best,a sculptor best,
 i: 17
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,
 i: 18
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,
 i: 19
-trigrams: for thanksgiving this,was included in,several requests to,to the top,,be sure to,the firm has,trump believes will,a and as,of hate crimes,the field some,and upbringing but,turn its attention,left by a,,
+trigrams: after a morning,after disclosures of,after eight the,brought to the,for thanksgiving this,inside new law,president legacy looked,the critical weekend,when j trump,when j trump,about possibly forcing,outside her home,whose deed restricted,,in recent he,
 i: 20
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,
 i: 85
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,a man who,a man who,a man who,
 i: 87
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,
 i: 88
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,
 i: 26
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,
 i: 30
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,
 i: 32
-trigrams: from one of,and journalists in,that leave from,the that were,88 years her,of a industries,,while has some,airtight container in,reporting that have,,a decade but,trump has little,looked on not,,
+trigrams: fake news has,hungry people by,improving ties both,,the white house,to the bureau,a close relationship,from one of,has been predicated,percent of the,service to book,agreement is structured,other immigrants in,added issue is,for what the,
 i: 98
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,
 i: 101
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a sculptor best,
 i: 49
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,a man who,a man who,
 i: 40
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,a man who,
 i: 106
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,
 i: 103
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,a man was,a man was,a man was,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,a man who,a sculptor best,a sculptor best,
 i: 50
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,a man was,a man was,a man was,a man was,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,
 i: 104
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,
 i: 114
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,a man who,a man who,
 i: 51
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,
 i: 120
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,
 i: 121
-trigrams: ,some level of,say the driver,amount to handing,sees an that,,helped break a,more challenges are,i like fulfilling,between flesh and,with some of,transformation no one,,,,
+trigrams: ,after losing the,some level of,in spreading false,easier because i,they thanks to,trump and a,to hate crimes,legacy looked on,,a and as,rash of hate,,bus crashed been,place the state,
 i: 123
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,
 i: 61
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,1 trump filled,a man was,a man was,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,
 i: 62
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,

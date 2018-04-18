@@ -1,5 +1,5 @@
 i: 0
-trigrams: member was killed,finish for cars,work for him,lived a good,a speech in,deliberately unresolved but,there was little,lost twice to,deviousness and determination,, 000 factory,the this week,big heavyweight names,on earth beautifully,defunct education trump,in all and,
+trigrams: protection of dunes,member was killed,finish for cars,work for him,a good part,a speech in,can i be,will allow corporations,deliberately unresolved but,more but then,there was little,to and was,and once tried,deviousness and determination,factory jobs from,
 i: 1
 trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
 i: 4
@@ -9,7 +9,7 @@ trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contende
 i: 9
 trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
 i: 74
-trigrams: tried to buy,feeding lesson with,,,arrive in new,as serious as,adapted by who,,films grossed close,,turkey wants to,retail and real,as he is,already difficult financial,and everything to,
+trigrams: the paint is,tried to buy,the author and,artists the box,gotten serious over,predictions that but,with the most,south a variety,other republican senators,gamble depends on,,,the animals so,with some of,his mother birthday,
 i: 15
 trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
 i: 16
@@ -17,15 +17,15 @@ trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contende
 i: 18
 trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
 i: 20
-trigrams: of the new,candidate can also,to senator m,,late oppressed workers,,he said we,identity plays a,in the vast,sustain repeated viewing,his childhood can,come to recognize,achieve mastery with,and gave him,user taking advantage,
+trigrams: ,of the new,stopped doing china,be lent to,by will make,only on the,,and the deadline,native surrealism in,like the gold,republican of north,,they are just,percentage of the,evacuation to allow,
 i: 85
 trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
 i: 79
 trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
 i: 30
-trigrams: and resell mortgages,will allow corporations,able to meet,overcome itself a,contributed to their,judges in are,the high points,,exchange notes is,next to many,,a moment in,the construction of,this debut by,in the northern,
+trigrams: resell mortgages over,events as of,everyone will be,true market cost,,overcome itself a,,contributed to their,a landslide on,she recalled the,,apartment complexes in,father started the,,fresh pair of,
 i: 37
-trigrams: a third this,peppermint patty is,,of the plan,critique of the,,have pushed for,,of taxes to,ardent singing remain,plum own dances,bowel syndrome get,the activists who,resolve the lingering,of rock and,
+trigrams: couple drove without,savvy passer this,them with a,on the golden,and frowns and,caregivers swab the,,at million to,to be specified,biting critique of,easy sell at,colleagues at the,iron giant and,each of but,better music in,
 i: 34
 trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
 i: 99
@@ -39,22 +39,22 @@ trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contende
 i: 50
 trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
 i: 125
-trigrams: ,,,up the seeing,has a pretty,,his video miss,centered on whether,most defensively stout,has done with,,and push rates,,,,
+trigrams: for months because,,hope on an,,,ms has a,miss you all,did a good,harry potter attraction,as a problem,centered on whether,,could do was,are met by,most defensively stout,
 i: 48
 trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
 i: 114
-trigrams: that number is,,,,bodies had already,,,had struggled against,him to plan,nor the upkeep,when traditional tactics,buyers think twice,linguist who tries,out to become,of new documentary,
+trigrams: be around floods,,,substantial progress and,,bodies had already,and niche take,,,of his decisions,the political moment,would have but,her speaks and,democratic would never,makes it special,
 i: 51
 trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
 i: 53
-trigrams: and is a,to to find,minimal he wrote,i love them,kitten high chair,descending on increases,discs would practice,i want the,i really liked,six weeks of,goal of the,and the drones,the state in,a drone strike,,
+trigrams: and is a,it grace remains,state have chipped,he worked in,the images are,all the pictures,,will not be,a laborer in,let people get,all three discs,a cast of,,by coach came,that burdens she,
 i: 56
 trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
 i: 59
-trigrams: ,,memories of his,,into the newspaper,it in an,in cash daily,,,box this tribute,2015 as a,is not just,,,,
+trigrams: ,evokes one of,,,,of his life,way into the,found it in,,from the bank,city m have,one damn he,,,,
 i: 61
 trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
 i: 62
-trigrams: more regular gathering,it believe that,to her and,yorkers get along,or even an,000 factory jobs,diary of a,theaters of the,activity left the,for a night,and start to,there are a,like to eat,niche take but,story of interpersonal,
+trigrams: information and perhaps,the but now,on earth beautifully,room and where,they did not,a to a,democrats as representative,sucker some of,of housing and,university was a,most socially conscious,,for the night,lead the social,all forms were,
 i: 63
 trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,

@@ -1,60 +1,60 @@
 i: 32
-trigrams: from one of,and journalists in,that leave from,the that were,88 years her,of a industries,,while has some,airtight container in,reporting that have,,a decade but,trump has little,looked on not,,
+trigrams: fake news has,hungry people by,improving ties both,,the white house,to the bureau,a close relationship,from one of,has been predicated,percent of the,service to book,agreement is structured,other immigrants in,added issue is,for what the,
 i: 68
-trigrams: ,a local pizza,county schools that,as his his,said he had,or spent time,patient and given,out she found,supported senator of,12 on suddenly,,and combat with,that relatives who,men moved across,she must pick,
+trigrams: ,a local pizza,that i can,finest effects by,mounted more he,he had vacillated,cost about had,in the sun,impending mortality what,hear them out,senator of ms,unceremoniously some undecorated,,and combat with,that relatives who,
 i: 70
-trigrams: days before the,in then a,,of the climate,are buying said,from the a,said the ambassador,out his goals,a major financier,crushes he told,wise to just,the foremost paragon,in the last,what they described,discredit rival cities,
+trigrams: days before the,in then a,,out of the,are buying said,from the a,security and said,out his goals,a major financier,he told the,to just postpone,the foremost paragon,and publishers foolproof,what they described,discredit rival cities,
 i: 9
-trigrams: 1 after a,1 after a,1 after a,1 trump filled,a man who,a man who,a sculptor best,after a morning,after a morning,after disclosures of,after eight the,after eight the,after months of,after months of,an art historian,
+trigrams: a man who,a man who,a sculptor best,after a morning,after a morning,after a morning,after a morning,after a morning,after disclosures of,after eight the,after eight the,after months of,after months of,an art historian,an art historian,
 i: 10
-trigrams: of your bank,thanksgiving accounted for,early and turned,in where attendees,in the last,an image of,even in the,as his trial,credit card on,for as much,suit against is,was uniquely situated,the said in,number of his,messages like on,
+trigrams: advocacy groups have,,,,areas with one,buying turned out,have tried to,it that she,passed a political,subjects like and,thanksgiving accounted for,that the massive,your bank and,attention to a,up to some,
 i: 75
-trigrams: a man was,a man was,a sculptor best,earlier through his,if in the,j foundation has,j foundation has,j trump said,lead in the,lead in the,the day started,there is a,this election has,your phone is,has the power,
+trigrams: a man was,a man was,a man was,a man who,a sculptor best,about million turkeys,after a morning,after a morning,after a morning,after a morning,after a morning,after a morning,after a morning,after disclosures of,after eight the,
 i: 12
-trigrams: minimize the damage,when people accuse,voice advocating exit,doping of of,come we even,first black dean,official parks department,the damage from,top lawyers who,on that he,was hardly trump,made to donate,the popular vote,and security for,next with a,
+trigrams: the damage from,when people accuse,voice advocating exit,doping of of,first black dean,for as much,parks department signs,damage from that,lawyers who put,injury confirmed on,pledges he made,the popular vote,and security for,next with a,hiring him they,
 i: 78
-trigrams: in criminal investigations,violating provisions a,been barred from,the right way,federal auto safety,from various nerve,which has sex,with patients on,not match support,department officials have,president of customer,as it turns,tension was a,a willing participant,faster the market,
+trigrams: he is friends,in his early,is getting back,j trump moved,j trump on,publisher of the,publisher of the,the day started,whose sometimes darkly,a busy dinner,when discovered that,true to their,would to do,hurricane in we,hands and they,
 i: 23
-trigrams: has designated as,comments he retreated,sulfur mustard at,days of in,foremost paragon of,happiest days of,of harassment have,was dying of,popular vote is,and security for,medication into this,to do it,of his followers,lawyers have said,100 firms are,
+trigrams: has designated as,his comments he,and sulfur mustard,foremost paragon of,happiest days of,wrangling with reporters,reports of harassment,was dying of,popular vote is,and security for,the medication into,it before we,of his followers,have said are,have reached the,
 i: 91
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump filled,1 trump filled,1 trump filled,a man who,a man who,a man who,a man who,a man who,a sculptor best,
+trigrams: a man who,a man who,a man who,a man who,a sculptor best,a sculptor best,a sculptor best,a single spark,a single spark,about million turkeys,about million turkeys,after a morning,after a morning,after a morning,after a morning,
 i: 31
-trigrams: 1 after a,1 after a,a man was,a man was,a sculptor best,a sculptor best,a single spark,a single spark,after a morning,after months of,after months of,an art historian,as he prepared,brought to the,for if there,
+trigrams: a man was,a man was,a man was,a man was,a man who,a man who,a sculptor best,a sculptor best,a sculptor best,a sculptor best,a sculptor best,a single spark,a single spark,a single spark,a single spark,
 i: 96
-trigrams: they unearth have,the way to,said he had,shuts off wireless,early and turned,advance his business,of japan posed,this club are,pie and combat,that she the,had failed to,to the word,number of his,messages like on,percent or and,
+trigrams: ,it that she,lack of coverage,and newspapers i,biochemistry to break,it is a,are in effect,years include a,granite the drilling,would be the,management had a,unearth have insurance,give them greater,have not heard,is not sufficient,
 i: 35
-trigrams: a man was,after eight the,an email i,as he prepared,brought to the,days before the,earlier through his,i love telling,if in the,in the to,in the to,in then a,is getting back,j foundation has,j trump moved,
+trigrams: a man was,a sculptor best,a single spark,after a morning,after disclosures of,after eight the,an email i,an email i,apple and other,as he prepared,as he prepared,brought to the,days before the,earlier through his,for if there,
 i: 36
-trigrams: across county while,settle legal disputes,of interest meaning,those that are,guidelines from are,flat by can,most ethnically diverse,,said,beauty in her,hospital the news,each time requires,economy and because,that he was,pointed to the,
+trigrams: moved across county,a announced measures,disputes involving his,exempts the president,ties trump is,over the country,the nearby campus,with vehicular homicide,guidelines from are,a tree in,percent in a,most ethnically diverse,the released in,had also spoken,,
 i: 37
-trigrams: not just venting,in attacks before,,always got away,,that the only,number of factories,hate crimes in,new in recent,still hangs on,formally she said,most likely too,massive crowds we,it coped with,mission with style,
+trigrams: offices of two,a decline in,going to win,,has suggested that,the the reality,unit would consist,other episodes in,still hangs on,she said much,most likely too,house last weekend,a decade the,massive crowds we,it coped with,
 i: 38
-trigrams: 1 after a,1 after a,after months of,an email i,an email i,an email i,as he prepared,days before the,days before the,for thanksgiving this,he is friends,i love telling,if in the,if in the,if you think,
+trigrams: after a morning,after a morning,after months of,an email i,an email i,an email i,as he prepared,days before the,days before the,for thanksgiving this,he is friends,i love telling,if in the,if in the,if you think,
 i: 105
-trigrams: number of his,and one of,stolen is a,had removed a,surface remnants of,net worth was,sung by the,level of stress,entourage to oppose,four months all,rebuild after a,formal recommendation to,of further investigations,do recognize them,city in court,
+trigrams: made them mint,and protect my,shout my name,and a guide,is the founder,,charges against a,,number of his,ensuring that it,meeting and i,wind farms that,game while at,and one of,evacuated to in,
 i: 44
-trigrams: into use of,,and family legend,base and more,can send you,contacted office and,from to but,presidential or at,reconnaissance group already,thanksgiving accounted for,the standard measure,up the students,who said he,sporadic email was,about effecting any,
+trigrams: into use of,,already put out,areas with one,around the country,at a summit,banks would be,by farming moving,contacted office and,defending his reputation,give up their,he taught at,his base and,house intelligence committee,if traveling internationally,
 i: 45
-trigrams: 1 after a,a man was,a man who,a man who,a man who,a sculptor best,a sculptor best,after a morning,after disclosures of,after disclosures of,after months of,apple and other,apple and other,apple and other,as he prepared,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,a man who,a sculptor best,a sculptor best,
 i: 110
-trigrams: the pristine view,security for some,that it would,in a and,to join the,the foremost paragon,number of his,comet ping noticed,his presidential campaign,to respond to,mix inside stores,with relatives every,largely driven by,numbers are expected,million in kickbacks,
+trigrams: the pristine view,security for some,indicated recently that,a and as,to join the,the foremost paragon,number of his,comet ping noticed,during his presidential,to respond to,mix inside stores,climb anyone looking,in kickbacks from,industry mix inside,the presidential owner,
 i: 115
-trigrams: if in the,at least the,some of the,you rely on,so trump cannot,is why and,a retired engineer,2009 suit against,if there is,of was uniquely,voted for as,who said he,have been here,in the electoral,to the word,
+trigrams: if in the,j with his,this election has,supporters are now,them out she,i really trump,the summer games,and and instead,wisdom and culture,at least the,last three weeks,some of the,,with campus security,said the president,
 i: 52
-trigrams: relief in japan,notice of class,exclusive interview times,kind of enthusiasm,was at the,of his followers,woman she generous,living in said,republican representatives from,surface remnants of,after world war,schools superintendent in,the election had,who has been,to buy 47,
+trigrams: ,,lawmaker had already,art dealer for,when discovered that,a powerful earthquake,the informer want,the highest rates,many who came,an exclusive interview,the nearby campus,the kind of,available as an,of the chemical,of his followers,
 i: 54
-trigrams: j foundation has,j trump said,your phone is,she is roughly,use to understand,flight in for,extremist and we,to using,as it turns,early and turned,tension was a,petitions and meetings,in which was,election had added,said there was,
+trigrams: a man was,a man was,a man who,a sculptor best,about million turkeys,after a morning,after a morning,after a morning,after months of,after months of,an art historian,an teacher at,brought to the,brought to the,earlier through his,
 i: 119
-trigrams: up the students,2009 suit against,if there is,sports teams out,majority in the,and these two,,shuts off wireless,they described as,your you report,each time requires,things leave traces,than meets the,all levels of,a film that,
+trigrams: ,rank some lawyers,the students wanted,,for where the,for an interview,criminal defense john,trump has long,city was hardly,adviser said the,from becoming a,general and the,is a i,is one of,last ms death,
 i: 120
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,
 i: 121
-trigrams: ,some level of,say the driver,amount to handing,sees an that,,helped break a,more challenges are,i like fulfilling,between flesh and,with some of,transformation no one,,,,
+trigrams: ,after losing the,some level of,in spreading false,easier because i,they thanks to,trump and a,to hate crimes,legacy looked on,,a and as,rash of hate,,bus crashed been,place the state,
 i: 124
-trigrams: 1 after a,a man was,a man who,a man who,a sculptor best,after a morning,after months of,an art historian,an art historian,as he prepared,brought to the,for if there,for thanksgiving this,he is friends,if in the,
+trigrams: a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,a sculptor best,a sculptor best,a sculptor best,a sculptor best,a single spark,a single spark,
 i: 125
-trigrams: 1 trump filled,a man was,a sculptor best,a sculptor best,a single spark,after a morning,after a morning,an art historian,an art historian,an email i,an teacher at,an teacher at,days before the,days before the,days before the,
+trigrams: a man was,a sculptor best,a sculptor best,a single spark,after a morning,after a morning,an art historian,an art historian,an email i,an teacher at,an teacher at,days before the,days before the,days before the,for if there,
 i: 126
-trigrams: during the as,academic year to,hurricane in we,diverse college in,that their world,the democratic national,wanted to stage,or exaggerating 30,owner of a,wraps until a,was set to,of a local,protests over the,of once the,one denied being,
+trigrams: whom opposed him,academic year to,a hurricane in,acute feeling that,ethnically diverse college,group wanted to,of the democratic,exaggerating times thought,owner of a,until a dance,day was set,of a local,protests over the,apologized one denied,of once the,
 i: 63
-trigrams: for thanksgiving this,in then a,in then a,pharmaceuticals international is,stores a dynamic,described as a,a car just,two ms occupied,were called but,trade war the,upgrade new is,the word in,company promoted a,popular vote is,people on during,
+trigrams: a single spark,after disclosures of,an email i,for thanksgiving this,in his early,in then a,in then a,offensive even criminal,pharmaceuticals international is,to make partner,the will meet,stores a dynamic,described as a,rabbi and a,when pressed with,

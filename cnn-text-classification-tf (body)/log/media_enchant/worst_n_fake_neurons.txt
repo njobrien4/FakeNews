@@ -1,59 +1,59 @@
 i: 0
-trigrams: ,my delayed she,forcing them to,win for 38,own child in,gold at nurtured,180 , 000,range of publishing,,,fellow white house,,about million but,value in simply,,
+trigrams: ,which the team,,similar trouble had,them to work,of and the,in superhero clichs,have all contributed,the medical center,days for severe,won we won,and set in,on a gold,a participant in,businesses and citizens,
 i: 2
 trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,a man with,a man with,a nature documentary,a nature documentary,a nature documentary,a nature documentary,
 i: 3
 trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,a man with,a man with,a man with,a man with,a nature documentary,a nature documentary,
 i: 4
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,a man with,a man with,a man with,a man with,
-i: 47
 trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,a man with,a man with,
+i: 47
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,a man with,a man with,a man with,
 i: 12
 trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 34
 trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 78
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,
 i: 15
 trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,a man with,a man with,a man with,a man with,
 i: 16
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,a man with,a man with,a nature documentary,a nature documentary,a nature documentary,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,a man with,a man with,a man with,a man with,
 i: 19
 trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 14
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,a man with,a man with,a man with,a nature documentary,a nature documentary,a nature documentary,a nature documentary,a nature documentary,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,a man with,a man with,a man with,a man with,a man with,a nature documentary,a nature documentary,
 i: 25
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,a man with,a man with,a man with,a man with,a man with,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,a man with,a man with,a man with,
 i: 79
 trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,a nature documentary,a nature documentary,a nature documentary,a nature documentary,a nature documentary,a nature documentary,a owns what,
 i: 94
-trigrams: canal where the,towers like the,,,winter with the,,censorship tool in,,a reader some,of this annual,the state was,water in many,160 in south,one in the,,
+trigrams: with a woman,rely on to,to the city,hid during the,seductive are the,a family in,large type alongside,and the dean,,,by the end,arrival of new,maintains that the,presents engaging characters,the umbrella tap,
 i: 95
 trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,a man with,a man with,a man with,a man with,
 i: 96
 trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 98
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 102
 trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 106
 trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 111
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,
-i: 113
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,a man with,a man with,
-i: 114
 trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,
+i: 113
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,a man with,
+i: 114
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,
 i: 115
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,a man with,a man with,a nature documentary,a nature documentary,a nature documentary,a nature documentary,a nature documentary,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,a man with,a man with,a man with,a man with,a nature documentary,
 i: 52
 trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 53
 trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 119
-trigrams: a nature documentary,chase known as,dear happy thanksgiving,hey no recipes,j a series,lead in the,n n is,the first time,the first time,stories are set,,flight thanks to,the potter films,,,
+trigrams: a nature documentary,a nature documentary,all that man,all that man,can hear a,chase known as,chase known as,dear happy thanksgiving,dear happy thanksgiving,dozens of workers,he is friends,he is friends,he is friends,hey no recipes,if the supposed,
 i: 58
-trigrams: the lieutenant henry,,created this amazing,and also the,,on at was,canvas whose jaded,on is still,those who observe,be identified because,as a embittered,hourly and daily,,,was there that,
+trigrams: move annual budget,to have been,,,,for rupees about,a notebook went,activist rose while,writer and her,to cement the,email or deliberative,just as named,hopes to do,and the liked,would want to,
 i: 59
 trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,a man with,a man with,a man with,
 i: 60

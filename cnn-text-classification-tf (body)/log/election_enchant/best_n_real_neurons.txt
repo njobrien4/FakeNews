@@ -1,60 +1,60 @@
 i: 51
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 67
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 8
-trigrams: least experienced ambassador,plays a character,that includes sunset,,the settlement was,,killed five students,esquire network also,most highly valued,and other measures,2 and running,team to rate,a great eating,discuss the disappearance,to vote today,
+trigrams: experienced ambassador in,on on the,is essential to,number of unusual,in a production,his as measured,seems to listen,sunset and has,,on are very,through and then,,,,for thanksgiving journey,
 i: 11
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,a federal judge,a federal judge,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a morning,after a morning,after a morning,after a morning,after a morning,
 i: 77
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 79
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 81
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 82
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 83
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 84
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 90
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 29
-trigrams: 1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,a federal judge,a federal judge,after a series,after a series,after a series,and held the,and held the,at many of,at many of,
+trigrams: a federal judge,a federal judge,a federal judge,after a morning,after a morning,after a morning,after a morning,after a morning,after a series,after a series,after a series,after a series,after a series,after a series,and held the,
 i: 96
-trigrams: ,franchise is taking,a phrase i,paved the way,,that he asked,former chief white,g with a,that position raises,to ask him,which should not,deliberating his cabinet,in its turn,gain a better,president broad authority,
+trigrams: ,logo in a,staff of nearly,write in my,approved a similar,paved the way,,examine the growing,group h takes,rights that position,and to ask,home if finished,to the during,a domestic appointment,let it change,
 i: 97
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a morning,
 i: 34
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 99
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 105
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 43
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 108
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a morning,after a morning,after a morning,after a morning,
 i: 45
-trigrams: items nearing their,,big the final,plant there and,we always but,that ms was,,since march 2003,,his lunch at,under the swaggering,she answered that,her classes show,,leaders are pressuring,
+trigrams: ,,,been used to,two or three,with a history,,it pretty big,states national the,to move was,make workers more,some of one,be official as,,investigation on the,
 i: 46
-trigrams: and subsisting on,in the planning,million viewers this,of the union,great art this,president of the,the recording academy,happily in front,their charges speak,early collaborations with,in hate crimes,some parts of,the 3 percent,the government intervention,he said lane,
+trigrams: his political ally,subsisting on packets,to several people,million viewers this,turnout rate goes,for eight said,of the union,for great art,president of the,the recording academy,of the two,have to rely,with but as,company announced a,in hate crimes,
 i: 72
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 50
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,1 trump moved,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a morning,after a morning,after a morning,
 i: 115
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a morning,after a morning,after a morning,after a morning,after a morning,after a morning,
 i: 117
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 118
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 trump moved,1 trump moved,1 trump moved,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 56
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 58
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
 i: 60
-trigrams: after a series,there was no,its main competitors,the a group,hosts workshops for,this said director,furor throughout the,,level or a,search of self,success and felt,before anyone blames,watched night holy,,the scientific consensus,
+trigrams: after a series,for thanksgiving this,there was no,given that the,the a group,to them is,was to bring,a tweet after,,personal level or,remain front and,,i could come,the cast moving,transferring for greener,
 i: 61
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,

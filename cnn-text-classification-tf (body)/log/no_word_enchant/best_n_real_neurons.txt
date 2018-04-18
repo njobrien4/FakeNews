@@ -3,7 +3,7 @@ trigrams: ,,,,,,,,,,,,,,,
 i: 5
 trigrams: ,,,,,,,,,,,,,,,
 i: 1
-trigrams: work with a,radicals such as,the costs of,how accurate is,last time i,insurance and the,,,,sees as his,of their own,a name and,on twitter and,but so is,on bunkers and,
+trigrams: ,airport departure gate,with a trump,,the speaking with,prompted by the,since he was,v v v,to get a,,gets so he,,obstruct bills politics,,,
 i: 8
 trigrams: ,,,,,,,,,,,,,,,
 i: 9
@@ -11,7 +11,7 @@ trigrams: ,,,,,,,,,,,,,,,
 i: 79
 trigrams: ,,,,,,,,,,,,,,,
 i: 12
-trigrams: country outside the,there were grounds,the other performs,simple as that,,his threat to,,has a continuing,,,champions from to,as an ordeal,what that said,,,
+trigrams: ,,,,,,,things were meant,,,,the interval at,what was the,,simple as that,
 i: 78
 trigrams: ,,,,,,,,,,,,,,,
 i: 15
@@ -45,16 +45,16 @@ trigrams: ,,,,,,,,,,,,,,,
 i: 45
 trigrams: ,,,,,,,,,,,,,,,
 i: 111
-trigrams: have struggled to,man helping transfer,for the gringos,,boss had fallen,,,book the detective,at winning the,beginning to focus,the first time,has never held,,,book feels thin,
+trigrams: ,,,,journalists have struggled,,,regarding the of,van and void,them manage risks,and top government,,,,,
 i: 49
-trigrams: secondary told peers,a common theme,last heave ignorant,,,and plays an,,,,,,,,with victor anchoring,,
+trigrams: ,to see this,,,years young twitter,,to secondary told,,,one last heave,,,,,,
 i: 73
-trigrams: tickets rises if,see projects that,adopted by a,,hit the area,,,,about strike national,,trump won white,,and the anything,,for his which,
+trigrams: ,rises if booking,been saying that,,by a couple,have been able,,,,,,further headlines followed,wolf a range,racial the school,,
 i: 120
 trigrams: ,,,,,,,,,,,,,,,
 i: 121
 trigrams: ,,,,,,,,,,,,,,,
 i: 61
-trigrams: uplifted torso and,or not it,,,,,himself rebuffed the,missing passengers will,when needed and,of laughs in,the series about,,control and order,,,
+trigrams: placed on them,it was a,,,,white studio and,,a great deal,,,,a grammar school,,very interesting the,,
 i: 62
 trigrams: ,,,,,,,,,,,,,,,
