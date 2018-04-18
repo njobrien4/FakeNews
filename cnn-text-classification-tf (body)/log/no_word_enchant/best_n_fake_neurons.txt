@@ -9,7 +9,7 @@ trigrams: ,,,,,,,,,,,,,,,
 i: 10
 trigrams: ,,,,,,,,,,,,,,,
 i: 12
-trigrams: ,,,,,,,things were meant,,,,the interval at,what was the,,simple as that,
+trigrams: waiting for a,negative search feeds,to find certain,interviews have raised,decked with the,and have lower,another scandal for,anything on rob,the offer responded,proof that elite,to draw attention,restrain themselves for,financial markets market,feel as strained,and presidents into,
 i: 13
 trigrams: ,,,,,,,,,,,,,,,
 i: 77

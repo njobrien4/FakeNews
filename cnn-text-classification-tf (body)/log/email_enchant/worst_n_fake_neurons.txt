@@ -1,60 +1,60 @@
 i: 3
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,a man who,a man who,
+trigrams: a candidate under,a chilling ministry,a complaint has,a gravely written,a growing number,a journalist who,a new batch,a new email,a new shocking,a newly leaked,a newly released,a source at,a very sobering,a white nationalist,according to a,
 i: 4
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,a man who,
+trigrams: a chilling ministry,a company founded,a complaint has,a few days,a leading us,a new batch,a new email,a new shocking,a newly leaked,a newly released,a pollster who,a source at,a stunning foreign,a trump supporter,a very sobering,
 i: 6
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,a man who,a man who,a sculptor best,a sculptor best,
+trigrams: a bill to,a candidate under,a former assistant,a growing number,a new batch,a new email,a newly released,a source at,a sudden flood,according to a,according to new,accuses campaign of,accuses of being,ads privacy policy,ads privacy policy,
 i: 27
-trigrams: bordering on apoplexy,pepper spray against,protection if their,revamp primarily through,what would detection,alleged something that,the media choosing,about his life,cameras just before,fish fry up,of the john,,meeting in the,the architectural league,while the campaign,
+trigrams: knows the details,and negatively affect,a newly unearthed,in former beauty,tom its attorneys,id prime actually,criminal cartel what,fickle peach the,an environment where,enslavement over humanity,through august what,politics its probably,as teenage mutant,palmer has avoided,fox report weekend,
 i: 77
-trigrams: which you touch,,for a man,digital a of,,,,have no backups,state senator l,,and you can,,effect by the,,ever more the,
+trigrams: for a supranational,an unwavering theme,new age of,to a father,launches a massive,launches a massive,launches a massive,debacle as writes,first concept has,km force planning,comes from confidante,technique called denial,be a protest,be a president,be a president,
 i: 15
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,a sculptor best,a sculptor best,
+trigrams: a candidate under,a complaint has,a new batch,a new email,a new email,a newly leaked,a source at,according to a,according to a,ad account posted,add comment on,ads some evidence,after the shocking,ago president has,ago views comments,
 i: 43
-trigrams: a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a sculptor best,a sculptor best,a single spark,a single spark,a single spark,a single spark,about million turkeys,
+trigrams: a candidate under,a complaint has,a new shocking,a stunning foreign,accuses campaign of,adulthood comes to,afraid of trump,air pollution has,am voting for,an absolutely astonishing,an ethics complaint,and are all,and human have,archives on television,archives on television,
 i: 86
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,a sculptor best,
+trigrams: a brilliant guide,a candidate under,a complaint has,a few days,a new batch,a new email,a new shocking,a newly leaked,a newly released,a source at,according to a,according to a,according to a,according to new,ads some evidence,
 i: 24
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,
+trigrams: a brilliant guide,a candidate under,a complaint has,a few years,a few years,a former assistant,a new email,a new email,a new email,a new shocking,a newly leaked,a newly released,a pollster who,a source at,a white nationalist,
 i: 25
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,
+trigrams: a candidate under,a complaint has,a few years,a former assistant,a gravely written,a man who,a national sport,a new email,a new email,a newly leaked,a photo of,a pollster who,a secret relationship,a sudden flood,a wonderful and,
 i: 111
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,
+trigrams: a army doctor,a candidate under,a complaint has,a coroner is,a dispatch from,a former assistant,a leading us,a million people,a new email,a new email,a new email,a newly leaked,a newly released,a plane carrying,a row has,
 i: 33
-trigrams: and yet i,to address the,there are these,hopes of attracting,brought anywhere near,,can be a,coping with the,largely independently of,a work within,content from web,was extraordinarily varied,much of the,piece of copper,secret agreement with,
+trigrams: mainstream media outlet,ms said in,letters reminded him,thats a big,greetings when they,awaited once he,awaited once he,for a poll,supposedly connecting republican,depressing wages in,his magnificent successor,sterling patriot has,election an old,election an old,election an old,
 i: 99
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,
+trigrams: a candidate under,a former assistant,a indictment is,a leading us,a man who,a new email,a new shocking,a newly leaked,a newly released,a plane carrying,a pollster who,according to a,according to a,according to conservative,according to new,
 i: 102
-trigrams: ,confirmed to the,immigrated to from,a case against,the former inventory,,companies in new,say he hated,in the united,to actively ensure,little bit like,their ranks and,readers around the,most troubling for,,
+trigrams: have lined up,enacted a financing,almost a year,her official absentee,the growing list,cartography describes this,the supreme court,the supreme court,a a grass,a a an,international trade agreements,a corrupt election,billion of relief,a member ranted,exterior retailing false,
 i: 104
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,
+trigrams: a candidate under,a chilling ministry,a complaint has,a few days,a former assistant,a gravely written,a journalism fellow,a leading us,a national sport,a new email,a new email,a new email,a newly released,a plane carrying,a pollster who,
 i: 106
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,
+trigrams: a bill to,a brilliant guide,a candidate under,a complaint has,a couple says,a doctor who,a former assistant,a group of,a man who,a new batch,a new email,a newly leaked,a photo of,a tidal wave,according to a,
 i: 107
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,
+trigrams: a candidate under,a chilling ministry,a complaint has,a former assistant,a journalism fellow,a leading us,a man was,a new email,a new email,a new email,a new shocking,a newly leaked,a newly released,a pollster who,a source at,
 i: 46
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,
+trigrams: a candidate under,a chilling ministry,a gravely written,a journalism fellow,a leading us,a man was,a new email,a new email,a new email,a newly leaked,a newly released,a pollster who,a prominent native,a source at,a stunning foreign,
 i: 47
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,
+trigrams: a candidate under,a complaint has,a gravely written,a man who,a new email,a new email,a new email,a new shocking,a newly leaked,a newly released,a pollster who,a prominent native,a stunning foreign,a sudden flood,a tidal wave,
 i: 48
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,a man who,a sculptor best,a sculptor best,a sculptor best,
+trigrams: a candidate under,a new batch,a new shocking,a newly released,according to a,according to a,according to new,accused of comments,accused of elitist,ad account by,add comment on,ads privacy policy,ads some evidence,affiliation with his,after the shocking,
 i: 59
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,a man who,a man who,
+trigrams: a candidate under,a complaint has,a former assistant,a leading us,a new email,a new shocking,a newly leaked,a newly released,a pollster who,a prestigious college,a source at,a wonderful and,according to a,according to new,accused of comments,
 i: 51
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,
+trigrams: a candidate under,a complaint has,a journalism fellow,a leading us,a month ago,a new email,a new email,a new email,a new shocking,a newly leaked,a newly released,a pollster who,a source at,according to a,according to a,
 i: 118
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,a sculptor best,a sculptor best,a sculptor best,a sculptor best,
+trigrams: a candidate under,a former assistant,a new email,a new shocking,a newly released,a plane carrying,a source at,a very sobering,according to new,according to the,according to the,accuracy in media,accuses of being,add comment emails,ads privacy policy,
 i: 55
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,
+trigrams: a candidate under,a chilling ministry,a complaint has,a gravely written,a new batch,a new email,a newly leaked,a photo of,a source at,according to a,according to a,according to a,according to conservative,according to new,accuses campaign of,
 i: 56
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,a man who,a man who,a sculptor best,a sculptor best,
+trigrams: a bill to,a candidate under,a complaint has,a former assistant,a new batch,a new email,a new shocking,a newly leaked,a newly released,a single spark,according to a,according to a,according to new,accused of comments,accused of elitist,
 i: 88
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,
+trigrams: a bill to,a candidate under,a chilling ministry,a complaint has,a email released,a few days,a gravely written,a growing number,a journalist who,a key confidante,a man was,a man who,a new batch,a new email,a new email,
 i: 58
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,
+trigrams: a candidate under,a complaint has,a new batch,a new email,a new shocking,a newly leaked,a newly released,a plane carrying,a pollster who,a source at,according to new,according to the,ads privacy policy,ads some evidence,after the shocking,
 i: 123
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,
+trigrams: a candidate under,a chilling ministry,a few days,a journalism fellow,a leading us,a new email,a new email,a new email,a newly leaked,a newly released,a pollster who,a prominent native,a short walk,a source at,a stunning foreign,
 i: 61
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,
+trigrams: a brilliant guide,a candidate under,a chilling ministry,a man who,a month ago,a new email,a new email,a new shocking,a newly leaked,a photo of,a pollster who,a single spark,a source at,according to a,according to a,
 i: 62
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,
+trigrams: a candidate under,a chilling ministry,a email released,a few years,a few years,a former assistant,a gravely written,a journalism fellow,a man who,a new email,a new email,a new email,a new shocking,a newly leaked,a newly released,

@@ -1,60 +1,60 @@
 i: 51
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a affiliate in,a big into,a black agenda,a casting call,a criminal conviction,a fine thing,a friendly reminder,a lot of,a man has,a man who,a man who,a national sport,a new shocking,a news story,a petition calling,
 i: 67
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a big into,a black agenda,a brilliant guide,a casting call,a criminal conviction,a determined young,a different environment,a few years,a highly guarded,a indictment is,a journalism fellow,a leading us,a lot of,a man is,a man who,
 i: 8
-trigrams: experienced ambassador in,on on the,is essential to,number of unusual,in a production,his as measured,seems to listen,sunset and has,,on are very,through and then,,,,for thanksgiving journey,
+trigrams: than a but,round of applause,d showed signs,crowds following him,card it really,passionately and in,almost a week,own understanding proverbs,and fake debates,and fake debates,raping a year,fit in this,said executive director,fly zone never,white house but,
 i: 11
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a morning,after a morning,after a morning,after a morning,after a morning,
+trigrams: a affiliate in,a big into,a delegation of,a majority of,a man has,a new shocking,a pollster who,a reply i,a voter fraud,a year on,according to a,according to a,according to conservative,according to four,according to university,
 i: 77
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a big into,a black agenda,a brilliant guide,a casting call,a criminal conviction,a determined young,a different environment,a email released,a flurry of,a grim new,a indictment is,a journalism fellow,a leading us,a man has,a man is,
 i: 79
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a affiliate in,a big into,a brilliant guide,a complaint has,a different environment,a fine thing,a highly guarded,a leading us,a majority of,a man has,a new shocking,a news story,a poll of,a reply i,a very sobering,
 i: 81
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a affiliate in,a big into,a black agenda,a black agenda,a brilliant guide,a complaint has,a different environment,a email released,a fine thing,a grim new,a lot of,a majority of,a man has,a new shocking,a petition calling,
 i: 82
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a affiliate in,a big into,a black agenda,a black agenda,a complaint has,a different environment,a few days,a fine thing,a grim new,a leading us,a lot of,a man who,a new shocking,a news story,a pollster who,
 i: 83
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a affiliate in,a big into,a billionaire philanthropist,a black agenda,a complaint has,a determined young,a different environment,a email released,a fine thing,a former imperial,a lot of,a majority of,a man has,a man is,a man who,
 i: 84
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a affiliate in,a big into,a billionaire philanthropist,a black agenda,a black agenda,a brilliant guide,a complaint has,a different environment,a few days,a fine thing,a highly guarded,a indictment is,a majority of,a man has,a news story,
 i: 90
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a affiliate in,a big into,a black agenda,a black agenda,a determined young,a different environment,a few days,a former top,a grim new,a highly guarded,a journalism fellow,a leading us,a man who,a pollster who,a prominent republican,
 i: 29
-trigrams: a federal judge,a federal judge,a federal judge,after a morning,after a morning,after a morning,after a morning,after a morning,after a series,after a series,after a series,after a series,after a series,after a series,and held the,
+trigrams: a dispatch from,a group of,a highly guarded,a journalism fellow,a question has,a shadow over,according to when,activist post as,ads privacy policy,advertisement this article,alliances hybrid wars,am can dish,an estimated of,an senate committee,anarchist political observer,
 i: 96
-trigrams: ,logo in a,staff of nearly,write in my,approved a similar,paved the way,,examine the growing,group h takes,rights that position,and to ask,home if finished,to the during,a domestic appointment,let it change,
+trigrams: movement said it,realpolitik become in,come round at,a war theres,manipulating interest after,the four corners,suddenly turn everything,official said neither,arena world tour,arena world tour,that changes in,lost in adversity,a bespectacled spirit,observer of what,frequently promoted by,
 i: 97
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a morning,
+trigrams: a affiliate in,a big into,a black agenda,a determined young,a different environment,a fine thing,a grim new,a huge shift,a lot of,a reply i,a retired general,a sign protesting,a tidal wave,a trump supporter,a voter fraud,
 i: 34
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a affiliate in,a big into,a complaint has,a different environment,a few days,a fine thing,a former imperial,a lot of,a majority of,a man has,a man is,a man who,a moment when,a new shocking,a news story,
 i: 99
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a affiliate in,a big into,a billionaire philanthropist,a brilliant guide,a complaint has,a determined young,a different environment,a fine thing,a grim new,a leading us,a majority of,a man has,a new shocking,a news story,a poll of,
 i: 105
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a affiliate in,a big into,a black agenda,a black agenda,a complaint has,a determined young,a different environment,a fine thing,a journalism fellow,a leading us,a lot of,a majority of,a man has,a man is,a man who,
 i: 43
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a affiliate in,a big into,a black agenda,a black agenda,a casting call,a complaint has,a different environment,a email released,a federal judge,a federal program,a few days,a man has,a man is,a man who,a pollster who,
 i: 108
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a morning,after a morning,after a morning,after a morning,
+trigrams: a affiliate in,a big into,a different environment,a fine thing,a grim new,a majority of,a pollster who,a reply i,a retired general,a senior boss,a warplane has,a woman charged,a year on,according to a,accuses campaign of,
 i: 45
-trigrams: ,,,been used to,two or three,with a history,,it pretty big,states national the,to move was,make workers more,some of one,be official as,,investigation on the,
+trigrams: status quo the,emergence and elevation,engaging in journalism,be a president,be a president,a state job,swapped in democracy,to work alongside,discussion below the,of a recession,officially in a,as a country,in a different,rebuild the urban,being a mole,
 i: 46
-trigrams: his political ally,subsisting on packets,to several people,million viewers this,turnout rate goes,for eight said,of the union,for great art,president of the,the recording academy,of the two,have to rely,with but as,company announced a,in hate crimes,
+trigrams: total for united,and,boy hold it,million viewers this,younger teens aged,total household benefits,others posts will,life gone transformed,life continues for,in,race perhaps need,a proper attack,in this,genes this is,general public on,
 i: 72
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a affiliate in,a big into,a black agenda,a black agenda,a casting call,a complaint has,a different environment,a federal judge,a flurry of,a grim new,a journalism fellow,a majority of,a man has,a man is,a new shocking,
 i: 50
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a morning,after a morning,after a morning,
+trigrams: a affiliate in,a big into,a determined young,a former top,a grim new,a man has,a pollster who,a record number,a reply i,a retired general,a tidal wave,a week after,according to four,according to the,according to university,
 i: 115
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a morning,after a morning,after a morning,after a morning,after a morning,after a morning,
+trigrams: a affiliate in,a big into,a different environment,a majority of,a man has,a poll of,a pollster who,a reply i,a sign protesting,a voter fraud,according to the,according to the,according to university,accuses of being,add comment in,
 i: 117
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a affiliate in,a big into,a billionaire philanthropist,a brilliant guide,a casting call,a complaint has,a criminal conviction,a delegation of,a different environment,a fine thing,a former prosecutor,a grim new,a group of,a majority of,a man is,
 i: 118
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a affiliate in,a big into,a casting call,a complaint has,a delegation of,a different environment,a email released,a friendly reminder,a group in,a lot of,a lot of,a man has,a man is,a man who,a new batch,
 i: 56
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a affiliate in,a analysis for,a big into,a billionaire philanthropist,a black agenda,a black agenda,a brilliant guide,a complaint has,a delegation of,a determined young,a different environment,a few days,a grim new,a highly guarded,a huge shift,
 i: 58
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a affiliate in,a big into,a billionaire philanthropist,a black agenda,a black agenda,a brilliant guide,a casting call,a complaint has,a criminal conviction,a determined young,a different environment,a email released,a few days,a former imperial,a former prime,
 i: 60
-trigrams: after a series,for thanksgiving this,there was no,given that the,the a group,to them is,was to bring,a tweet after,,personal level or,remain front and,,i could come,the cast moving,transferring for greener,
+trigrams: email on the,of trump courtesy,presidential campaign by,on a daily,factories and jobs,is a discerner,represented a specific,said that flowers,of extra workers,the economic downturn,two illegal executive,said on it,while a variety,wanted a rubber,media a couple,
 i: 61
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a affiliate in,a big into,a black agenda,a black agenda,a brilliant guide,a casting call,a complaint has,a different environment,a fine thing,a grim new,a group in,a highly guarded,a majority of,a man has,a new shocking,

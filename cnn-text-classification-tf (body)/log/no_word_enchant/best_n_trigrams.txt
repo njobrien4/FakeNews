@@ -1,7 +1,7 @@
 i: 0
-trigrams: ,,,,and the concepts,ticket touts get,,want more of,,,in switching to,,,now softly spoken,,
+trigrams: territorial waters the,brain games and,a fragmentation wound,of successfully preserving,email server and,email server and,trade zone overseen,trade zone overseen,and fully intact,mulattoes vying for,baggage on morality,a three students,winter coats and,and greens offer,past two months,
 i: 1
-trigrams: ,airport departure gate,with a trump,,the speaking with,prompted by the,since he was,v v v,to get a,,gets so he,,obstruct bills politics,,,
+trigrams: and desist order,predictions on historic,grandparents these transfers,flag is connected,united states bombing,divided on whether,and lawyers write,the neutral zone,other quick bits,who fled three,the social distance,needs an alpha,drive approximately months,its diaspora money,seeking federal contract,
 i: 2
 trigrams: ,,,,,,,,,,,,,,,
 i: 3
@@ -23,7 +23,7 @@ trigrams: ,,,,,,,,,,,,,,,
 i: 11
 trigrams: ,,,,,,,,,,,,,,,
 i: 12
-trigrams: ,,,,,,,things were meant,,,,the interval at,what was the,,simple as that,
+trigrams: waiting for a,negative search feeds,to find certain,interviews have raised,decked with the,and have lower,another scandal for,anything on rob,the offer responded,proof that elite,to draw attention,restrain themselves for,financial markets market,feel as strained,and presidents into,
 i: 13
 trigrams: ,,,,,,,,,,,,,,,
 i: 14
@@ -37,7 +37,7 @@ trigrams: ,,,,,,,,,,,,,,,
 i: 18
 trigrams: ,,,,,,,,,,,,,,,
 i: 19
-trigrams: ,,hardly seen at,oh wait you,,,military on the,,is still a,,on on on,,of the international,fail to meet,promos for various,
+trigrams: the correct especially,free which collaborate,mainstream media drums,the new yorker,death raise suspicions,who will roadblock,who will roadblock,and its attendant,a new country,what medical interventions,some figures have,third step for,to earn three,mainstream media executives,targeted and singled,
 i: 20
 trigrams: ,,,,,,,,,,,,,,,
 i: 21
@@ -45,7 +45,7 @@ trigrams: ,,,,,,,,,,,,,,,
 i: 22
 trigrams: ,,,,,,,,,,,,,,,
 i: 23
-trigrams: ,,,,,,,,,,,,,,,
+trigrams: a close friend,according to the,and his people,by almost a,by at am,by election day,by of a,by on the,by on the,by president asserted,by smith when,by why did,china north announcements,do not forgive,does the government,
 i: 24
 trigrams: ,,,,,,,,,,,,,,,
 i: 25
@@ -65,11 +65,11 @@ trigrams: ,,,,,,,,,,,,,,,
 i: 32
 trigrams: ,,,,,,,,,,,,,,,
 i: 33
-trigrams: ,,,were prepared either,,,and military leaders,more celebrated than,are we shall,,not making you,,main profits are,,once a vibrant,
+trigrams: zero in with,feel that i,had an interest,had an interest,accounting for of,three years tables,ferris claims will,trend in whats,standing and i,which station themselves,begun from lewis,including porters article,reputation for treating,language and maintained,pretended even acknowledging,
 i: 34
 trigrams: ,,,,,,,,,,,,,,,
 i: 35
-trigrams: and of i,,,,,,,,and deepest in,,,,a big smile,it poses his,,
+trigrams: each central bank,wholly feminist dominated,whether they include,riding on a,ensure that around,students alike and,an herbal treatment,an unstoppable stream,given the system,bear said were,an backyard are,each but it,on a new,on a new,pride in a,
 i: 36
 trigrams: ,,,,,,,,,,,,,,,
 i: 37
@@ -91,13 +91,13 @@ trigrams: ,,,,,,,,,,,,,,,
 i: 45
 trigrams: ,,,,,,,,,,,,,,,
 i: 46
-trigrams: ,,is not just,,,crisis he those,,,degraded involving them,our children are,,,,is one of,,
+trigrams: west gave the,the real goal,the real goal,sun a momentary,of interactions between,red cross president,with a president,only difference is,have real work,with a minor,centers a discussion,slightest difference if,grass a a,exchange points as,pleasing the technical,
 i: 47
-trigrams: made racially charged,answer further including,winners they will,,,,,st college in,in rapidly expanding,,,,,,denied access to,
+trigrams: and naval bases,carbon and phosphorous,aether and manifests,buffets i warn,flag is connected,phallus you see,green peas cup,that a trump,settlement the appropriately,petals as a,criminal connections as,primarily in black,operator like whose,feeds read book,lobbying rules or,
 i: 48
 trigrams: ,,,,,,,,,,,,,,,
 i: 49
-trigrams: ,to see this,,,years young twitter,,to secondary told,,,one last heave,,,,,,
+trigrams: could be infected,can be extended,or a president,said a member,title that continues,to be enjoyed,and a president,seek a search,death was anything,eat humble pie,brought a sustained,featured a large,to enrich themselves,factors are contributor,to be ratified,
 i: 50
 trigrams: ,,,,,,,,,,,,,,,
 i: 51
@@ -105,23 +105,23 @@ trigrams: ,,,,,,,,,,,,,,,
 i: 52
 trigrams: ,,,,,,,,,,,,,,,
 i: 53
-trigrams: on on via,,,,,,the move to,has inequalities are,,when it was,,,,go i try,in the more,
+trigrams: drop out next,of the four,factors play a,as expressing a,and offer a,playground with year,may impact womens,held aloft triumphantly,lawyer with sen,a word are,danger and my,flyover country especially,spring i think,sent to three,often declared as,
 i: 54
 trigrams: ,,,,,,,,,,,,,,,
 i: 55
-trigrams: ,,of a widower,,,,if booking fees,,,was she did,,,i consider to,,value of development,
+trigrams: have gathered peacefully,others of and,sympathetic company of,original cassette recordings,a fine interestingly,following his statement,the trail blazing,focused on deploying,using his comedic,those those governments,of groundskeepers and,from star trek,and seemed to,deeply highly moral,a stenographer to,
 i: 56
 trigrams: ,,,,,,,,,,,,,,,
 i: 57
 trigrams: ,,,,,,,,,,,,,,,
 i: 58
-trigrams: moment for who,,,,,and so did,,,,,,consultant reg who,,imitate that the,,
+trigrams: to take steps,to the advice,exclusively on vegetables,car try walking,hundred billion metric,sync with leading,to read one,based on archival,war on websites,united states is,united states is,broker arrive one,our basement sprinklers,read a spokesman,sexual at virtually,
 i: 59
 trigrams: ,,,,,,,,,,,,,,,
 i: 60
 trigrams: ,,,,,,,,,,,,,,,
 i: 61
-trigrams: placed on them,it was a,,,,white studio and,,a great deal,,,,a grammar school,,very interesting the,,
+trigrams: futuristic existence without,other senior and,washing dishes in,mend thine every,and feet a,new opportunities to,in point from,in point from,saying meshes very,a suggestion from,conscious on apples,early email from,a mosque and,for short periods,new relevance amid,
 i: 62
 trigrams: ,,,,,,,,,,,,,,,
 i: 63
@@ -137,15 +137,15 @@ trigrams: ,,,,,,,,,,,,,,,
 i: 68
 trigrams: ,,,,,,,,,,,,,,,
 i: 69
-trigrams: ,,,,,,,,,,,,,,,
+trigrams: a brave mother,a century almost,a few days,and his people,as health and,at the third,b y bar,by a dense,by almost a,by by associated,by fair photo,by gage passed,by in the,by martin in,by on occidental,
 i: 70
-trigrams: ,,,,,,,,,,,,some enjoyed a,,four weeks with,
+trigrams: on and an,younger people signed,conditioning to conform,speaking in public,her to prison,author examines the,minister said in,vocal urges not,referendum and then,first getting another,formula laced with,economist tells news,digital and predicted,grandchildren and golf,ceasefire who is,
 i: 71
 trigrams: ,,,,,,,,,,,,,,,
 i: 72
 trigrams: ,,,,,,,,,,,,,,,
 i: 73
-trigrams: ,rises if booking,been saying that,,by a couple,have been able,,,,,,further headlines followed,wolf a range,racial the school,,
+trigrams: quickly because it,strong on the,who was heartily,unstated the real,little retains nearly,may complicate and,barrack who claims,kind usually transforms,reveal was an,from another perspective,who has authored,drawn fierce condemnation,recent controversy over,life for life,still be very,
 i: 74
 trigrams: ,,,,,,,,,,,,,,,
 i: 75
@@ -165,7 +165,7 @@ trigrams: ,,,,,,,,,,,,,,,
 i: 82
 trigrams: ,,,,,,,,,,,,,,,
 i: 83
-trigrams: ,campaign has laid,reaction to the,,,left an increase,,,,,,they will rue,,policy it could,,
+trigrams: a bigger cut,and very determined,and very determined,the trumps victory,a small lift,underway to challenge,a large glass,which new threats,a position to,and how grateful,a new global,a deeply pacifist,a way to,a book keeping,ongoing glut in,
 i: 84
 trigrams: ,,,,,,,,,,,,,,,
 i: 85
@@ -179,17 +179,17 @@ trigrams: ,,,,,,,,,,,,,,,
 i: 89
 trigrams: ,,,,,,,,,,,,,,,
 i: 90
-trigrams: ,,adored collaborating with,,,,but took control,that transformed itself,,,fraud had little,to of the,after announced a,,,
+trigrams: moves very slowly,how sinless he,have been widely,was first mooted,were not really,facing an escalating,who really run,could tell whether,memories of the,feel right at,was both misleading,lama with effective,and they generate,already very low,had not shirked,
 i: 91
 trigrams: ,,,,,,,,,,,,,,,
 i: 92
 trigrams: ,,,,,,,,,,,,,,,
 i: 93
-trigrams: ,,going adventure blankets,to van howled,,,,,,build on traditional,has exposed several,that he deserved,played by the,,argue that is,
+trigrams: a highly guarded,imagine a world,laura and day,on a afternoon,occurred slightly up,until may said,because its likely,won trumps victory,censorship algorithms are,shoplifter responded and,writer and voice,pointed at whose,analogized to naming,whose ranks were,national infamy began,
 i: 94
 trigrams: ,,,,,,,,,,,,,,,
 i: 95
-trigrams: ,making the film,,,on with the,,,,its untethered in,,,created space by,looked more amazing,,,
+trigrams: work then delves,unable to determine,roommates or thin,clear to see,plants were produced,has recently discussed,my fellow citizens,and neither do,and neither do,order to determine,palette of experience,and junior what,money they print,and his hair,and you see,
 i: 96
 trigrams: ,,,,,,,,,,,,,,,
 i: 97
@@ -213,7 +213,7 @@ trigrams: ,,,,,,,,,,,,,,,
 i: 106
 trigrams: ,,,,,,,,,,,,,,,
 i: 107
-trigrams: people off because,,awards are sponsored,,,after the referendum,,,,like say read,,,were on our,,,
+trigrams: live among work,small minority as,while the decision,thanks on thanksgiving,in acid include,four years of,slow sometimes retire,were to accede,expand its meaning,facilitated peoples ability,innocents continue nonstop,round of bashing,were adopted by,tact their survival,process switches off,
 i: 108
 trigrams: ,,,,,,,,,,,,,,,
 i: 109
@@ -221,7 +221,7 @@ trigrams: ,,,,,,,,,,,,,,,
 i: 110
 trigrams: ,,,,,,,,,,,,,,,
 i: 111
-trigrams: ,,,,journalists have struggled,,,regarding the of,van and void,them manage risks,and top government,,,,,
+trigrams: the said speaking,surprisingly stable in,an overnight train,a wide band,long been downplayed,new generation will,an agricultural powerhouse,foul whenever their,feel welcomed president,team has calculated,horizons who accepted,girl who expects,union treated people,a who understands,style democratization efforts,
 i: 112
 trigrams: ,,,,,,,,,,,,,,,
 i: 113
@@ -229,7 +229,7 @@ trigrams: ,,,,,,,,,,,,,,,
 i: 114
 trigrams: ,,,,,,,,,,,,,,,
 i: 115
-trigrams: ,listing on publisher,,,,,,speaks up for,,school is just,,particular the republican,allegedly said it,to win the,peer and former,
+trigrams: hundred or even,school reading list,companies that do,next wisdom book,late and centuries,turn and inspire,racism or but,contributions known as,the problem by,it wrong john,flaws and was,a major sign,eloquence and on,pernicious problem in,providers or not,
 i: 116
 trigrams: ,,,,,,,,,,,,,,,
 i: 117
@@ -243,7 +243,7 @@ trigrams: ,,,,,,,,,,,,,,,
 i: 121
 trigrams: ,,,,,,,,,,,,,,,
 i: 122
-trigrams: ,everyone from the,,off his is,in the top,,,,a generation in,,the previous game,these infractions trump,,state ward is,,
+trigrams: present a note,present a note,feel a burning,on a path,over a half,on a wide,to a variety,with a sense,at a sideshow,in a dangerous,block a trump,in a zone,through a difficult,in a few,as a way,
 i: 123
 trigrams: ,,,,,,,,,,,,,,,
 i: 124
@@ -253,4 +253,4 @@ trigrams: ,,,,,,,,,,,,,,,
 i: 126
 trigrams: ,,,,,,,,,,,,,,,
 i: 127
-trigrams: ,memories brothers take,,,,of her candidacy,,,,system that wrongs,,,,but in the,be used in,
+trigrams: preconditions give rise,an unexpected rift,hassles of obtaining,whose statements and,wholly feminist dominated,baldly abetted a,then drive home,challenges are rooted,much news coverage,an article published,honor above who,of morning on,much speculation about,people kept their,cases she helped,

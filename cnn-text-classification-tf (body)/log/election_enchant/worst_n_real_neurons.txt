@@ -1,60 +1,60 @@
 i: 68
-trigrams: what it is,,,,a dialect at,ads with the,at its next,by a news,can be wildly,colleges were in,democratic causes in,events surrounding inauguration,from west point,he would be,love letter from,
+trigrams: clarifications,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,
 i: 5
-trigrams: to leaving more,what it is,,,,a dialect at,ads with the,after the next,at its next,can be wildly,colleges were in,democratic causes in,effects of and,events surrounding inauguration,funding endures further,
+trigrams: express,clarifications,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,
 i: 6
-trigrams: be too rough,for thanksgiving this,in the summer,j trump will,stars would make,stock continues to,the cool girl,holiday means a,he said lane,resistance from a,on twitter j,discussed the party,in an office,the tune of,government came a,
+trigrams: by end of,by jay lost,my bill who,store unearthed should,students at the,we need to,when people decide,on president trump,pig,system has a,the election will,everybody he wants,today there are,absolutely hate the,anything can happen,
 i: 10
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a morning,after a morning,after a morning,after a morning,after a morning,after a morning,
+trigrams: a bill giving,a delegation of,a former imperial,a former miss,a former prosecutor,a former top,a golf resort,a leading surgeon,a new batch,a party that,a pilot may,a recent guardian,a strange thing,a test to,a tribute to,
 i: 75
-trigrams: a federal judge,after a morning,after a series,after a series,at the end,be too rough,be too rough,before the gun,choice of to,ever since the,for his second,for his second,for the loved,for the loved,if you are,
+trigrams: about highly qualified,according to the,an incident involving,and readers on,and the day,and the family,apparently as worried,benefit caps are,best by cook,best by of,bob an defensive,born in in,by end of,by i know,by jay lost,
 i: 76
-trigrams: pie and combat,envisioned what it,cubs were celebrating,singer day has,means a lot,twitter j trump,of a foreign,world you can,only girl to,the first female,and enrage college,with an or,lazy stereotypes the,performance piece which,with times journalists,
+trigrams: marching across their,election and all,presidential selection circus,voters to carefully,president trump a,election will take,election fraud in,election of would,election who is,free pm on,kids on stage,election season although,statement was also,implications of the,elections in an,
 i: 15
-trigrams: martin the president,that the gag,for his first,stock continues to,end a similarly,,cellular signal as,of power the,swastikas on cars,collaborations with but,him to task,yourself you are,joking with the,united states on,individuals relaxed his,
+trigrams: in the life,on this content,than anything is,by jay lost,worth watching again,absolutely sure they,toward war,election,your little share,election in this,runner laura number,months jail ago,decline in inventory,more mentality more,shares explode,
 i: 16
-trigrams: some level of,a couple of,democratic causes in,funding endures further,moving the tumultuous,play a significant,status as the,the regular actions,eliminate special interests,easily run afoul,and other agreements,coastal properties usually,a coherent sense,suggesting in public,and the most,
+trigrams: election outcome,voters in have,this content,this content,this content,this content,this content,this content,pm on,by associate citizenship,john read england,know who these,two northbound tunnels,the preferred candidate,change,
 i: 88
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a morning,after a morning,after a morning,after a morning,after a morning,after a morning,after a morning,after a morning,
+trigrams: a analysis for,a bill giving,a bill to,a billionaire philanthropist,a campaign to,a fierce chorus,a former imperial,a former prosecutor,a former top,a huge shift,a leading surgeon,a lot has,a lot of,a man who,a new batch,
 i: 18
-trigrams: make large donations,campaign trail for,has been without,ring of lazy,will soon see,out of his,austere by the,already have wherever,the and spent,area has gotten,layers of voices,the cubs were,early months or,a white house,w who staunchly,
+trigrams: social welfare officer,election for the,electoral colleges president,election the statement,true might be,speculation is involved,victory over in,permission to is,one,mind that averages,states,know all seen,candidate to replace,everybody else he,recycle billy is,
 i: 19
-trigrams: a federal judge,a federal judge,a federal judge,after a morning,after a series,and held the,at many of,at many of,at many of,at the end,at the end,at the end,be too rough,be too rough,be too rough,
+trigrams: a delegation of,a fine thing,a former imperial,a tour of,a woman who,a year on,about highly qualified,administration is rushing,after one of,an invitation for,an upstate new,as trump continues,been a long,best by cook,bill shorten has,
 i: 20
-trigrams: a news barring,dialect at home,hong has added,two ms and,with each other,transfer of power,the two men,might have been,the most expensive,was on the,the chorus comes,southeastern conference championship,taken a microscope,modest disruptions to,but this the,
+trigrams: content,content,content,content,content,by the death,is under threat,wryly funny poet,give the police,main event police,or did sir,their life elicits,that other concealed,the harmful divisions,to us at,
 i: 85
-trigrams: a federal judge,a federal judge,a federal judge,after a morning,after a morning,after a morning,after a morning,after a morning,after a series,after a series,after a series,after a series,after a series,after a series,after a series,
+trigrams: a bill giving,a billionaire philanthropist,a campaign to,a delegation of,a fine thing,a golf resort,a leading surgeon,a lot of,a man who,a property developer,a recently disqualified,a republican senator,a rise in,a tribute to,a week before,
 i: 86
-trigrams: hurt by slowing,in a ceremony,,they are by,grants the president,,,,,,,,a concentration camp,a final guilty,a table by,
+trigrams: hurt by slowing,hatch act,this housing is,recommend an indictment,why a native,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,
 i: 23
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a bill giving,a billionaire philanthropist,a campaign to,a campaigner for,a federal program,a fierce chorus,a former top,a golf resort,a group of,a highly guarded,a huge shift,a leading surgeon,a lot has,a lot of,a majority of,
 i: 24
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a morning,after a morning,after a morning,after a series,after a series,and held the,and held the,and held the,at many of,at many of,
+trigrams: a big into,a criminal conviction,a delegation of,a different environment,a man who,a property developer,a racist one,a rise in,a test to,a tour of,a week after,a year on,about highly qualified,and care what,and held the,
 i: 22
-trigrams: after a morning,after a series,at the end,at the end,at the end,before the gun,day the soul,for his second,in an office,in his early,j through decades,j trump will,j trump will,last overcome by,offensive even criminal,
+trigrams: about highly qualified,an incident involving,and readers on,benefit caps are,contribute trump shattered,following the election,going for st,has advised to,has been declared,is among a,is determined to,may has stoked,my bill who,not a fairness,one in five,
 i: 28
-trigrams: a federal judge,a federal judge,a federal judge,after a morning,after a morning,after a morning,after a morning,after a series,after a series,after a series,after a series,after a series,and held the,and held the,and held the,
+trigrams: a bill to,a billionaire philanthropist,a campaign to,a delegation of,a fine thing,a former imperial,a former miss,a lot of,a new batch,a news story,a senior boss,a week after,a year on,about highly qualified,according to the,
 i: 94
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a morning,after a morning,after a morning,after a morning,after a morning,after a series,after a series,after a series,
+trigrams: a fine thing,a former prosecutor,a golf resort,a group of,a huge shift,a petition calling,a pilot may,a recently disqualified,a spokesman for,a tour of,a victory that,a week after,a year on,about highly qualified,after a long,
 i: 38
-trigrams: be too rough,ever since the,for the loved,in an office,the billionaire investor,this as the,with one more,the network and,at public school,the pop athlete,pie and combat,between and and,cubs were celebrating,to push past,cost of a,
+trigrams: by i know,elections by the,here the crowd,host of the,she has done,today there are,we need to,the councils inception,the election trump,crazy during this,marching across their,black box voting,presidential selection circus,are endless once,about rangers fighting,
 i: 103
-trigrams: after a morning,after a morning,after a morning,at many of,at the end,be too rough,be too rough,before the gun,before the gun,following up on,if you are,in an office,in his early,in what may,incalculable hours vanish,
+trigrams: about highly qualified,be clear about,benefit caps are,best by cook,china could ban,cuts to staff,guardian analysis of,has advised to,has confirmed is,has quit to,has written an,is determined to,it was who,liberal government is,liberal senator says,
 i: 40
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,after a morning,after a morning,after a morning,after a morning,after a morning,after a morning,after a morning,after a series,after a series,
+trigrams: a analysis for,a bill to,a fierce chorus,a huge shift,a lot has,a majority of,a man who,a racist one,a recent guardian,a rise in,a senior boss,a spokesman for,a surprising confrontation,a tour of,a woman who,
 i: 106
-trigrams: a federal judge,a federal judge,a federal judge,after a series,after a series,and held the,at many of,at the end,at the end,at the end,at the end,be too rough,before the gun,before the gun,before the gun,
+trigrams: a fine thing,a group in,about highly qualified,after months to,an upstate new,and readers on,apparently as worried,asserts that vigorous,at am this,at am today,attempt to act,be clear about,benefit caps are,best by cook,by a demo,
 i: 107
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,after a morning,after a morning,after a morning,after a morning,after a series,after a series,after a series,after a series,and held the,and held the,and held the,
+trigrams: a bill to,a billionaire philanthropist,a former prosecutor,a former top,a golf resort,a leading surgeon,a new batch,a news story,a recent guardian,a recently disqualified,a republican senator,a senior boss,a tour of,a week before,a woman who,
 i: 110
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a bill giving,a bill to,a billionaire philanthropist,a familiar phrase,a fierce chorus,a fine thing,a former imperial,a former miss,a former prosecutor,a former top,a frigate armed,a golf resort,a group in,a group of,a huge shift,
 i: 47
-trigrams: after a series,choice of to,ever since the,for the loved,incalculable hours vanish,j through decades,j trump moved,on twitter j,sometimes during assemblies,stars would make,stock continues to,the cool girl,this as the,denied being responsible,way through is,
+trigrams: a big into,and readers on,by as the,by jay lost,by the election,editors note in,election fraud exposed,host of the,independent news channel,she has done,the election will,when people decide,will the election,news important reports,national fabric from,
 i: 112
-trigrams: to fueling speculation,hand as well,the from ninth,acquisition of a,endures further cuts,regular actions that,run of this,said wanted to,that software by,useful and conversation,what our team,a high in,a little evokes,wrong and if,someplace sunny and,
+trigrams: happened,page this weekend,tonight,content,content,content,content,content,content,content,content,racist xenophobic i,share your thoughts,words should be,their fair intellectual,
 i: 57
-trigrams: the recording academy,cellular signal as,score west opens,on the committee,rocketed over the,the and spent,parliament since announced,level of stress,who never seems,clear economic reasons,who ran against,the triangle which,of a long,want to reaffirm,pretty awful during,
+trigrams: in,toward war,or even gore,shouts j for,it,one,progressive as if,outcome,media on interviews,win back control,why electing trump,wonder,make up percent,where the trending,greed,
 i: 124
-trigrams: after a morning,after a series,at many of,before the gun,choice of to,choice of to,day the soul,for his second,for thanksgiving this,if you are,in an office,in the to,martin the president,offensive even criminal,on a blustery,
+trigrams: a big into,ago views comments,ago views comments,and readers on,benefit caps are,black box founded,bob an defensive,by as the,by common dreams,by i know,by tom the,earlier this among,email think sometimes,every week a,every week a,
 i: 42
-trigrams: been tapped to,the world you,group you never,on the campaign,to his capital,start it to,some level of,she was not,of a suitcase,earthquake off the,a combination class,a trusted security,ads with the,at its next,colleges were in,
+trigrams: rights council for,by of,not,below use excerpts,enough i concur,page we made,election outcome,pundits and pollsters,council legislature of,evidence of this,this content,this content,this content,this content,this content,

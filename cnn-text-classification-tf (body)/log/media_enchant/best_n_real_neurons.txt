@@ -1,60 +1,60 @@
 i: 1
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,
+trigrams: a certain satisfaction,a congressional candidate,a delegation of,a email released,a federal court,a few seconds,a girl of,a huge sinkhole,a indictment is,a journalist was,a la a,a las el,a magazine of,a man has,a man was,
 i: 66
-trigrams: a man with,a man with,a nature documentary,a nature documentary,a nature documentary,a owns what,a versatile guitarist,after months of,after months of,after months of,after years of,after years of,an email i,an email i,an email i,
+trigrams: a new poll,according to more,actor has died,add comment check,after months to,all except we,already told the,am watch dukes,an amazing nearly,an author and,an email released,an man identified,another suggestion would,are you serious,as western media,
 i: 3
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,a man with,a man with,a man with,a man with,a nature documentary,a nature documentary,
+trigrams: a big reason,a girl of,a grim new,a la a,a las el,a military commander,a new poll,a police officer,a pollster who,a sobering new,a woman who,about taming the,according to more,accuses campaign of,accuses diplomats of,
 i: 4
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,a man with,a man with,
+trigrams: a big reason,a federal court,a general view,a girl of,a goon destroyed,a new poll,a pollster who,a powerful earthquake,a reporting team,a woman was,a woman who,according to the,accuses diplomats of,add comment a,add comment a,
 i: 71
-trigrams: burned vehicles and,open to possibilities,direct what in,minister leaving his,her life in,punk spirit of,this better than,,,that the advisers,this riff is,,and deputy commissioner,and frank plus,this moment in,
+trigrams: show flowers boldly,his interview with,insinuations a matter,the party is,great baseball cap,his had pointed,track a larger,proscribes how electors,from a military,john a filthy,them too is,with china unlike,conference big or,very well sometimes,the store and,
 i: 8
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,
+trigrams: a big reason,a brilliant guide,a dispatch from,a few seconds,a flotilla of,a former miss,a girl of,a goon destroyed,a huge sinkhole,a in southern,a indictment is,a journalist was,a leading us,a lot of,a magnitude earthquake,
 i: 12
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a big reason,a brave mother,a brilliant guide,a campaign plane,a casting call,a century almost,a combat veteran,a congressional candidate,a dispatch from,a email released,a federal court,a few seconds,a few years,a flotilla of,a girl of,
 i: 15
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,a man with,a man with,a man with,a man with,
+trigrams: a big reason,a casting call,a congressional candidate,a former chief,a girl of,a gravely written,a journalist was,a la a,a las el,a magnitude earthquake,a man has,a military commander,a new poll,a powerful earthquake,a school has,
 i: 81
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,a man with,a man with,a man with,a man with,a man with,a man with,
+trigrams: a coalition of,a congressional candidate,a girl of,a goon destroyed,a lot of,a military commander,a new poll,a photo of,a pollster who,a senior boss,a woman who,about taming the,according to more,according to new,accuses campaign of,
 i: 19
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a big reason,a congressional candidate,a federal court,a few seconds,a flash mob,a flotilla of,a former senior,a general view,a girl of,a goon destroyed,a green traffic,a highly guarded,a in southern,a journalism fellow,a la a,
 i: 86
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a big reason,a congressional candidate,a delegation of,a email released,a federal court,a general view,a girl of,a girl who,a goon destroyed,a la a,a leading us,a lot of,a magnitude earthquake,a magnitude earthquake,a man checks,
 i: 100
-trigrams: a nature documentary,a versatile guitarist,a versatile guitarist,after months of,as we enter,at least many,calls her a,can hear a,can hear a,can hear a,day after and,day the soul,day the soul,dear happy thanksgiving,dear happy thanksgiving,
+trigrams: a girl of,a new poll,actor has died,although the federal,an increasing numbers,an man identified,and there will,another suggestion would,any given bill,as a matter,bob was left,brad needs no,by us macro,comedian hart is,comments a student,
 i: 90
-trigrams: imagine a time,a different route,with a than,week from a,while la near,a live audience,part of unabashedly,it all a,against elite forces,and other researches,on an open,killed him as,he start writing,and seen at,domestic workers fell,
+trigrams: of,reputed to be,perspectives with us,in,low running allied,funded by nor,dukes new television,viewed from whatever,website option if,being chucked out,him,suspect was said,media at all,told that someone,dangerous say something,
 i: 28
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,
+trigrams: a big reason,a casting call,a few seconds,a girl of,a goon destroyed,a grim new,a huge sinkhole,a in southern,a las el,a new poll,a pollster who,a stunning foreign,a very sobering,about reality check,according to new,
 i: 93
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a big reason,a century almost,a email released,a federal court,a few seconds,a general view,a girl of,a las el,a leading us,a lot of,a man who,a member of,a military commander,a new email,a new poll,
 i: 30
-trigrams: ,,of the elder,on a recent,chives for garnish,the best people,a mask once,traits including flat,,even in the,that he did,feels like enough,not be who,the museum of,,
+trigrams: a person because,a person because,a person because,a for a,a passing fancy,to include advanced,a storm for,a data backup,a blind eye,in his worse,a meeting held,a mafia hit,candidate lost was,a high pitched,a big role,
 i: 96
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a congressional candidate,a email released,a federal court,a few scraps,a few seconds,a flotilla of,a former chief,a girl of,a joint new,a journalist was,a la a,a las el,a military commander,a new poll,a reporting team,
 i: 33
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,a man with,a man with,a man with,a man with,
+trigrams: a congressional candidate,a delegation of,a federal court,a few seconds,a girl of,a grim new,a huge sinkhole,a la a,a las el,a lot of,a new poll,a pollster who,a sobering new,a very sobering,about taming the,
 i: 35
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,
+trigrams: a big reason,a casting call,a congressional candidate,a federal court,a few seconds,a general view,a girl of,a goon destroyed,a journalist was,a las el,a military commander,a new poll,a pollster who,a powerful earthquake,a spokesman for,
 i: 32
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a almanac by,a brilliant guide,a campaign plane,a delegation of,a few seconds,a general view,a girl of,a goon destroyed,a gravely written,a grim new,a group in,a in southern,a institute report,a la a,a large metal,
 i: 101
-trigrams: artists who in,the world attractions,the one in,night then all,is discouraged making,on variety of,yet another a,no unifying narrative,own spirits or,hard an experience,commitments from more,doing three a,might fairly be,articles about the,on west mark,
+trigrams: break down a,points towards a,unrests across the,house in such,perpetuate massive civil,perpetuate massive civil,perpetuate massive civil,offered as a,dexterously than ghetto,a march analysis,most shocking and,doing three a,brave heroic cop,bring and his,century and resulted,
 i: 106
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a big debate,a casting call,a coalition of,a congressional candidate,a federal court,a few days,a general view,a girl of,a goon destroyed,a in southern,a journalism fellow,a la a,a las el,a man has,a member of,
 i: 99
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,
+trigrams: a email released,a flash mob,a flotilla of,a girl of,a grim new,a in southern,a large metal,a leading us,a magnitude earthquake,a man has,a military commander,a new and,a new poll,a north government,a police officer,
 i: 72
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a big reason,a coalition of,a delegation of,a few seconds,a general view,a girl of,a in southern,a las el,a leading us,a link to,a man checks,a man has,a month ago,a new poll,a number of,
 i: 50
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,a man with,a nature documentary,a nature documentary,a nature documentary,a nature documentary,
+trigrams: a big reason,a brilliant guide,a email released,a federal court,a girl of,a journalist was,a la a,a leading us,a link to,a new poll,a new shocking,a pollster who,a powerful earthquake,a prankster in,a spokesman for,
 i: 42
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,a man with,a man with,a man with,
+trigrams: a big reason,a brilliant guide,a campaign plane,a congressional candidate,a federal court,a general view,a girl of,a goon destroyed,a grim new,a highly guarded,a in southern,a joint new,a la a,a new and,a new peace,
 i: 53
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,
+trigrams: a big reason,a brave mother,a casting call,a century almost,a combat veteran,a couple of,a few seconds,a girl of,a goon destroyed,a gravely written,a grim new,a in southern,a indictment is,a journalism fellow,a la a,
 i: 55
-trigrams: a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a federal judge,a man with,a man with,a man with,a man with,
+trigrams: a casting call,a dispatch from,a email released,a few seconds,a flotilla of,a girl of,a journalist was,a magazine of,a magnitude earthquake,a military commander,a new poll,a new shocking,a pollster who,a woman who,about reality check,
 i: 57
-trigrams: more than pages,income is irregular,wanted an identity,and raised usually,,a festival to,,till you the,,,,the fitful and,and no wonder,with a string,do not cause,
+trigrams: move for a,suspicions as a,churchmen of the,monkey with a,slowly ushering a,influx of trained,try a compromise,bask in a,preparing for a,worth of treasuries,he spurred a,competition to china,take l a,much of a,and has a,
 i: 61
-trigrams: of the wondrous,of putting it,full of references,of south as,as chief white,with film seems,roasting on an,new to hong,offers you a,was in his,clubs at the,are things happening,passed columns of,choice to become,settled over a,
+trigrams: the media and,of thought regarding,had viewers within,media guards have,cover was,independent monitors actually,find him,in,to carefully review,much,severe,are things happening,give fighting back,the mainstream media,like god what,

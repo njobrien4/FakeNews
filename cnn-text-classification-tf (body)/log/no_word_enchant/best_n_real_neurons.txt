@@ -3,7 +3,7 @@ trigrams: ,,,,,,,,,,,,,,,
 i: 5
 trigrams: ,,,,,,,,,,,,,,,
 i: 1
-trigrams: ,airport departure gate,with a trump,,the speaking with,prompted by the,since he was,v v v,to get a,,gets so he,,obstruct bills politics,,,
+trigrams: and desist order,predictions on historic,grandparents these transfers,flag is connected,united states bombing,divided on whether,and lawyers write,the neutral zone,other quick bits,who fled three,the social distance,needs an alpha,drive approximately months,its diaspora money,seeking federal contract,
 i: 8
 trigrams: ,,,,,,,,,,,,,,,
 i: 9
@@ -11,7 +11,7 @@ trigrams: ,,,,,,,,,,,,,,,
 i: 79
 trigrams: ,,,,,,,,,,,,,,,
 i: 12
-trigrams: ,,,,,,,things were meant,,,,the interval at,what was the,,simple as that,
+trigrams: waiting for a,negative search feeds,to find certain,interviews have raised,decked with the,and have lower,another scandal for,anything on rob,the offer responded,proof that elite,to draw attention,restrain themselves for,financial markets market,feel as strained,and presidents into,
 i: 78
 trigrams: ,,,,,,,,,,,,,,,
 i: 15
@@ -45,16 +45,16 @@ trigrams: ,,,,,,,,,,,,,,,
 i: 45
 trigrams: ,,,,,,,,,,,,,,,
 i: 111
-trigrams: ,,,,journalists have struggled,,,regarding the of,van and void,them manage risks,and top government,,,,,
+trigrams: the said speaking,surprisingly stable in,an overnight train,a wide band,long been downplayed,new generation will,an agricultural powerhouse,foul whenever their,feel welcomed president,team has calculated,horizons who accepted,girl who expects,union treated people,a who understands,style democratization efforts,
 i: 49
-trigrams: ,to see this,,,years young twitter,,to secondary told,,,one last heave,,,,,,
+trigrams: could be infected,can be extended,or a president,said a member,title that continues,to be enjoyed,and a president,seek a search,death was anything,eat humble pie,brought a sustained,featured a large,to enrich themselves,factors are contributor,to be ratified,
 i: 73
-trigrams: ,rises if booking,been saying that,,by a couple,have been able,,,,,,further headlines followed,wolf a range,racial the school,,
+trigrams: quickly because it,strong on the,who was heartily,unstated the real,little retains nearly,may complicate and,barrack who claims,kind usually transforms,reveal was an,from another perspective,who has authored,drawn fierce condemnation,recent controversy over,life for life,still be very,
 i: 120
 trigrams: ,,,,,,,,,,,,,,,
 i: 121
 trigrams: ,,,,,,,,,,,,,,,
 i: 61
-trigrams: placed on them,it was a,,,,white studio and,,a great deal,,,,a grammar school,,very interesting the,,
+trigrams: futuristic existence without,other senior and,washing dishes in,mend thine every,and feet a,new opportunities to,in point from,in point from,saying meshes very,a suggestion from,conscious on apples,early email from,a mosque and,for short periods,new relevance amid,
 i: 62
 trigrams: ,,,,,,,,,,,,,,,

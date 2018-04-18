@@ -1,60 +1,60 @@
 i: 0
-trigrams: protection of dunes,member was killed,finish for cars,work for him,a good part,a speech in,can i be,will allow corporations,deliberately unresolved but,more but then,there was little,to and was,and once tried,deviousness and determination,factory jobs from,
+trigrams: her,through,is entering an,the,home some warmth,see this featured,comedian,filmmaker maria in,a threatened,of the dossiers,die in,is not always,been outraged by,retired,week was awarded,
 i: 1
-trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
+trigrams: a airport built,a bicycle made,a big reason,a bill giving,a black agenda,a brilliant guide,a charity just,a child in,a cinema has,a coroner may,a council should,a cricketer not,a dozen international,a drug that,a earthquake has,
 i: 4
-trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
+trigrams: a afternoon at,a army doctor,a big reason,a black agenda,a black agenda,a businessman whose,a campaign to,a career trajectory,a chain of,a charity has,a child in,a chilling ministry,a clogged nose,a collection of,a colossal canyon,
 i: 71
-trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
+trigrams: a airport built,a army doctor,a big reason,a billionaire philanthropist,a brilliant guide,a chilling ministry,a cinema has,a clogged nose,a coalition of,a colossal canyon,a conservative mp,a council should,a couple of,a couple of,a criminal conviction,
 i: 9
-trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
+trigrams: a big reason,a billionaire philanthropist,a brilliant guide,a businessman whose,a campaigner for,a certain satisfaction,a chilling ministry,a coalition of,a confession you,a conservative council,a couple who,a court has,a daughter of,a federal judge,a fighter jet,
 i: 74
-trigrams: the paint is,tried to buy,the author and,artists the box,gotten serious over,predictions that but,with the most,south a variety,other republican senators,gamble depends on,,,the animals so,with some of,his mother birthday,
+trigrams: rape and sexual,morning we ask,it could reasonably,survey has shown,lots and lots,learning and getting,safety said long,inspired the nature,auto credit cards,forward in an,first and most,first and most,endorse but at,agencies and academic,media is not,
 i: 15
-trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
+trigrams: a bicycle made,a big reason,a bill giving,a black agenda,a boy who,a brilliant guide,a businessman has,a campaigner for,a clogged nose,a collection of,a controlled explosion,a council should,a court has,a criminal conviction,a criminal trial,
 i: 16
-trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
+trigrams: a baby desert,a bicycle made,a career trajectory,a colossal canyon,a controlled explosion,a council should,a couple of,a couple who,a crystal user,a dark cloud,a drug that,a federal jury,a few seconds,a fighter jet,a fine thing,
 i: 18
-trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
+trigrams: a big reason,a black agenda,a chilling ministry,a clampdown on,a controlled explosion,a coroner may,a couple of,a court has,a criminal conviction,a crystal user,a dissident jailed,a earthquake has,a few seconds,a fighter jet,a fine thing,
 i: 20
-trigrams: ,of the new,stopped doing china,be lent to,by will make,only on the,,and the deadline,native surrealism in,like the gold,republican of north,,they are just,percentage of the,evacuation to allow,
+trigrams: with a allegation,if playing a,two or three,unprecedented scale just,unprecedented scale just,unprecedented scale just,last week threat,family dynasty we,in an attempt,toward i asked,to record intensity,death of which,empty of their,in politics even,its finest link,
 i: 85
-trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
+trigrams: a activist who,a afternoon at,a airport built,a bicycle made,a big reason,a black agenda,a black agenda,a blockbusting week,a brave mother,a brilliant guide,a businessman has,a campaigner for,a certain satisfaction,a charity has,a chef who,
 i: 79
-trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
+trigrams: a big reason,a bill giving,a boy who,a brilliant guide,a businessman has,a businessman whose,a campaigner for,a career trajectory,a certain satisfaction,a charity has,a charity just,a coalition of,a collection of,a colossal canyon,a confession you,
 i: 30
-trigrams: resell mortgages over,events as of,everyone will be,true market cost,,overcome itself a,,contributed to their,a landslide on,she recalled the,,apartment complexes in,father started the,,fresh pair of,
+trigrams: for a but,master as a,for a report,destroying a country,graduation is a,to a democratically,scored a try,video tells a,and became as,primarily as a,evidence linking the,evidence linking the,evidence linking the,hyped for a,due to a,
 i: 37
-trigrams: couple drove without,savvy passer this,them with a,on the golden,and frowns and,caregivers swab the,,at million to,to be specified,biting critique of,easy sell at,colleagues at the,iron giant and,each of but,better music in,
+trigrams: ever attempted to,has said that,even preparing for,aware of what,any ground that,types of thoughts,turned into actual,were joining the,have had an,as the titanic,provision of the,very term aristocracy,very term aristocracy,one of willies,quite vicious in,
 i: 34
-trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
+trigrams: a boy who,a campaigner for,a couple who,a few seconds,a fighter jet,a fine thing,a firearms officer,a former police,a group of,a guard with,a hard would,a huge deposit,a leading us,a leaked reveals,a loan to,
 i: 99
-trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
+trigrams: a certain satisfaction,a colossal canyon,a family of,a fine thing,a government would,a group of,a heavily pregnant,a leading us,a little over,a loan to,a man has,a man is,a man receives,a man teaching,a man who,
 i: 101
-trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
+trigrams: a bicycle made,a big reason,a billionaire philanthropist,a black agenda,a brilliant guide,a campaigner for,a charity just,a chef who,a chilling ministry,a clampdown on,a clogged nose,a colossal canyon,a council should,a couple of,a dark cloud,
 i: 39
-trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
+trigrams: a afternoon at,a army doctor,a battered dodge,a belated happy,a big reason,a bill to,a billionaire philanthropist,a boy who,a brilliant guide,a campaign to,a campaigner for,a campaigner for,a charity just,a chilling ministry,a clogged nose,
 i: 107
-trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
+trigrams: a big reason,a bill to,a black agenda,a certain satisfaction,a chef who,a chilling ministry,a cinema has,a colossal canyon,a confession you,a coroner may,a council should,a couple who,a criminal conviction,a criminal trial,a drug that,
 i: 50
-trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
+trigrams: a brave mother,a chilling ministry,a colossal canyon,a combat veteran,a couple of,a deputy inspector,a dispatch from,a dog hipster,a federal judge,a federal jury,a flotilla of,a flurry of,a gas flame,a gravely written,a green traffic,
 i: 125
-trigrams: for months because,,hope on an,,,ms has a,miss you all,did a good,harry potter attraction,as a problem,centered on whether,,could do was,are met by,most defensively stout,
+trigrams: bit by making,including four on,ratifying whether on,threats that west,been saved from,filing for inc,given a mechanical,director walker it,society less than,paid for by,to blow the,simply by digging,around soldiers along,speculation about a,are rarer than,
 i: 48
-trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
+trigrams: a belated happy,a black agenda,a black agenda,a campaigner for,a certain satisfaction,a chilling ministry,a colossal canyon,a council should,a court has,a criminal trial,a dozen international,a earthquake has,a federal judge,a few seconds,a fierce chorus,
 i: 114
-trigrams: be around floods,,,substantial progress and,,bodies had already,and niche take,,,of his decisions,the political moment,would have but,her speaks and,democratic would never,makes it special,
+trigrams: caused a lot,memories when we,is a progressives,link a reply,then a special,announced a new,walled we project,new a more,internationalists conspiring with,for a number,create a whole,bush administration they,or a native,roe v wade,form a single,
 i: 51
-trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
+trigrams: a afternoon at,a airport built,a belated happy,a bill giving,a billionaire philanthropist,a bit cheeky,a boost for,a brilliant guide,a businessman has,a businessman whose,a certain satisfaction,a charity has,a chilling ministry,a cinema has,a coalition of,
 i: 53
-trigrams: and is a,it grace remains,state have chipped,he worked in,the images are,all the pictures,,will not be,a laborer in,let people get,all three discs,a cast of,,by coach came,that burdens she,
+trigrams: gentle way thats,which saw an,it the eastern,and white who,work stoppage has,and books on,intensity of gradual,it became clear,its dark except,one men connecting,himself was undermined,social adaption over,made crystal clear,rational conversation based,torrential downpour in,
 i: 56
-trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
+trigrams: a bicycle made,a big reason,a black agenda,a brilliant guide,a chilling ministry,a controlled explosion,a council should,a couple of,a family of,a favorite trope,a federal judge,a few seconds,a fighter jet,a fund for,a group of,
 i: 59
-trigrams: ,evokes one of,,,,of his life,way into the,found it in,,from the bank,city m have,one damn he,,,,
+trigrams: and in and,preferred candidate losing,march department john,goes a long,race planetary solar,either friends or,awareness of whats,your world or,the shortly after,unexperienced investigators would,us catch more,directs the secretary,can jump for,president in thats,president in thats,
 i: 61
-trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
+trigrams: a bicycle made,a big reason,a bill giving,a black agenda,a boy who,a campaigner for,a chilling ministry,a clogged nose,a council should,a couple who,a criminal conviction,a criminal trial,a distaste for,a federal judge,a federal judge,
 i: 62
-trigrams: information and perhaps,the but now,on earth beautifully,room and where,they did not,a to a,democrats as representative,sucker some of,of housing and,university was a,most socially conscious,,for the night,lead the social,all forms were,
+trigrams: a niche amount,intensity with which,entire towns in,loan complaints to,a rule banning,the postwar when,the holdups to,but sorry to,original meaning that,spoilage with the,human societies through,vicious hate campaign,an acute sense,difference in the,all forms were,
 i: 63
-trigrams: a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,a heavyweight contender,
+trigrams: a boy who,a charity has,a coalition of,a court has,a criminal conviction,a doctor sexually,a earthquake has,a family of,a federal judge,a generation a,a global of,a government would,a hard would,a heavyweight contender,a hypersonic aircraft,

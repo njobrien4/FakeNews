@@ -3,7 +3,7 @@ trigrams: ,,,,,,,,,,,,,,,
 i: 5
 trigrams: ,,,,,,,,,,,,,,,
 i: 70
-trigrams: ,,,,,,,,,,,,some enjoyed a,,four weeks with,
+trigrams: on and an,younger people signed,conditioning to conform,speaking in public,her to prison,author examines the,minister said in,vocal urges not,referendum and then,first getting another,formula laced with,economist tells news,digital and predicted,grandchildren and golf,ceasefire who is,
 i: 72
 trigrams: ,,,,,,,,,,,,,,,
 i: 9
@@ -11,7 +11,7 @@ trigrams: ,,,,,,,,,,,,,,,
 i: 78
 trigrams: ,,,,,,,,,,,,,,,
 i: 83
-trigrams: ,campaign has laid,reaction to the,,,left an increase,,,,,,they will rue,,policy it could,,
+trigrams: a bigger cut,and very determined,and very determined,the trumps victory,a small lift,underway to challenge,a large glass,which new threats,a position to,and how grateful,a new global,a deeply pacifist,a way to,a book keeping,ongoing glut in,
 i: 110
 trigrams: ,,,,,,,,,,,,,,,
 i: 86
@@ -23,15 +23,15 @@ trigrams: ,,,,,,,,,,,,,,,
 i: 92
 trigrams: ,,,,,,,,,,,,,,,
 i: 93
-trigrams: ,,going adventure blankets,to van howled,,,,,,build on traditional,has exposed several,that he deserved,played by the,,argue that is,
+trigrams: a highly guarded,imagine a world,laura and day,on a afternoon,occurred slightly up,until may said,because its likely,won trumps victory,censorship algorithms are,shoplifter responded and,writer and voice,pointed at whose,analogized to naming,whose ranks were,national infamy began,
 i: 37
 trigrams: ,,,,,,,,,,,,,,,
 i: 96
 trigrams: ,,,,,,,,,,,,,,,
 i: 33
-trigrams: ,,,were prepared either,,,and military leaders,more celebrated than,are we shall,,not making you,,main profits are,,once a vibrant,
+trigrams: zero in with,feel that i,had an interest,had an interest,accounting for of,three years tables,ferris claims will,trend in whats,standing and i,which station themselves,begun from lewis,including porters article,reputation for treating,language and maintained,pretended even acknowledging,
 i: 35
-trigrams: and of i,,,,,,,,and deepest in,,,,a big smile,it poses his,,
+trigrams: each central bank,wholly feminist dominated,whether they include,riding on a,ensure that around,students alike and,an herbal treatment,an unstoppable stream,given the system,bear said were,an backyard are,each but it,on a new,on a new,pride in a,
 i: 101
 trigrams: ,,,,,,,,,,,,,,,
 i: 104
@@ -41,7 +41,7 @@ trigrams: ,,,,,,,,,,,,,,,
 i: 45
 trigrams: ,,,,,,,,,,,,,,,
 i: 46
-trigrams: ,,is not just,,,crisis he those,,,degraded involving them,our children are,,,,is one of,,
+trigrams: west gave the,the real goal,the real goal,sun a momentary,of interactions between,red cross president,with a president,only difference is,have real work,with a minor,centers a discussion,slightest difference if,grass a a,exchange points as,pleasing the technical,
 i: 48
 trigrams: ,,,,,,,,,,,,,,,
 i: 50
@@ -57,4 +57,4 @@ trigrams: ,,,,,,,,,,,,,,,
 i: 63
 trigrams: ,,,,,,,,,,,,,,,
 i: 127
-trigrams: ,memories brothers take,,,,of her candidacy,,,,system that wrongs,,,,but in the,be used in,
+trigrams: preconditions give rise,an unexpected rift,hassles of obtaining,whose statements and,wholly feminist dominated,baldly abetted a,then drive home,challenges are rooted,much news coverage,an article published,honor above who,of morning on,much speculation about,people kept their,cases she helped,

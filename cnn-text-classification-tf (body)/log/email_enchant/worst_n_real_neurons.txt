@@ -1,60 +1,60 @@
 i: 64
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,a man who,a man who,a sculptor best,a sculptor best,
+trigrams: a army doctor,a candidate under,a doctor who,a group of,a mining company,a new batch,a union has,a wonderful and,according to a,ads some evidence,afraid of trump,after a morning,after disclosures of,after incurring their,after months of,
 i: 65
-trigrams: knows about housing,navigate around traditional,messages like on,up on the,out his goals,around the country,foreign entities had,give up their,the said the,a manager for,did not like,being heard the,the vote count,on twitter time,essentially the same,
+trigrams: phone and,phone and,such as,the next post,betrayed which series,this content,this content,this content,this content,consult parliament before,since its authentication,runs a disability,manager will handle,early poetry changed,confirmation email show,
 i: 66
-trigrams: an email i,earlier through his,lead in the,of trump campaign,spike in the,of and my,grabbing attention for,criminal complaint he,as a m,board a flight,business in the,four of us,from a reader,his feet who,not long to,
+trigrams: if he solves,who decides that,why do i,we messed up,with resources such,well,enough so how,ceased trading i,by email notify,by email notify,by email notify,by email notify,by email notify,by email notify,by email notify,
 i: 75
-trigrams: a man was,a man was,a man was,a man who,a sculptor best,about million turkeys,after a morning,after a morning,after a morning,after a morning,after a morning,after a morning,after a morning,after disclosures of,after eight the,
+trigrams: a company founded,a coroner is,a doctor who,a million people,a new batch,a united nations,always quick to,and for is,and have stalled,and our match,and to lead,as an asylum,as and squared,been with my,below is this,
 i: 69
-trigrams: pie and combat,and security for,but that make,by slaves that,remnants of old,in the number,patients on a,our at our,which he danced,and far outweighs,of offshore wind,the early for,surface remnants of,be going for,at a news,
+trigrams: top emails land,new emails,reds attack down,by slaves that,voted in someone,resources such as,the global alliance,get more information,yards min have,of protesters who,practically many astounding,the emails,reveals an email,spreadsheet there were,right post is,
 i: 7
-trigrams: call themselves are,the deadly school,i am wonderful,pizza restaurant called,love in a,the results in,master filmmaker he,the presidential raises,charges against that,center of the,regular gathering information,sulfur mustard at,to answer a,bright red dress,good according to,
+trigrams: this will be,liver a symptom,i am wonderful,emails belonging to,talk was all,told fox news,on the planet,rally crowds are,candidate emails democracy,an affidavit which,regular gathering information,emails that her,tribunal service over,emails dating back,staggeringly low rape,
 i: 8
-trigrams: a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,a man who,a sculptor best,a sculptor best,a sculptor best,a sculptor best,a single spark,
+trigrams: a army doctor,a banker who,a cinema has,a company founded,a coroner is,a new batch,a petition calling,a trump supporter,a victory that,a week the,adult dating and,air pollution has,all the egregious,an extraordinary war,an sports presenter,
 i: 73
-trigrams: in the number,comet ping noticed,a scholar of,family foundation questions,roughly percent of,in mind of,pull out of,a campaign on,confirmed on that,,,competed in bronze,me it work,of food and,people from maybe,
+trigrams: resources such as,john very little,classified information in,the secretary hank,the past why,on it,about author,the emails show,confirmed on that,this content,this content,this content,this content,this content,the email leak,
 i: 5
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,a sculptor best,a sculptor best,a sculptor best,a sculptor best,
+trigrams: a court decision,a doctor who,a group of,a growing number,a journalist who,a million people,a new and,a new batch,a prestigious college,a schoolboy who,a short walk,a united nations,a us firm,a wonderful and,ad account by,
 i: 2
-trigrams: is getting back,j trump said,losing your wallet,trump vs the,time ago has,with its petitions,the prosecution of,his choice for,or news l,in intensive care,numbers from his,are heartbroken for,them out she,stand on the,the cabinet after,
+trigrams: at pm easy,hundreds of drivers,one in five,this rem come,with wide post,says via email,is it post,to principal lecturer,exposed the email,invite unions and,the strictest vetting,their debts written,am contacted by,emails a how,watch planet earth,
 i: 77
-trigrams: which you touch,,for a man,digital a of,,,,have no backups,state senator l,,and you can,,effect by the,,ever more the,
+trigrams: for a supranational,an unwavering theme,new age of,to a father,launches a massive,launches a massive,launches a massive,debacle as writes,first concept has,km force planning,comes from confidante,technique called denial,be a protest,be a president,be a president,
 i: 92
-trigrams: a man was,a man who,after a morning,after months of,an art historian,as he prepared,days before the,days before the,days before the,for if there,for if there,for thanksgiving this,i love telling,i love telling,if in the,
+trigrams: a candidate under,a prestigious college,accuses campaign of,after the shocking,been quite a,bill disparagingly referred,breaking new bombshell,by at new,by file this,by martin with,chapel president threw,comments wait a,enter your email,from sierra laws,guardian cities is,
 i: 83
-trigrams: j foundation has,corridors of fancy,and who created,shake it was,said the who,degraded form of,,a email of,,a flight with,better than who,she was a,as a uniformed,the one into,number of his,
+trigrams: a doctor who,primarily a he,just sex so,media and sport,cases involving countries,investigating consumer protection,the foreign corrupt,had been gazetted,am either hungry,blitz the country,the news fans,us gun control,the video content,the industrial revolution,about himself,
 i: 84
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,a sculptor best,a sculptor best,a sculptor best,
+trigrams: a army doctor,a banker who,a cinema has,a coroner is,a group of,a journalist who,a new and,a new batch,a petition calling,a prestigious college,a sensational new,a trump supporter,a united nations,a victory that,a white nationalist,
 i: 22
-trigrams: white house a,country have been,is not picking,the edge of,national low income,but in the,phone and call,and the justice,,killed or wounded,post will make,the informer want,was named sleep,folks but giving,fashion week in,
+trigrams: flexible formation threatens,am not capable,just overwhelmingly she,calling or emailing,over large hadron,camp closure such,election board emailed,that exist specifically,mainstream awards and,course are plenty,post will make,funniest man ever,why we are,folks but giving,letter explaining that,
 i: 89
-trigrams: a man who,a man who,after a morning,after a morning,after disclosures of,after eight the,after months of,after months of,after months of,an art historian,an email i,an teacher at,an teacher at,apple and other,as he prepared,
+trigrams: a new batch,according to a,after the shocking,and are all,at pm order,by continues to,by file this,by martin with,claim argument designed,description of business,director told congress,do panic that,email trump said,enter your email,free sign up,
 i: 28
-trigrams: supreme court among,dance hall but,weekend that included,,to reports that,in japan to,,the presidential raises,one of senior,,first place i,so the flaws,that it would,since the to,roughly votes behind,
+trigrams: am too old,before vanishing has,rather indifferent towards,effect smith gives,to reports that,by emails and,but anecdotal evidence,rally crowds are,contributing via social,supt are appealing,so so powerful,us crazy and,utility bills up,capably thus far,president blackberry used,
 i: 93
-trigrams: an operation in,become so rich,show continuing to,to at the,and of hilltop,enforcement officers from,stolen is a,the way to,guide to thriving,toward assuming starting,had no intention,doubt about the,the united you,typically in the,a vague sense,
+trigrams: via on on,via on on,have discussed this,do this publicly,of our transformation,am tired a,speed reading emails,the replacement as,our sources tell,breach of government,the brotherhood in,handled new emails,adolescent mental health,your overqualified job,strange position of,
 i: 94
-trigrams: a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a sculptor best,a sculptor best,a sculptor best,a sculptor best,a sculptor best,a sculptor best,a single spark,
+trigrams: a coroner is,a new batch,a petition calling,a short walk,a week the,air pollution has,always quick to,an sports presenter,and for is,and two of,are you looking,at the a,authorities executed three,bee has criticized,been quite a,
 i: 31
-trigrams: a man was,a man was,a man was,a man was,a man who,a man who,a sculptor best,a sculptor best,a sculptor best,a sculptor best,a sculptor best,a single spark,a single spark,a single spark,a single spark,
+trigrams: a banker who,a coroner is,a group of,a journalist who,a mining company,a new batch,a petition calling,a prestigious college,a schoolboy who,a victory that,a woman who,air pollution has,always quick to,an extraordinary war,an sports presenter,
 i: 34
-trigrams: to insulate himself,of the reported,pie and combat,mar the pristine,than of those,to remove a,family member or,state already put,pull out of,that and the,with the politician,on potential conflicts,training camps in,the nearby campus,political campaign for,
+trigrams: private server as,use their names,top emails land,there is provable,and insulting,order to avoid,here or emailing,friendship we emailed,about author,does release mail,interim chairwoman admonished,he proved integral,to the opposition,emails or homophobic,to ignore any,
 i: 39
-trigrams: an email i,as he prepared,days before the,days before the,days before the,days before the,days before the,he is friends,if in the,in his early,in the to,in then a,is getting back,is getting back,j trump moved,
+trigrams: air pollution has,at pm easy,been quite a,by martin with,cars are one,comments according to,football pundits seem,has certainly made,i and the,if he solves,in a email,in i received,is getting back,last i received,nearly years after,
 i: 60
-trigrams: a man who,an art historian,an teacher at,days before the,i love telling,if in the,is getting back,is getting back,lead in the,lead in the,on a blustery,publisher of the,thank you for,the state has,to make partner,
+trigrams: about a decade,after the shocking,and are all,and that is,been quite a,by file this,by martin with,from our late,has given the,is getting back,people really do,posted at share,senate minority leader,so he did,still no sign,
 i: 109
-trigrams: know and have,crust much closer,,,,a reasonable case,an aging slate,around the country,banks would be,by farming moving,change was unclear,criterion of fitness,defending his reputation,foreign entities had,get shorter and,
+trigrams: unconstitutional but in,her candidacy which,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,
 i: 29
-trigrams: after a morning,j trump sat,the dean of,his followers within,am a photo,failed to produce,conflicts of interest,weighing heavily on,as is the,the before the,avoid conflicts of,diverse college in,small triangular space,among classmates and,president legacy looked,
+trigrams: director told congress,victor flew to,views broadcast this,emails from,am a photo,china tantalized by,derive strange pleasure,individual functions will,material prof anders,lord dubs was,signs and am,emails so close,featured in the,under police told,in todays of,
 i: 113
-trigrams: on swastikas and,the end of,votes are still,head and,at the there,a film that,me being he,,the chief of,over lunch at,was a very,agency cannot force,down a subject,the sense to,young college graduates,
+trigrams: in when the,emails that they,votes are still,of people disinheriting,wakeup the need,from or,the largest national,evil bit like,post is standing,emails that the,mark,just too innocuous,content,content,content,
 i: 53
-trigrams: a man was,a man was,a man who,after a morning,after a morning,after a morning,after months of,after months of,an email i,apple and other,as he prepared,as he prepared,brought to the,for if there,for if there,
+trigrams: a row has,authorities executed three,been quite a,bill disparagingly referred,eighteen months and,football pundits seem,hello and welcome,i booked flights,i have just,i look at,i recently shopped,i tried to,if you want,in and a,in i received,
 i: 41
-trigrams: after disclosures of,an email i,apple and other,for if there,if in the,jasmine was standing,losing your wallet,to make partner,financier of the,others who work,start whenever amazon,but a snapshot,shorter and the,off giants buck,including the creation,
+trigrams: bill disparagingly referred,embattled transport minister,here is this,hundreds of drivers,on the day,the bureau of,the deputy once,the health has,email at or,operation reported a,but several developing,the swiss franc,so badly on,forcing an agoraphobic,for some clues,
 i: 86
-trigrams: a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,a sculptor best,
+trigrams: a brilliant guide,a candidate under,a complaint has,a few days,a new batch,a new email,a new shocking,a newly leaked,a newly released,a source at,according to a,according to a,according to a,according to new,ads some evidence,
 i: 124
-trigrams: a man was,a man was,a man was,a man was,a man who,a man who,a man who,a man who,a man who,a sculptor best,a sculptor best,a sculptor best,a sculptor best,a single spark,a single spark,
+trigrams: a army doctor,a coroner is,a few years,a group of,a mining company,a new batch,a schoolboy who,a secret relationship,a short walk,a week the,a wonderful and,air compressors on,air pollution has,an extraordinary war,an sports presenter,
