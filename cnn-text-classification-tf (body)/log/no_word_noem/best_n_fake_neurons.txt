@@ -1,0 +1,60 @@
+i: 67
+trigrams: ,,,,,,,,,,,,,,1 \) if,
+i: 4
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 118
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 7
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 10
+trigrams: ,,,,,,,,,,,,,,1 \) if,
+i: 12
+trigrams: have been subject,long time ago,,at cida ,,share on whatsappshare,to sweep the,,been mooted as,deployed in the,via emailshare on,,danny brownas befits,down but i,,,
+i: 13
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 77
+trigrams: ,,,,,,,,,,,,,,1 \) if,
+i: 17
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 82
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 21
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 87
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 26
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 29
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 94
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 31
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 34
+trigrams: ,,,,,,,,,,,,,,1 \) if,
+i: 36
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 102
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 43
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 44
+trigrams: ,,,,,,,,,,,,,,1 \) if,
+i: 109
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 114
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 30
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 54
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 119
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 123
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 60
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 74
+trigrams: ,,,,,,,,,,,,,1 \) if,1 \) if,
+i: 85
+trigrams: ,,,,,,,,,,,,,,1 \) if,

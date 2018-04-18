@@ -1,0 +1,60 @@
+i: 64
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 0
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,a brooklyn man,a brooklyn man,
+i: 75
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 118
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 6
+trigrams: news media and,he said it,the opening of,9 percent of,as secretary of,months to gear,the international climate,thousands of residents,to its 2015,what he meant,links to a,its new circumstances,drawn scrutiny ,,the type of,description of events,
+i: 11
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 14
+trigrams: actions had been,, but theyre,, direct message,can start a,a sculptor ,,went into hiding,to the election,is a reminder,the economy typically,,in the first,paris the new,he meant by,more work you,, and the,
+i: 79
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,a brooklyn man,a brooklyn man,a brooklyn man,
+i: 80
+trigrams: said he would,the blocked street,clinton , expressing,and hired top,,infection , but,year by land,york times lithuanias,be extremely difficult,fair i knew,the sergeant ,,as president around,and actions about,similar humor and,whose lifestyle has,
+i: 84
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 78
+trigrams: president elect donald,president elect donald,,,most of that,the bright green,,more ads than,highest echelons of,a remarkable beauty,saves clients money,known as affirmatively,, professor halderman,be the most,interest mr trump,
+i: 86
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 23
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 91
+trigrams: the equivalent of,drivers can have,new job it,loving when he,candidate traits or,as promotions and,a lot like,largely automated production,,east side of,ceremonial conference room,suspects give me,have good will,campaign on it,its fulfilling its,
+i: 92
+trigrams: , seriously considered,from them ,,clinton , expressing,our publisher we,way to fight,ivanka during the,just like this,, adachi said,appointments with unstinting,trump said he,j trump ,,took place however,interest because they,of her sisters,revolving around how,
+i: 29
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 97
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,a brooklyn man,
+i: 34
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 100
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 39
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 42
+trigrams: his white house,,, a long,cliff as in,trump and his,were not immediately,, which has,have big crowds,you were there,two longtime american,forth statements and,ronald reagan and,comment to a,dip from 52,to the obits,
+i: 44
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 46
+trigrams: of an extensive,of how the,user account from,, saying the,by law enforcement,support for the,to a traditional,this years election,of the democratic,out just before,announced on monday,his new job,, christopher a,inventory this is,a jumble of,
+i: 113
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 116
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,a brooklyn man,
+i: 54
+trigrams: trump met with,alleviate the effects,pritzker school of,,, sent two,dirty , old,,air temperatures far,scientists say the,discuss mrs clintons,the new york,meeting , mr,won so here,sense ive spent,, trump has,
+i: 60
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 61
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 62
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+i: 63
+trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,a brooklyn man,a brooklyn man,a brooklyn man,a brooklyn man,a brooklyn man,a brooklyn man,a brooklyn man,

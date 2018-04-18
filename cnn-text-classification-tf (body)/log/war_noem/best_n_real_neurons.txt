@@ -1,0 +1,60 @@
+i: 96
+trigrams: a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a patchwork of,a patchwork of,a patchwork of,a patchwork of,a patchwork of,al caiola ,,
+i: 115
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,
+i: 10
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,
+i: 12
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,
+i: 13
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,
+i: 14
+trigrams: a man teaching,a man wielding,a man wielding,a patchwork of,a patchwork of,a patchwork of,a patchwork of,al caiola ,,al caiola ,,al caiola ,,al caiola ,,al caiola ,,alex stewart ,,alex stewart ,,alex stewart ,,
+i: 89
+trigrams: seinfeldia how a,emerging season in,previous collaborations ,,policy institute at,after the rangers,in what it,for the wealthy,place in the,an enormous subject,in the nazi,under president elect,story building from,urban renewal ,,for a brooklyn,, rested in,
+i: 85
+trigrams: a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a patchwork of,a patchwork of,a patchwork of,al caiola ,,al caiola ,,al caiola ,,al caiola ,,
+i: 22
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,
+i: 87
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,
+i: 24
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,
+i: 25
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,
+i: 91
+trigrams: , generating well,a crystalline soundscape,interest in a,,the site intelligence,turns at the,squire \? is,cheesecake more than,i to argue,opens on dec,about the women,left a dozen,he thought the,of doing battle,,
+i: 28
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,
+i: 58
+trigrams: to the violations,judges for better,cards , a,import from spain,,at the presidency,site intelligence group,,also housed a,of money by,fumbles the issue,he hoped could,required viewing with,us tougher to,through the florida,
+i: 32
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,
+i: 99
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,
+i: 103
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,
+i: 42
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,
+i: 109
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a patchwork of,a patchwork of,a patchwork of,a patchwork of,al caiola ,,al caiola ,,
+i: 48
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,
+i: 113
+trigrams: a patchwork of,a patchwork of,al caiola ,,al caiola ,,alex stewart ,,alex stewart ,,allied \( r,allied \( r,alligator \( previews,alligator \( previews,alligator \( previews,an email i,andra day \(,andra day \(,as we enter,
+i: 50
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,
+i: 51
+trigrams: in his early,niro and jerry,beacon theater ,,deputy director of,,it never mentioned,mr ryan as,i came up,how money makes,, forbes dropped,at seventh avenue,depends on details,,perez , the,as hail trump,
+i: 59
+trigrams: gobsmackingly gorgeous ,,matter \? i,,,, as williamsburg,, could recall,, had been,, the new,, thebellhouseny com,, their annual,19 on the,2015 , armed,7 a m,\( thursday \),\( thursday \),
+i: 55
+trigrams: ,,! and hail,, 500 classes,, had been,, ida lupino,, sweat tears,, their annual,, which share,, who plans,19 on the,432 , executive,7 a m,\( solidago sempervirens,a big part,
+i: 57
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,
+i: 122
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,
+i: 123
+trigrams: a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a patchwork of,a patchwork of,a patchwork of,a patchwork of,a patchwork of,al caiola ,,al caiola ,,al caiola ,,al caiola ,,al caiola ,,
+i: 61
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,

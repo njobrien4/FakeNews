@@ -1,0 +1,60 @@
+i: 65
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,
+i: 2
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a patchwork of,a patchwork of,a patchwork of,
+i: 67
+trigrams: school and so,albums like separation,get here ,,,chocolate coated pies,citys administrative court,,and stories is,seven americans goes,,, set against,leading impromptu street,to sell coastal,as gloria grahame,,
+i: 8
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,
+i: 11
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,
+i: 16
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,
+i: 3
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,
+i: 20
+trigrams: how much do,of papers covering,811 4111 ,,, as well,his cabinet ,,\( frank lovejoy,china , has,from the waterline,in harlem ,,of calcutta saroos,to the violations,puck size creamy,the rental anyway,made him famous,,
+i: 86
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,
+i: 23
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a patchwork of,a patchwork of,al caiola ,,al caiola ,,al caiola ,,alex stewart ,,alex stewart ,,
+i: 26
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,
+i: 47
+trigrams: a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a patchwork of,a patchwork of,a patchwork of,a patchwork of,a patchwork of,a patchwork of,a patchwork of,al caiola ,,al caiola ,,
+i: 92
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,
+i: 29
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a patchwork of,a patchwork of,a patchwork of,a patchwork of,al caiola ,,
+i: 94
+trigrams: beneficiaries who can,defensive rotations still,children leave \(,crystalline soundscape exploding,regular visitors in,1 52 \),new dull one,,it takes was,the shoulder gown,,also a fixture,for tea if,banned notes had,rather than a,
+i: 95
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a patchwork of,a patchwork of,a patchwork of,al caiola ,,al caiola ,,
+i: 33
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a patchwork of,a patchwork of,
+i: 35
+trigrams: , and the,, but then,, had been,, ida lupino,, their annual,, we all,, who plans,2015 , armed,500 classes \(,7 a m,a big part,a campaign promise,a mozart lover,a star wars,a two time,
+i: 36
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,
+i: 102
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,
+i: 103
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,
+i: 42
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,
+i: 43
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,
+i: 44
+trigrams: a man teaching,a man wielding,a man wielding,a patchwork of,a patchwork of,a patchwork of,al caiola ,,al caiola ,,al caiola ,,alex stewart ,,alex stewart ,,alex stewart ,,allied \( r,allied \( r,allied \( r,
+i: 46
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,
+i: 111
+trigrams: a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a patchwork of,a patchwork of,al caiola ,,al caiola ,,al caiola ,,al caiola ,,al caiola ,,alex stewart ,,alex stewart ,,alex stewart ,,
+i: 52
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,
+i: 57
+trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,
+i: 62
+trigrams: a man teaching,a man wielding,a man wielding,a man wielding,a patchwork of,al caiola ,,al caiola ,,alex stewart ,,alex stewart ,,allied \( r,allied \( r,allied \( r,allied \( r,allied \( r,alligator \( previews,
+i: 63
+trigrams: a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a patchwork of,a patchwork of,a patchwork of,a patchwork of,a patchwork of,al caiola ,,
