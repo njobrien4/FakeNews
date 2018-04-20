@@ -1,256 +1,256 @@
 i: 0
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,a brooklyn man,a brooklyn man,
+trigrams: a black agenda,a candidate under,a complaint has,a former assistant,a hillary clinton,a national sport,a new email,a newly leaked,a very sobering,a wikileaks email,aaron bandler november,abby martin exposes,above image by,according to a,according to a,
 i: 1
-trigrams: , sports officials,produce its spring,an empty bench,to move forward,monday that he,after mr trump,on an intensifying,risks for mr,generous friend of,sonty wanted to,glass and marble,the court ,,consensus among his,sydney to dance,old ways are,
+trigrams: the other leaked,hillary clintons campaign,us presidential election,her name was,emissions by watchdog,us learn more,the details of,is predicted to,her potential to,the nascent campaign,her ties with,water quality wasnt,mobileturkey detains editor,said democratic countries,tried to influence,
 i: 2
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a black agenda,a chilling ministry,a complaint has,a dispatch from,a former assistant,a gravely written,a hillary clinton,a new email,a new email,a new wikileaks,a newly leaked,a pollster who,a source at,a wikileaks email,aaron bandler november,
 i: 3
-trigrams: after disclosures of,bangalore , india,for decades ,,london when president,milwaukee i love,the dean of,after 67 years,a flight in,the 1s or,last year ,,stored urine samples,alexandra \( 1987,,are not thinking,cellphone went off,
+trigrams: and heres our,diogenes on poverty,huma abedin just,i know a,its virtually a,obama and hillary,so he did,wikileaks has certainly,hes demonstrated leadership,i observed scullys,seconds agoi know,is because humans,laguardias approximately students,your spam filter,both are human,
 i: 4
-trigrams: apple iphones and,an exhibition about,appearance of a,, more affordable,the paris accords,, particularly to,coverage of these,week our photographer,answers the phone,, the numbers,it , but,mr giuliani believed,actions like these,how many times,created by a,
+trigrams: advertisement yeah i,at am comments,by on november,by pepe escobar,elections by fears,email us contact,eric zuesse opinion,mutiny at the,pepe escobar opinion,someone is getting,wednesday november tags,will trump pull,coup detat a,option to direct,option to direct,
 i: 5
-trigrams: by ms russos,23 months in,, 000 former,of steel barriers,its fulfilling its,, have talked,molesting and trafficking,decide on the,modular pieces melorra,access to the,northwestern university pritzker,ive called him,in a psychiatric,moral baseline bent,people uncomfortable talking,
+trigrams: clever sinuous supremely,video games comics,hezbollah a longstanding,corporations to restructure,soldiers laying siege,please dear world,no law abridging,arming radical syrian,syria illustration above,emoji the abduction,anyways blaming doesnt,billionaires and centi,say microspookyleaks october,bilateral ties undertrump,reserve taper of,
 i: 6
-trigrams: news media and,he said it,the opening of,9 percent of,as secretary of,months to gear,the international climate,thousands of residents,to its 2015,what he meant,links to a,its new circumstances,drawn scrutiny ,,the type of,description of events,
+trigrams: nations in the,been making it,taibbi has termed,desireable weve been,oleg maslov the,himself in an,were advising george,trumps biggest backers,trumps biggest backers,a classless society,the left wing,non hierarchal we,matchup against donald,laptop of anthony,that obamas doj,
 i: 7
-trigrams: instance , on,auto safety regulators,comb through the,israelis and palestinians,, twitter went,to sign up,while , obrien,lines of steel,but included the,palestinian territories yielded,celebrating the simple,, checked yes,the occasional obit,to you ,,of some legislation,
+trigrams: read by people,rate and moreover,opinion columnist nicholas,like performing at,underground jon rappoport,share this on,in october when,as fbi investigators,the current conditions,former cia analyst,yemen syria libya,cnn interview wednesday,grylls survival challenge,problem etc moore,in moscow,
 i: 8
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,a brooklyn man,a brooklyn man,a brooklyn man,a brooklyn man,a brooklyn man,a brooklyn man,
+trigrams: a complaint has,a gravely written,a new email,a new wikileaks,a newly leaked,a newly released,a wikileaks email,abby martin exposes,according to a,according to a,according to conservative,according to new,according to reuters,according to the,add comment on,
 i: 9
-trigrams: to think i,manage the high,parish priest ,,, who died,of the power,i think it,the sorting mechanism,, a scholar,, i think,post or a,with her electric,all nonequity partners,that their efforts,into the chairmanship,tone and content,
+trigrams: ben mee matthew,past august mr,alien emoji the,facebook twitter pinterest,october when he,to servelemon zestextra,written by brandon,reince priebus mr,are sciencey thingies,islamic terrorists began,race interactive timelinewhile,fbi actually serves,anyways blaming doesnt,gop voter suppression,instead barack obama,
 i: 10
-trigrams: holloway , announced,top rank ,,manhattan the company,known that it,made it to,, sports officials,said he had,kafka , more,reporters and editors,forward to it,hammond , the,taught her years,1989 the train,more than 75,30 , 000,
+trigrams: was sending emails,briefly teaching political,have been wrongly,scott sinclair theres,messi almost stuns,up told fox,global financial crisis,the other leaked,i ever prove,initiative by proposing,action mike cunningham,lose i actually,out today million,ripe for satire,to major league,
 i: 11
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a candidate under,a chilling ministry,a complaint has,a dispatch from,a former assistant,a gravely written,a leading us,a national sport,a new email,a new email,a new wikileaks,a newly leaked,a pollster who,abby martin exposes,abby martin exposes,
 i: 12
-trigrams: ,that floats on,election has forced,experts said the,to oust the,attention of morningstar,in the early,millions of unauthorized,,new york and,its surface remnants,stores jewelry is,j but the,memorial service for,seat , mr,
+trigrams: be open about,agents are actively,paying attention to,paying attention to,paying attention to,an enthusiasm gap,medias weakness and,publishers wish to,shes smooth central,but not to,but not to,about the scope,developments are predictable,opting not to,worlds only superpoweron,
 i: 13
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a complaint has,a gravely written,a hillary clinton,a leading us,a month ago,a new email,a new shocking,a new wikileaks,a newly leaked,a newly released,a plane carrying,a source at,a wikileaks email,abby martin exposes,according to a,
 i: 14
-trigrams: actions had been,, but theyre,, direct message,can start a,a sculptor ,,went into hiding,to the election,is a reminder,the economy typically,,in the first,paris the new,he meant by,more work you,, and the,
+trigrams: pin months before,views november comments,a second term,a second term,breathing a sigh,diary book to,removed thousands of,re opening its,mccabe giacalones successor,migram experiment the,goals provided they,persuaders use simplicity,in early october,would impute omnipotence,be read by,
 i: 15
-trigrams: while , obrien,ventures could easily,j trumps foundation,instance , on,but included the,lines of steel,in early october,auto safety regulators,racist and homophobic,its not that,celebrating the simple,president obamas civil,,the occasional obit,and he mocked,
+trigrams: found wide variation,good article not,mook told reporters,are engineered events,supporter rudy giuliani,at them capricorn,horrendous human being,s u v,of state,gop nominee likely,schools are funded,google share on,google share on,google share on,by wikileaks speaking,
 i: 16
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,a brooklyn man,a brooklyn man,a brooklyn man,
+trigrams: a candidate under,a complaint has,a former assistant,a national sport,a new email,a newly leaked,a pollster who,a source at,a stunning foreign,aaron bandler november,according to a,according to a,according to conservative,according to new,accuses clinton campaign,
 i: 17
-trigrams: maybe i shouldnt,and mr banks,defendant failed to,we lose michigan,email rokos vine,could easily run,campaign promises ,,into the chairmanship,to record highs,discharged from the,2 billion to,,to preliminary data,iron curtain intelligence,around lunchtime on,
+trigrams: waking times in,russia and china,channels logo cube,thinking that sharpton,inferior worthless beings,voted for donald,murray completely mishits,i left saying,final read morefrom,an imaginary womanwho,s p futures,voting against the,lists on both,excitement,frood on itvs,
 i: 18
-trigrams: , was a,, democrats need,casting about for,four week period,summer vacation ,,to write our,it would ever,and had a,was mad at,being used by,consultant who was,for granted by,, and i,pro trump memes,,
+trigrams: is a sickener,facebook twitter pinterest,in october when,by jamie reid,illegal under malaysian,culture war separating,this content,we ignore them,particle rosamund pike,the ignore the,if it emailed,activate these adaptive,had even emailed,to emails or,no cctv footage,
 i: 19
-trigrams: of steel barriers,voicing their support,futures did you,his record suggests,,consensus on a,under constant assault,persuaded to step,, but it,party in south,the first offer,the most engaging,, robert de,,, mr ellison,
+trigrams: major operation the,ago jim crow,completely mishits a,are sciencey thingies,counter attack min,survival challenge programmes,since april adams,authorized by the,himself,carefully instructed that,writes broadwayworld offers,by hillary clinton,s u v,channels logo cube,them additionally establishment,
 i: 20
-trigrams: memorial service ,,between his business,,,s sessions in,at the chinese,,panama four months,she bought a,sale in the,you know ,,are quite tender,great , great,met ms russo,intelligence agencies the,
+trigrams: print before you,here on thursday,podesta in january,administration painted itself,gets behind on,almost a week,called on members,bar donald leans,weeks before clinton,worked on occasion,poignant quotes regarding,poignant quotes regarding,deems deporables mr,different debates but,cooking spirit cooking,
 i: 21
-trigrams: americans to take,government architect ,,trump said torture,which is based,remedying the long,granted by weaker,supremacists mr trump,change from his,before , such,of the group,against one another,not often ,,north of 96th,announced on monday,make a film,
+trigrams: broadcast this service,no easy task,spokesman said this,figure better than,reach the world,emails and youv,than their desks,emails about the,provided by voyager,deserving better than,way well know,emails that her,tbsp extra virgin,emails to journalists,anybody has ever,
 i: 22
-trigrams: speed limit of,surface remnants of,president elect donald,midwestern suburbs for,have an open,and illegal campaign,j trump that,in a fight,outside that couldnt,de blasio on,indian jewelry stores,ruled out a,one of many,a memorial service,it yourself or,
+trigrams: spectator and clearly,emailed one another,soren kierkegaard wrote,fall on deaf,ld says,appear to be,appeared as if,strengthen our economy,new york writer,among the most,fantasy we must,including years as,on comeys decision,store sensitive government,described the decision,
 i: 23
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a black agenda,a candidate under,a complaint has,a former assistant,a hillary clinton,a new email,a new email,a new wikileaks,a newly leaked,a newly released,a pollster who,a source at,aaron bandler november,abby martin exposes,abby martin exposes,
 i: 24
-trigrams: policy under mr,aware a young,jewel box of,of manhattan and,are free to,a press representative,land mines and,ive called him,other experts suggesting,up yelling and,,,of trying to,restore the utility,sulzberger jr ,,
+trigrams: access mr cooper,reince priebus mr,century courtesans reclining,simon baron cohen,cry insurrectionthis isnt,gop primaries i,aliens stole you,ah couplah beers,money within weeks,adam voges id,section,video making sports,this time combrink,daniel kahneman the,print ads customized,
 i: 25
-trigrams: bench on bedford,ah , the,investigator , douglas,offshore wind farms,to protest what,of steel barriers,,removed a manager,had actually encountered,no more subtle,of made up,of wells fargo,,other material you,german automaker ,,
+trigrams: election very interesting,past week bye,november we will,bruce springsteen exists,bill congressman lloyd,chained to the,bailey netflixhe said,poor american gets,sex edthank you,russia at all,serious security flaws,share with my,san francisco profiled,black to reply,this,
 i: 26
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,a brooklyn man,a brooklyn man,a brooklyn man,a brooklyn man,a brooklyn man,a brooklyn man,
+trigrams: a black agenda,a brooklyn man,a candidate under,a chilling ministry,a new email,a newly leaked,a newly released,a pollster who,abby martin exposes,according to a,according to a,according to new,according to reuters,ad hbs account,add comment emails,
 i: 27
-trigrams: his employees were,said , democrats,of donald trumps,safety regulators want,mercedes benz cars,with nir barkat,after taking office,and first grade,dr holloway ,,have been around,time and his,enjoy wearing it,the united states,superiors what he,now takes us,
+trigrams: burnleys ben mee,am financially independent,would mention a,feel an envy,murray completely mishits,universes we ignore,economics at yale,professional counsellor psychologist,thousands of emails,the,says,people in america,gary younge talks,am saying is,minutes van t,
 i: 28
-trigrams: , tim obrien,officials packing amid,of accelerationsby thomas,lines of steel,the former owner,offensive jokes ,,its not that,auto safety regulators,apologized one denied,blustery afternoon this,as he prepared,to sign up,were by turns,but included the,new york times,
+trigrams: employer is regulated,x s u,wind burns calories,the source behind,oval office sulzberger,grylls survival challenge,are biased and,peries trnn welcome,phone the russian,an email at,archives michael on,wikileaks exposed the,the world,the world,occupied by fanatics,
 i: 29
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a candidate under,a complaint has,a dispatch from,a few days,a former assistant,a gravely written,a leading us,a national sport,a new email,a new email,a new wikileaks,a newly leaked,a pollster who,a source at,a wikileaks email,
 i: 30
-trigrams: weeks of damaging,of an extensive,without a college,reporters and editors,, he is,continue employing these,that he needed,to you began,it wasnt important,by law enforcement,elect trump and,j trump ,,, came an,secretary thomas e,and being accused,
+trigrams: real link player,just cancelled her,initiative by proposing,facebook twitter pinterest,mee hacks straight,libtard funded remarks,allowed to comment,cannot accept what,do with uppity,over the country,fired from state,november shares redditor,wikileaks has certainly,cs topicsrail fareson,director simon baron,
 i: 31
-trigrams: campaign slogan ,,he had changed,different types of,apple iphones and,announced on monday,elect donald j,lighter and less,a lot and,in rural virginia,if youre in,, for a,the work was,department of justice,take actions that,that it might,
+trigrams: again yous never,fixture congestion glenn,it out sprinkle,fbi director james,emails that her,candidate under fbi,twitter pinterest my,extinct media yawnsheathrow,tweet home headlines,bill as unfair,posted on july,factories with compromised,with the russian,illegal under malaysian,reason was quite,
 i: 32
-trigrams: our futures did,of steel barriers,,mr alefantis ,,semite , and,,dakota pipeline protest,not browned ,,,mr grtner had,others the interview,recount mrs clinton,much life experience,charlie rose ,,it completely failed,
+trigrams: record donald j,trump colleagues relatives,x s u,morning excitedly posting,article offers additional,he distrusts hillary,them additionally establishment,in this barbaric,wikileaks released emails,a co author,views dick cheney,v wade overturned,likely these neighborhoods,note simon wood,corporations are acting,
 i: 33
-trigrams: , he has,policy in which,scholar of african,account last week,can start a,be completed but,to its 2015,and his record,produce its spring,states , you,the only bad,blocking or unfollowing,scattershot around the,youre thinking of,like the partisan,
+trigrams: mystery,stuart jamess match,to the somnambulistic,regular basis libra,and see,cartel trump is,makes baseless accusations,hillary clintons classified,really that desireable,drive a toothpick,reject the hateful,companies especially supplemental,wrap it all,donald trump yet,and unfair propaganda,
 i: 34
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a candidate under,a chilling ministry,a complaint has,a leading us,a national sport,a new email,a new email,a new wikileaks,a newly leaked,a newly released,a plane carrying,a source at,a wikileaks email,aaron bandler november,abby martin exposes,
 i: 35
-trigrams: last week ,,lines of steel,to shake it,foreign , on,which was scheduled,palestinian territories yielded,which ive done,with her electric,max osterweis told,economy and the,car accidents in,m acela ,,africa that appears,epo from an,limits are placed,
+trigrams: separate sources with,podesta himself,election rigging scroll,and copyright monopolies,journal the lancet,be whats happening,michael smerconish saturday,die hard whiners,mystery,texas introduced legislation,email from the,donald trump appears,today is palpable,clinton huma abedin,and twitter,
 i: 36
-trigrams: thats agnostic ,,shared document last,,states she is,, characteristics or,, texas and,see some of,a profound impact,navigation and entertainment,presidential debate a,that curate my,, or that,online and in,has forced americans,a shabby west,
+trigrams: challenging to get,challenging to get,challenging to get,expanded and we,version font size,democratic nominee said,patraeus is no,patraeus is no,podesta clinton involved,read a little,its all said,its all said,detat that if,enraged and justifiably,conservative personality called,
 i: 37
-trigrams: officials have been,was an empty,that would reverse,become provost of,this years election,, the high,especially surrealists \),overcapacity issues ,,federico rosa ,,of trump campaign,mr morgenthau had,honestly im not,arguing with protesters,big guns surrounding,a team set,
+trigrams: can do so,leaked emails,years us presidential,of transactions ricco,state actions i,market occurrences that,neo con agenda,spencer bags oh,video themselves as,their dormitory shouting,hack,he perpetuated along,headquarters near royal,times the chelsea,publicly developing,
 i: 38
-trigrams: had an airplane,after disclosures of,, which makes,osterweis told business,with her electric,,, a scholar,and powerful she,here design for,political hack that,the teacher on,weve come under,old parish priest,there is a,of the great,
+trigrams: the bureau intends,print republican national,or this admnistration,astounding,emails from,news,by congress which,falling outdenise jonesmark,insulting,his cell on,video games often,sd bullion silver,on google share,on google share,on google share,
 i: 39
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a black agenda,a candidate under,a chilling ministry,a complaint has,a former assistant,a gravely written,a leading us,a national sport,a new email,a new email,a new wikileaks,a newly leaked,a source at,a wikileaks email,aaron bandler november,
 i: 40
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,a brooklyn man,
+trigrams: a candidate under,a complaint has,a hillary clinton,a new email,a new wikileaks,a pollster who,a stunning foreign,a tidal wave,a wonderful and,abby martin exposes,abel danger claims,according to a,according to a,according to a,according to new,
 i: 41
-trigrams: of yale college,in williamsburg ,,officials have been,mercedes benz cars,right , so,of operation was,osterweis told business,president elect donald,, according to,it bounced back,had received at,gold and gemstone,morning in michigan,states and pennsylvania,14 , 300,
+trigrams: insulting,non profit organization,leaked emails,says,again christians that,clintons private server,video interviewgoodness how,morris founding member,astounding,aimed at helping,profit per equity,the fbi and,at pax west,rooms mock all,or anti muslim,
 i: 42
-trigrams: his white house,,, a long,cliff as in,trump and his,were not immediately,, which has,have big crowds,you were there,two longtime american,forth statements and,ronald reagan and,comment to a,dip from 52,to the obits,
+trigrams: charles r kubic,opened the door,status quo on,status quo on,secret he said,how almost every,he had refused,he had refused,plea now puts,cause he writes,okanes film is,francoi hollande immediately,did they not,how it began,until they act,
 i: 43
-trigrams: , a scholar,been much blunter,mechanism for when,own however ,,apple iphones and,party , reaching,and some of,bedford avenue in,investors and an,quickly to assign,,,blocking or unfollowing,had previously opposed,a fresh face,
+trigrams: insulting,tried for treason,place presumably before,fbi director james,with survivalcommonsense com,by many voters,florida and california,interviews their rsums,interesting the non,above the posted,the latest yelp,clinton emails according,cable co uk,bombshell statement opposition,sure thing by,
 i: 44
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a black agenda,a candidate under,a former assistant,a gravely written,a leading us,a new email,a new shocking,a new wikileaks,a newly leaked,a plane carrying,a source at,a wikileaks email,abby martin exposes,according to a,according to a,
 i: 45
-trigrams: person present the,expressing doubt about,mateen had been,sulzberger jr ,,and had lunch,, the fukushima,as a failure,times which was,i couldnt help,i just think,,american style ,,, mao zedong,have multiplied greatly,yelling and booing,
+trigrams: irrelevant asides when,by parkinsons and,am seeking your,leopard print coat,facebook twitter pinterest,currently conducting on,watch planet earth,dr norman spack,david speedie pat,twitter pinterest jo,jacob devaney upliftconnect,karen dubinsky one,of el mundo,you folks and,bring the unruly,
 i: 46
-trigrams: of an extensive,of how the,user account from,, saying the,by law enforcement,support for the,to a traditional,this years election,of the democratic,out just before,announced on monday,his new job,, christopher a,inventory this is,a jumble of,
+trigrams: sign up you,just cancelled her,kelp and spider,investigation into the,expensive for bt,cannot accept what,posted nov by,emails sent to,rappoport consider a,of politics chris,emails that her,worse off as,turning the kenyan,am connected to,peoples problems yourself,
 i: 47
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a brooklyn man,a candidate under,a chilling ministry,a complaint has,a former assistant,a gravely written,a hillary clinton,a national sport,a new email,a new email,a new shocking,a new wikileaks,a plane carrying,a stunning foreign,aaron bandler november,
 i: 48
-trigrams: down at the,sports officials have,for decades ,,display of trump,in exclusive new,of lazy stereotypes,buildings in the,jesuit priest sent,of cancer how,to the complaint,was on a,tremendous amount ,,among the 20th,of a trump,mr morgenthau ,,
+trigrams: the president had,other leaked emails,wikileaks has certainly,hillary emails,hes calm cool,campus wide email,or sign up,serious fraud office,sebastian pol explains,foot planted in,can rbs ever,clintons campaign chair,james comey told,print to beware,zack cooper an,
 i: 49
-trigrams: there to take,toughen libel laws,in sports didnt,the president elect,, queens ,,in the house,private individual who,than 300 emails,i compared the,my country because,deeply involved in,on her blog,who recognized that,,well meaning conversation,
+trigrams: thousands upon thousands,share on whatsappshare,then repeatedly struck,based on psychodrama,spelled the companys,got your sex,today therefore it,you prefer eric,size pat glass,billy bragg all,site for reports,now nor completely,regan getty images,topicswork careersdear jeremybullyingfeaturesshare,topicswork careersdear jeremydisabilityinequalityfeaturesshare,
 i: 50
-trigrams: the previous decade,to 23 months,ventures could easily,instance , on,palestinian territories yielded,lines of steel,, twitter went,auto safety regulators,able to talk,and he mocked,celebrating the simple,epo from an,presidential election ,,evidence based on,president elect donald,
+trigrams: save them thats,someone would get,rate and moreover,for either donald,been posted in,intolerable as wikileaks,lives matter movements,the fbi director,invisible government freud,tsu share google,michigan it wasnt,clip below that,google share on,google share on,google share on,
 i: 51
-trigrams: need things done,about ourselves we,of normalcy at,violations a majority,great honour to,and semiprecious gemstones,advising pixar during,that because of,from n h,stanford \? some,was the expression,hoses against protesters,but her sisters,us , i,a historic opportunity,
+trigrams: when the qatari,policy president on,criticism a good,remarks on day,after the new,moroccopilger twelve million,predictions were correct,especially its sinister,married and its,fruit for minimum,saysi suspect youre,lady gaga beyonc,why we shouldnt,season when it,global funding rackets,
 i: 52
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a black agenda,a candidate under,a chilling ministry,a complaint has,a dispatch from,a few days,a former assistant,a gravely written,a hillary clinton,a leading us,a month ago,a national sport,a new email,a new email,a new wikileaks,
 i: 53
-trigrams: the media to,mr alefantis ,,said she had,apologized one denied,be performing mr,the immense range,election , mr,after taking office,now and then,,lopsided as the,the publicist for,traditional ethical and,volatility in mr,an automatic recount,
+trigrams: conspiratorial talk as,by on november,declare your disability,by leaving top,row of visored,kit list emails,about author,remember correctly a,gone this little,this content,this content,this content,this content,the conspiracy theorist,barnes jump for,
 i: 54
-trigrams: trump met with,alleviate the effects,pritzker school of,,, sent two,dirty , old,,air temperatures far,scientists say the,discuss mrs clintons,the new york,meeting , mr,won so here,sense ive spent,, trump has,
+trigrams: on radical islam,of state than,campaigns inner circle,emailing whatever it,more expansive than,finding more than,even further than,earns money for,unavailable for comment,bring new challenges,overall faith in,overall faith in,includes vympel r,hegemonys way clinton,ruling class ensconced,
 i: 55
-trigrams: a high school,mr eidelberg last,holloway , a,still fresh shock,,a financial reporter,,in south korea,saw a trump,, chief fred,if moores law,to a smaller,,, he carried,obamas advisers ,,
+trigrams: views on this,urinary tract infections,and insulting,wikileaks release of,newsnewsshare on facebookshare,hate this culture,a florida conference,its basically downtime,pro quo arrangement,your video pictures,yourself topicsdisabilityopiniondisability sportmarathon,sovereignty lord kerr,ooooh yeah khawaja,exercise self censorship,study by altman,
 i: 56
-trigrams: after disclosures of,an art historian,apple iphones and,apple iphones and,arthur sulzberger jr,bangalore , india,for decades ,,lima , peru,on a blustery,q a twitter,the dean of,the dean of,this years election,trump vs the,washington days before,
+trigrams: a labour bill,all bathroom cleansers,andrew lloyd webber,daughter regan says,enter your email,fbi director james,football pundits seem,huma abedin just,my partner and,nearly years after,print if clinton,so he did,views november broadcast,were about to,what lessons america,
 i: 57
-trigrams: of all partners,he said on,real people caught,twitter app ,,ihs assessment is,from brescia ,,his uncle telling,semiprecious jewelry online,for weddings \),ellison is encountering,campaign promises ,,,with the grim,mrs clinton no,the ihs assessment,
+trigrams: emails reported by,immediately hit back,and disrespected am,like a hawk,your bodys signal,morning wed cycle,twitter pinterest caroline,robust anti discrimination,universes jon rappoport,site for purposes,see henry vi,it hasnt workedas,twitter pinterest byron,der klaauw thats,yet have either,
 i: 58
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a black agenda,a candidate under,a complaint has,a former assistant,a gravely written,a hillary clinton,a leading us,a new email,a new email,a new wikileaks,a newly leaked,a newly released,a plane carrying,a source at,a very sobering,
 i: 59
-trigrams: after a morning,,,an extraordinary breach,would exchange sharp,past winter games,his vow to,process for advisory,to retire ,,meeting was previously,when he cant,president , he,a private email,sacramentos first lady,even criminal assault,
+trigrams: daniel greenfield a,hillary clintons presidential,november am by,posted by nov,washington d c,closely with ilsi,sharp divisions with,regenerate impoverished working,coming storm ahead,award in washington,aides cherryl mills,white nationalist orange,he drew palmieris,years ago said,will jump on,
 i: 60
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a black agenda,a chilling ministry,a complaint has,a former assistant,a gravely written,a leading us,a new email,a new email,a new wikileaks,a newly leaked,a newly released,a pollster who,a source at,a stunning foreign,a very sobering,
 i: 61
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a black agenda,a candidate under,a chilling ministry,a complaint has,a former assistant,a gravely written,a new email,a new email,a new shocking,a new wikileaks,a newly leaked,a newly released,a plane carrying,a pollster who,a wikileaks email,
 i: 62
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a black agenda,a candidate under,a chilling ministry,a few days,a former assistant,a hillary clinton,a national sport,a new email,a new email,a new wikileaks,a newly leaked,a newly released,a plane carrying,a pollster who,a source at,
 i: 63
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,a brooklyn man,a brooklyn man,a brooklyn man,a brooklyn man,a brooklyn man,a brooklyn man,a brooklyn man,
+trigrams: a complaint has,a hillary clinton,a new email,a new shocking,a new wikileaks,a newly leaked,a newly released,a source at,abby martin exposes,according to a,according to conservative,according to new,add comment a,add comment on,adulthood comes to,
 i: 64
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a black agenda,a candidate under,a chilling ministry,a complaint has,a dispatch from,a few days,a national sport,a new email,a new email,a new wikileaks,a newly leaked,a plane carrying,a pollster who,a source at,a wikileaks email,
 i: 65
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,a brooklyn man,
+trigrams: a black agenda,a candidate under,a chilling ministry,a complaint has,a national sport,a new email,a new email,a new shocking,a new wikileaks,a newly leaked,a pollster who,a source at,abby martin exposes,abel danger claims,above image by,
 i: 66
-trigrams: mill libel suits,ceremonial conference room,suspects give me,as he said,look in april,controversy took off,heads would bob,the issue played,italy , romania,it \) than,in history the,in an interview,,that last four,support from the,
+trigrams: the united states,the united states,levee breaks or,escobar w ill,in america and,fall back on,fall for whatever,the institute for,work at rose,is theater the,is theater the,univocal regulating themselves,univocal regulating themselves,univocal regulating themselves,trumps star from,
 i: 67
-trigrams: he was stepping,but in his,milwaukee i love,further scrutiny ,,some of the,after eight years,suits but our,can start a,officials have been,how an obscure,i said ,,a particular user,it exceeded my,hours , menacing,everything , the,
+trigrams: was on adress,views november broadcast,obama and hillary,all by himself,told smerconish hillary,via hillary campaign,fter a convo,huma abedin contains,the s e,on july when,wikileaks has given,posed by isis,by their pussy,drive a toothpick,leaked emails,
 i: 68
-trigrams: , a scholar,sports teams out,mercedes benz cars,and tiny dancer,were hurrying to,in the churchill,sharply critical of,will not produce,believes will mar,our reporter i,with her electric,pro trump memes,to increase sales,trafficking site its,through the years,
+trigrams: insulting,them,says,disseminated during the,hours it may,on november box,do madison ave,yesterdays newspaper is,published a detailed,emails related to,emails of hillary,flies by so,from h ms,emails from,newsletter to inform,
 i: 69
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a chilling ministry,a complaint has,a former assistant,a hillary clinton,a leading us,a new email,a new email,a new wikileaks,a newly leaked,a pollster who,a source at,a stunning foreign,aaron bandler november,abby martin exposes,above image by,
 i: 70
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a black agenda,a candidate under,a complaint has,a dispatch from,a few days,a gravely written,a hillary clinton,a national sport,a new email,a new email,a new shocking,a new wikileaks,a newly leaked,a source at,a wikileaks email,
 i: 71
-trigrams: an extensive ,,year to become,trump said torture,, though ,,museum roberta smith,a twitter has,people began moving,to blame for,uncle telling him,thought he was,suggested his son,the southern province,years later ,,with mr macri,comet ping pong,
+trigrams: cancelled her immunity,sec of state,spokesman said this,is hacked down,direct message on,news channels bret,him videos of,chairman of the,virgin emi topicship,executives easily become,our moms facebook,log including details,killery shill as,redemption song thunder,working peace by,
 i: 72
-trigrams: or unfollowing that,and editors at,found that they,investigated by law,york , not,said in an,how will they,have been retesting,that donald trump,do the job,out far beyond,last four week,of donald trumps,take it with,,
+trigrams: emails according to,november at pm,by proposing a,twitter pinterest vagina,money offers from,i cannot accept,thea musgrave he,facebook on sleep,ignore the ignorant,people targeted by,email family theguardian,email family theguardian,at workmental healthshare,florida and california,barca will make,
 i: 73
-trigrams: q a twitter,holloway , announced,after disclosures of,his employees were,a narrow chemical,, the governor,, adding ,,in the best,,issue of torture,withdrawal of charges,a risk ,,more weight than,columnist says that,children , he,
+trigrams: fox news channels,quick supporterive been,was sending emails,morrisseys rare tamla,huma abedin just,also harm our,am financially independent,november broadcast this,political purposes over,herald has reported,avoid them we,worlds fastest broadband,toxic wills and,or psychotherapist etc,socialise well you,
 i: 74
-trigrams: what else was,observer in raleigh,, but it,lines of steel,, he found,its not that,, twitter went,his threat of,to oust the,surrealists \) and,so the n,celebrating the simple,at a strong,moved swiftly to,appeared to take,
+trigrams: it following nato,adams whistleblower award,supporter rudy giuliani,demanded the occupation,the share of,good article not,the credit ratings,are currently fighting,that headlines across,fanatics currently holding,bully read morebut,tsu share google,underground jon rappoport,upi barcroft imagesspeaking,times article offers,
 i: 75
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a candidate under,a chilling ministry,a complaint has,a dispatch from,a gravely written,a hillary clinton,a leading us,a new email,a new wikileaks,a newly leaked,a newly released,a plane carrying,a pollster who,a source at,a stunning foreign,
 i: 76
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a black agenda,a candidate under,a chilling ministry,a complaint has,a gravely written,a hillary clinton,a leading us,a national sport,a new wikileaks,a newly leaked,a pollster who,a wikileaks email,abby martin exposes,abby martin exposes,abel danger claims,
 i: 77
-trigrams: holloway , a,conflicting he was,sulzberger jr ,,to write our,marathon runner ,,, and had,are often affixed,and sulfur mustard,a uniformed patrolman,that in the,daimler , which,curtain intelligence agencies,than walter benjamin,invent our futures,had i received,
+trigrams: and insulting,facebook twitter pinterest,country whose politicians,before fully understanding,runway is undeliverableheathrow,despite this strange,fragility and insecurityit,jacob devaney upliftconnect,government thinking some,donald j trump,stations perhaps its,at john hopkins,photograph brendan coxeverything,like this shigeru,andrew m cuomo,
 i: 78
-trigrams: president elect donald,president elect donald,,,most of that,the bright green,,more ads than,highest echelons of,a remarkable beauty,saves clients money,known as affirmatively,, professor halderman,be the most,interest mr trump,
+trigrams: archives michael on,be sociable share,email the alleged,my fellow americans,october propaganda is,posted by i,posted by nov,share on facebook,submitted by on,the duopoly watch,the ultimate underdog,the vatican is,tuesday november tags,tweet widget by,two party corporate,
 i: 79
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,a brooklyn man,a brooklyn man,a brooklyn man,
+trigrams: a candidate under,a chilling ministry,a complaint has,a former assistant,a new email,a source at,abby martin exposes,above image by,according to a,according to conservative,according to new,according to reuters,accuracy in media,accuses clinton campaign,add comment emails,
 i: 80
-trigrams: said he would,the blocked street,clinton , expressing,and hired top,,infection , but,year by land,york times lithuanias,be extremely difficult,fair i knew,the sergeant ,,as president around,and actions about,similar humor and,whose lifestyle has,
+trigrams: a political environment,if survivor was,but fame still,ld says,minute interview at,minute interview at,minute interview at,trials beset on,union and explicit,united states its,vulgar commentary was,said in a,united states maintain,sisters apartment says,united states or,
 i: 81
-trigrams: policy institute ,,vaira if theres,eyeballing a 50,,, a new,, a pleasure,, and jewelry,, dropping the,, even criminal,, from oct,, grace remains,, has removed,, nigel farage,, nor has,, so much,
+trigrams: promoting wall street,held aloft triumphantly,cash crops africa,bit unsettling neurological,mother and my,vigorous challenge from,in all three,hillarys attack dogs,,,,,,,,
 i: 82
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a candidate under,a chilling ministry,a complaint has,a gravely written,a new email,a new shocking,a new wikileaks,a newly leaked,a pollster who,a stunning foreign,abby martin exposes,abby martin exposes,according to conservative,according to new,according to reuters,
 i: 83
-trigrams: the occasional obit,black lives matter,,, on technology,newsroom and editorial,the city years,so they do,mess with valerie,, while a,thinking mr trump,mr banks would,vaguely that he,, 000 former,orleans lived and,the news media,
+trigrams: comments barack hussein,doug moore was,you begin describing,streaming online endless,syria after assessing,the democratsbut as,that desireable weve,treason in order,check cashing store,enough videoctr november,sanders advocacy of,philippine president rodrigo,sanders and trump,racism and neo,surfaced donald trump,
 i: 84
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a black agenda,a candidate under,a chilling ministry,a complaint has,a few days,a former assistant,a hillary clinton,a national sport,a new email,a new email,a new wikileaks,a newly leaked,a newly released,a plane carrying,a source at,
 i: 85
-trigrams: , a scholar,these claims he,timeline without blocking,what they thought,about these two,trumps election ,,lawyers to dismiss,,in his early,in early october,are not thinking,college educated people,for her birthday,daimler , which,aaa predicts that,
+trigrams: insulting,unusual status quo,foundation and clinton,we will publish,emails belonging to,emails belonging to,sign up to,redeemed by trevors,email trump said,insurance corruption morgan,email ever wonder,expenses they incur,america many noncoastal,people penny pepper,which goes careering,
 i: 86
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a candidate under,a complaint has,a few days,a few days,a former assistant,a gravely written,a hillary clinton,a new email,a new email,a new shocking,a new wikileaks,a newly leaked,a pollster who,a source at,a swedish union,
 i: 87
-trigrams: out a particular,safety regulators want,of donald trumps,whom described the,,mexico city the,osterweis told business,at showing these,was unapologetic about,her electric dresses,in brooklyn and,love telling people,that his employees,have to do,farage , who,
+trigrams: the fbis ongoing,the,thousands of emails,ago president obamas,emails reported by,released hacked emails,you arent where,co uk,whats inevitable,civilization characterized by,share on whatsappshare,share on whatsappshare,prevent gun violence,debate pauline hanson,astounding,
 i: 88
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a black agenda,a candidate under,a chilling ministry,a complaint has,a gravely written,a leading us,a new email,a new shocking,a newly released,a plane carrying,a pollster who,a source at,a stunning foreign,a tidal wave,a wikileaks email,
 i: 89
-trigrams: in 2005 ,,ive called him,into it ,,people think this,, 000 former,enjoyed the protests,, on technology,a psychiatric institution,been that hard,mr johns denial,out of print,avant garde dominate,and homophobic ,,,former owner and,
+trigrams: by on november,doug moore was,elections by fears,graphic of trump,what just happened,you begin describing,christian barack obama,quick sand and,by fanatics who,s being tapped,and centi millionaires,share this is,tanks banks corporations,video games comics,that desireable weve,
 i: 90
-trigrams: year , many,titans of the,blocking or unfollowing,campaign promises ,,incorrect he will,belt worker without,that mr peters,daimler , which,ethnically diverse college,mr trump refused,name at the,pay the facts,kill you personally,is a mystery,,
+trigrams: subjecting crime victims,jon rappoport consider,clinton emails according,donald trump is,it hasnt workedas,reuters min izaguirre,trump o k,idea of busynessin,by west bromwich,smear frost with,hillary or this,pages and emails,email sent to,rise of emails,us,
 i: 91
-trigrams: the equivalent of,drivers can have,new job it,loving when he,candidate traits or,as promotions and,a lot like,largely automated production,,east side of,ceremonial conference room,suspects give me,have good will,campaign on it,its fulfilling its,
+trigrams: spewing the truth,would be misleading,a motherlode of,server by livid,server by livid,decay decompisition c,breaks the camels,transcript posted on,in baton rouge,increase around natural,i said based,fly by faster,engel said four,dianne feinstein patrick,will be part,
 i: 92
-trigrams: , seriously considered,from them ,,clinton , expressing,our publisher we,way to fight,ivanka during the,just like this,, adachi said,appointments with unstinting,trump said he,j trump ,,took place however,interest because they,of her sisters,revolving around how,
+trigrams: against hillary said,against hillary said,to prove a,a superb analysis,a revolution needs,comey role recalls,lobby groups think,nimr al nimr,massive legal challenge,massive legal challenge,massive legal challenge,if secularism has,next generation it,the principal achievement,revolutionary saul alisnky,
 i: 93
-trigrams: announced on monday,people caught in,mr trump said,up around it,white house \(,milwaukee i love,only about 20,20 years roughly,seriously , seriously,with her electric,granted by weaker,in japan the,ago , shearman,,revelation that he,
+trigrams: emails that her,disrespected am i,fa spokesman said,relations department i,would increase this,of what propaganda,barcelona send celtic,obama and hillary,nix player stands,worry ive got,emails from,emails and youv,criminal investigation into,words this is,requires further research,
 i: 94
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a black agenda,a complaint has,a few days,a former assistant,a gravely written,a hillary clinton,a leading us,a national sport,a new email,a new email,a new wikileaks,a newly leaked,a newly released,a pollster who,a source at,
 i: 95
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,a brooklyn man,a brooklyn man,a brooklyn man,
+trigrams: a candidate under,a hillary clinton,a leading us,a new email,a new email,a new shocking,a new wikileaks,a newly leaked,a pollster who,abby martin exposes,above image by,according to a,according to a,according to new,according to reuters,
 i: 96
-trigrams: call on electronics,ventures could easily,crisis the thousands,to 23 months,legal proceedings the,only bad thing,palestinian territories yielded,auto safety regulators,unused the main,buildings , and,raised a novel,another african american,,able to talk,with patients on,
+trigrams: x s u,us political system,bill congressman lloyd,core democratic constituency,been following what,avoid demonizing people,un endorsed donald,beck an arch,ohio iowa arizona,more congressional neoconservatives,the gop what,michigan which hasnt,are bombing kurdish,allowed millions upon,is sponsored and,
 i: 97
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,a brooklyn man,
+trigrams: a black agenda,a candidate under,a gravely written,a leading us,a national sport,a new email,a new email,a new wikileaks,a newly leaked,a newly released,a pollster who,a source at,abby martin exposes,above image by,according to a,
 i: 98
-trigrams: auto safety regulators,but included the,he mocked republicans,, twitter went,busy one for,of steel barriers,to sign up,to 23 months,enters the white,, checked yes,instance , on,,, as for,a lot about,amounts to government,
+trigrams: you you are,video that accuses,medicare i purchased,times article offers,organizations that hyperventilate,said he distrusts,gary johnson et,clears west brom,the apocalypse even,treason in order,whats happened to,civilians in aleppo,in the,nowadays i am,he said,
 i: 99
-trigrams: lines of steel,so the n,question had been,, such as,instance , on,and his record,ventures could easily,its not that,he has known,examine paper ballots,with reporters and,by a long,unused the main,faced renewed bouts,clintons private email,
+trigrams: moores employer is,podesta himself,spies him coming,j trump president,grylls survival challenge,grylls survival challenge,leaked by wikileaks,impact of fbi,click here,meghan markle,single payer then,including avoid demonizing,by the fbi,stay tuned,this content,
 i: 100
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a candidate under,a former assistant,a gravely written,a new email,a new email,a new shocking,a new wikileaks,a newly leaked,a newly released,a pollster who,a source at,a very sobering,a wikileaks email,abby martin exposes,abby martin exposes,
 i: 101
-trigrams: about his antagonism,the big hearted,but it exceeded,inbox activists of,milwaukee i love,also met privately,bias based harassment,explaining the decision,daimler , which,, i categorized,to mr trumps,back trump i,traditional ethical and,for \? you,beginning in 2014,
+trigrams: facebookshare on twittershare,facebookshare on twittershare,sea and stetsons,in sex edthank,economic news,held up by,mother yvonne kearle,obama and hillary,hate you anyways,i suspect theyll,constituencies for connectivity,teens jeremy saysdoctors,hillary or this,am not good,blackberry the whitelisting,
 i: 102
-trigrams: of linked up,about chinese consumers,crashes , injuries,his chief strategist,reporter i am,of illegal immigrants,or the economy,jonathan holloway ,,,critic of mr,has forced americans,before election day,it when it,many loved ones,,
+trigrams: city of mosul,or prevented remain,new york times,organizations and the,sinister and extremely,new revelations about,aliens had left,file and the,a legal framework,may have played,communications had been,pastor was overstated,ban feels arbitrary,ban feels arbitrary,improprietyit doesnt pass,
 i: 103
-trigrams: of steel barriers,, a scholar,,mr alefantis ,,with her electric,summer vacation ,,the occasional obit,makeup to be,the meeting was,the press ,,a party reeling,and had a,, who has,sunos closing shouldnt,a lot of,
+trigrams: their insurance company,himself,with phillips thighing,s u v,insulting,official posts carrasco,this content,this content,this content,emails from,whole neighbourhoods tom,broadway writes broadwayworld,us text us,cosmic hallelujah is,spokesman brian marchiony,
 i: 104
-trigrams: driveway , a,of steel barriers,, a scholar,, was also,in a true,phones in the,mr trump refused,drop dead gorgeous,defying the sorting,ellison is encountering,the truth about,on monday the,a storm of,united states yaakov,of death threats,
+trigrams: you folks and,by extremists these,down by jordi,hijacked by hate,simon baron cohen,both barack obama,pinterest cosmic hallelujah,with barack obama,thousand dollar bill,started impeachment proceedings,himself,are sciencey thingies,insulting,mike stoller leiber,content,
 i: 105
-trigrams: the still fresh,often fear they,love telling people,a risk ,,is candidate not,without blocking or,have been retesting,gatherings to provide,holloway , a,recommended the tactic,with her electric,facilities where chemical,, a portuguese,,most skilled and,
+trigrams: the wikileaks release,hillary are all,in of u,and clinton emails,emails,such as downloading,and insulting,and jon nite,emails from,slow burning hatred,guardian bbc investigation,track jeremy saysim,dodged josh tymon,finney getty images,continues kohli isnt,
 i: 106
-trigrams: bangalore , india,, announced on,each diamond order,to you began,is not known,unit of daimler,blocking or unfollowing,hate crimes ,,his own people,after disclosures of,to rebalance some,not say he,committee will make,government revealed the,problem for michigan,
+trigrams: diogenes on poverty,sending emails that,libtard funded remarks,my phone never,november broadcast this,ancient amps that,believe anything hillary,clinton emails according,countrys government officials,pm order out,bizarre coincidence just,huma abedin just,witnesses said he,hundred metres from,on twittershare via,
 i: 107
-trigrams: , sports officials,ten days removed,at the end,after eight years,, arguably the,would think about,out of a,charges of trying,aircraft now federal,china , as,for him how,determined to exploit,in large measure,trump confirmed that,bunker hill community,
+trigrams: the other leaked,by abby martin,wide email to,president had no,wikileaks has given,share your info,on pinterestshare on,my daughter is,to become an,at email protected,at email protected,at email protected,under tony abbott,insurer it should,company had ceased,
 i: 108
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,a brooklyn man,a brooklyn man,a brooklyn man,a brooklyn man,
+trigrams: a chilling ministry,a complaint has,a former assistant,a hillary clinton,a new wikileaks,a newly released,a plane carrying,a source at,a stunning foreign,a tidal wave,abby martin exposes,abel danger claims,above image by,according to a,according to new,
 i: 109
-trigrams: head to a,, announced on,with her electric,not produce its,crashed on monday,the president of,day thats a,in a sense,,elite , out,according to mr,on to you,might fairly be,of daimler ,,but the goal,
+trigrams: all emails sent,sending emails that,emails from,of hillary clintons,monday were being,technological change is,by volkswagen facebook,settled decisively by,data bit by,baking the cult,as barcelona send,attack with brandan,her libtard funded,million americans suffer,anything hillary or,
 i: 110
-trigrams: an airplane mode,, a scholar,he was to,process losing 90,lines of steel,would block any,can start a,rather from professionals,final news conference,go on sale,may try to,specific keywords ,,, the economy,removed from the,, was preparing,
+trigrams: bureau intends to,insulting,as,hire by cartrawler,them to nq,them to nq,podesta himself,say,drive a toothpick,turning to academia,are driverless will,phone number topicsdramanotes,phone number topicshygienenotes,phone number topicsking,phone number topicswelfarenotes,
 i: 111
-trigrams: microblog service ,,private email server,elect donald j,and develop soccer,episode i was,things , he,old , zasmyn,,the past it,, checked yes,was 150 million,few cracks in,and hired top,stress among voters,the subjects lives,
+trigrams: talk about whats,napolitano then mentioned,napolitano then mentioned,napolitano then mentioned,equally under the,ahead then says,which then reversed,meltdownto bring it,leftists supported the,stein glenn greenwald,investigations including but,on facebook share,struggling millions upon,situation in france,elections in at,
 i: 112
-trigrams: up to wall,her electric dresses,of steel barriers,sulzberger jr ,,be among the,on them that,, uncompromising about,region and players,in 2016 during,she said of,political director some,our futures did,expressing doubt about,to her district,manu tried to,
+trigrams: share on whatsappshare,from,several century courtesans,democratic party suppressed,himself,survival challenge programmes,planned attack by,today and how,jacob devaney upliftconnect,twitter pinterest cohens,democratic presidential nominee,mr obamas comments,excuse me im,new sixyear overseas,october the fa,
 i: 113
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a black agenda,a candidate under,a dispatch from,a former assistant,a gravely written,a national sport,a new email,a new email,a new wikileaks,a newly leaked,a plane carrying,a source at,a stunning foreign,aaron bandler november,abby martin exposes,
 i: 114
-trigrams: , in 2006,hye , would,in so we,holloway , a,,with mr trump,met , according,of her other,,that was enacted,the clinton email,still fresh shock,perez met with,in his early,,
+trigrams: and your blether,october when he,client qualcomm left,jpmorgan violated united,cant upload anything,universes jon rappoport,know your amygdala,and insulting,resonate with people,scampering counter attack,obamas executive actions,on board zacaureea,crudely disparaging comments,brilliant smart talented,doing are faulty,
 i: 115
-trigrams: or unfollowing that,announced on monday,, is 14,fine jewelry it,a sense of,,,daimler greater china,restaurant called comet,,blame i compared,those in power,trevor , whose,intervene in the,posted a photograph,
+trigrams: emails according to,emails that her,animal go get,site if you,twitter pinterest parris,emails or return,by breaking every,assassinating abraham lincoln,different today than,emails for me,note andre vltcheks,emails from bile,hillary clintons america,by billy bragg,gop primaries i,
 i: 116
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,a brooklyn man,
+trigrams: a black agenda,a candidate under,a chilling ministry,a complaint has,a gravely written,a national sport,a new email,a new shocking,a new wikileaks,a pollster who,aaron bandler november,abby martin exposes,above image by,according to a,according to a,
 i: 117
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,a brooklyn man,a brooklyn man,
+trigrams: a black agenda,a candidate under,a complaint has,a dispatch from,a hillary clinton,a leading us,a new email,a new email,a new wikileaks,a newly leaked,a source at,a stunning foreign,abby martin exposes,above image by,according to a,
 i: 118
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a black agenda,a candidate under,a chilling ministry,a complaint has,a dispatch from,a former assistant,a gravely written,a hillary clinton,a leading us,a national sport,a new email,a new email,a new shocking,a new wikileaks,a newly leaked,
 i: 119
-trigrams: material , and,me a pack,that participants in,he told me,when it was,he had not,graduated from an,, said in,in september ,,to mr trumps,a logical expression,largest contribution that,began moving outside,to respond to,players had contemplated,
+trigrams: down by jordi,fully committed to,internet speeds supposedly,grown facebook twitter,i just cant,kamau no excuses,just blacken turn,number of americans,clear definition of,of his twitter,videos of those,reply notes toward,sure of what,i am either,of sexual realpolitik,
 i: 120
-trigrams: with her electric,your notifications if,man searching for,to reduce global,as there are,hand held devices,in court and,the novel he,had changed his,republican fund raiser,a storm of,an english teacher,onstage quietly here,thinks and feels,j trumps victory,
+trigrams: emails from,email anna tims,email anna tims,email anna tims,an email from,an email from,of barnes and,settings,wrong un nips,and alienating communitiesback,marcus co author,an email illustrated,foreseeable future belson,this tweet from,told congress on,
 i: 121
-trigrams: he admires in,no historical analogies,new york was,system read new,themselves randy kennedy,for her on,out a statement,skiing in la,prosecuting mrs clinton,united states attorney,outlaw multifamily housing,day bake a,persons character in,professor at the,anna gianfrate ,,
+trigrams: mask misogyny inside,and serious doubts,my career as,my career as,my career as,to exert influence,and abusive tactics,elect her and,to emotions is,and title created,no longer paying,state but polling,received through her,humas estranged sexting,promised golf memberships,
 i: 122
-trigrams: and his record,instance , on,to 23 months,only bad thing,that time ,,giving way to,japanese goaltender who,lines of steel,its fulfilling its,for the united,art and underground,his staff members,an intelligence sharing,, twitter went,, checked yes,
+trigrams: and unfair propaganda,medical society that,are below he,must purchase supplemental,own that avenue,very good loudspeaker,payer healthcare system,warming below the,u s federal,examining electronic devices,conspiracy theory phase,conspiracy theory phase,conspiracy theory phase,vital details on,a whopping percent,
 i: 123
-trigrams: 1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,1 after a,
+trigrams: a candidate under,a chilling ministry,a former assistant,a gravely written,a new email,a new email,a new wikileaks,a newly leaked,a newly released,a plane carrying,a wikileaks email,aaron bandler november,above image by,according to a,according to a,
 i: 124
-trigrams: holloway , announced,after disclosures of,, the designer,from the still,this years election,held devices have,bruising presidential primary,in williamsburg ,,photo of the,away but in,sales so far,another womens professional,of ordnance used,rosekind , the,manager for daimler,
+trigrams: was sending emails,huma abedin just,podesta practically everyday,with the wikileaks,views november broadcast,fronts up well,congress on friday,non profit organization,use their names,drinks simon burnton,keynes from county,emoji the abduction,plot points can,november chapel hill,umbrella organisation under,
 i: 125
-trigrams: making scant gains,aware a young,ive called him,the sorting mechanism,dead , ms,support of mr,to 250 million,to congress from,gorgeous , pop,the bell house,reaffirm this is,say that the,,,,
+trigrams: print hillary clinton,news channels logo,photos posted on,police department said,told xi at,universes jon rappoport,presidential victory speechyes,twitter pinterest watch,twitter pinterest watch,murray completely mishits,shigeru miyamoto perfected,vardy to slimanis,donald trump ran,donald trump on,armstrong shown yellow,
 i: 126
-trigrams: it up ,,later became an,create some kind,2015 when the,, if there,president elect donald,practices , nor,and id like,is particularly passionate,other boldfaced names,each diamond order,receiving federal funding,, especially for,holloway , announced,, jonathan holloway,
+trigrams: with little debate,job of threading,even a quiet,third presidential debate,the young girl,was a featured,alleviated much stress,field a candidate,of a congested,tempel us army,quite a while,production improve his,her a poll,executive actions to,photograph mark wallheiser,
 i: 127
-trigrams: stepping down at,there to take,had an airplane,has had a,sonty , 32,produce its spring,me of being,ms holley ,,glass and marble,, you wont,manager for daimler,,ruffle feathers on,from 5 6,,
+trigrams: adress the president,thousands upon thousands,the bureau intends,bret baier reported,must obtain permission,hillary clintons campaign,thinks foreign countries,will then usually,like barack obama,media culture where,daimler the german,that shot well,november at pm,even deeper waters,the fbi officials,

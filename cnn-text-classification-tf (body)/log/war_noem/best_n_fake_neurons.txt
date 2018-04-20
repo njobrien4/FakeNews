@@ -1,60 +1,60 @@
-i: 1
-trigrams: not know what,popular wizarding world,, given an,,strive to fulfill,and her baby,in what was,around last year,a knife and,time , silvio,world to keep,from stevie wonder,,this year that,possibly to deceive,
-i: 6
-trigrams: the metropolitan division,batiste is busy,national policy institute,beijing dozens of,it is from,for cars is,to many israelis,to the new,mike tyson and,that emma lazarus,challenge chancellor angela,experience in china,directly to his,melee of swirling,serving as the,
-i: 9
-trigrams: of cancer how,a campaign promise,the premier cultural,agents looking to,ms merkels party,a show about,a man teaching,in the run,ads that made,incalculable hours vanish,jerusalem he is,president elect donald,rails for this,patchwork of weeds,industrial wasteland into,
-i: 74
-trigrams: wasteland into a,,in this stark,capacity for more,script , written,emerging season in,pressure to maintain,is , could,we used to,dangerous ground \(,in what it,opened at universal,longing and reverence,,became the model,
-i: 76
-trigrams: belt base ,,of the white,is from the,subjects dance orchestre,dogs by humans,on its way,with crime in,ricatto put another,audience , are,spring on maines,of everyday financial,during world war,, at hauser,has carved himself,members shouted versions,
-i: 98
-trigrams: national policy institute,and evander holyfield,it is from,spring on maines,, the knicks,, the knicks,batiste is busy,the metropolitan division,inflection point it,beijing dozens of,course in what,diversify his cabinet,local residents for,it is ,,manufacturers we used,
+i: 118
+trigrams: give your home,war they will,is finally,investigate new emails,die,cuts and grazes,for,wars,russian armys calls,now,know what im,threatened,in iraq afghanistanthe,dead,a starving century,
+i: 73
+trigrams: its troopers to,of peace to,horrendous human being,some bad ones,no ehcp plans,id likefatherhood he,head these dead,by removing the,chickens that have,currently down percent,pedro burst into,build bigger houses,account said hilsenrath,secret,clinton obama emails,
+i: 11
+trigrams: interesting question,to hang,the march toward,stock stalling phrases,presidential election,presidential election,thus causing an,u s that,syria yemen iraqi,very good reince,ca change and,google share on,google share on,google share on,google share on,
 i: 77
-trigrams: national policy institute,, cast away,it is from,metropolitan division is,, 60 ,,be both prequel,of everyday financial,between leading impromptu,marketplace , a,directly to his,singer and bassist,oh , hello,essentially delegating policy,loved one who,was confirmed by,
-i: 15
-trigrams: on a campaign,decade , new,policy institute at,ads that made,names are emblazoned,oh , hello,first six weeks,journalistic voice of,the rangers have,hong kong ,,are more renowned,the film explores,his duties as,front of his,unless its bad,
+trigrams: hope you had,wont be special,was august and,and character,or real,about prince harry,donald trump particularly,for drugs,firefight the deaths,i say,shed,end ap,war they will,war that started,know shes from,
+i: 13
+trigrams: of matthew so,of evidence in,of trumps win,of age were,take a look,a good article,of which died,of voluntary simplicity,overthrows regimes these,cordesman photograph center,reutersafter examining her,into a circular,day a millionaire,of engineers may,of and fuelling,
 i: 80
-trigrams: , the knicks,batiste is busy,rust belt base,national policy institute,another display of,, the knicks,the metropolitan division,season in defeating,in late november,it is ,,manufacturers we used,beijing dozens of,we get here,toothsome play under,oh , hello,
-i: 18
-trigrams: his family knew,belt base ,,arteries inside her,with the mayor,also a great,beyond the original,capitalize on these,chairman , sigmar,e newhouse theater,intensified these worries,native american tribes,wanted to evoke,london and casablanca,been reported during,in the second,
+trigrams: test positive chaunt,of words over,a retired,deaths as bush,or real,according to alexas,obama himself denied,wrist fractures,s election will,and silver medalists,google share on,google share on,google share on,google share on,google share on,
+i: 88
+trigrams: is the rhotcilds,luck,dead,next,section,said,comparative figures raise,responsible for as,some liberal democrats,of liberals and,hang,an insult,was,miss,rose percent,
 i: 19
-trigrams: youve never heard,directly to his,local movies there,as a stand,golden blanket ,,i received from,gift , mozart,eight years on,after the rangers,street y is,mr hussain left,a versatile guitarist,increasingly coming into,hoberman dekalog a,some version of,
-i: 89
-trigrams: seinfeldia how a,emerging season in,previous collaborations ,,policy institute at,after the rangers,in what it,for the wealthy,place in the,an enormous subject,in the nazi,under president elect,story building from,urban renewal ,,for a brooklyn,, rested in,
-i: 90
-trigrams: another display of,, if undefined,waxing interest in,national policy institute,beijing dozens of,experience in china,will be as,batiste is busy,challenge chancellor angela,mike tyson and,it is from,, 60 ,,parents names are,rust belt base,, the knicks,
-i: 101
-trigrams: at warner bros,food is prepared,, are energizing,religion , that,a bit ,,of american indie,music of understated,start an organic,its way through,big fights he,world war ii,after the rangers,something was wrong,each hourlong episode,in what it,
-i: 37
-trigrams: a patchwork of,andra day \(,an israeli insurance,belt base ,,the ballerina misty,in southeast china,emerging season in,i received from,, dinosaur jr,cheers to the,theirs , at,surgery to try,that already has,atkinson , the,to his rust,
+trigrams: high moral standards,really experts in,that leave campaigners,assembling large armies,jesus christ of,full reuters report,both are liars,see below anti,see below anti,shown below in,syrians however terrorists,york based fbi,refugee,slow motion coup,content,
+i: 87
+trigrams: on april the,forwards and swaps,new york times,on june when,the eurozone digs,vladimir putin its,in coffee shops,load d media,chairman dave archambault,flashlight gloves a,of demands often,that dont break,damages and percent,of needs freeing,obeys various rules,
+i: 24
+trigrams: gets started i,october comments social,them out i,of inches that,report copyright violation,and character,f k it,matter shirt or,around the world,about donald trump,when a baby,bob king rking,anus too quoting,knight whistleblower edward,these turkey s,
+i: 27
+trigrams: your home some,a private entrance,lake on earth,new york earlier,in a war,in a war,guts while being,malibu mirageand com,majority of wars,building reimagined by,see what celebrities,class wank sometimes,olympics but last,by warren woodward,meals waiting just,
+i: 94
+trigrams: by as the,by whitney webb,confidence is high,crooked politicians refuse,email a major,it looks like,its sad to,its the little,makes me think,piper pa malibu,right starting with,the us secret,was as bright,hardware so you,shiites are worried,
+i: 32
+trigrams: michigan which hasnt,rep joe walsh,rep joe walsh,u s that,read analytical materials,numbers from june,entire biosphere,taking root in,blaming russia for,average week,a higher percentage,content,content,content,content,
 i: 97
-trigrams: a patchwork of,a patchwork of,al caiola ,,beginning in edenic,beijing dozens of,beirut , lebanon,between leading impromptu,bowdoinham , maine,bowdoinham , maine,for most people,hong kong ship,in 2012 ,,in the run,incalculable hours vanish,incalculable hours vanish,
-i: 34
-trigrams: two possible playoff,ballet are more,avalanche of scaffolding,cards , his,for the first,even serving as,magnet for the,who however credible,her to thank,lupita nyongo calls,as hail trump,casablanca during world,aisles of curious,ambitious regulations but,said ms duvernay,
-i: 99
-trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,
-i: 70
-trigrams: so close we,voice of his,another display of,dogs by humans,support for a,under president elect,in what it,a beginners guide,during world war,something was wrong,article on oct,, maine the,swim turns into,from surgery to,schulz , the,
+trigrams: these wildly divergent,the okies in,be rewarded with,obamas liberal agenda,as a roofer,i look forward,within harney county,good reince priebus,news media that,dont move forward,dont move forward,dont move forward,snyder on february,is decidedly pro,facebook twitter pinterest,
+i: 36
+trigrams: week,drugs,tons of criticism,home some warmth,do that,comes next,a gradual build,according to kbtx,pa malibu mirageand,peace to be,i can say,a baby come,a brutally hot,war for these,i wonder how,
 i: 38
-trigrams: , the knicks,national policy institute,, 60 ,,rust belt base,beijing dozens of,another display of,will be as,batiste is busy,disappointing action ,,jenkins the film,strive to fulfill,for cars is,to many israelis,season in defeating,the metropolitan division,
-i: 105
-trigrams: mr schulz said,to approach him,dilapidated warehouses and,emerging season in,is , could,we used to,not know what,about the most,by indie rockers,weekend , fantastic,,capacity for more,from stevie wonder,after his promised,in what it,
-i: 106
-trigrams: mike tyson and,in late november,loved one who,beijing dozens of,of an almost,i received from,batiste is busy,experience in china,each seat ,,it is from,president elect donald,rust belt base,a young black,little bit more,on dangerous ground,
+trigrams: on jewtube and,has been elected,luck,people on earth,done by royal,clinton a d,nick leeming chairman,know how ill,york,objections to hillary,to dothis is,requests for this,not forwarded to,are straightforward close,in,
+i: 103
+trigrams: piper pa malibu,your home some,me think of,because theyre looking,for a new,get even worse,war zone so,u n climate,it peace in,lower level room,hall of science,this lame dumb,talcum powder saga,talcum powder saga,towards lake baikal,
+i: 40
+trigrams: syria hillary must,today although it,emergency exercise drill,he said,resembling a comet,from hussein chalayan,bombings dead civilians,headquarters,of a postwar,bed save,kornet hit the,proceed,several major airstrikes,place,character,
+i: 42
+trigrams: selena gomez taraji,via microwaves what,piper pa malibu,his first firefight,they expose it,an expert on,just bandages to,years note for,up warm keep,season tottenham hotspur,in syria what,ready to give,carlone natural blaze,our tech because,report copyright violation,
 i: 108
-trigrams: the run up,stewart , a,might be the,is from the,the announcement by,for the wealthy,belt base ,,fish after several,her song rise,six weeks of,merkel , who,donovan , the,gear who are,undo many of,junaid hussain ,,
-i: 45
-trigrams: ,his return to,out on a,dilapidated warehouses and,, fantastic beasts,of american indie,not know what,growing lead in,opened at universal,in what it,alliances with nations,a knife and,time , silvio,world to keep,dangerous ground \(,
-i: 110
-trigrams: voice of his,the moment ,,6510 , thebellhouseny,run up to,,,at warner bros,michigan who has,would cap two,teems with activity,a proud gun,improved relationship with,, qualities too,book in him,of people who,
-i: 116
-trigrams: following up on,jeka and kristen,alex stewart ,,past 60 degrees,was dying of,the man refused,were crushed to,between the united,to explore the,ads that made,incalculable hours vanish,there are still,, both victories,financiers and businessmen,friends with the,
-i: 56
-trigrams: during their last,up to the,and steel rods,rust belt base,batiste is busy,challenge chancellor angela,of everyday financial,mike tyson and,it is from,waterline how many,it is ,,manufacturers we used,, 60 ,,mother birthday and,winding lanes of,
+trigrams: its the little,no doubt for,tweet what do,was as bright,when the cyber,black lives matter,hillary in your,an outlet to,bat,i say,clarifications,problem,i didnt see,man your cowardice,russian military among,
+i: 109
+trigrams: thank you to,to,created com as,here,here,shed,costs unfortunately most,these turkey s,sadly williams went,says saudi arabia,asking for,denny,breathing into each,dead,huntington n y,
+i: 111
+trigrams: wrist fractures,in,politics,observers many,actual caption from,a stocks only,place on this,and sugarplums,domestic,minutes of real,a rejoinder based,other,greeted by a,possible to christian,conduct of monetary,
+i: 83
+trigrams: guts while being,hanks at its,snowden warned a,knows that wireless,little touches that,wore to one,a selection in,silvers latest comedy,a warm layer,tech because some,wars,you experienced difficulties,they expose it,the new black,unknown status on,
+i: 57
+trigrams: character,dear diary while,a free country,retired,yourself up for,art deco building,die,enemy china we,prev swipe left,prev swipe left,on google share,on google share,vardy hotspurmatch previewsleicester,options it is,look forward to,
+i: 54
+trigrams: see the war,i say,kornet hit the,against russia starting,mind all the,to get rid,give your home,by researchers and,just risk our,if youve been,refugee who fled,below is a,week was awarded,russia has brought,of pentagon wars,
 i: 121
-trigrams: emerging season in,is from the,of everyday financial,looming above lexington,merkel , who,spring on maines,on dangerous ground,, 60 ,,swim turns into,belt base ,,waterline how many,lupino \( 1918,between leading impromptu,during their last,during their last,
-i: 125
-trigrams: play under elena,it is from,and steel rods,oh , hello,disappointing action ,,directly to his,the metropolitan division,between leading impromptu,during their last,to the new,perrin and jacques,mr pomfret uses,three story building,challenge chancellor angela,, of burnett,
+trigrams: should just risk,american high jumper,of awareness openhearted,full service postwar,mixerspiritsfruitfood drinkrecipes,published mins ago,pancakes from a,increase all social,pay by percent,character,really gets started,leaving the eu,war they will,she collapse once,factual programme makers,
+i: 122
+trigrams: triggering of article,asked that question,we look forward,given harmful medications,interesting question,november and analysts,day that hillary,interim report notes,average week,nations,win the award,deposits of eurodollars,clooney said,asylum in,election,
+i: 60
+trigrams: a war zone,facing parts of,a shared driveway,reported with election,flyers celebrates after,overdrive with reports,under economic siege,via microwaves what,back row shortly,destroying other nations,war in vietnam,choice his extensive,peace for syria,thank you to,brandon turbeville in,
 i: 126
-trigrams: an email i,the encounter for,that appealed directly,south carolina ,,defeating two possible,fairy people whove,was never able,on nov 16,to death under,holly to tony,, where several,badass ava duvernay,subject the relationship,of this still,a bang this,
+trigrams: character,china we can,die in,motion pain adverse,observers many,this month thank,by asra carlone,out there screaming,this content,h a d,domestic,share your reviews,war mongering lobbyist,threatened to leave,the bbc he,
+i: 117
+trigrams: growing industry and,these stole the,a war zone,die,shed,because some congresscowards,com,christies gerhard richters,geopolitical expert and,source of income,gareth southgate says,bill clinton signed,episode,cultural genocide within,credits darkostojanovic pixabay,

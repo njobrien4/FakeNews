@@ -1,0 +1,60 @@
+i: 65
+trigrams: a big selloff,a cbs denver,a federal judge,a few days,a hillary clinton,a majority of,a man has,a nbc affiliate,a pollster who,a ppp poll,a reply to,a retired four,a sobering new,a tidal wave,a tidal wave,
+i: 5
+trigrams: a big selloff,a cbs denver,a complaint has,a grim new,a highly guarded,a leading us,a lot of,a majority of,a man has,a man who,a national sport,a nbc affiliate,a new shocking,a pollster who,a ppp poll,
+i: 1
+trigrams: bill clinton bush,just concluded parole,just concluded parole,the front door,planner of whether,planner of whether,title companies while,look at developments,call text message,is unbleachable with,is unbleachable with,is unbleachable with,by danny haiphong,united states which,hispanic african american,
+i: 8
+trigrams: a big selloff,a black agenda,a casting call,a cbs denver,a complaint has,a dispatch from,a few days,a grim new,a hillary clinton,a leading us,a lot of,a majority of,a man has,a man is,a man who,
+i: 9
+trigrams: a big selloff,a casting call,a complaint has,a majority of,a man has,a man is,a man who,a nbc affiliate,a new shocking,a pollster who,a ppp poll,a reply to,a retired four,a sobering new,a tidal wave,
+i: 79
+trigrams: a big selloff,a casting call,a cbs denver,a complaint has,a leading us,a man is,a man who,a month ago,a national sport,a nbc affiliate,a new shocking,a pollster who,a reply to,a retired four,a sobering new,
+i: 12
+trigrams: below runs through,message after that,policy tactic that,to pay attention,economic grew then,on steroids a,policy proposals run,was unelectable after,and presidents into,end game planned,experimental medicines on,trumps invitation for,securitized debt and,assadsyria is paying,gets rich off,
+i: 78
+trigrams: a big selloff,a black agenda,a black agenda,a casting call,a cbs denver,a complaint has,a determined young,a dispatch from,a leading us,a lot of,a majority of,a man has,a man is,a man who,a nbc affiliate,
+i: 15
+trigrams: a big selloff,a black agenda,a black agenda,a cbs denver,a complaint has,a determined young,a federal program,a few days,a grim new,a leading us,a lot of,a majority of,a man has,a man is,a man who,
+i: 16
+trigrams: a big selloff,a black agenda,a black agenda,a complaint has,a determined young,a man has,a man who,a nbc affiliate,a reply to,a tidal wave,abby martin exposes,according to a,according to conservative,accuses clinton campaign,add comment as,
+i: 84
+trigrams: a big selloff,a complaint has,a determined young,a dispatch from,a lot of,a man has,a man is,a nbc affiliate,a ppp poll,a reply to,a retired four,a sobering new,a tsunami is,a very sobering,according to a,
+i: 72
+trigrams: a big selloff,a black agenda,a black agenda,a casting call,a complaint has,a few days,a fortnight ago,a highly guarded,a leading us,a majority of,a man has,a man is,a man who,a month ago,a nbc affiliate,
+i: 27
+trigrams: a big selloff,a black agenda,a black agenda,a cbs denver,a complaint has,a determined young,a dispatch from,a few days,a highly guarded,a leading us,a man has,a man is,a nbc affiliate,a pollster who,a ppp poll,
+i: 28
+trigrams: a big selloff,a federal program,a grim new,a hillary clinton,a man has,a man is,a man who,a national sport,a nbc affiliate,a new shocking,a pollster who,a ppp poll,a reply to,a student in,a wikileaks email,
+i: 80
+trigrams: a big selloff,a black agenda,a black agenda,a cbs denver,a complaint has,a dispatch from,a hillary clinton,a leading us,a majority of,a man has,a man is,a man who,a nbc affiliate,a pollster who,a ppp poll,
+i: 91
+trigrams: a big selloff,a black agenda,a black agenda,a casting call,a few days,a majority of,a man has,a man is,a nbc affiliate,a pollster who,a reply to,a retired four,a tidal wave,a very sobering,according to a,
+i: 113
+trigrams: a big selloff,a black agenda,a black agenda,a complaint has,a determined young,a few days,a leading us,a man has,a man who,a nbc affiliate,a pollster who,a ppp poll,a reply to,a retired four,a tidal wave,
+i: 101
+trigrams: a big selloff,a black agenda,a dispatch from,a leading us,a majority of,a man has,a man who,a national sport,a nbc affiliate,a pollster who,a ppp poll,a reply to,a retired four,a student in,a tidal wave,
+i: 103
+trigrams: a big selloff,a cbs denver,a complaint has,a determined young,a hillary clinton,a leading us,a majority of,a man has,a nbc affiliate,a panel of,a pollster who,a ppp poll,a reply to,a tsunami is,a wikileaks email,
+i: 105
+trigrams: a big selloff,a black agenda,a cbs denver,a complaint has,a determined young,a lot of,a man has,a man is,a man who,a nbc affiliate,a pollster who,a ppp poll,a reply to,a retired four,abby martin exposes,
+i: 42
+trigrams: a big selloff,a casting call,a cbs denver,a complaint has,a determined young,a few days,a grim new,a leading us,a lot of,a majority of,a man has,a man is,a nbc affiliate,a panel of,a pollster who,
+i: 39
+trigrams: a big selloff,a complaint has,a determined young,a dispatch from,a man has,a man who,a nbc affiliate,a pollster who,a reply to,a retired four,aaron bandler november,abby martin exposes,according to a,according to conservative,according to four,
+i: 45
+trigrams: a big selloff,a black agenda,a black agenda,a cbs denver,a complaint has,a dispatch from,a grim new,a lot of,a majority of,a man who,a national sport,a nbc affiliate,a pollster who,a ppp poll,a reply to,
+i: 111
+trigrams: court nominees who,situation that poses,a secular government,movement which has,movement which has,movement which has,of squeakily close,cry before its,an illegitimate president,game changing offensive,game changing offensive,insightful in addition,a sober person,tie then the,the third podium,
+i: 49
+trigrams: zika was declared,quantitation of cannabinoids,quantitation of cannabinoids,electronic voting finian,samhain is hecate,charged was dropped,push president bashar,flournoy a former,spannaus this years,to partisan pressure,that a relative,to exert its,likely be tallied,dark trumps success,prepping survivalism communist,
+i: 73
+trigrams: american origin but,and keep it,who was heartily,you see it,who said friday,belief with irv,kremlin spokesman said,to describe it,you generate ideas,recent controversy over,justify the narrative,end the mindset,age population energized,jeopardize human life,third presidential debate,
+i: 120
+trigrams: a big selloff,a black agenda,a black agenda,a cbs denver,a complaint has,a dispatch from,a leading us,a man has,a man is,a man who,a nbc affiliate,a pollster who,a ppp poll,a reply to,a retired four,
+i: 121
+trigrams: a big selloff,a black agenda,a dispatch from,a former top,a lot of,a man has,a nbc affiliate,a new shocking,a pollster who,a ppp poll,a reply to,a retired four,a sobering new,a tidal wave,a tsunami is,
+i: 61
+trigrams: house races and,were run out,megalomaniacal mutt is,crashing nationwide and,for war and,new world and,three strikes laws,an indictment fox,an indictment fox,evilists become self,evilists become self,electionsincluding congressional racesappear,new regulatory category,candidates equally unelectable,my efforts in,
+i: 62
+trigrams: a big selloff,a black agenda,a black agenda,a cbs denver,a complaint has,a determined young,a grim new,a majority of,a man has,a man who,a nbc affiliate,a pollster who,a ppp poll,a reply to,according to a,
