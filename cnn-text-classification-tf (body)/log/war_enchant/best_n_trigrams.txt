@@ -1,256 +1,256 @@
 i: 0
-trigrams: her,through,is entering an,the,home some warmth,see this featured,comedian,filmmaker maria in,a threatened,of the dossiers,die in,is not always,been outraged by,retired,week was awarded,
+trigrams: under one banner,for holidays,of the,of a postwar,theory of soft,undergoing extensive and,higher points total,this content,this content,this content,this content,this content,this content,this content,this content,
 i: 1
-trigrams: a airport built,a bicycle made,a big reason,a bill giving,a black agenda,a brilliant guide,a charity just,a child in,a cinema has,a coroner may,a council should,a cricketer not,a dozen international,a drug that,a earthquake has,
+trigrams: a bicycle made,a bill giving,a bill to,a bit cheeky,a boy who,a brave mother,a businessman whose,a campaigner for,a campaigner for,a career trajectory,a chain of,a clampdown on,a council should,a couple who,a dark cloud,
 i: 2
-trigrams: lobbyist,die in,i the only,any classified information,and,nations,news a double,deco building in,the world is,op where is,see what celebrities,surface computer unveiled,religion,for you,add your,
+trigrams: a big reason,a billionaire philanthropist,a black agenda,a black agenda,a brilliant guide,a businessman has,a company has,a controlled explosion,a criminal conviction,a family of,a fine thing,a firearms officer,a former senior,a generation a,a group of,
 i: 3
-trigrams: flat and most,shown in hieroglyphs,stressful and depressed,find and arrest,demobilization and reintegration,last eight years,up a library,this feeling of,money into budgets,committee of members,laboratory and university,who have been,productions and an,foundation and capital,taken your votes,
+trigrams: a big reason,a bill to,a businessman whose,a campaigner for,a chilling ministry,a colossal canyon,a criminal trial,a drug that,a federal judge,a few seconds,a fighter jet,a former senior,a gas flame,a group of,a hard would,
 i: 4
-trigrams: a afternoon at,a army doctor,a big reason,a black agenda,a black agenda,a businessman whose,a campaign to,a career trajectory,a chain of,a charity has,a child in,a chilling ministry,a clogged nose,a collection of,a colossal canyon,
+trigrams: a big reason,a brilliant guide,a criminal conviction,a criminal trial,a leading us,a leaked reveals,a lot of,a man receives,a north police,a penguin at,a small percentage,a south court,a war including,a wee hope,a woman who,
 i: 5
-trigrams: a big reason,a bill to,a billionaire philanthropist,a brave mother,a brilliant guide,a chilling ministry,a confession you,a council should,a criminal trial,a dog hipster,a few seconds,a group in,a growing number,a handsome prince,a hard would,
+trigrams: for such a,continuing array of,only serves as,her anger toward,have adapted to,being spat or,on the front,in their brightly,near the town,with expertise in,an outrage and,an outrage and,an endless nightmare,on sharing the,an airfield in,
 i: 6
-trigrams: list for per,as being singled,against since cold,like a castle,by john f,regime or a,rebellion in march,with best described,as a remarkable,of a rebellion,take a licking,have a voice,of a cloud,of free and,of those limited,
+trigrams: a bill giving,a clampdown on,a council should,a former artistic,a former head,a group of,a landmark review,a man who,a man who,a rights group,a slowdown in,a supreme court,accepts wales may,activists are planning,after suffering a,
 i: 7
-trigrams: at pm is,do you need,it looks like,its the little,sad to but,uplift connect economics,you have to,afterwards if this,awareness month like,isolation toward work,new indifference toward,what an insult,their troops on,property may be,hospital dead and,
+trigrams: aboriginal and strait,and readers on,bee took aim,been five months,been reading the,contribute commuters and,contribute series of,dame has called,england head has,factories are poised,fox has accused,friends with a,gable has agreed,has been charged,has suggested could,
 i: 8
-trigrams: war bis seiner,war es so,in shitty movies,little touches that,how this man,bunt bis fast,hat den die,to after the,this thank you,to help out,to seeing either,software version set,people feed in,into overdrive with,to see the,
+trigrams: a bill giving,a controlled explosion,a criminal trial,a family of,a fine thing,a firearms officer,a gas flame,a group in,a group of,a group of,a hypersonic aircraft,a indictment is,a joint new,a jury in,a loan to,
 i: 9
-trigrams: a big reason,a billionaire philanthropist,a brilliant guide,a businessman whose,a campaigner for,a certain satisfaction,a chilling ministry,a coalition of,a confession you,a conservative council,a couple who,a court has,a daughter of,a federal judge,a fighter jet,
+trigrams: shows,check that will,periodic provided by,swipe on spotted,featured properties in,were coming for,touches that can,h see,era of mass,have been talking,person who donated,religion is one,a claim she,nor have ever,running if not,
 i: 10
-trigrams: like p and,help out her,by culture of,honored tom hanks,seeing either,home some warmth,see this featured,an high who,on this planet,next swipe the,tips include using,next swipe on,the unconstitutional federal,the unconstitutional federal,this content,
+trigrams: a billionaire philanthropist,a deputy inspector,a federal judge,a fine thing,a group of,a group of,a look at,a major political,a man is,a man thinks,a man who,a man who,a north police,a prominent supporter,a rival to,
 i: 11
-trigrams: to architects,senator sanders in,actually below sea,flowers said,the election,largest media markets,obsessed with gay,he discovered that,victims were the,interview and encountered,their new homes,typically explosive and,ordinary are stocking,ordinary are stocking,pm the globalists,
+trigrams: a brilliant guide,a chilling ministry,a controlled explosion,a dispatch from,a dozen international,a fighter jet,a fine thing,a flotilla of,a gas flame,a gravely written,a group of,a leaked reveals,a lot of,a major political,a man wielding,
 i: 12
-trigrams: extremely violent his,stem from religious,other nations,grateful to our,home some warmth,budget under warns,in they connected,won the,earth,absolutely wrong to,this content,secret drone war,he mp praised,were filmed by,add lemon jack,
+trigrams: a big reason,a few seconds,a former head,a gas flame,a group of,a hypersonic aircraft,a major political,a man receives,a new statement,a storm is,a war including,about of the,abstention from a,according to the,accuses campaign of,
 i: 13
-trigrams: of age were,a good article,of families living,of purpose rarely,of purpose rarely,of because he,effective responses to,of brazenly contradictory,of resident in,of course with,days a with,of west in,of west in,of west in,of the interesting,
+trigrams: a bicycle made,a businessman has,a chilling ministry,a clogged nose,a colossal canyon,a dog hipster,a earthquake has,a friend posts,a generation a,a government minister,a group of,a group of,a hypersonic aircraft,a leaked reveals,a major political,
 i: 14
-trigrams: separateness causes the,the unity of,the breeding ground,on the record,door and returned,pain arthritis tremors,vote for will,strongest economy anywhere,on a propriety,the pointlessness of,the subsets of,the party of,the condition should,theologians jihad is,your ideology above,
+trigrams: a hard would,a hypersonic aircraft,a leading us,a leaked reveals,a man has,a man receives,a man who,a military commander,a mother and,a storm is,a war including,a win for,about of the,activist post as,add comment as,
 i: 15
-trigrams: a bicycle made,a big reason,a bill giving,a black agenda,a boy who,a brilliant guide,a businessman has,a campaigner for,a clogged nose,a collection of,a controlled explosion,a council should,a court has,a criminal conviction,a criminal trial,
+trigrams: war so not,war of terror,week,this season,woman finally said,its audiences a,confirming the stopover,relentlessly last total,having gone to,corporate governance he,market and high,civil war continues,her corporate trade,well,drugs,
 i: 16
-trigrams: a baby desert,a bicycle made,a career trajectory,a colossal canyon,a controlled explosion,a council should,a couple of,a couple who,a crystal user,a dark cloud,a drug that,a federal jury,a few seconds,a fighter jet,a fine thing,
+trigrams: a big reason,a chilling ministry,a criminal trial,a determined young,a earthquake has,a few seconds,a gas flame,a grim new,a group of,a hard would,a leaked reveals,a look at,a lot of,a major political,a man has,
 i: 17
-trigrams: do you need,strikes again and,unconstitutional federal prohibition,unconstitutional federal prohibition,high he is,chairwoman has made,golden rewards i,home some warmth,under fire even,point gain in,your cowardice is,previous post with,refugee,out there screaming,by culture of,
+trigrams: a fine thing,a man receives,a new type,accuses campaign of,advertisement i am,after reported with,after the referendum,ago president has,am by leave,am i the,am in in,am pastor mark,amid great mainstream,and are in,and japan been,
 i: 18
-trigrams: a big reason,a black agenda,a chilling ministry,a clampdown on,a controlled explosion,a coroner may,a couple of,a court has,a criminal conviction,a crystal user,a dissident jailed,a earthquake has,a few seconds,a fighter jet,a fine thing,
+trigrams: by in the,style their win,new,swipe the breakfast,to go to,threatened,god only knows,the us alliance,underground for almost,day come soon,character,drama by cowards,complete not only,so that readers,their vote for,
 i: 19
-trigrams: really good team,endlessly referring people,have risen sharply,stories read a,anything related to,speed and trickery,mike pence wrote,motives and intentions,quick calculation around,had just barged,high moral standards,high moral standards,rapids v new,cases currently being,xi visited in,
+trigrams: the actual from,it,politics,installations by ranging,been seriously injured,river,sounds shaw drew,campaign by bar,runs from march,content,content,content,content,content,content,
 i: 20
-trigrams: with a allegation,if playing a,two or three,unprecedented scale just,unprecedented scale just,unprecedented scale just,last week threat,family dynasty we,in an attempt,toward i asked,to record intensity,death of which,empty of their,in politics even,its finest link,
+trigrams: information will bring,most extraordinary transformation,lower oil price,wait for memoir,broadcast told viewers,high ranking current,the foreigners brought,put an unscripted,discussing why do,trail thats my,towards foreigners from,prowled through the,financial average net,north but picks,out how rebels,
 i: 21
-trigrams: other nations,win the award,all lobbyist,spotted an unusual,for drugs,to hang,had an awards,originating the role,terrorists their inability,by trump than,the vice president,categorize me by,categorize me by,fact that the,real estate,
+trigrams: a leaked reveals,a man who,about of the,according to new,according to the,accuses campaign of,accuses diplomats of,add comment its,ads for most,advertisement learn more,after reported with,after the referendum,ago president has,also questioned whether,am by leave,
 i: 22
-trigrams: toad like in,dying each victims,trade deals are,other including those,white house was,condition than if,local grocery store,a testament to,energy price would,ceasefire or political,ceasefire or political,slim lets take,relevant in the,dysfunction in humans,dysfunction in humans,
+trigrams: a clogged nose,a conservative mp,a deputy inspector,a determined young,a few seconds,a fine thing,a forensic science,a gas flame,a girl whose,a government minister,a group of,a heavyweight contender,a hypersonic aircraft,a key confidante,a leaked reveals,
 i: 23
-trigrams: a actress who,a army doctor,a bicycle made,a big reason,a billionaire philanthropist,a black agenda,a brilliant guide,a clogged nose,a colossal canyon,a controlled explosion,a coroner may,a couple of,a criminal conviction,a criminal trial,a deputy inspector,
+trigrams: a wee hope,after reported with,ago president has,all debates about,amid great mainstream,and so will,another supremacist masturbation,antiwar complaining about,as if todays,as seasons nasty,at am all,at am these,at am today,at am what,at pm is,
 i: 24
-trigrams: exchequer john towards,of her were,and for most,and whose brilliant,drop by,offensive costume imaginable,and this is,from his driveway,from his driveway,what an insult,lead through trump,clearly warning us,h a d,by culture of,from then onwards,
+trigrams: a big reason,a black agenda,a brave mother,a brilliant guide,a chilling ministry,a clogged nose,a common misconception,a couple of,a criminal conviction,a determined young,a dispatch from,a dog hipster,a familiar phrase,a federal judge,a federal jury,
 i: 25
-trigrams: to be fulfilled,to buy mining,to make a,to be identified,inflexion a moment,mind is unable,snooping it merely,chairman positions on,featured on mainstream,director this dovetails,director this dovetails,made more than,admission of professor,period poacher turns,pat is trump,
+trigrams: a big reason,a certain satisfaction,a chilling ministry,a global of,a indictment is,a leading us,a long spell,a lot of,a major political,a man has,a man is,a man receives,a man who,a man who,a month ago,
 i: 26
-trigrams: acceptance in the,to win the,interview with the,collusion and regulatory,pity for all,dog in the,active auroral research,platter this likely,platter this likely,platter this likely,comment in the,question a little,week spreading awareness,admission would have,luminaries desertion of,
+trigrams: a big reason,a black agenda,a brilliant guide,a court has,a dissident jailed,a few seconds,a few years,a former senior,a grim new,a group of,a highly respected,a hypersonic aircraft,a is coming,a jury in,a leaked reveals,
 i: 27
-trigrams: utmost it is,most the day,we hope you,your home some,place according to,a private a,an ambitious era,hail has particularly,swipe on spotted,baths details a,trainer now and,committee chairwoman has,the economy by,justify continual war,lake on earth,
+trigrams: clarifications,losing influence at,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,
 i: 28
-trigrams: a great a,independent of the,twitter long as,desk award for,england of state,playing knew from,way he reels,share it to,my family came,almost shouts this,listen to what,coinciding with the,free himself from,undue respect from,benefits for this,
+trigrams: a big reason,a black agenda,a brave mother,a chef who,a colossal canyon,a common misconception,a criminal conviction,a deputy inspector,a dissident jailed,a dog hipster,a dollar research,a family of,a federal judge,a few seconds,a flotilla of,
 i: 29
-trigrams: as a master,to a city,an invisible government,crafts a and,crafts a and,crafts a and,good in bed,work in workshops,democrats a advantage,aware that losing,weakling trying to,thing took place,oneself a witch,rifle in cup,from hostile states,
+trigrams: a group of,a leaked reveals,according to the,after reported with,after the referendum,am i the,and so will,and will go,antiwar complaining about,apparently the news,as if todays,as late as,at am all,at am pretty,at am these,
 i: 30
-trigrams: for a but,master as a,for a report,destroying a country,graduation is a,to a democratically,scored a try,video tells a,and became as,primarily as a,evidence linking the,evidence linking the,evidence linking the,hyped for a,due to a,
+trigrams: touches that can,fun stay tuned,so not sure,strikes again and,to suspect supernatural,on which was,affair battle ensign,whom are warriors,not only of,to war with,era of mass,or ago according,under warns that,without a religion,soldier that ever,
 i: 31
-trigrams: thriving upon belated,midlands over three,grow because of,nudity today commissioned,stories following are,begun appointed to,trump has updated,worth around a,relationship between princess,still coming in,outraged opponents in,refugees from and,related to the,just because been,conversation transcript and,
+trigrams: the actual from,while being but,do you know,also know games,exchequer john towards,straw hat and,wet floor warnings,war so not,the dream i,the list did,use wild an,st jury has,supporters we recognize,million dollars as,down what an,
 i: 32
-trigrams: tremendous potential its,guest posts by,really interesting and,assists leader in,abusive partner and,me from her,history read had,revenue per year,dramatic images and,emergencies officer men,refugees from and,violence perpetrated by,disqualified from hong,charge which yielded,attack read by,
+trigrams: a billionaire philanthropist,a boy who,a businessman has,a coalition of,a colossal canyon,a controlled explosion,a criminal trial,a earthquake has,a few seconds,a fighter jet,a former senior,a grim new,a hard would,a heavily pregnant,a hypersonic aircraft,
 i: 33
-trigrams: to reach a,of mass journalists,sticker think it,those cities agents,of john being,ca wait to,pm,time for holidays,ltd godlike page,from then onwards,of shovels wet,actually your hands,about it,knows where,copyright violation server,
+trigrams: a billionaire philanthropist,a chilling ministry,a fighter jet,a fighter jet,a former senior,a group in,a heartwarming moment,a hypersonic aircraft,a jury in,a link to,a lot of,a major political,a man receives,a military commander,a moment when,
 i: 34
-trigrams: a boy who,a campaigner for,a couple who,a few seconds,a fighter jet,a fine thing,a firearms officer,a former police,a group of,a guard with,a hard would,a huge deposit,a leading us,a leaked reveals,a loan to,
+trigrams: the sky some,guts while being,a war against,spreading to god,in border regions,which train to,that the recent,will die in,presidential can expect,an infantry officer,wet floor warnings,us of considerable,know going to,ever held a,to begin previews,
 i: 35
-trigrams: of biggest award,force behind two,creative by bass,is the director,to look forward,great again,like sheep,photographer smith,earlier this thank,includes fighting floods,make some spurious,offensive costume imaginable,longer effective,last loading,in now hes,
+trigrams: interviewed and reinterviewed,would maintain a,months in a,to find a,,,,,,,,,,,,
 i: 36
-trigrams: come,period no goals,that will drive,shows,week,hosted a party,native water protectors,window of the,smith,or,most beloved icons,drugs,grizzlies win in,recording shortly afterwards,good,
+trigrams: a big reason,a criminal conviction,a dispatch from,a federal judge,a group of,a journalism fellow,a jury in,a leading us,a leaked reveals,a major political,a man receives,a man who,a massive global,a middle class,a new email,
 i: 37
-trigrams: ever attempted to,has said that,even preparing for,aware of what,any ground that,types of thoughts,turned into actual,were joining the,have had an,as the titanic,provision of the,very term aristocracy,very term aristocracy,one of willies,quite vicious in,
+trigrams: by in the,click on the,dear while waiting,knacker bis blinder,the actual from,the election will,the speakers include,many civilian automobiles,character,thing every four,her eye in,objections to but,insult,blatant favoritism towards,new software version,
 i: 38
-trigrams: somewhat awkward after,emergency exercise drill,used on this,participation in defense,now infamous speech,itself by opposition,complicated form that,arming indigenous protesters,email democrats were,derived from fans,full fruition when,destroyed by a,nation it suffers,most distasteful presidential,debt as its,
+trigrams: a bill giving,a bill to,a billionaire philanthropist,a boy who,a campaigner for,a conservative council,a council should,a dozen of,a drug that,a former artistic,a former head,a fund for,a grammar school,a group of,a landmark international,
 i: 39
-trigrams: a afternoon at,a army doctor,a battered dodge,a belated happy,a big reason,a bill to,a billionaire philanthropist,a boy who,a brilliant guide,a campaign to,a campaigner for,a campaigner for,a charity just,a chilling ministry,a clogged nose,
+trigrams: a council should,a tram that,a woman has,ardent leisure chief,be clear about,contribute sees the,controversial plans put,england head has,england women claimed,games get much,has acknowledged that,has warned that,if the big,if thinking of,it could be,
 i: 40
-trigrams: government she gets,one does not,two weeks into,investigative reports she,the march toward,at,amnesty while drastically,create a welcoming,has,capabilities officials have,international criminal court,future,with reports of,from a desktop,hit the turret,
+trigrams: to be singled,us are unaware,of chasing success,of chasing success,engine to saving,as the first,in as preliminary,western led coup,has trickled out,of his first,then held up,car run out,car run out,car run out,would proceed smoothly,
 i: 41
-trigrams: have been thinking,take decisive steps,and the installation,and his loyal,and new years,did being generous,have a media,have a media,have a media,have a media,received on hey,have been here,to independence easier,win a majority,and sheriff departments,
+trigrams: this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,
 i: 42
-trigrams: new software version,what celebrities like,this content,is flashing a,all parties to,his fellow soldiers,was talk towards,swarms of illegally,positive psychology pioneer,st idea is,great might be,told this comes,the utmost it,whom are warriors,report members are,
+trigrams: a bicycle made,a brilliant guide,a clogged nose,a combat veteran,a controlled explosion,a council should,a federal jury,a few seconds,a fighter jet,a fighter jet,a fund for,a gas flame,a global of,a group of,a huge deposit,
 i: 43
-trigrams: a woman over,people anticipating the,that can give,see what celebrities,over million dollars,by a green,wonder how many,justify continual war,mean a war,you never know,state police force,psychological damage thanks,is clearly warning,i have been,destroying other nations,
+trigrams: a chilling ministry,a few seconds,a gas flame,a grim new,a group of,a heartwarming moment,a leaked reveals,a look at,a majority of,a man is,a man receives,a new email,a rival to,a storm is,a story about,
 i: 44
-trigrams: a army doctor,a big reason,a black agenda,a black agenda,a brilliant guide,a campaign to,a campaigner for,a coalition of,a colossal canyon,a company has,a confession you,a conservative council,a controlled explosion,a coroner may,a criminal trial,
+trigrams: a big reason,a brilliant guide,a hypersonic aircraft,a leaked reveals,a man who,a study by,a wee hope,a woman who,abstention from a,accuses campaign of,add comment as,add comment careful,add comment its,add comment the,ads previous post,
 i: 45
-trigrams: nations,really gets i,up to fight,states marches forward,can even be,like p and,retired,this season,is already being,the march toward,really should be,for drugs,hard or,email server while,each other,
+trigrams: a afternoon at,a army doctor,a belated happy,a bicycle made,a bill giving,a bill to,a billionaire philanthropist,a bit cheeky,a boy who,a businessman whose,a campaign to,a campaigner for,a career trajectory,a certain satisfaction,a child in,
 i: 46
-trigrams: holidays,on crafting her,was met with,new simply titled,under fire even,it increasingly unsustainable,the surrogates letter,gains,room,no no read,me beyond belief,deaths as bush,via town fa,the economy killing,candidate,
+trigrams: a bicycle made,a bill to,a brilliant guide,a chilling ministry,a coalition of,a colossal canyon,a determined young,a earthquake has,a federal jury,a few seconds,a fine thing,a friend posts,a gas flame,a group of,a group of,
 i: 47
-trigrams: a boy who,a brave mother,a brilliant guide,a businessman has,a businessman whose,a campaigner for,a career trajectory,a charity has,a chilling ministry,a clogged nose,a colossal canyon,a company has,a confession you,a controlled explosion,a couple of,
+trigrams: a big reason,a is coming,a leaked reveals,a lot of,a man receives,a man who,a middle class,a new law,a protocol of,a storm is,a survey of,a wee hope,about of the,abstention from a,across the trump,
 i: 48
-trigrams: a belated happy,a black agenda,a black agenda,a campaigner for,a certain satisfaction,a chilling ministry,a colossal canyon,a council should,a court has,a criminal trial,a dozen international,a earthquake has,a federal judge,a few seconds,a fierce chorus,
+trigrams: a big reason,a chilling ministry,a earthquake has,a few seconds,a group of,a highly respected,a hypersonic aircraft,a leaked reveals,a lot of,a major political,a majority of,a man has,a man thinks,a military commander,a new statement,
 i: 49
-trigrams: the tank,the election will,the sprang into,jury has awarded,of biggest award,bloody that is,national weather service,highlights of a,your home some,to be hard,with buddy there,the march toward,to raise awareness,to god only,denying that,
+trigrams: surface computer unveiled,stay tuned for,society hosted a,era of mass,your home some,a war so,to war for,a st jury,brutally hot summer,pub mentions it,swipe over on,biggest award shows,even if she,armor there compared,the election because,
 i: 50
-trigrams: a brave mother,a chilling ministry,a colossal canyon,a combat veteran,a couple of,a deputy inspector,a dispatch from,a dog hipster,a federal judge,a federal jury,a flotilla of,a flurry of,a gas flame,a gravely written,a green traffic,
+trigrams: a clampdown on,a criminal conviction,a doctor sexually,a few seconds,a fighter jet,a group of,a hypersonic aircraft,a leaked reveals,a majority of,a man who,a middle class,a recent study,a senior prosecutor,a study of,a trump supporter,
 i: 51
-trigrams: a afternoon at,a airport built,a belated happy,a bill giving,a billionaire philanthropist,a bit cheeky,a boost for,a brilliant guide,a businessman has,a businessman whose,a certain satisfaction,a charity has,a chilling ministry,a cinema has,a coalition of,
+trigrams: ads privacy policy,am by leave,and trump have,archives on television,archives on television,as millions nervously,at a cost,at am global,at the international,at the third,by am archdiocese,by at am,by gilbert news,by globe the,by john w,
 i: 52
-trigrams: natural an economic,natural an economic,natural an economic,natural an economic,society came a,maintains this months,,,,,,,,,,
+trigrams: a afternoon at,a baby desert,a big reason,a black agenda,a black agenda,a brave mother,a brilliant guide,a child in,a chilling ministry,a clogged nose,a colossal canyon,a common misconception,a couple of,a court decision,a determined young,
 i: 53
-trigrams: gentle way thats,which saw an,it the eastern,and white who,work stoppage has,and books on,intensity of gradual,it became clear,its dark except,one men connecting,himself was undermined,social adaption over,made crystal clear,rational conversation based,torrential downpour in,
+trigrams: a billionaire philanthropist,a campaigner for,a coroner may,a doctor sexually,a firearms officer,a former police,a lot of,a major work,a mother in,a new national,a new type,a schoolboy who,accepts wales may,airways owner international,along with and,
 i: 54
-trigrams: see the war,ready ammunition stores,against must overthrow,legalizing medical taking,to god only,disabled through,award shows,is looking forward,secret drone war,by this is,mind all the,to get rid,give your home,had hosted the,preferred candidate,
+trigrams: next swipe on,held its art,what celebrities like,next swipe the,to come,actual from an,not just in,natural blaze if,not relevant because,pointed toward another,is dead,warned a group,up a bringing,god only knows,flat batteries and,
 i: 55
-trigrams: not be allowed,must be wary,e,emphasized,the globalists out,lawsuit,so delete your,that could increase,billion market by,she pauses for,a margin,image,to victory hunter,of email which,us by as,
+trigrams: play to lay,we often experience,been beaten very,barrel and i,barrel and i,quite undiplomatic slights,love his realism,hatches to bail,back ash carter,same points recorded,team but now,elites convert occupy,history and background,fish and wildlife,agreements i it,
 i: 56
-trigrams: a bicycle made,a big reason,a black agenda,a brilliant guide,a chilling ministry,a controlled explosion,a council should,a couple of,a family of,a favorite trope,a federal judge,a few seconds,a fighter jet,a fund for,a group of,
+trigrams: content,content,content,content,content,content,content,content,content,content,content,content,content,content,content,
 i: 57
-trigrams: of the populace,back from behind,you know from,suspect supernatural goings,ascot vale just,art honored tom,st jury has,mango picturing him,they before wrapping,character,where,begin previews on,have continued over,talk you introduce,see hailstones this,
+trigrams: a boy who,a campaigner for,a chilling ministry,a clampdown on,a confession you,a coroner may,a court has,a criminal trial,a dissident jailed,a drug that,a earthquake has,a family of,a fighter jet,a former police,a former senior,
 i: 58
-trigrams: a army doctor,a big reason,a black agenda,a black agenda,a brilliant guide,a businessman has,a charity has,a child in,a chilling ministry,a cinema has,a coalition of,a colossal canyon,a common misconception,a company has,a confession you,
+trigrams: step up bombing,east hell also,governments of and,judges and oppose,turbulent period that,volatile and unprincipled,authority to search,increasing and armed,increasing and armed,keep it together,crazy dance of,the same friend,key aides contrasted,of those occasions,super intense and,
 i: 59
-trigrams: and in and,preferred candidate losing,march department john,goes a long,race planetary solar,either friends or,awareness of whats,your world or,the shortly after,unexperienced investigators would,us catch more,directs the secretary,can jump for,president in thats,president in thats,
+trigrams: often when is,have allowed new,have followed an,a year low,a year low,have allowed officials,but described in,all said and,morocco yeah for,based in policy,neat little package,edit on by,job as an,and checkers careers,ruffle the feathers,
 i: 60
-trigrams: soon enough people,against the buffalo,latest development in,latest development in,soldier that ever,how this man,facing parts of,world this shortlist,at bow school,information about a,march toward war,at or near,against the war,or the secretary,rev a roman,
+trigrams: a chilling ministry,a federal judge,a fighter jet,a group of,a jury in,a leading us,a leaked reveals,a new email,a wee hope,according to the,accuses campaign of,accuses diplomats of,activist post as,add comment a,add comment as,
 i: 61
-trigrams: a bicycle made,a big reason,a bill giving,a black agenda,a boy who,a campaigner for,a chilling ministry,a clogged nose,a council should,a couple who,a criminal conviction,a criminal trial,a distaste for,a federal judge,a federal judge,
+trigrams: a big reason,a brave mother,a brilliant guide,a career trajectory,a chilling ministry,a colossal canyon,a conservative council,a court has,a criminal trial,a few days,a few seconds,a fighter jet,a fine thing,a flotilla of,a former senior,
 i: 62
-trigrams: a niche amount,intensity with which,entire towns in,loan complaints to,a rule banning,the postwar when,the holdups to,but sorry to,original meaning that,spoilage with the,human societies through,vicious hate campaign,an acute sense,difference in the,all forms were,
+trigrams: a big reason,a chilling ministry,a few seconds,a lot of,a new statement,a worker secures,according to new,according to the,accuses of being,add comment as,ads previous post,ads previous post,ads privacy policy,ads privacy policy,advertisement i am,
 i: 63
-trigrams: a boy who,a charity has,a coalition of,a court has,a criminal conviction,a doctor sexually,a earthquake has,a family of,a federal judge,a generation a,a global of,a government would,a hard would,a heavyweight contender,a hypersonic aircraft,
+trigrams: a big reason,a dispatch from,a fighter jet,a former senior,a gas flame,a group in,a group of,a leaked reveals,a major political,a majority of,a man and,a massive global,a military commander,a new statement,a north police,
 i: 64
-trigrams: knows where,the slide show,spotted an unusual,shows,a warmed top,guts while being,prison,conduct with the,was presented by,shortly afterwards twitter,according to local,the civil war,ordinary monthly may,for the mosque,by mike voters,
+trigrams: best team throughout,different,fought this quite,to architects,content,content,content,content,content,content,content,content,content,content,content,
 i: 65
-trigrams: click on the,when three athletes,the tank,the third period,a free country,st jury has,that lead them,lawsuit,are a thing,western corporate press,in broad steal,out she nobody,automobiles will be,be considered a,waiting for a,
+trigrams: a big reason,a bill giving,a black agenda,a black agenda,a boy who,a brilliant guide,a charity has,a chilling ministry,a clampdown on,a controlled explosion,a council should,a criminal trial,a dispatch from,a distaste for,a dozen international,
 i: 66
-trigrams: introduces windows update,the white hart,life manages to,an courtesy of,throwing a flag,a postwar building,that is the,also highlighted what,you,you,object resembling a,object resembling a,saw a bout,including best picture,swipe on spotted,
+trigrams: won because i,four of their,both the normal,victories in the,cynicism oozing from,rhetoric with regards,between infection of,greetings when they,reintegration in a,real patriots as,writes the times,said the protesters,phrased this matter,voice of who,both sides of,
 i: 67
-trigrams: a couple of,a little over,ads privacy policy,at pm she,august it is,begins with an,by at am,by on at,by the feminist,do we really,has always been,in the republican,is trump the,lee greetings dear,link people have,
+trigrams: into the united,into the united,into the united,on election night,loudspeaker system and,into the gathering,shown remarkable resilience,against female refugees,new times titled,frank wolf interest,column argues in,also a waste,adaptation takes place,adaptation takes place,including your own,
 i: 68
-trigrams: a fighter jet,a group of,a man receives,a protocol of,a war including,add comment a,add comment the,ads previous post,advertisement i am,after reported with,ago president has,although responsible somewhat,am i the,an author and,and japan been,
+trigrams: jury has awarded,earlier this thank,this content,the exchequer john,an advanced warning,by,lawsuit,either,by the wicked,up when created,by the band,shop please come,that cuts to,by a recording,motorcycle shed,
 i: 69
-trigrams: a big reason,a billionaire philanthropist,a boy who,a brilliant guide,a campaigner for,a charity has,a chilling ministry,a cinema has,a colossal canyon,a company has,a confession you,a controlled explosion,a couple who,a demand for,a deputy inspector,
+trigrams: this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,
 i: 70
-trigrams: stunned and pensive,four recent major,raised in an,scrawled across its,a cocktail called,cast a ballot,or reducing creosote,week in the,been highlights the,psychologist and author,and continuing threats,and involving a,your electric bills,relationship with the,convention and had,
+trigrams: this content,this content,this content,price sensitive passengers,there have been,month,relaxed than others,by the minority,too far away,women rugby union,women rugby union,will be connoisseurs,you the problem,activity now seemingly,she i talked,
 i: 71
-trigrams: a airport built,a army doctor,a big reason,a billionaire philanthropist,a brilliant guide,a chilling ministry,a cinema has,a clogged nose,a coalition of,a colossal canyon,a conservative mp,a council should,a couple of,a couple of,a criminal conviction,
+trigrams: a conservative council,a man and,a penguin at,a senior city,a survey of,all new justices,an priest has,and are in,and fans will,and his former,and readers on,bank has revealed,been a rough,been quite a,can expect no,
 i: 72
-trigrams: rush of pleasurable,intimidation throughout recorded,a planetary shift,elite end game,border patrol after,old aristocratic royal,have employed many,a mix of,the demonstrated this,the demonstrated this,the demonstrated this,a secret plan,an extended excerpt,to roam after,a higher chance,
+trigrams: click on the,crooked politicians refuse,is not even,police are investigating,posted on first,the actual from,the election will,the high court,the war on,your lack of,these should be,stock market to,free country they,boss read challenge,because insanity is,
 i: 73
-trigrams: reader pointed conservationist,well every time,president planned to,through,of streaming hardware,wine and smoking,the bridge lane,championship,with peace and,wales but japan,architects,with each banning,share their stories,the complete destruction,the afterwards we,
+trigrams: email a major,every soldier that,its the little,day come soon,its art party,may unleash up,factual except for,of min and,an article about,a st jury,a st jury,the military alliance,overdrive with reports,his driveway morning,of war the,
 i: 74
-trigrams: rape and sexual,morning we ask,it could reasonably,survey has shown,lots and lots,learning and getting,safety said long,inspired the nature,auto credit cards,forward in an,first and most,first and most,endorse but at,agencies and academic,media is not,
+trigrams: a bicycle made,a billionaire philanthropist,a boy who,a clampdown on,a coalition of,a collection of,a conservative council,a coroner may,a court has,a criminal trial,a crowd of,a dozen of,a drug that,a firearms officer,a former artistic,
 i: 75
-trigrams: out there screaming,march toward war,d from of,member a planned,out of their,fumble on against,populist battering ram,war of terror,war of terror,films of so,serves vodka use,culture of awareness,is looking forward,problem,today spends more,
+trigrams: wore to one,that can give,windows update with,object resembling a,he is spilling,general spinal ward,of a postwar,exchequer john towards,private a shared,enough people anticipating,of the same,considered a refugee,insanity is doing,of the crowd,no sign of,
 i: 76
-trigrams: at a nearly,its magazine and,of hope and,after despite the,tying up the,same thing as,royal dutch and,grappled with in,first senator bob,royal institute of,defending against a,experienced executives who,first be washed,rock n roll,rock n roll,
+trigrams: force the takes,the,is that sticker,rose to fame,voters in have,has cast them,art party on,away,in airport design,pinch dried sea,character,about how were,be additional awards,can be dieted,by researchers and,
 i: 77
-trigrams: see what celebrities,hope you had,coming under fire,into life and,bracket is released,the influential dutch,dear life manages,bonfire serves vodka,unnecessary image doctors,around the northland,wont be special,work together is,from new,please come forward,was august and,
+trigrams: a threatened,actual from an,is not even,observers many,against must overthrow,all costs unfortunately,check that will,award shows,a retired,by the lift,this season,democratic republic under,card published in,native water protectors,when the war,
 i: 78
-trigrams: against a border,and its integration,find other service,saw at home,and memory biases,as a competitor,the be partners,and special interests,proximity of bases,times a day,and are entitled,question but which,number of tools,until the cps,steel plant with,
+trigrams: a big reason,a bill giving,a brilliant guide,a controlled explosion,a deputy inspector,a farmers work,a fighter jet,a fine thing,a gas flame,a group of,a hypersonic aircraft,a indictment is,a journalism fellow,a key confidante,a leaked reveals,
 i: 79
-trigrams: a big reason,a bill giving,a boy who,a brilliant guide,a businessman has,a businessman whose,a campaigner for,a career trajectory,a certain satisfaction,a charity has,a charity just,a coalition of,a collection of,a colossal canyon,a confession you,
+trigrams: and even though,and help to,ray but i,dynamics what i,gold but i,and the tech,and fed cannot,to a question,to save i,senate also ratifies,where mainly elderly,now ubiquitous residents,and if democrats,and instead we,at a scenario,
 i: 80
-trigrams: drugs,content,content,war really gets,their inferiority complex,is going into,during the wartime,go game by,survived by her,vice president for,an unbelievable way,player looking forward,for the,defeat against new,an occupier rate,
+trigrams: a bill giving,a bill to,a boy who,a campaigner for,a clampdown on,a conservative council,a council should,a couple who,a dozen of,a drug that,a former artistic,a former head,a fund for,a grammar school,a landmark international,
 i: 81
-trigrams: been suppressed for,suggestion that certain,know that i,north suggesting they,the argument is,reporters that in,to war for,never mind all,release added it,classified information in,us presidential can,woman standing a,civil war is,latest development in,soviet noting it,
+trigrams: a big reason,a bill giving,a billionaire philanthropist,a businessman has,a chilling ministry,a colossal canyon,a controlled explosion,a couple of,a couple who,a criminal trial,a crystal user,a dark cloud,a daughter of,a deputy inspector,a dozen of,
 i: 82
-trigrams: in the talcum,one of biggest,with several closets,am war bis,way from then,list price size,dissent,time for holidays,lawsuit,of the night,of the wealthy,avenue on,of the bay,you can do,screaming the place,
+trigrams: content,content,content,content,content,content,content,content,content,content,content,content,content,content,content,
 i: 83
-trigrams: with a fireplace,guts while being,hosted a party,era of mass,a woman over,little touches that,wore to one,lemmings anonymous coward,chaotic breakfast going,a selection in,windows update with,long island sound,spades the nearly,a warm layer,backgrounds that they,
+trigrams: came out with,came out with,fifth amendment to,to play his,going on and,stage martin as,protectively stamped with,protectively stamped with,goes on whether,gunships launched full,reconstruction in and,better reno said,better reno said,brash unpredictable actions,evidenced by his,
 i: 84
-trigrams: one family tells,least likely scenario,somebody the popular,gain traction excited,an estate the,created by cook,below a video,there is an,j said afterwards,a town crier,door,processed food gets,at the mercy,noticed by j,iconic tower facing,
+trigrams: give your home,on may unleash,where,see the war,of the utmost,in the latest,in the latest,celebrities like p,bags groove clan,accident,away asking do,few the western,dead,both the republicans,the stock market,
 i: 85
-trigrams: a activist who,a afternoon at,a airport built,a bicycle made,a big reason,a black agenda,a black agenda,a blockbusting week,a brave mother,a brilliant guide,a businessman has,a campaigner for,a certain satisfaction,a charity has,a chef who,
+trigrams: a chilling ministry,a gas flame,a jury in,a leaked reveals,a look at,a majority of,a man is,a man thinks,a man who,a month after,a nation without,a new statement,a proper foreign,a small percentage,a war including,
 i: 86
-trigrams: increasingly a threatened,ago according to,the civil war,the utmost it,a war so,a free country,its new home,they connected romantically,the latest development,difficult topics to,i know that,earlier this thank,from his driveway,a war they,on via on,
+trigrams: a big reason,a chilling ministry,a coroner may,a council should,a few seconds,a fighter jet,a hypersonic aircraft,a judge has,a jury in,a leading us,a leaked reveals,a lot of,a major political,a man and,a man who,
 i: 87
-trigrams: house will seem,the would inevitably,bankrupting the nation,bankrupting the nation,forward to accuse,jobs taken over,red warrior camps,whoever is elected,and reintegration in,areas dependent on,was ed whose,law in nearly,law in nearly,forwards and and,austerity and expanded,
+trigrams: a big reason,a billionaire philanthropist,a brilliant guide,a chilling ministry,a dispatch from,a few seconds,a fighter jet,a gravely written,a green traffic,a group of,a jury in,a leaked reveals,a lot of,a man who,a man who,
 i: 88
-trigrams: die,eastern,share it widely,and even political,humility,as i plumped,for even in,government has dithered,mockery,he has resisted,a zombie apocalypse,media coverage by,but even these,of a postwar,councils will overspend,
+trigrams: see this featured,touches that can,coward he is,corporate press has,solid gold show,war really gets,come soon enough,need to have,the populace is,group of reporters,place down what,and warned pregnant,with us you,next swipe on,even close is,
 i: 89
-trigrams: in emails and,of emails as,and shows and,of the and,of the and,the bureaus decision,he says and,senator roger for,senator roger right,has been leading,has been leading,shape progressive politics,against has pledged,to address and,of good and,
+trigrams: month,hang,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,this content,
 i: 90
-trigrams: at a decision,share it to,despite scoring premier,as a competitor,our choreographing and,likely scenario in,certain chronic diseases,tendency was especially,not aware of,use data an,because a she,harmful impact of,agreed last week,downplay this latest,only speak with,
+trigrams: a council should,a former artistic,a man has,a man who,a new trailer,a of a,a rise in,a slowdown in,a tram that,a writer and,aboriginal and strait,activists are planning,after suffering a,ahead of the,all new justices,
 i: 91
-trigrams: a afternoon at,a airport built,a army doctor,a big reason,a bill giving,a bit cheeky,a black agenda,a boost for,a boy who,a brilliant guide,a businessman has,a campaigner for,a career trajectory,a certain satisfaction,a charity has,
+trigrams: leading to disaster,warp discourse this,handling of classified,handling of classified,include the three,on twitter and,victim of election,victim of election,victim of election,deal of uncertainty,one feature of,one feature of,one feature of,a nuclear conflagration,lot of different,
 i: 92
-trigrams: character,for holidays,avenue on,am pretty factual,for the,has hit shaking,resembling a comet,gets i wonder,with a warped,intends to investigate,real problem,activist gates and,absolutely wrong to,again,join the army,
+trigrams: a big reason,a brilliant guide,a chilling ministry,a court has,a fighter jet,a group of,a landmark review,a leading us,a leaked reveals,a link to,a look at,a lot of,a major political,a man pretended,a man who,
 i: 93
-trigrams: a airport built,a army doctor,a black agenda,a black agenda,a boy who,a brave mother,a brilliant guide,a businessman has,a campaigner for,a career trajectory,a charity has,a child in,a chilling ministry,a cinema has,a clogged nose,
+trigrams: rates on government,an early email,budged an inch,discus the balance,representative from city,representative from city,rare what typically,divided already new,divided already new,barriers in the,barriers in the,mentioned on this,he was running,all four corners,a very difficult,
 i: 94
-trigrams: been a busy,by as the,by as the,by at the,by in the,by in the,by mike voters,by mike voters,by so there,by the rock,by the us,by this is,by trump needs,confidence is high,crooked politicians refuse,
+trigrams: debar of news,comply but if,with eggheads who,serving as a,serving as a,peers and white,could hardly believe,for i believe,up awake at,in store at,attributes of an,east of the,the countries often,portable tablets and,portable tablets and,
 i: 95
-trigrams: war continues although,for holidays,fraud expert exposes,all lobbyist,and its awards,email a major,of management and,machines running somehow,character,will be disabled,candidate,of mass journalists,vodka use wild,r,perfect offering there,
+trigrams: a determined young,a earthquake has,a fighter jet,a gravely written,a group of,a hong former,a magistrate has,a major political,a man is,a man receives,a man who,a new statement,a quarter of,a recent piece,a rival to,
 i: 96
-trigrams: themselves to be,season for their,rights movement at,and her close,pentagon under said,worship in secret,results were the,negotiations broke up,success in delivering,television advertising and,itself is scary,w bush no,of social progress,format meeting in,were hosted by,
+trigrams: a big reason,a black agenda,a black agenda,a brilliant guide,a controlled explosion,a few seconds,a fighter jet,a gas flame,a girl whose,a huge deposit,a joint new,a leading us,a leaked reveals,a magistrate has,a majority of,
 i: 97
-trigrams: up with a,full speech on,unnamed politician he,quote mocking description,fuck with in,often sounds desolate,invent false gods,was so rewarding,migrants cost a,are according to,economic which sums,used threats and,associated with a,increased inequality and,reported this week,
+trigrams: by in the,by in the,by knight warned,by natural blaze,by the rock,by this is,confidence is high,do you need,it looks like,next swipe on,next swipe over,see what celebrities,the actual from,the election will,they are quiet,
 i: 98
-trigrams: a big reason,a bill giving,a brilliant guide,a businessman has,a campaigner for,a chilling ministry,a controlled explosion,a council should,a court has,a criminal trial,a deputy inspector,a distaste for,a dog hipster,a federal judge,a few seconds,
+trigrams: this content,this content,of work necessary,got a phone,in expected net,fiscal a report,profit would fall,after a revolt,mainstream first with,not yet suggested,post in which,me say what,but were often,of its investigation,lead to frictions,
 i: 99
-trigrams: a certain satisfaction,a colossal canyon,a family of,a fine thing,a government would,a group of,a heavily pregnant,a leading us,a little over,a loan to,a man has,a man is,a man receives,a man teaching,a man who,
+trigrams: a coalition of,a dog hipster,a earthquake has,a government would,a group of,a heavily pregnant,a hypersonic aircraft,a leaked reveals,a lot of,a man has,a man is,a man thinks,a new email,a new law,a penguin at,
 i: 100
-trigrams: losing popularity year,senate,following information will,band e for,me to make,there comes a,me by that,me to join,be problems,twitter feed and,negative is survey,currently somewhere in,former fox news,while receiving unfunded,overpriced activity like,
+trigrams: a season overflowing,an vigilante group,as secretary of,because insanity is,by over the,chose not to,dear while waiting,director told congress,gong and earl,in less than,introduces windows update,is not even,its the little,the election will,this public lecture,
 i: 101
-trigrams: a bicycle made,a big reason,a billionaire philanthropist,a black agenda,a brilliant guide,a campaigner for,a charity just,a chef who,a chilling ministry,a clampdown on,a clogged nose,a colossal canyon,a council should,a couple of,a dark cloud,
+trigrams: a career trajectory,a former managing,a government minister,a grammar school,a senior boss,airways owner international,already most visited,always a tipping,an international award,an investigation has,aspiring fashion designer,at this time,been quite a,bill has denied,creative output at,
 i: 102
-trigrams: a child amidst,about the highlights,how this man,spreading to god,told congress on,that can give,differences but when,discuss recent revelations,mass destruction along,north with his,about it i,work stirring shit,higher total that,nations we shall,so ins detail,
+trigrams: a big reason,a bill giving,a brilliant guide,a businessman has,a charity has,a clampdown on,a coroner may,a council should,a criminal conviction,a doctor sexually,a drug that,a federal judge,a fighter jet,a fighter jet,a fine thing,
 i: 103
-trigrams: development in the,development in the,election will take,unusual configuration of,your home some,increasingly a threatened,the populace is,for a new,how this man,is elected president,included jerry of,my mom is,that costs freaking,while being but,issue the agreements,
+trigrams: a big reason,a chilling ministry,a few seconds,a fighter jet,a fighter jet,a gas flame,a group of,a huge deposit,a lot of,a major political,a majority of,a man has,a man pretended,a man receives,a man who,
 i: 104
-trigrams: was a friendship,in a couple,in a couple,with money or,with money or,seen i read,discussion clubs annual,forever be synonymous,week i will,does he resort,on the pound,the fantasy in,under a common,other i said,those zones could,
+trigrams: a big reason,a brilliant guide,a businessman has,a businessman whose,a campaigner for,a chilling ministry,a confession you,a controlled explosion,a council should,a couple of,a court has,a criminal trial,a dozen international,a earthquake has,a few seconds,
 i: 105
-trigrams: of biggest award,interesting question,headache if claims,this season,email has declared,white house,with his incarceration,a runway,dead,steps to address,pm,on,on,on,on,
+trigrams: a afternoon at,a belated happy,a bicycle made,a billionaire philanthropist,a boost for,a boy who,a businessman whose,a campaigner for,a chain of,a charity has,a clampdown on,a collection of,a common misconception,a conservative council,a controlled explosion,
 i: 106
-trigrams: a big reason,a brilliant guide,a colossal canyon,a confession you,a controlled explosion,a criminal conviction,a criminal trial,a doctor sexually,a dog hipster,a federal judge,a fighter jet,a fine thing,a guardian survey,a heavyweight contender,a hypersonic aircraft,
+trigrams: a new type,has confirmed he,opposition party is,the general medical,the has agreed,the high court,there was talk,he studies for,of the terrorism,that the players,its pension steelworkers,not splashed across,comments sent a,large supermarket chains,hit the ground,
 i: 107
-trigrams: a big reason,a bill to,a black agenda,a certain satisfaction,a chef who,a chilling ministry,a cinema has,a colossal canyon,a confession you,a coroner may,a council should,a couple who,a criminal conviction,a criminal trial,a drug that,
+trigrams: wild an brand,and pointed toward,far,holidays,public lecture at,shows,to come,content,content,content,content,content,content,after attending he,home some warmth,
 i: 108
-trigrams: a dog hipster,by natural blaze,chose not to,email a major,have no reason,how and was,its the little,j trump said,no doubt for,of the celebrates,photo president congratulated,see what celebrities,share on if,share on the,so have and,
+trigrams: this public lecture,being but coward,his tweet is,a punch originally,civilians to be,if you can,chart topping band,the,the,headquarters this article,finance,terrorism,take place,she noticed more,reports of terrorist,
 i: 109
-trigrams: holidays,driver for a,soldier that ever,thank you to,dangers of nuclear,revolution the awareness,phase,threat,create a welcoming,people little says,celebrities like p,many civilian automobiles,are given,cash,free,
+trigrams: a big reason,a chilling ministry,a family of,a few seconds,a former business,a gas flame,a gravely written,a grim new,a group of,a highly guarded,a indictment is,a leading us,a leaked reveals,a major political,a man checks,
 i: 110
-trigrams: a big reason,a brilliant guide,a couple of,a crowd greeted,a dog hipster,a few seconds,a fighter jet,a gas flame,a hypersonic aircraft,a journalism fellow,a jury in,a leading us,a leading us,a leaked reveals,a look at,
+trigrams: a bit cheeky,a conservative council,a couple who,a federal judge,a man has,a man who,a new way,all new justices,all your with,also questioned whether,an influential group,an invitation for,and readers on,and were married,at this time,
 i: 111
-trigrams: warning signal for,wrist fractures,museum is entering,negative attitudes toward,in,in,politics,week,stretcher bearer during,on earth,on earth,another,colleague has exit,a former mayor,uppercut by near,
+trigrams: a big reason,a chilling ministry,a colossal canyon,a few seconds,a gas flame,a group of,a lot of,a man is,a man receives,a military commander,a new statement,a rival to,a senior former,a small percentage,a study of,
 i: 112
-trigrams: instructed their viewers,long road trip,to their ambitions,wildly divergent surveys,numbers are understated,be pouring into,companies which produce,back to square,cold war becoming,prevent the emergence,at its core,special late courtesy,special late courtesy,illegitimate and unsustainable,you cannot talk,
+trigrams: home some warmth,next week,less than two,disqualified after testing,is this chaotic,down what an,as bush is,they will die,see what celebrities,honorary designation for,even completely prevented,below why not,new,featured properties in,pretty healthy servings,
 i: 113
-trigrams: to architects,silencing dissent,of isolation toward,on,on,through,one nationality over,for holidays,anything with animal,i am delighted,his recent donation,actual from an,hat,resilient society so,shows,
+trigrams: a big reason,a group of,a leaked reveals,a man has,a man who,a new email,according to the,add comment a,add comment with,after the referendum,ago president has,am by leave,am i the,amid great mainstream,and will go,
 i: 114
-trigrams: caused a lot,memories when we,is a progressives,link a reply,then a special,announced a new,walled we project,new a more,internationalists conspiring with,for a number,create a whole,bush administration they,or a native,roe v wade,form a single,
+trigrams: albeit an unlikely,his campaign of,new environment on,same hallmarks as,being targeted and,fact very little,against campaign and,any potentially significant,social climate of,increasingly unstable and,was sinking and,up most of,solo at the,look more likely,being described as,
 i: 115
-trigrams: adulthood is hard,after a slow,and so will,apparently the news,as if todays,at pm is,by culture of,by end of,by in the,by in the,by knight warned,by natural blaze,click on the,confidence is high,crooked politicians refuse,
+trigrams: a big reason,a bill giving,a boy who,a businessman has,a chilling ministry,a controlled explosion,a criminal trial,a drug that,a federal judge,a fine thing,a gas flame,a gravely written,a group of,a group of,a huge deposit,
 i: 116
-trigrams: a big reason,a bill to,a brilliant guide,a charity has,a clampdown on,a colossal canyon,a conservative council,a dispatch from,a dog hipster,a federal judge,a few seconds,a fighter jet,a former police,a former senior,a former top,
+trigrams: its the little,a st jury,were coming for,at its annual,has been operating,my baby but,or real,serves vodka use,native water protectors,biggest award shows,the populace is,the man refused,week we have,that my plan,by misdirecting three,
 i: 117
-trigrams: refugee,these stole the,they ask assertively,whereas in republic,clarifications,making prompting people,die,broadest of grins,shed,honors our veterans,money on knitwear,the black holdall,clear i am,innocent she because,road,
+trigrams: stripped the country,is the mainstream,the midfielder will,your views with,card companies have,the rich are,annual report shows,in,against those executive,of accepting these,sort of wildlife,come,throughout,always for those,accounting policies mean,
 i: 118
-trigrams: give your home,fecal matter to,other nations,political construct simply,public library by,against themselves,man clown muss,a verb and,read article on,war they will,is a commissioned,pm i know,gives you morning,annual,and politics,
+trigrams: content,content,content,content,content,content,content,content,content,content,content,content,content,content,content,
 i: 119
-trigrams: question,disabled through,this chaotic breakfast,retired,cuts and grazes,relatively shallow,us getting carried,preferred candidate,on a radio,interview in response,of biggest award,yard artistic jay,put forth sanders,posted on by,ascent of populism,
+trigrams: via on on,via on on,via on on,via on on,will make an,growth in costs,revenues down by,all vacancies this,actually expanded by,oil shortage might,have been spurred,we played against,it was undermining,asses the specifics,deserve the fans,
 i: 120
-trigrams: dramatic paraboloid aimed,natural while someone,goings on,sensors and cameras,are not using,war really gets,discussion,had an awards,cycle for national,we can actually,of a postwar,comes next,more oriented toward,more oriented toward,negative impact of,
+trigrams: end life on,end life on,virus on march,has a crisscrossing,moving hundreds or,chart showing this,spend millions upon,who sought our,vocal in opposing,better than and,stop working and,two men talked,feud over probe,airline with a,music from a,
 i: 121
-trigrams: drugs,week,the,come,surface computer unveiled,is holding an,national committee chairwoman,deco building in,spotted an unusual,swipe the breakfast,war of words,months,of,of,of awareness openhearted,
+trigrams: a man has,a man who,all new justices,almost of renters,arena has been,as the world,been five months,bill has denied,bumper box office,city council is,cuts to staff,does trump election,eating and drinking,england head has,expansion in factories,
 i: 122
-trigrams: transactional sex to,selective is possible,dropping by ten,time is but,looming catastrophe in,done independent research,their own steam,program known as,email democrats were,the supreme ayatollah,enjoy it as,a bit longsighted,responsibility to tear,effect painful medicine,fit a square,
+trigrams: a big reason,a brilliant guide,a businessman has,a campaigner for,a charity has,a chilling ministry,a coalition of,a company has,a controlled explosion,a criminal trial,a daughter of,a deputy inspector,a earthquake has,a few seconds,a few years,
 i: 123
-trigrams: a bicycle made,a big reason,a billionaire philanthropist,a black agenda,a black agenda,a boy who,a career trajectory,a certain satisfaction,a chilling ministry,a clampdown on,a clogged nose,a colossal canyon,a company has,a conservative council,a coroner may,
+trigrams: a big reason,a group of,a lot of,a magistrate has,a man receives,a small percentage,a sobering new,a south court,a war including,a win for,about of the,abstention from a,according to new,according to research,according to the,
 i: 124
-trigrams: zip question and,a continuance of,toward immigrants and,campaigns entirely on,empty year after,important erosions of,slice what were,culture but after,while protecting necessary,talks nice and,talks nice and,exertion of that,progressiveness plays an,specifically the economic,a informed whose,
+trigrams: its the little,ask someone who,illegally crossing into,celebrities like p,unfortunately most of,coming under fire,world diving all,and contemporary sale,as we is,utmost it is,his guts while,saints and duly,badge abuse comments,you have medical,scorer son from,
 i: 125
-trigrams: bit by making,including four on,ratifying whether on,threats that west,been saved from,filing for inc,given a mechanical,director walker it,society less than,paid for by,to blow the,simply by digging,around soldiers along,speculation about a,are rarer than,
+trigrams: a council should,a former artistic,a man has,a man who,a mother and,a new trailer,a woman has,all new justices,already blighted by,and meet for,and readers on,any given bill,as millions nervously,aspiring fashion designer,at least people,
 i: 126
-trigrams: character,sad to but,because looking forward,die in,connected of daddy,observers many,us of considerable,a specific model,out there screaming,the,this content,this content,this content,populace is looking,year is likely,
+trigrams: see what celebrities,give your home,gets i wonder,journalists are increasingly,down what an,lobbyist and all,budget under warns,st jury has,summer i overheard,result of her,secret drone war,by natural blaze,green before an,use wild an,clearly warning us,
 i: 127
-trigrams: sudden the role,with cps refusal,market research is,architects,rich countries come,this information demands,launched investigations into,states,used as justification,prime minister jack,using your quality,committee was formed,thing i prepared,so darn crowded,click here,
+trigrams: a bill giving,a billionaire philanthropist,a campaigner for,a clampdown on,a council should,a dozen of,a former artistic,a grammar school,a group of,a landmark international,a landmark review,a loan to,a man has,a man who,a man who,

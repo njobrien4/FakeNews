@@ -1,60 +1,60 @@
-i: 65
-trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,
-i: 2
-trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a patchwork of,a patchwork of,a patchwork of,
-i: 67
-trigrams: school and so,albums like separation,get here ,,,chocolate coated pies,citys administrative court,,and stories is,seven americans goes,,, set against,leading impromptu street,to sell coastal,as gloria grahame,,
-i: 8
-trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,
-i: 11
-trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,
+i: 0
+trigrams: home some warmth,die in,week was awarded,ready ammunition stores,enemy china we,doubt religion is,by amanda froelich,russia starting in,increase these stole,situation,you endorse her,full service postwar,seeing either,international broadcasting awards,any classified information,
+i: 1
+trigrams: a big reason,a gravely written,a m pdt,a majority of,a man is,a man must,a man who,a military commander,a new email,a new statement,a stunning foreign,a very sobering,a vote for,a wee reminder,a woman moved,
+i: 4
+trigrams: a big reason,a black agenda,a black agenda,a chilling ministry,a colossal canyon,a day after,a determined young,a dog hipster,a few seconds,a gateway between,a gravely written,a grim new,a heartwarming moment,a highly guarded,a hypersonic aircraft,
+i: 71
+trigrams: a big reason,a carefully structured,a chilling ministry,a colossal canyon,a dog hipster,a gravely written,a hypersonic aircraft,a leading us,a leading us,a lot of,a majority of,a man is,a man who,a man who,a man wielding,
+i: 9
+trigrams: a big reason,a leading us,a majority of,a man is,a new statement,a singer decided,a wee reminder,a woman moved,abby martin exposes,about taming the,according to abc,add comment a,add comment a,add comment an,add comment as,
+i: 74
+trigrams: unthinkable foolish and,kriegerthe forgotten men,occasion for demonstrations,michael a wood,coverage in a,unloving and old,what does it,election taken at,overstays for repeat,toward muslims a,by dr eowyn,featured in mosaic,gosztola i get,patsies the diversion,sechin according to,
+i: 15
+trigrams: a big reason,a chilling ministry,a dog hipster,a few seconds,a gravely written,a grim new,a hypersonic aircraft,a leading us,a lot of,a m pdt,a majority of,a man is,a man must,a man who,a middle class,
 i: 16
-trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,
-i: 3
-trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,
+trigrams: a colossal canyon,a few seconds,a former assistant,a hypersonic aircraft,a majority of,a man is,a middle class,a new statement,a north carolina,a russian fighter,a singer decided,a small percentage,a wee reminder,a year old,abadi says they,
+i: 18
+trigrams: a day after,a few seconds,a hypersonic aircraft,a jury in,a m pdt,a man who,a new statement,a north carolina,a wee reminder,a year old,abby martin exposes,about of the,according to abc,according to new,accuses clinton campaign,
 i: 20
-trigrams: how much do,of papers covering,811 4111 ,,, as well,his cabinet ,,\( frank lovejoy,china , has,from the waterline,in harlem ,,of calcutta saroos,to the violations,puck size creamy,the rental anyway,made him famous,,
-i: 86
-trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,
-i: 23
-trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a patchwork of,a patchwork of,al caiola ,,al caiola ,,al caiola ,,alex stewart ,,alex stewart ,,
-i: 26
-trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,
-i: 47
-trigrams: a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a patchwork of,a patchwork of,a patchwork of,a patchwork of,a patchwork of,a patchwork of,a patchwork of,al caiola ,,al caiola ,,
-i: 92
-trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,
-i: 29
-trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a patchwork of,a patchwork of,a patchwork of,a patchwork of,al caiola ,,
-i: 94
-trigrams: beneficiaries who can,defensive rotations still,children leave \(,crystalline soundscape exploding,regular visitors in,1 52 \),new dull one,,it takes was,the shoulder gown,,also a fixture,for tea if,banned notes had,rather than a,
-i: 95
-trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a patchwork of,a patchwork of,a patchwork of,al caiola ,,al caiola ,,
-i: 33
-trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a patchwork of,a patchwork of,
-i: 35
-trigrams: , and the,, but then,, had been,, ida lupino,, their annual,, we all,, who plans,2015 , armed,500 classes \(,7 a m,a big part,a campaign promise,a mozart lover,a star wars,a two time,
-i: 36
-trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,
-i: 102
-trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,
-i: 103
-trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,
-i: 42
-trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,
-i: 43
-trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,
-i: 44
-trigrams: a man teaching,a man wielding,a man wielding,a patchwork of,a patchwork of,a patchwork of,al caiola ,,al caiola ,,al caiola ,,alex stewart ,,alex stewart ,,alex stewart ,,allied \( r,allied \( r,allied \( r,
-i: 46
-trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,
-i: 111
-trigrams: a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a patchwork of,a patchwork of,al caiola ,,al caiola ,,al caiola ,,al caiola ,,al caiola ,,alex stewart ,,alex stewart ,,alex stewart ,,
-i: 52
-trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,
-i: 57
-trigrams: a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,
+trigrams: election season began,unprecedented scale just,unprecedented scale just,unprecedented scale just,and mainstream media,aware of this,received in losing,moment of logic,united nations population,and consummate politician,computer raising questions,in modern military,these lofty goals,the multi billion,telephone conversation with,
+i: 85
+trigrams: a big reason,a brooklyn man,a brooklyn man,a colossal canyon,a day after,a deputy inspector,a determined young,a dog hipster,a few days,a few seconds,a former assistant,a fortnight ago,a heartwarming moment,a hillary clinton,a hypersonic aircraft,
+i: 79
+trigrams: a big reason,a carefully structured,a colossal canyon,a few seconds,a former top,a hillary clinton,a hypersonic aircraft,a leading us,a m pdt,a magnitude earthquake,a majority of,a man is,a man wielding,a military commander,a new email,
+i: 30
+trigrams: when a prosecutor,when a prosecutor,when a prosecutor,can fill a,can fill a,in a daily,evidence linking the,clinton crime family,cnn news analyst,getting a second,and a mass,set up a,make america strong,eddie a couple,russian territory a,
+i: 37
+trigrams: ever attempted to,has reached an,other to address,the loch ness,the loch ness,the loch ness,awareness of the,unblocking of the,to start learning,version of bonnie,ago of global,earlier in my,already begun opening,a movement comprised,one portraying mr,
+i: 34
+trigrams: a big reason,a few seconds,a former assistant,a majority of,a man wielding,a new statement,a russian fighter,a wee reminder,a woman moved,a woman who,a year old,abby martin exposes,about of the,according to new,according to reuters,
+i: 99
+trigrams: a colossal canyon,a day after,a man who,a north carolina,a wee reminder,a woman moved,a woman who,a woman who,abby martin exposes,about taming the,according to new,add comment a,add comment an,add comment an,add comment concern,
+i: 101
+trigrams: a big reason,a black agenda,a colossal canyon,a few seconds,a hypersonic aircraft,a majority of,a man who,a small percentage,a wee reminder,about of the,accuses clinton campaign,add comment as,add comment careful,add comment concern,add comment in,
+i: 39
+trigrams: a big reason,a carefully structured,a chilling ministry,a day after,a determined young,a dispatch from,a farmers work,a few days,a few seconds,a few years,a former assistant,a former top,a fund for,a grim new,a hypersonic aircraft,
+i: 107
+trigrams: a big reason,a canadian mother,a chilling ministry,a colossal canyon,a day after,a few seconds,a former assistant,a look at,a lot of,a m pdt,a man who,a middle class,a proper foreign,a small percentage,a wee reminder,
+i: 50
+trigrams: a colossal canyon,a dog hipster,a former assistant,a grim new,a hypersonic aircraft,a jury in,a leading us,a m pdt,a man who,a middle class,a new email,a new statement,a plane carrying,a stunning foreign,a ten person,
+i: 125
+trigrams: bit by making,capital that cannot,by adults by,focused heavily on,been validated by,been legalized the,argued for her,paid for by,comments but more,stein who said,at a beginners,physical damage each,framing what youll,,,
+i: 48
+trigrams: a big reason,a brooklyn man,a brooklyn man,a chilling ministry,a colossal canyon,a deputy inspector,a few seconds,a highly guarded,a hillary clinton,a hypersonic aircraft,a leading us,a m pdt,a majority of,a man is,a man who,
+i: 114
+trigrams: planetary collective solar,down abandoned judged,link a reply,packing your brain,century without the,for a number,criminally negligent with,criminally negligent with,or a native,or undeclared salafist,has a historical,on a problem,koichiro gemba we,adulterous affairs fair,except a bigger,
+i: 51
+trigrams: a day after,a few seconds,a heartwarming moment,a hillary clinton,a hypersonic aircraft,a leading us,a m pdt,a majority of,a man must,a massive global,a middle class,a new statement,a newlywed couple,a north carolina,a stunning foreign,
+i: 53
+trigrams: chariot stopped in,i saw an,or facial expressions,around march jeff,the window the,five months i,us and canada,and yet im,yodas skincare needs,threshold of being,high blood pressure,iea estimating demand,mussolini and franco,an ap news,flashlight gloves a,
+i: 56
+trigrams: a big reason,a carefully structured,a few seconds,a gravely written,a jury in,a lot of,a middle class,a new email,a north carolina,a vote for,a wee reminder,a woman moved,a working class,abby martin exposes,according to a,
+i: 59
+trigrams: americans dropped out,and efficient farmers,toward seeing us,republican party obama,rubin greenscam and,your pick of,former breitbart ceo,and outrage but,and into jordan,made up out,signed up for,signed up for,read this far,hero savior or,crosswalk if a,
+i: 61
+trigrams: a big reason,a black agenda,a chilling ministry,a hypersonic aircraft,a jury in,a look at,a lot of,a man must,a man who,a military commander,a new email,a new private,a new statement,a newlywed couple,a russian fighter,
 i: 62
-trigrams: a man teaching,a man wielding,a man wielding,a man wielding,a patchwork of,al caiola ,,al caiola ,,alex stewart ,,alex stewart ,,allied \( r,allied \( r,allied \( r,allied \( r,allied \( r,alligator \( previews,
+trigrams: a niche amount,of skanks to,elected because flyover,hearts are ill,your sisters apartment,the machiavellis to,the machiavellis to,the machiavellis to,or official connected,your shirt from,mclellan said it,a flashlight shot,collection here from,is unlikely to,long term energy,
 i: 63
-trigrams: a man teaching,a man teaching,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a man wielding,a patchwork of,a patchwork of,a patchwork of,a patchwork of,a patchwork of,al caiola ,,
+trigrams: a chilling ministry,a day after,a hypersonic aircraft,a m pdt,a man wielding,a military commander,a month ago,a new statement,a proper foreign,a singer decided,a small percentage,a wee reminder,a woman moved,abby martin exposes,about of the,

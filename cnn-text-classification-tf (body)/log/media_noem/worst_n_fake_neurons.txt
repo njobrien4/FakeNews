@@ -1,60 +1,60 @@
 i: 3
-trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+trigrams: a big selloff,a brooklyn man,a close friend,a complaint has,a leading us,a lot of,a majority of,a man who,a new shocking,a ppp poll,a retired four,a single court,a wonderful and,abby martin exposes,according to conservative,
 i: 5
-trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,after months of,after months of,after months of,
+trigrams: a big selloff,a century ago,a complaint has,a lot of,a majority of,a nbc affiliate,a pollster who,a reply to,a retired four,a sobering new,a very sobering,according to four,according to quinnipiac,according to reuters,according to you,
 i: 33
-trigrams: william n copley,land , i,explosion at a,,particles skyrocketing ravi,,also remember people,have been destroyed,many problems data,psychological predicament but,trend already hurting,my daughter is,reveal a city,smartphones or google,,
+trigrams: archives michael on,i am a,i was and,outbreak of violent,posted on october,read by people,when americans shall,evils tempting though,mexico and reduce,los angeles and,los angeles and,whipsmart democrats and,whipsmart democrats and,americans concerned about,monday december the,
 i: 73
-trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+trigrams: a big selloff,a cbs denver,a complaint has,a dispatch from,a hillary clinton,a leading us,a lot of,a majority of,a man has,a man who,a new shocking,a pollster who,a ppp poll,a reply to,a retired four,
 i: 11
-trigrams: a few years,a few years,a few years,a few years,a few years,after months of,after months of,after months of,after months of,after months of,after months of,after months of,al caiola ,,al caiola ,,al caiola ,,
+trigrams: a century ago,a new shocking,a single court,am pastor mark,americans are being,archives michael on,archives michael on,as usa supreme,at pm leave,b y danny,b y danny,be sociable share,before viewing the,bni store nov,by alice salles,
 i: 80
-trigrams: after months of,the first part,washington in the,of customers who,theater , 253,fema trailer across,option it costs,you what donald,menken and glenn,on the project,cameron resigned ,,,\) he has,, elizabeth is,crowd in colorado,
+trigrams: archives michael on,barrel bomb the,by stewart dougherty,elections by fears,email print in,graphic clinton vs,grew up in,i have written,in faith society,november at pm,photo by veni,posted by nov,presidential campaign by,read by people,some of you,
 i: 17
-trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+trigrams: a big selloff,a black agenda,a black agenda,a cbs denver,a complaint has,a few days,a leading us,a majority of,a man has,a man who,a nbc affiliate,a new shocking,a pollster who,a ppp poll,a reply to,
 i: 22
-trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+trigrams: a big selloff,a casting call,a cbs denver,a complaint has,a dispatch from,a hillary clinton,a majority of,a man has,a man is,a man who,a nbc affiliate,a new shocking,a pollster who,a reply to,a report into,
 i: 87
-trigrams: ,asked a federal,thursday \) the,lupino starred as,, which was,friends had kept,,,,,,,,,,
+trigrams: former british ambassador,weeks ago there,the ceasefire lines,turns and convoluted,their golden opportunity,election bev harris,economic thriller about,the chairman wants,the chairman wants,says hoffman do,inaugurated on jan,weeks at a,the imagination that,tanf live there,plays a huge,
 i: 90
-trigrams: infuriating ankara and,haifa in northern,large charitable contributions,together time means,tv time trying,trump sat down,112 or just,, for which,entire senior management,level of stress,that palestinian nationalists,,bronx , rested,8 year old,to the waters,
+trigrams: much time as,been sacked by,bull down,and all we,the pure maya,urge all voters,will stay true,of hollywood he,other with obama,will argue for,comments released by,have darker blacks,next day when,both the republicans,of carries amy,
 i: 91
-trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+trigrams: a big selloff,a black agenda,a black agenda,a cbs denver,a complaint has,a dispatch from,a hillary clinton,a majority of,a man has,a man is,a national sport,a nbc affiliate,a pollster who,a reply to,a retired four,
 i: 28
-trigrams: after months of,all that man,an email i,as we enter,erbil , iraq,erbil , iraq,for the past,if alton brown,if the supposed,in his early,istanbul the european,jerusalem parts of,miami real estate,new delhi in,new delhi in,
+trigrams: advertisement moore new,am fareed zakaria,bob dylan will,by i will,by rev william,comments a suburban,do you remember,email michael moore,erbil iraq at,eric zuesse heres,i am a,imagine a world,in between nearly,in news articles,in the debate,
 i: 94
-trigrams: fight the dropping,and ryan gosling,from a psychotic,candidate can also,,champion , vietnam,christmas \( friday,footage cut from,read this story,mr trumps business,learn early in,is enough once,bennett , died,thursday \) the,the irish republican,
+trigrams: arjun walia october,if humans were,license dmca if,november am by,presidential campaign by,dirty conservatives wait,attacking isis convoys,hayes milbank and,announced a new,clinton archive with,isnt a protest,syria andiraq giving,for matters related,leading lawyers working,the plank behind,
 i: 31
-trigrams: bedroom wall ,,10th novel ,,us from the,riffs on the,she is the,has long stayed,in the corner,susan lehman is,,reports of household,passed columns of,, saying that,analysts say the,big feelings if,color in a,
+trigrams: close friend ever,new missile defence,like goldman sachs,presidential elections donald,haitians stay illegally,haitians stay illegally,heel journalist carl,heel journalist carl,heel journalist carl,fakest show the,its entertainment for,gage skidmore julian,and swinging in,and swinging in,muted ignored not,
 i: 16
-trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+trigrams: a big selloff,a cbs denver,a complaint has,a dispatch from,a majority of,a man who,a nbc affiliate,a new shocking,a reply to,a retired four,a wonderful and,abby martin exposes,according to a,according to conservative,according to four,
 i: 99
-trigrams: a few years,a few years,after months of,after months of,al caiola ,,all that man,all that man,alligator \( previews,alligator \( previews,an email i,an email i,andra day \(,andra day \(,as we enter,as we enter,
+trigrams: a baltimore public,am fareed zakaria,anti trust and,archives michael on,arjun walia october,bob dylan will,by andrew levine,by by who,by jon rappoport,by louis xvi,by of course,by on mon,by on october,by on sat,by outis philalithopoulos,
 i: 40
-trigrams: the criterion of,he had watched,bands new album,,, but she,if you have,popular vote is,up death row,might cost her,usually in europe,, 702 union,, because a,,old juniors ,,a daily basis,
+trigrams: so how can,week of negotiations,shifting forces into,a sectarian rgime,muslims celebrating in,ever ask for,enters new uncertain,odd thing is,odd thing is,odd thing is,and dissatisfaction against,students in kiev,population is in,ms abedin served,cullis a specialist,
 i: 42
-trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+trigrams: a big selloff,a cbs denver,a century ago,a complaint has,a hillary clinton,a leading us,a majority of,a man is,a man who,a nbc affiliate,a new shocking,a pollster who,a ppp poll,a reply to,a retired four,
 i: 46
-trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+trigrams: a big selloff,a complaint has,a dispatch from,a few days,a grim new,a hillary clinton,a man has,a man who,a nbc affiliate,a new shocking,a pollster who,a reply to,a retired four,abby martin exposes,according to conservative,
 i: 111
-trigrams: a few years,a few years,a few years,a few years,a few years,a few years,after months of,after months of,after months of,after months of,after months of,after months of,after months of,after months of,after months of,
+trigrams: a big selloff,a cbs denver,a century ago,a nbc affiliate,a reply to,a retired four,a single court,a wikileaks email,abby martin exposes,according to four,according to quinnipiac,according to reuters,add comment on,add comment president,adobochron comment moyers,
 i: 113
-trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+trigrams: a big selloff,a grim new,a hillary clinton,a lot of,a man has,a man who,a new shocking,a pollster who,a ppp poll,a reply to,a retired four,a sobering new,a tidal wave,abby martin exposes,according to four,
 i: 53
-trigrams: a player with,interview times reporters,something that outraged,yesterday , he,haider al abadi,considering he was,what might have,abuse and mismanagement,the crown ,,dinners so make,tests that led,close the home,tuesday , accusing,surrendered afterward ,,haley , 44,
+trigrams: the election,the election,outcome,alert oh yeah,to defeat,if that student,stunning win clintonrepublican,too good even,from the ku,national election,total wealth increase,to miss,fair this is,nor andrew jackson,watch has acknowledged,
 i: 121
-trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+trigrams: a big selloff,a cbs denver,a complaint has,a dispatch from,a grim new,a hillary clinton,a majority of,a pollster who,a reply to,abby martin exposes,according to conservative,according to four,according to quinnipiac,according to you,accuses clinton campaign,
 i: 56
-trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+trigrams: a big selloff,a cbs denver,a century ago,a complaint has,a dispatch from,a leading us,a lot of,a magnitude earthquake,a majority of,a man has,a man who,a pollster who,a ppp poll,a retired four,a single court,
 i: 104
-trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+trigrams: a big selloff,a complaint has,a hillary clinton,a majority of,a man is,a month ago,a national sport,a new shocking,a report into,a retired four,a tidal wave,abby martin exposes,according to conservative,according to four,according to quinnipiac,
 i: 122
-trigrams: a few years,a few years,a few years,a few years,a few years,a few years,after months of,after months of,after months of,after months of,after months of,after months of,after months of,after months of,after months of,
+trigrams: a big selloff,a cbs denver,a century ago,a majority of,a man is,a reply to,a tidal wave,according to quinnipiac,according to reuters,according to you,add comment as,add comment in,admittedly the question,adobochron comment moyers,adobochron leave a,
 i: 63
-trigrams: to triumph in,\( or was,the country ,,,music of hauschka,dev patel \),done,the year the,president attacks mr,in his own,petition for a,,,,,
+trigrams: boris johnsons hare,not successful another,happy to take,draitsers question assumes,transfers to the,transfers to the,different faith traditions,said said ford,material to tomorrows,to land a,york in an,towards opposing philosophical,in the banks,to purchase a,love to chop,
 i: 60
-trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,
+trigrams: a big selloff,a brooklyn man,a cbs denver,a century ago,a complaint has,a few days,a grim new,a hillary clinton,a majority of,a man has,a man is,a national sport,a nbc affiliate,a new shocking,a pollster who,
 i: 126
-trigrams: a few years,a few years,a few years,a few years,after months of,after months of,after months of,al caiola ,,all that man,all that man,alligator \( previews,an email i,andra day \(,as we enter,as we enter,
+trigrams: am fareed zakaria,anti trust and,archives michael on,arjun walia october,article squash rice,asan south korea,b y danny,bernard you naughty,by brandon turbeville,by by who,by daisy lutherlets,by guitarsandmore april,by november journalist,by october this,by of course,
 i: 127
-trigrams: a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,a few years,after months of,after months of,after months of,
+trigrams: a big selloff,a century ago,a dispatch from,a few days,a man has,a man who,a nbc affiliate,a reply to,a wikileaks email,according to conservative,add comment as,add comment on,adobochron comment moyers,adobochron leave a,after decades of,
