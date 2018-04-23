@@ -175,7 +175,7 @@ def get_n_best_neurons(weights, n,abs_value = False):
 
 
 def get_info(ind, all_wi_ai, all_top_neurons, best_trigrams):
-	cur_dir = "log/"
+	cur_dir = "trump_clean_info/"
 	import pickle
 	with open(cur_dir+all_top_neurons, 'rb') as f:
 		all_top_neurons = pickle.load(f) #all top neurons has most relevant neurons for each x_raw
@@ -190,8 +190,49 @@ def get_info(ind, all_wi_ai, all_top_neurons, best_trigrams):
 			trigram = ' '.join(best_trigrams[neuron][ind][1][0])
 			triple_li.append((neuron, trigram, tup[1]))
 		all_triples.append(triple_li)
-	print(all_triples, "is all top neurons[ind]")
+	#print(all_triples, "is all top neurons[ind]")
 	all_wi_ai=np.load(cur_dir+all_wi_ai)
+	wi_ais = all_wi_ai[ind]
+		#plot x_raw[ind] weights*activation for fake news indicator
+	fake_news=wi_ais[0]
+		#plot x_raw[ind] weights*activation for real news indicator
+	real_news=wi_ais[1]
+
+	most_fake_indices=fake_news.argsort()[-10:][::-1]
+	least_fake_indices=fake_news.argsort()[:10]
+	most_real_indices = real_news.argsort()[-10:][::-1]
+	least_real_indices = real_news.argsort()[:10]
+	most_fake_trigrams=[]
+	for neuron in most_fake_indices:
+		trigram = ' '.join(best_trigrams[neuron][ind][1][0])
+		string = trigram+', *neuron: '+str(neuron)+' '+str(fake_news[neuron])
+		most_fake_trigrams.append(string)
+
+
+	print(most_fake_trigrams)
+
+	most_real_trigrams=[]
+	for neuron in most_real_indices:
+		trigram = ' '.join(best_trigrams[neuron][ind][1][0])
+		most_real_trigrams.append(trigram+', *neuron: '+str(neuron)+' '+str(real_news[neuron]))
+
+
+	print(most_real_trigrams)
+
+	least_fake_trigrams=[]
+	for neuron in least_fake_indices:
+		trigram = ' '.join(best_trigrams[neuron][ind][1][0])
+		least_fake_trigrams.append(trigram+', *neuron: '+str(neuron)+' '+str(fake_news[neuron]))
+
+
+	print(least_fake_trigrams)
+
+	least_real_trigrams=[]
+	for neuron in least_real_indices:
+		trigram = ' '.join(best_trigrams[neuron][ind][1][0])
+		least_real_trigrams.append(trigram+', *neuron: '+str(neuron)+' '+str(real_news[neuron]))
+
+	print(least_real_trigrams)
 	make_wi_ai_histogram(all_wi_ai, ind)
 	
 
