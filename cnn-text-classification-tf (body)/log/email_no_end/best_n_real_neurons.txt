@@ -1,0 +1,60 @@
+i: 51
+trigrams: a wonderful and,and have stalled,archives on television,archives on television,be roughly at,by e as,by health impact,by john w,by john w,by martin a,by on dog,by on reflections,by on the,by politics for,by posted on,
+i: 3
+trigrams: a black agenda,a brilliant guide,a candidate under,a complaint has,a federal court,a former assistant,a gravely written,a hacker hi,a las y,a new email,a new email,a new shocking,a newly leaked,a newly released,a prominent native,
+i: 4
+trigrams: a candidate under,a complaint has,a federal court,a former assistant,a gravely written,a highly guarded,a man who,a national sport,a new email,a new email,a new shocking,a newly leaked,a source at,a stunning foreign,a stunning video,
+i: 76
+trigrams: a campaign plane,a few days,a hacker hi,a las y,a national sport,a new email,a new shocking,a newly leaked,a newly released,a pollster who,according to a,according to the,accused of comments,accused of elitist,add comment emails,
+i: 12
+trigrams: and have stalled,by the constant,cannon is a,dispatches from working,email director of,email on the,email to no,email when she,exists at that,here something interesting,is preparing for,is there any,my boss is,the steak and,trump first televised,
+i: 77
+trigrams: a candidate under,a chilling ministry,a complaint has,a federal court,a hacker hi,a las y,a new email,a very sobering,ad account posted,add comment emails,ads privacy policy,ads privacy policy,ads privacy policy,ads privacy policy,afraid of trump,
+i: 16
+trigrams: a black agenda,a brilliant guide,a campaign plane,a federal court,a gravely written,a group of,a hacker hi,a las y,a man who,a new email,a new email,a new shocking,a newly leaked,a pollster who,a source at,
+i: 81
+trigrams: a complaint has,a hacker hi,a las y,a new shocking,a source at,according to a,according to conservative,according to new,according to the,accuses campaign of,add comment on,ads privacy policy,ads some evidence,afraid of trump,after the shocking,
+i: 9
+trigrams: a brilliant guide,a candidate under,a complaint has,a federal court,a hacker hi,a las y,a new email,a single spark,a very sobering,according to a,according to a,according to new,ad account posted,ads privacy policy,ads privacy policy,
+i: 90
+trigrams: of it shes,and overall personality,and north these,of this double,leave but feel,and with adjudicating,and she claimed,against peaceful opponents,younger souled politicians,until every inch,of peeping toms,a necessary causality,a necessary causality,in he criticized,reality like said,
+i: 92
+trigrams: a brilliant guide,a campaign plane,a candidate under,a chilling ministry,a complaint has,a few days,a gravely written,a hacker hi,a las y,a leading us,a new batch,a new email,a new shocking,a newly leaked,a newly released,
+i: 30
+trigrams: a brilliant guide,a candidate under,a chilling ministry,a complaint has,a email released,a federal court,a former assistant,a national sport,a new email,a new email,a newly released,a pollster who,a single spark,a stunning video,according to a,
+i: 101
+trigrams: a brilliant guide,a candidate under,a complaint has,a email released,a former assistant,a gravely written,a hacker hi,a key confidante,a las y,a new email,a new email,a new email,a newly leaked,a plane carrying,a pollster who,
+i: 35
+trigrams: a brilliant guide,a chilling ministry,a complaint has,a email released,a gravely written,a hacker hi,a las y,a leading us,a new email,a new email,a newly leaked,a newly released,a pollster who,a stunning foreign,a stunning video,
+i: 102
+trigrams: wood editor note,family was better,the plain language,less in satellite,systems but a,email every four,all figure it,psycho in command,psycho in command,email tar many,minibuses carrying who,now makes it,ecocide but where,further noted it,million donation had,
+i: 38
+trigrams: email every four,in the world,mutiny at the,print email set,propaganda is now,socialist flag by,someone is getting,vineyard of the,your in this,team and take,emails is a,without prevarications the,election victory raises,involve rumors of,team leader for,
+i: 106
+trigrams: a complaint has,a federal court,a hacker hi,a million people,a new email,a newly released,a pollster who,a source at,according to a,accused of comments,accused of elitist,ads privacy policy,ads privacy policy,ads privacy policy,ads some evidence,
+i: 45
+trigrams: a brilliant guide,a candidate under,a coroner is,a federal court,a former assistant,a gravely written,a las y,a new batch,a new email,a new email,a new shocking,a newly leaked,a pollster who,a prestigious college,a source at,
+i: 111
+trigrams: a black agenda,a complaint has,a hacker hi,a las y,a leading us,a new email,a new shocking,a newly leaked,accuses campaign of,add comment emails,add comment on,ads privacy policy,ads privacy policy,ads privacy policy,ads some evidence,
+i: 112
+trigrams: a black agenda,a campaign plane,a candidate under,a chilling ministry,a complaint has,a federal court,a few days,a former assistant,a hacker hi,a highly guarded,a las y,a leading us,a month ago,a national sport,a new batch,
+i: 49
+trigrams: a brilliant guide,a candidate under,a chilling ministry,a federal court,a hacker hi,a las y,a new email,a new email,a new shocking,a newly leaked,a plane carrying,a pollster who,a satanic temple,a source at,a south court,
+i: 115
+trigrams: a campaign plane,a candidate under,a chilling ministry,a complaint has,a hacker hi,a indictment is,a las y,a national sport,a new email,a new email,a new shocking,a newly released,a satanic temple,a source at,a very sobering,
+i: 116
+trigrams: a brilliant guide,a candidate under,a complaint has,a federal court,a hacker hi,a highly guarded,a indictment is,a las y,a leading us,a man who,a new email,a new shocking,a newly leaked,a single spark,a source at,
+i: 118
+trigrams: a campaign plane,a candidate under,a chilling ministry,a complaint has,a dispatch from,a email released,a federal court,a former assistant,a hacker hi,a indictment is,a las y,a leading us,a man who,a new batch,a new email,
+i: 55
+trigrams: a candidate under,a complaint has,a dispatch from,a former assistant,a man who,a new email,a new shocking,a newly leaked,a newly released,a plane carrying,a pollster who,a stunning video,according to a,according to a,according to new,
+i: 121
+trigrams: a brilliant guide,a candidate under,a chilling ministry,a dispatch from,a federal court,a few days,a former assistant,a gravely written,a hacker hi,a highly guarded,a indictment is,a journalism fellow,a las y,a leading us,a man who,
+i: 58
+trigrams: a black agenda,a brilliant guide,a chilling ministry,a complaint has,a federal court,a gravely written,a hacker hi,a las y,a leading us,a new email,a new email,a new email,a new shocking,a newly leaked,a pollster who,
+i: 59
+trigrams: a chilling ministry,a complaint has,a hacker hi,a las y,a leading us,a man who,a new email,a new email,a new email,a newly released,a south court,a stunning foreign,a stunning video,a very sobering,according to a,
+i: 124
+trigrams: a brilliant guide,a candidate under,a complaint has,a former assistant,a hacker hi,a las y,a new batch,a new email,a new email,a new shocking,a newly leaked,a newly released,a pollster who,a source at,a stunning foreign,
+i: 63
+trigrams: a campaign plane,a candidate under,a hacker hi,a las y,a new email,a new email,a newly leaked,a newly released,a pollster who,a prominent native,a union has,according to a,according to conservative,according to new,according to the,

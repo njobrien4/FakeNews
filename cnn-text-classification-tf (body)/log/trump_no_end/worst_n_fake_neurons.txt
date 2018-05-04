@@ -1,0 +1,60 @@
+i: 64
+trigrams: a big into,a complaint has,a firefighter from,a goon destroyed,a gravely written,a grim new,a look at,a majority of,a man who,a new email,a new shocking,a pollster who,a smiling trump,a source at,a tidal wave,
+i: 2
+trigrams: a big into,a campaign plane,a complaint has,a firefighter from,a magazine of,a man has,a nation without,a new email,a new shocking,a pollster who,a recently published,a report based,a smiling trump,a source at,a tidal wave,
+i: 7
+trigrams: a big into,a blizzard of,a complaint has,a majority of,a new email,a new shocking,a retired general,a source at,a trump supporter,a very sobering,a vote for,a woman who,according to citizens,according to four,according to the,
+i: 72
+trigrams: a big into,a blizzard of,a brilliant guide,a complaint has,a firefighter from,a friend posts,a group of,a homeless black,a magazine of,a major new,a majority of,a man has,a new email,a report based,a retired general,
+i: 9
+trigrams: a big into,a couple of,a firefighter from,a former assistant,a grim new,a lot of,a majority of,a man is,a man who,a moment when,a new shocking,a poll of,a pollster who,a recent piece,a short summation,
+i: 11
+trigrams: a big into,a former assistant,a gravely written,a magazine of,a major new,a majority of,a man who,a new email,a new shocking,a poll of,a retired general,a sobering new,a source at,a trump supporter,a trump supporter,
+i: 66
+trigrams: a big into,a blizzard of,a complaint has,a gravely written,a homeless black,a major new,a majority of,a man has,a man who,a nation without,a new email,a new shocking,a poll of,a pollster who,a recent piece,
+i: 77
+trigrams: a big into,a blizzard of,a firefighter from,a former assistant,a lot of,a major new,a majority of,a man has,a man is,a man who,a man who,a nation without,a new email,a new shocking,a retired general,
+i: 16
+trigrams: a big into,a blizzard of,a complaint has,a firefighter from,a goon destroyed,a major new,a majority of,a man has,a man is,a man who,a nation without,a new email,a new shocking,a poll of,a pollster who,
+i: 18
+trigrams: a big into,a billionaire philanthropist,a campaign plane,a complaint has,a federal judge,a firefighter from,a gravely written,a major new,a majority of,a man who,a nation without,a new email,a pollster who,a retired general,a small gun,
+i: 84
+trigrams: a big into,a bill giving,a complaint has,a former assistant,a friend posts,a goon destroyed,a major new,a majority of,a man has,a man is,a new email,a report based,a smiling trump,a trump supporter,a trump supporter,
+i: 23
+trigrams: elites fear trump,all the,protest against trump,if a living,is the trump,by denying them,adults and has,president trump,crowd watching trump,street journal trumps,election of trump,know enough about,connection between trump,increase his,but reality,
+i: 88
+trigrams: a big into,a black agenda,a black agenda,a campaign plane,a complaint has,a firefighter from,a goon destroyed,a gravely written,a homeless black,a indictment is,a look at,a major new,a man is,a new email,a new shocking,
+i: 25
+trigrams: a big into,a few days,a firefighter from,a goon destroyed,a majority of,a man has,a nation without,a national sport,a new email,a new shocking,a poll of,a pollster who,a sobering new,a trump supporter,a trump supporter,
+i: 90
+trigrams: a big into,a black agenda,a black agenda,a blizzard of,a campaign plane,a complaint has,a few days,a firefighter from,a goon destroyed,a magazine of,a major new,a majority of,a man has,a man is,a national sport,
+i: 94
+trigrams: a complaint has,a few days,a firefighter from,a majority of,a man who,a new email,a new shocking,a pollster who,a smiling trump,a spokesman for,a trump supporter,a trump supporter,a trump supporter,according the democratic,according to a,
+i: 31
+trigrams: a big into,a blizzard of,a brilliant guide,a complaint has,a few days,a firefighter from,a former assistant,a goon destroyed,a magazine of,a majority of,a man has,a man is,a man who,a nation without,a new email,
+i: 32
+trigrams: a big into,a black agenda,a black agenda,a casting call,a complaint has,a goon destroyed,a gravely written,a major new,a man is,a nation without,a new email,a poll of,a pollster who,a recently published,a smiling trump,
+i: 100
+trigrams: a big into,a campaign plane,a new email,a new shocking,a retired general,a trump supporter,according to citizens,according to four,according to the,according to the,actually it was,add comment was,advertisement this is,afraid of trump,after months to,
+i: 101
+trigrams: a big into,a firefighter from,a major new,a man has,a nation without,a new email,a recent piece,a smiling trump,a trump supporter,a trump supporter,according the democratic,according to four,according to the,accuses campaign of,actor portraying in,
+i: 102
+trigrams: a big into,a campaign plane,a casting call,a complaint has,a firefighter from,a former beauty,a goon destroyed,a majority of,a new email,a new shocking,a plane carrying,a poll of,a recently published,a trump supporter,a vote for,
+i: 104
+trigrams: a blizzard of,a new email,a new shocking,a pollster who,a smiling trump,a source at,a trump supporter,a trump supporter,a vote for,according to citizens,according to four,according to the,according to university,accuses campaign of,actually it was,
+i: 112
+trigrams: a big into,a bill giving,a brilliant guide,a casting call,a complaint has,a dispatch from,a firefighter from,a goon destroyed,a gravely written,a is coming,a magazine of,a major new,a majority of,a man has,a man is,
+i: 30
+trigrams: a big into,a blizzard of,a brilliant guide,a complaint has,a firefighter from,a goon destroyed,a major new,a majority of,a new email,a new shocking,a poll of,a recently published,a report based,a smiling trump,a trump supporter,
+i: 118
+trigrams: a big into,a bill giving,a black agenda,a black agenda,a brilliant guide,a campaign plane,a complaint has,a federal judge,a goon destroyed,a indictment is,a magazine of,a man has,a new shocking,a pollster who,a recently published,
+i: 73
+trigrams: and editorial and,trumps election has,grocery store shelves,grocery store shelves,access pipeline and,conquest to describe,previous actions and,a record weekly,trumps promise to,trumps victory on,trump presents the,phones along with,phones along with,middle class jobs,vineyard of the,
+i: 38
+trigrams: a blizzard of,a complaint has,a firefighter from,a goon destroyed,a major new,a man has,a man is,a national sport,a new email,a new shocking,a recent piece,a recently published,a retired general,a smiling trump,a spokesman for,
+i: 125
+trigrams: a big into,a complaint has,a firefighter from,a goon destroyed,a journalism fellow,a magazine of,a major new,a majority of,a man has,a man is,a new email,a new shocking,a retired general,a smiling trump,a source at,
+i: 62
+trigrams: a big into,a brilliant guide,a firefighter from,a lot of,a man has,a nation without,a new shocking,a poll of,a prominent supporter,a recent piece,a recently published,a retired general,a single court,a smiling trump,a source at,
+i: 127
+trigrams: a big into,a complaint has,a firefighter from,a former assistant,a major new,a majority of,a man has,a man is,a new email,a pollster who,a source at,a trump supporter,a trump supporter,a vote for,according the democratic,

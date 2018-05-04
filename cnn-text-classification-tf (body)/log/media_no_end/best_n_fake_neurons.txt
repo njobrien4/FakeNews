@@ -1,0 +1,60 @@
+i: 0
+trigrams: a airport built,a few scraps,a former senior,a lot of,a new poll,a reporting team,a school pupil,a schoolboy who,activists are planning,age is not,all except we,always a tipping,amid great mainstream,an explosion struck,an increasing numbers,
+i: 1
+trigrams: a charity just,a coalition of,a demand for,a former business,a historic victory,a joint new,a jury has,a media teacher,a month ago,a new and,a prestigious college,a reporting team,a road has,a spokesman for,a woman has,
+i: 3
+trigrams: to immediately report,and,and,is completely shut,union,her media guards,hailstones were reported,twitter and,of,country continues to,main issue an,premium payments one,out,be,new,
+i: 65
+trigrams: for the promises,the chancellor brings,we urge all,of these media,country fire authority,since won four,fine this hardly,people on earth,sector,members together with,added that whether,upon first autumn,to the media,in and,reached to confirm,
+i: 72
+trigrams: and to immediately,intimidation and arbitrary,nations divided by,fighting and providing,collapse was connected,of,of,trump could immediately,been sexually assaulted,the truth media,the months immediately,those of origin,tribunal hearing,to meet immediate,to via spears,
+i: 12
+trigrams: a airport built,a big debate,a catholic primary,a certain satisfaction,a coalition of,a demand for,a federal appeals,a few scraps,a film crew,a former business,a former head,a former senior,a general view,a girl of,a girl who,
+i: 78
+trigrams: a fierce chorus,a union has,a woman taken,after a series,amazon will almost,and and grew,are the polls,basking in the,been a long,bob will not,break gender norms,by about to,directors of the,driven by a,early on election,
+i: 107
+trigrams: cash terms for,and,and,and,the comedians will,video in lieu,standard background inferno,teams at continue,death this winter,his immediate objective,am beginning to,make for uncomfortable,they drank carafe,again every two,third,
+i: 21
+trigrams: ardent leisure chief,no one was,one of most,the of the,the stance on,we urge all,armed factions in,on social media,the democrats this,department spokeswoman expressed,man grew irrationally,trump slammed the,the fire service,told news this,over police actions,
+i: 86
+trigrams: director of the,hybrid,those votes were,gives us the,cancel bill talk,reality,violent noise performance,hot topic for,check he did,am watch dukes,explained the decision,changing room immediately,the prodigy comedians,two diplomats,by the vote,
+i: 23
+trigrams: but reality,of,from reports showed,zone as two,were recorded if,a solution could,before casting their,strategy read jaguar,severe,few words for,social media,pm shares the,services,weak pound pushes,decorative abstracts this,
+i: 24
+trigrams: ago buy an,am embarrassed about,and saw median,as individuals still,bank of,of social media,dead so close,like japan or,at home immediately,our asylum,like enemies and,way of manipulating,week by redeeming,from he immediately,into until,
+i: 93
+trigrams: a charity just,a link to,a new poll,after a battle,already told the,although the federal,an influential group,an international award,and dame are,ardent leisure chief,as far as,been a long,been there done,bob will not,brad needs no,
+i: 98
+trigrams: as was predicted,bob will not,says the body,the serial killer,thousands of in,turkey and are,code tried something,speaker newt accused,sources acknowledge it,and,and,and,and,and,related the bizarre,
+i: 35
+trigrams: an man identified,and the family,as toast their,dozens of are,frank is absolutely,has spoken out,is a month,it easy sitting,lion and hunt,our shared history,the civil service,market losing between,disliked presidential candidates,with unstinting pressure,main this was,
+i: 101
+trigrams: a airport built,a delegation of,a football hero,a former chief,a general view,a member of,a new poll,a nurse who,a powerful earthquake,a reporting team,a rollicking painting,a schoolboy who,a senior boss,a woman taken,a woman who,
+i: 38
+trigrams: a catholic primary,a collection of,a former business,a former chief,a girl of,a historic victory,a new bill,a new poll,a new way,a road has,a rollicking painting,a schoolboy who,a small town,a tsunami has,a young father,
+i: 105
+trigrams: a new poll,as early as,by a day,posted on the,new television,tips for what,the machines before,certain instances is,trump for the,president would have,of about hawks,her media guards,their selections before,let the lion,social media alternative,
+i: 42
+trigrams: a university of,after a momentous,ally v first,always a tipping,an article over,an former altar,and still and,appears to have,are still a,as a woman,by been working,by most interesting,citizen journalism with,dozens of are,during the one,
+i: 43
+trigrams: a charity just,a demand for,a member of,a section of,a university of,always a tipping,always knew she,anarchist political observer,and there will,another suggestion would,as the refugee,as you says,at least people,at the international,been a rough,
+i: 44
+trigrams: television,and central,for contemporary,by panic over,family breeds mice,contracts still causes,said executive director,from anger into,for this first,river,link it to,of,between bristol temple,in this type,companies using agencies,
+i: 47
+trigrams: have been reintegrated,expected and immediate,and to immediately,grand ambitions burns,suffered vicious trolling,steps are immediately,horribly excluded by,leave the immediately,independence party,is too fat,glad is legal,he liked boys,came to light,here contribute,other realities brush,
+i: 112
+trigrams: a former business,a media teacher,a woman has,and and grew,and our match,as the refugee,as was predicted,at least people,at the international,bloodbath of an,bullying is a,by on future,by on the,by president asserted,delusional foreign policy,
+i: 114
+trigrams: read echoed trump,guests including comedian,of analogue media,add food and,person i immediately,o and,nothing lo and,flooding on road,this article cited,was told this,them down instead,jibe at jay,like enemies and,down ally pally,came out immediately,
+i: 52
+trigrams: selections before casting,by hedge funds,reason i find,flow his sense,lips a violent,by setting common,are,even stronger while,in the immediate,in the media,was not immediately,governing committee,watch and media,him like this,we fully intend,
+i: 118
+trigrams: trump and,now languish in,executive director of,and august this,for contemporary,ham,him,federal renewable energy,sector,by older brother,cinema albeit independent,systemic doping uncovered,then reports immediately,montage of previous,commons public administration,
+i: 120
+trigrams: we urge all,lib decimation it,professionals,the storm and,to,have been instrumental,statement,next,trump election reported,on,hole because of,trump of raping,reported hearing a,millions of vulnerable,south wales it,
+i: 57
+trigrams: a former chief,a group in,a hooch ad,a music shop,a new bill,a new poll,a rollicking painting,a who repeatedly,a young father,all appointments and,almost of renters,already told the,although the federal,an international award,an man identified,
+i: 122
+trigrams: a big reason,a brilliant guide,a federal court,a general view,a huge sinkhole,a journalist was,a la a,a las el,a link to,a magnitude earthquake,a man who,a new poll,a new shocking,a pollster who,a school has,
+i: 123
+trigrams: a member of,a woman taken,an former altar,and and grew,and the family,as toast their,at least people,by why did,email i visited,explains the does,federal government plans,forget suppers of,frank is absolutely,has gotten to,in the classic,

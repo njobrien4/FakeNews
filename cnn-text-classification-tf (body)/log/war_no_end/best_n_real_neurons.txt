@@ -1,0 +1,60 @@
+i: 0
+trigrams: a big reason,a controlled explosion,a criminal conviction,a few seconds,a leading us,a major political,a majority of,a man thinks,a new email,a teen diary,a war including,a wee hope,a woman has,a woman who,a woman who,
+i: 2
+trigrams: a chilling ministry,a court has,a federal judge,a few seconds,a friend posts,a gas flame,a gravely written,a grim new,a group of,a hard would,a heavily pregnant,a joint new,a leading us,a leading us,a leaked reveals,
+i: 69
+trigrams: a few seconds,a major political,a man receives,a man who,a new statement,a syndicate of,a war including,about of the,abstention from a,according to new,according to the,accuses campaign of,accuses diplomats of,accuses of being,actors lea and,
+i: 79
+trigrams: a big reason,a chilling ministry,a distaste for,a fighter jet,a fine thing,a group of,a heartwarming moment,a indictment is,a jury in,a leading us,a letter from,a majority of,a man and,a man receives,a man with,
+i: 15
+trigrams: a few seconds,a fighter jet,a fine thing,a former head,a leading us,a lot of,a man receives,a man who,a man with,a small percentage,a teen diary,a war including,about of the,according to the,according to the,
+i: 17
+trigrams: a big reason,a billionaire philanthropist,a few seconds,a group of,a group of,a jury in,a leaked reveals,a magazine of,a major political,a man receives,a man who,a meeting in,a middle class,a mortgage lender,a new email,
+i: 19
+trigrams: verge of becoming,she was emailing,metals relationship with,presidential victory while,unashamed to make,interests of public,cause an fake,strategy two things,exist the point,interests of other,hell is wrong,material is mailed,beat his competitors,portraits of voice,,
+i: 85
+trigrams: a group of,a leading us,a man is,a man who,a mortgage lender,a teen diary,a wee hope,a working class,according to the,add comment its,ads previous post,after reported with,ago remember a,am by leave,am pastor mark,
+i: 22
+trigrams: a big reason,a brilliant guide,a colossal canyon,a concert in,a few seconds,a fine thing,a group of,a hypersonic aircraft,a leading us,a leaked reveals,a letter from,a magazine of,a majority of,a man checks,a man thinks,
+i: 91
+trigrams: a big reason,a brilliant guide,a dog hipster,a few seconds,a fighter jet,a heartwarming moment,a leading us,a magazine of,a major political,a majority of,a man who,a man with,a ms debates,a new email,a recently published,
+i: 32
+trigrams: a big reason,a criminal conviction,a gas flame,a hypersonic aircraft,a judge has,a leading us,a lot of,a majority of,a man who,a ms debates,a new email,a small percentage,a storm is,a war including,a wee hope,
+i: 48
+trigrams: ,,,,,,,,,,,,,,,
+i: 34
+trigrams: a big reason,a chilling ministry,a colossal canyon,a court has,a dog hipster,a few seconds,a former senior,a grim new,a group in,a group of,a hypersonic aircraft,a leading us,a leaked reveals,a letter from,a link to,
+i: 27
+trigrams: a big reason,a chilling ministry,a deputy inspector,a fighter jet,a group of,a heartwarming moment,a indictment is,a leaked reveals,a look at,a lot of,a majority of,a man receives,a man thinks,a man who,a man wielding,
+i: 100
+trigrams: a big reason,a black agenda,a few days,a few seconds,a fighter jet,a former head,a group of,a journalism fellow,a leaked reveals,a long spell,a lot of,a major political,a majority of,a man receives,a man who,
+i: 101
+trigrams: a big reason,a billionaire philanthropist,a brilliant guide,a chilling ministry,a close friend,a criminal trial,a few seconds,a fighter jet,a hypersonic aircraft,a jury in,a leading us,a leading us,a man is,a man receives,a man thinks,
+i: 42
+trigrams: a big reason,a clogged nose,a concert in,a fighter jet,a group of,a hard would,a huge deposit,a hypersonic aircraft,a leading us,a leaked reveals,a letter from,a look at,a look at,a lot of,a magazine of,
+i: 107
+trigrams: a big reason,a black agenda,a chilling ministry,a council should,a criminal trial,a fighter jet,a former senior,a heartwarming moment,a hypersonic aircraft,a leading us,a leaked reveals,a letter from,a link to,a look at,a major political,
+i: 44
+trigrams: a big reason,a bill giving,a black agenda,a brilliant guide,a chilling ministry,a colossal canyon,a coroner may,a court has,a criminal conviction,a criminal trial,a dispatch from,a doctor sexually,a dog hipster,a federal judge,a federal jury,
+i: 46
+trigrams: a billionaire philanthropist,a chilling ministry,a criminal conviction,a distaste for,a federal judge,a few seconds,a fighter jet,a fine thing,a former senior,a gravely written,a group of,a heartwarming moment,a heavily pregnant,a hypersonic aircraft,a judge has,
+i: 111
+trigrams: a big reason,a controlled explosion,a deputy inspector,a dog hipster,a few seconds,a fighter jet,a fighter jet,a fine thing,a gas flame,a group of,a joint new,a leading us,a lot of,a major political,a majority of,
+i: 112
+trigrams: a big reason,a brilliant guide,a chilling ministry,a fighter jet,a fine thing,a hypersonic aircraft,a indictment is,a leading us,a lot of,a major political,a man has,a man is,a man receives,a man who,a new email,
+i: 114
+trigrams: examples of how,misreported as an,a populist administration,cytochrome c which,the social sciences,i cant shake,any direct debits,already promising a,promiscuous mother unexpectedly,the northern part,form of data,form of data,the presidents remarks,two groups basically,and essential a,
+i: 51
+trigrams: a big reason,a bill giving,a billionaire philanthropist,a chilling ministry,a few seconds,a fighter jet,a fighter jet,a hypersonic aircraft,a judge has,a leading us,a leading us,a leading us,a magazine of,a man has,a man receives,
+i: 52
+trigrams: a brilliant guide,a fighter jet,a group of,a leading us,a look at,a majority of,a man facing,a man with,a middle class,a new film,a new statement,a rival to,a trump supporter,a vote for,a wee hope,
+i: 118
+trigrams: who live down,and greater which,construction going on,warren buffets i,eliminated service at,much more on,on a dark,allegedly made on,it then mentioned,or more on,does fit in,does fit in,of surely puts,gold fit into,purpose knocks on,
+i: 116
+trigrams: a chilling ministry,a concert in,a deputy inspector,a federal judge,a fighter jet,a fine thing,a group of,a leading us,a letter from,a lot of,a major political,a man and,a man has,a man thinks,a man who,
+i: 122
+trigrams: a big reason,a chilling ministry,a concert in,a criminal trial,a few seconds,a fighter jet,a fine thing,a group of,a heartwarming moment,a lot of,a man thinks,a man who,a man with,a middle class,a nation without,
+i: 60
+trigrams: a big reason,a brilliant guide,a concert in,a controlled explosion,a few seconds,a fighter jet,a flotilla of,a group in,a group of,a hypersonic aircraft,a leading us,a leading us,a leaked reveals,a lot of,a lot of,
+i: 126
+trigrams: a big reason,a black agenda,a black agenda,a chilling ministry,a court has,a criminal conviction,a federal judge,a fighter jet,a hard would,a heartwarming moment,a indictment is,a judge has,a jury in,a key confidante,a leading us,

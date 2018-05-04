@@ -1,0 +1,60 @@
+i: 2
+trigrams: a big reason,a casting call,a delegation of,a email released,a federal court,a few scraps,a flash mob,a general view,a girl of,a in southern,a la a,a las el,a magazine of,a man who,a new email,
+i: 68
+trigrams: a big reason,a campaign plane,a casting call,a girl of,a huge sinkhole,a joint new,a journalist was,a new poll,a sobering new,a who repeatedly,a woman who,according to more,according to the,accused of covering,accuses diplomats of,
+i: 7
+trigrams: a big reason,a brilliant guide,a girl of,a goon destroyed,a grim new,a huge sinkhole,a las el,a leading us,a magazine of,a man checks,a new poll,a police officer,a pollster who,a reporting team,a sobering new,
+i: 8
+trigrams: a combat veteran,a federal court,a federal jury,a few seconds,a former chief,a girl of,a goon destroyed,a grim new,a huge sinkhole,a in southern,a journalist was,a la a,a las el,a link to,a magazine of,
+i: 73
+trigrams: a big reason,a general view,a group of,a in southern,a new poll,a new shocking,a pollster who,a report from,a school has,according to more,accuses campaign of,accuses diplomats of,activists are planning,add comment check,add comment studies,
+i: 74
+trigrams: a big reason,a email released,a federal court,a few seconds,a flash mob,a general view,a girl of,a huge sinkhole,a indictment is,a joint new,a journalist was,a las el,a leading us,a leading us,a magazine of,
+i: 11
+trigrams: a few seconds,a general view,a girl of,a la a,a las el,a leading us,a music shop,a new poll,a police officer,a prominent native,a spokesman for,a teacher is,according to more,according to new,accuses campaign of,
+i: 76
+trigrams: a big reason,a federal court,a girl of,a goon destroyed,a in southern,a journalist was,a la a,a las el,a leading us,a magazine of,a military commander,a new poll,a new shocking,a playboy model,a police officer,
+i: 14
+trigrams: a girl of,a goon destroyed,a in southern,a joint new,a la a,a las el,a leading us,a new email,a new poll,a new shocking,a police officer,a pollster who,according to more,accused of covering,accuses campaign of,
+i: 81
+trigrams: a big reason,a brilliant guide,a federal court,a general view,a girl of,a in southern,a journalist was,a las el,a magazine of,a massive global,a military commander,a national sport,a new poll,a pollster who,a satanic temple,
+i: 84
+trigrams: a big reason,a brilliant guide,a combat veteran,a couple of,a email released,a federal court,a few seconds,a general view,a girl of,a goon destroyed,a joint new,a journalist was,a las el,a magazine of,a man who,
+i: 22
+trigrams: a big reason,a brilliant guide,a federal court,a few seconds,a flash mob,a general view,a goon destroyed,a huge sinkhole,a journalist was,a journalist who,a las el,a military commander,a new poll,a new shocking,a police officer,
+i: 89
+trigrams: a big reason,a girl of,a man who,a new peace,a new poll,a new shocking,a police officer,a pollster who,according to the,accused of covering,accuses diplomats of,activist post so,actor portraying in,add comment check,ads privacy policy,
+i: 25
+trigrams: a big reason,a campaign plane,a email released,a federal court,a federal jury,a few days,a few seconds,a former miss,a general view,a girl of,a goon destroyed,a in southern,a indictment is,a la a,a las el,
+i: 33
+trigrams: a big reason,a campaign plane,a casting call,a email released,a federal court,a few seconds,a general view,a girl of,a huge sinkhole,a las el,a link to,a man who,a military commander,a new poll,a new shocking,
+i: 34
+trigrams: a big reason,a few seconds,a girl of,a huge sinkhole,a indictment is,a joint new,a las el,a new poll,a new shocking,a pollster who,a sobering new,a storm is,according to conservative,according to the,accuses campaign of,
+i: 99
+trigrams: a campaign plane,a casting call,a combat veteran,a email released,a federal court,a few seconds,a general view,a huge sinkhole,a in southern,a indictment is,a la a,a las el,a leading us,a link to,a magazine of,
+i: 4
+trigrams: a la a,a las el,a leading us,a music shop,a new poll,a pollster who,according to more,add comment check,add comment the,ads previous post,affiliate in has,ago remember a,all except we,already told the,alternative media poll,
+i: 40
+trigrams: a big reason,a brilliant guide,a century almost,a combat veteran,a email released,a federal court,a few seconds,a general view,a goon destroyed,a grim new,a highly guarded,a huge sinkhole,a journalist was,a la a,a las el,
+i: 106
+trigrams: for this shows,the media reports,meeting with attorney,meeting with attorney,meeting with attorney,good start remains,sex trafficked in,any appeal to,any appeal to,exchange of data,here first four,how white supremacy,said he had,on for four,words have resonated,
+i: 45
+trigrams: a big reason,a campaign plane,a email released,a federal court,a few seconds,a former miss,a general view,a girl of,a goon destroyed,a highly guarded,a huge sinkhole,a in southern,a joint new,a journalist was,a la a,
+i: 49
+trigrams: a brave mother,a brilliant guide,a casting call,a former miss,a general view,a girl of,a journalist was,a las el,a leading us,a man checks,a military commander,a millennial computer,a new poll,a new shocking,a plane carrying,
+i: 50
+trigrams: a big reason,a former miss,a girl of,a journalist was,a las el,a lot of,a music shop,a new poll,a police officer,a pollster who,a prankster in,a stunning foreign,a trump supporter,a woman who,about taming the,
+i: 115
+trigrams: a big reason,a brilliant guide,a email released,a federal court,a few seconds,a general view,a girl of,a indictment is,a la a,a las el,a moment when,a new poll,a police officer,a school has,a woman who,
+i: 55
+trigrams: a big reason,a brilliant guide,a casting call,a combat veteran,a federal court,a few seconds,a general view,a girl of,a grim new,a in southern,a journalist was,a las el,a magazine of,a military commander,a new email,
+i: 20
+trigrams: a big reason,a email released,a federal court,a few seconds,a girl of,a huge sinkhole,a journalist was,a journalist who,a la a,a las el,a link to,a magnitude earthquake,a new poll,a plane carrying,a police officer,
+i: 58
+trigrams: a big reason,a brilliant guide,a delegation of,a dispatch from,a email released,a federal court,a general view,a girl of,a in southern,a indictment is,a la a,a las el,a leading us,a link to,a magazine of,
+i: 125
+trigrams: a big reason,a brave mother,a brilliant guide,a federal court,a girl of,a journalist was,a la a,a las el,a leading us,a leading us,a man with,a military commander,a moment when,a music shop,a new email,
+i: 126
+trigrams: a big reason,a few seconds,a general view,a girl of,a journalist was,a la a,a las el,a leading us,a man who,a new poll,a storm is,according to more,according to the,accuses diplomats of,add comment check,
+i: 127
+trigrams: a campaign plane,a casting call,a delegation of,a federal court,a federal jury,a former miss,a general view,a girl of,a huge sinkhole,a las el,a leading us,a military commander,a new email,a new poll,a new shocking,
