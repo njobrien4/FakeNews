@@ -65,7 +65,8 @@ tf.flags.DEFINE_boolean("log_device_placement", False, "Log placement of ops on 
 
 
 FLAGS = tf.flags.FLAGS
-FLAGS._parse_flags()
+import sys
+FLAGS(sys.argv)
 print("\nParameters:")
 for attr, value in sorted(FLAGS.__flags.items()):
     print("{}={}".format(attr.upper(), value))
@@ -73,6 +74,14 @@ print("")
 
 datasets = None
 
+import re
+def clean(text):
+    text = re.sub(r'\([^)]*\)', '', text)
+    text = ' '.join([s for s in text.split() if not any([c.isdigit() for c in s])])
+    text = ' '.join([s for s in text.split() if not any([not c.isalpha() for c in s])])
+    return text
+
+#x_raw = [" ".join(clean(x).split(" ")[:1000]) for x in x_raw]
 # CHANGE THIS: Load data. Load your own data here
 dataset_name = cfg["datasets"]["default"]
 if FLAGS.eval_train:
@@ -146,7 +155,7 @@ with graph.as_default():
         n=5
         all_top_n_neurons=[]
         ind=0
-        for x_test_batch in batches:
+        for i,x_test_batch in enumerate(batches):
             batch_predictions_scores = sess.run([predictions, scores,conv_mp3,before_predictions,b,pool_mp3,h_drop,conv_lensequence,relu_mp3, embedding_W], {input_x: x_test_batch, dropout_keep_prob: 1.0})
            # all_vars=tf.trainable_variables()0]],message="this is conv outputs")
             predictions_result = batch_predictions_scores[0]
@@ -184,7 +193,7 @@ with graph.as_default():
            # print(sums[0][:20],sums[1][:20])
            # print(conv_mp3, "is convmp3")
             
-            best_trigrams, top_n_neurons = interpret.interpret_many(x_raw,relu_result, pool_post_relu, batch_wi_ai, best_trigrams, n=n)
+            best_trigrams, top_n_neurons = interpret.interpret_many(x_raw[i*batch_size:i*batch_size+batch_size+1],relu_result, pool_post_relu, batch_wi_ai, best_trigrams, n=n)
            # print (len(best_trigrams[1]), "is len best_trigrams[1]")
             all_top_n_neurons+=top_n_neurons
             if all_probabilities is not None:
@@ -255,6 +264,7 @@ def first_element_from_tuples(tuple_list):
 
 best_n_trigrams = interpret.get_best_n_for_each_neuron(best_trigrams,15)
 
+import pickle
 with open("best_trigrams_pickle.txt", 'wb') as f2:
     pickle.dump(best_trigrams, f2)
 

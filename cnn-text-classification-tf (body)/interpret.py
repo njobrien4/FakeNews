@@ -23,6 +23,10 @@ def interpret_many(x_raw, relu, pool, all_wi_ai, best_trigrams = {}, n=5):
 def find_relu_index(relu, pooled_val, i):
 	#each thing in relu should be 128 length
 	#index represents the index (out of max seq len) that resulted in the pooled val
+	try:
+		print(len(relu), "is len")
+	except:
+		print(relu.shape, "is shape")
 	for ind, arr in enumerate(relu):
 		if arr[i]==pooled_val:
 			return ind
@@ -32,7 +36,7 @@ def find_relu_index(relu, pooled_val, i):
 
 def interpret(word_list, relu, pool, best_trigrams={}):
 	#print(relu.shape, "is relu in interpret")
-	#print(relu.squeeze().shape, "is relu squeeze")
+	print(relu.squeeze().shape, "is relu squeeze")
 	relu = relu.squeeze()
 	for i, pooled_val in enumerate(pool):
 		relu_index = find_relu_index(relu, pooled_val, i)
@@ -56,24 +60,26 @@ def make_weight_histogram(weights):
 	plt.subplot(211)
 	plt.title("Weights for Fake News Indicator")
 	plt.hist(weights[:,0], bins = 20, range = [-0.3,0.3])
+	print("Fake std: ", np.std(weights[:,0]), " Fake mean: ", np.mean(weights[:,0]))
 
 	plt.subplot(212)
 	plt.title("Weights for Real News Indicator")
 	plt.hist(weights[:,1], bins=20, range = [-0.3,0.3])
+	print("Real std: ", np.std(weights[:,1]), " Real mean: ", np.mean(weights[:,1]))
 	plt.show()
 
 def get_most_relevant_neurons(all_wi_ai=None, ind = None, abs = False):
 	pass
 	if ind is None:
 		fake_news = np.mean(all_wi_ai[:,0,:], axis = 0)
-		real_news = np.mean(all_wi_ai[:,1,:], axis = 1)
+		real_news = np.mean(all_wi_ai[:,1,:], axis = 0)
 
 
 def make_wi_ai_histogram(all_wi_ai, ind = None):
 	if ind is None:
 		#plot the average
 		fake_news = np.mean(all_wi_ai[:,0,:], axis = 0)
-		real_news = np.mean(all_wi_ai[:,1,:], axis = 1)
+		real_news = np.mean(all_wi_ai[:,1,:], axis = 0)
 	else:
 		wi_ai = all_wi_ai[ind]
 		#plot x_raw[ind] weights*activation for fake news indicator
@@ -174,22 +180,66 @@ def get_n_best_neurons(weights, n,abs_value = False):
 	return list_0, list_1, list_0_neg, list_1_neg
 
 
-def get_info(ind, all_wi_ai, all_top_neurons, best_trigrams):
-	cur_dir = "trump_clean_info/"
+def get_info2(ind, all_wi_ai, all_top_neurons, best_trigrams):
+	wi_ais = all_wi_ai[ind]
+		#plot x_raw[ind] weights*activation for fake news indicator
+	fake_news=wi_ais[0]
+		#plot x_raw[ind] weights*activation for real news indicator
+	real_news=wi_ais[1]
+
+	most_fake_indices=fake_news.argsort()[-10:][::-1]
+	least_fake_indices=fake_news.argsort()[:10]
+	most_real_indices = real_news.argsort()[-10:][::-1]
+	least_real_indices = real_news.argsort()[:10]
+	most_fake_trigrams=[]
+	for neuron in most_fake_indices:
+		trigram = ' '.join(best_trigrams[neuron][ind][1][0])
+		#string = trigram+', *neuron: '+str(neuron)+' '+str(fake_news[neuron])
+		most_fake_trigrams.append(trigram)
+
+
+	#print(most_fake_trigrams)
+
+	most_real_trigrams=[]
+	for neuron in most_real_indices:
+		trigram = ' '.join(best_trigrams[neuron][ind][1][0])
+		#most_real_trigrams.append(trigram+', *neuron: '+str(neuron)+' '+str(real_news[neuron]))
+		most_real_trigrams.append(trigram)
+
+	#print(most_real_trigrams)
+
+	least_fake_trigrams=[]
+	for neuron in least_fake_indices:
+		trigram = ' '.join(best_trigrams[neuron][ind][1][0])
+		#least_fake_trigrams.append(trigram+', *neuron: '+str(neuron)+' '+str(fake_news[neuron]))
+		least_fake_trigrams.append(trigram)
+
+	#print(least_fake_trigrams)
+
+	least_real_trigrams=[]
+	for neuron in least_real_indices:
+		trigram = ' '.join(best_trigrams[neuron][ind][1][0])
+		#least_real_trigrams.append(trigram+', *neuron: '+str(neuron)+' '+str(real_news[neuron]))
+		least_real_trigrams.append(trigram)
+	#print(least_real_trigrams)
+	return most_fake_trigrams, most_real_trigrams, least_fake_trigrams, least_real_trigrams
+
+
+def get_info(ind, all_wi_ai, all_top_neurons, best_trigrams, cur_dir="log/"):
 	import pickle
 	with open(cur_dir+all_top_neurons, 'rb') as f:
 		all_top_neurons = pickle.load(f) #all top neurons has most relevant neurons for each x_raw
-	print(all_top_neurons[ind], "is all top neurons[ind]")
+	#print(all_top_neurons[ind], "is all top neurons[ind]")
 	with open(cur_dir+best_trigrams, 'rb') as f2:
 		best_trigrams =pickle.load(f2)
 	all_triples = []
-	for li in all_top_neurons[ind][0]:
-		triple_li = []
-		for tup in li:
-			neuron = tup[0]
-			trigram = ' '.join(best_trigrams[neuron][ind][1][0])
-			triple_li.append((neuron, trigram, tup[1]))
-		all_triples.append(triple_li)
+	# for li in all_top_neurons[ind][0]:
+	# 	triple_li = []
+	# 	for tup in li:
+	# 		neuron = tup[0]
+	# 		trigram = ' '.join(best_trigrams[neuron][ind][1][0])
+	# 		triple_li.append((neuron, trigram, tup[1]))
+	# 	all_triples.append(triple_li)
 	#print(all_triples, "is all top neurons[ind]")
 	all_wi_ai=np.load(cur_dir+all_wi_ai)
 	wi_ais = all_wi_ai[ind]
@@ -205,40 +255,41 @@ def get_info(ind, all_wi_ai, all_top_neurons, best_trigrams):
 	most_fake_trigrams=[]
 	for neuron in most_fake_indices:
 		trigram = ' '.join(best_trigrams[neuron][ind][1][0])
-		string = trigram+', *neuron: '+str(neuron)+' '+str(fake_news[neuron])
-		most_fake_trigrams.append(string)
+		#string = trigram+', *neuron: '+str(neuron)+' '+str(fake_news[neuron])
+		most_fake_trigrams.append(trigram)
 
 
-	print(most_fake_trigrams)
+	#print(most_fake_trigrams)
 
 	most_real_trigrams=[]
 	for neuron in most_real_indices:
 		trigram = ' '.join(best_trigrams[neuron][ind][1][0])
-		most_real_trigrams.append(trigram+', *neuron: '+str(neuron)+' '+str(real_news[neuron]))
+		#most_real_trigrams.append(trigram+', *neuron: '+str(neuron)+' '+str(real_news[neuron]))
+		most_real_trigrams.append(trigram)
 
-
-	print(most_real_trigrams)
+	#print(most_real_trigrams)
 
 	least_fake_trigrams=[]
 	for neuron in least_fake_indices:
 		trigram = ' '.join(best_trigrams[neuron][ind][1][0])
-		least_fake_trigrams.append(trigram+', *neuron: '+str(neuron)+' '+str(fake_news[neuron]))
+		#least_fake_trigrams.append(trigram+', *neuron: '+str(neuron)+' '+str(fake_news[neuron]))
+		least_fake_trigrams.append(trigram)
 
-
-	print(least_fake_trigrams)
+	#print(least_fake_trigrams)
 
 	least_real_trigrams=[]
 	for neuron in least_real_indices:
 		trigram = ' '.join(best_trigrams[neuron][ind][1][0])
-		least_real_trigrams.append(trigram+', *neuron: '+str(neuron)+' '+str(real_news[neuron]))
-
-	print(least_real_trigrams)
-	make_wi_ai_histogram(all_wi_ai, ind)
+		#least_real_trigrams.append(trigram+', *neuron: '+str(neuron)+' '+str(real_news[neuron]))
+		least_real_trigrams.append(trigram)
+	#print(least_real_trigrams)
+	return most_fake_trigrams, most_real_trigrams, least_fake_trigrams, least_real_trigrams
+#	make_wi_ai_histogram(all_wi_ai, ind)
 	
 
-def make_top_5_histogram():
+def make_top_5_histogram(cur_dir = "log/"):
 	import pickle
-	cur_dir = "log/"
+	#cur_dir = "log/"
 	all_top_neurons="all_top_n_neurons.txt"
 	with open(cur_dir+all_top_neurons, 'rb') as f:
 		all_top_neurons = pickle.load(f)

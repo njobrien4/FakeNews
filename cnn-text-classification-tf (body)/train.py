@@ -59,14 +59,8 @@ else:
 
 # Load and clean data
 print("Loading data...")
-import regex as re
-def clean(text):
-    text = re.sub(r'\([^)]*\)', '', text)
-    text = ' '.join(s for s in text.split() if not any(c.isdigit() for c in s))
-    return text
 
-x_text, y = data_helpers.load_data_and_labels(FLAGS.positive_data_file, FLAGS.negative_data_file)# Build vocabulary
-x_text=[" ".join(clean(x).split(" ")[:1000]) for x in x_text]
+
 
 max_document_length = max([len(x.split(" ")) for x in x_text])
 print(max_document_length, "is mdl")
